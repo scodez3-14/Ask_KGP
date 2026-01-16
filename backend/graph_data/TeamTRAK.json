@@ -1,0 +1,302 @@
+[
+  {
+    "subject": "TeamTRAK",
+    "predicate": "is a pioneering group",
+    "object": "enthusiastic students"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "is from",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "is united by",
+    "object": "passion for railway engineering"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "is established under",
+    "object": "Centre for Railway Research"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "aims to innovate",
+    "object": "modernization of Indian Railways"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "aims to contribute to",
+    "object": "modernization of Indian Railways"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "is dedicated to",
+    "object": "development of highly efficient, low-cost, and sustainable railways"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "uses",
+    "object": "innovative solutions"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "represents",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "represents IIT Kharagpur in",
+    "object": "IMechE Railway Challenge"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "founded by",
+    "object": "six co-founders from various disciplines"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "founded in",
+    "object": "December 2023"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "guided by",
+    "object": "Prof. Vikranth Racherla"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "is",
+    "object": "India's first student railway research group"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "represents",
+    "object": "a significant step towards enhancing railway research and innovation at the academic level"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "aligns its activities to participate in",
+    "object": "the IMechE Railway Challenge in the United Kingdom"
+  },
+  {
+    "subject": "the IMechE Railway Challenge",
+    "predicate": "is",
+    "object": "a competition that tests the skills and innovations of students in railway engineering"
+  },
+  {
+    "subject": "IMechE Railway Challenge",
+    "predicate": "is organized by",
+    "object": "Institution of Mechanical Engineers"
+  },
+  {
+    "subject": "IMechE Railway Challenge",
+    "predicate": "is held at",
+    "object": "Stapleford Miniature Railway"
+  },
+  {
+    "subject": "Stapleford Miniature Railway",
+    "predicate": "is located in",
+    "object": "UK"
+  },
+  {
+    "subject": "IMechE Railway Challenge",
+    "predicate": "invites",
+    "object": "teams from universities and industries worldwide"
+  },
+  {
+    "subject": "teams",
+    "predicate": "design and manufacture",
+    "object": "miniature (10\u00bc\" gauge) railway locomotive"
+  },
+  {
+    "subject": "IMechE Railway Challenge",
+    "predicate": "emphasizes",
+    "object": "practical skills in design, manufacturing, and project management"
+  },
+  {
+    "subject": "IMechE Railway Challenge",
+    "predicate": "offers",
+    "object": "comprehensive engineering experience"
+  },
+  {
+    "subject": "Challenge cycle",
+    "predicate": "kicks-off in",
+    "object": "October"
+  },
+  {
+    "subject": "Challenge cycle",
+    "predicate": "ends with",
+    "object": "final event"
+  },
+  {
+    "subject": "final event",
+    "predicate": "occurs in",
+    "object": "late June/early July"
+  },
+  {
+    "subject": "Objective",
+    "predicate": "is to",
+    "object": "Design and build a locomotive"
+  },
+  {
+    "subject": "locomotive",
+    "predicate": "has",
+    "object": "self-contained motive power"
+  },
+  {
+    "subject": "locomotive",
+    "predicate": "must be capable of",
+    "object": "continuous travel at 15 km/h"
+  },
+  {
+    "subject": "locomotive",
+    "predicate": "must satisfy",
+    "object": "given requirements"
+  },
+  {
+    "subject": "Aryavart L1",
+    "predicate": "is",
+    "object": "India's first student-designed miniature locomotive"
+  },
+  {
+    "subject": "Aryavart L1",
+    "predicate": "adheres to",
+    "object": "IMechE Railway Challenge specifications"
+  },
+  {
+    "subject": "Aryavart L1",
+    "predicate": "has gauge",
+    "object": "10\u00bc inch"
+  },
+  {
+    "subject": "Aryavart L1",
+    "predicate": "has power system",
+    "object": "All-electric battery-powered tractive system"
+  },
+  {
+    "subject": "Aryavart L1",
+    "predicate": "has load capacity",
+    "object": "Up to 2 tonnes"
+  },
+  {
+    "subject": "Aryavart L1",
+    "predicate": "has regenerative braking efficiency",
+    "object": "Upwards of 80%"
+  },
+  {
+    "subject": "Aryavart L1",
+    "predicate": "has suspension",
+    "object": "State-of-the-art primary and secondary systems"
+  },
+  {
+    "subject": "Aryavart L1",
+    "predicate": "has body",
+    "object": "Aerodynamically optimized with potential use of carbon fibre or fibre glass"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "is committed to",
+    "object": "continuous innovation"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "has outlined",
+    "object": "future projects"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "will explore",
+    "object": "hydrogen-based powertrains"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "will explore",
+    "object": "overhead solar energy harvesting"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "will explore",
+    "object": "integration of magnetic levitation technology"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "will explore",
+    "object": "lightweight materials using alloys and composites"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "will explore",
+    "object": "advanced suspension systems"
+  },
+  {
+    "subject": "TeamTRAK",
+    "predicate": "will develop",
+    "object": "high efficiency converters"
+  },
+  {
+    "subject": "Team",
+    "predicate": "consists of",
+    "object": "about 20 enthusiastic undergraduate students"
+  },
+  {
+    "subject": "Students",
+    "predicate": "dedicate",
+    "object": "over 35,000 man-hours annually"
+  },
+  {
+    "subject": "Students",
+    "predicate": "work under supervision of",
+    "object": "faculty advisor Prof. Vikrant Rarchela"
+  },
+  {
+    "subject": "Prof. Vikrant Rarchela",
+    "predicate": "is",
+    "object": "Professor, Department of Mechanical Engineering"
+  },
+  {
+    "subject": "Prof. Vikrant Rarchela",
+    "predicate": "is",
+    "object": "Prof-in-Charge, Centre for Railway Research (CRR)"
+  },
+  {
+    "subject": "Students",
+    "predicate": "gain experience in",
+    "object": "railway engineering"
+  },
+  {
+    "subject": "Railway engineering",
+    "predicate": "includes",
+    "object": "design"
+  },
+  {
+    "subject": "Railway engineering",
+    "predicate": "includes",
+    "object": "manufacturing"
+  },
+  {
+    "subject": "Railway engineering",
+    "predicate": "includes",
+    "object": "project management"
+  },
+  {
+    "subject": "The team",
+    "predicate": "is organized into",
+    "object": "Electrical"
+  },
+  {
+    "subject": "The team",
+    "predicate": "is organized into",
+    "object": "Mechanical"
+  },
+  {
+    "subject": "The team",
+    "predicate": "is organized into",
+    "object": "Media"
+  },
+  {
+    "subject": "The team",
+    "predicate": "is organized into",
+    "object": "Corporate & Public Relations (CPR)"
+  }
+]

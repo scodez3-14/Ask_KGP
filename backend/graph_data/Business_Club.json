@@ -1,0 +1,1552 @@
+[
+  {
+    "subject": "Business Club",
+    "predicate": "founded",
+    "object": "2009"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has founder",
+    "object": "Shailesh Gupta"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has founder",
+    "object": "Harsh Gupta"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has founder",
+    "object": "Sudipto Sannigrahi"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has founder",
+    "object": "Srichandana Sanjeev"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has founder",
+    "object": "Mayank Mundra"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has website",
+    "object": "bclub.co.in"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has contact",
+    "object": "+91 89079 40000 (Bharat Uday)"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has contact",
+    "object": "+91 91223 72154 (Madiha Hanifa)"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "under TSG",
+    "object": "Yes"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "is popularly known as",
+    "object": "BClub"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "is society for",
+    "object": "all things business"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "belongs to",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "provides platform for",
+    "object": "like-minded individuals"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "enriches knowledge of",
+    "object": "business"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "facilitates application of skills in",
+    "object": "competitions"
+  },
+  {
+    "subject": "competitions",
+    "predicate": "include",
+    "object": "case studies"
+  },
+  {
+    "subject": "competitions",
+    "predicate": "include",
+    "object": "hackathons"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has members",
+    "object": "around 70 students"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "operates under",
+    "object": "3 wings"
+  },
+  {
+    "subject": "wings",
+    "predicate": "include",
+    "object": "Strategy"
+  },
+  {
+    "subject": "wings",
+    "predicate": "include",
+    "object": "Finance"
+  },
+  {
+    "subject": "wings",
+    "predicate": "include",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "strives to bridge gap between",
+    "object": "business"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "strives to bridge gap between",
+    "object": "technology"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "founded",
+    "object": "2009"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "original_name",
+    "object": "Genese-de-Strategie"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "founded_by",
+    "object": "Shailesh Gupta"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "founded_by",
+    "object": "Harsh Gupta"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "founded_by",
+    "object": "Srichandana Sanjeev"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "founded_by",
+    "object": "Sudipto Sannigrahi"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "founded_by",
+    "object": "Mayank Mundra"
+  },
+  {
+    "subject": "Genese-de-Strategie",
+    "predicate": "objective",
+    "object": "educate students about business strategies"
+  },
+  {
+    "subject": "Genese-de-Strategie",
+    "predicate": "evolved_into",
+    "object": "Business Club"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "formed",
+    "object": "2010"
+  },
+  {
+    "subject": "Indian Case Challenge",
+    "predicate": "is the flagship event of",
+    "object": "Business Club"
+  },
+  {
+    "subject": "Indian Case Challenge",
+    "predicate": "witnesses participation from",
+    "object": "international participants"
+  },
+  {
+    "subject": "Technology Students' Gymkhana",
+    "predicate": "affiliated with",
+    "object": "Business Club"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "received recognition from",
+    "object": "Technology Students' Gymkhana"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "conducts",
+    "object": "Open House Sessions"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "uploads content on",
+    "object": "social media platforms"
+  },
+  {
+    "subject": "Selections",
+    "predicate": "occur_at",
+    "object": "beginning of the first academic year"
+  },
+  {
+    "subject": "Selections",
+    "predicate": "occur_at",
+    "object": "beginning of the second academic year"
+  },
+  {
+    "subject": "Selections",
+    "predicate": "are_held",
+    "object": "Business Club"
+  },
+  {
+    "subject": "The selection procedure",
+    "predicate": "consists of",
+    "object": "a group-discussion round followed by a personal interview"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are judged based on",
+    "object": "their ability to think clearly"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are judged based on",
+    "object": "their ability to present thoughts in a concise and structured manner"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are judged based on",
+    "object": "their dedication"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are judged based on",
+    "object": "their zeal to learn"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are not judged based on",
+    "object": "their business acumen"
+  },
+  {
+    "subject": "summer program",
+    "predicate": "is conducted for",
+    "object": "students selected in the second academic year"
+  },
+  {
+    "subject": "summer program",
+    "predicate": "levels knowledge of",
+    "object": "students selected in the second academic year"
+  },
+  {
+    "subject": "students selected in the second academic year",
+    "predicate": "are leveled to knowledge of",
+    "object": "students selected in the first year"
+  },
+  {
+    "subject": "students",
+    "predicate": "are provided with",
+    "object": "same resources"
+  },
+  {
+    "subject": "summer program",
+    "predicate": "is followed by",
+    "object": "evaluation of associates"
+  },
+  {
+    "subject": "associates",
+    "predicate": "are evaluated on",
+    "object": "same knowledge level"
+  },
+  {
+    "subject": "evaluation",
+    "predicate": "includes",
+    "object": "final personal interview"
+  },
+  {
+    "subject": "final personal interview",
+    "predicate": "is conducted to select",
+    "object": "students with the highest knowledge in the three domains"
+  },
+  {
+    "subject": "selection process",
+    "predicate": "considers",
+    "object": "soft skills like communication"
+  },
+  {
+    "subject": "selected students",
+    "predicate": "are assigned",
+    "object": "position of sub-heads"
+  },
+  {
+    "subject": "Business Club",
+    "predicate": "has",
+    "object": "four-level organisational structure"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "consist of",
+    "object": "fourth and fifth-year members"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "are",
+    "object": "senior-most members"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "help in guiding",
+    "object": "overall direction of the club"
+  },
+  {
+    "subject": "Executive body",
+    "predicate": "comprises of",
+    "object": "Governors and Heads"
+  },
+  {
+    "subject": "Governors and Heads",
+    "predicate": "are in",
+    "object": "third year of their study"
+  },
+  {
+    "subject": "Executive body",
+    "predicate": "are responsible for heading",
+    "object": "various wings of the club"
+  },
+  {
+    "subject": "Executive body",
+    "predicate": "are responsible for heading",
+    "object": "management of the club"
+  },
+  {
+    "subject": "Team of Sub-heads",
+    "predicate": "is responsible for",
+    "object": "day-to-day functioning of the club"
+  },
+  {
+    "subject": "Team of Sub-heads",
+    "predicate": "is responsible for",
+    "object": "execution of plans"
+  },
+  {
+    "subject": "Team of Sub-heads",
+    "predicate": "consists of",
+    "object": "students in the second year of their studies"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "are",
+    "object": "first years"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "have",
+    "object": "passion to win"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "are generally",
+    "object": "business-oriented"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "are oriented towards gaining",
+    "object": "as much knowledge as they can"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "gain knowledge from",
+    "object": "pool of knowledge available to the seniors"
+  },
+  {
+    "subject": "Functional structure of the Business Club",
+    "predicate": "consists of",
+    "object": "three wings"
+  },
+  {
+    "subject": "Three wings",
+    "predicate": "are",
+    "object": "finance, analytics, and strategy"
+  },
+  {
+    "subject": "Wings",
+    "predicate": "include",
+    "object": "all that happens within the world of business"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "are encouraged to participate in",
+    "object": "Intra-Club activities"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "prepare for",
+    "object": "sub-head tenure"
+  },
+  {
+    "subject": "Intra-club case study Competition",
+    "predicate": "divides",
+    "object": "associate batch into small groups"
+  },
+  {
+    "subject": "sub-head",
+    "predicate": "mentors",
+    "object": "associate batch"
+  },
+  {
+    "subject": "executive batch",
+    "predicate": "judges",
+    "object": "teams"
+  },
+  {
+    "subject": "Knowledge meets",
+    "predicate": "enable",
+    "object": "knowledge dissipation"
+  },
+  {
+    "subject": "Club members",
+    "predicate": "conduct",
+    "object": "Knowledge meets"
+  },
+  {
+    "subject": "resourceful seniors and mentor professors",
+    "predicate": "clarify doubts for",
+    "object": "members"
+  },
+  {
+    "subject": "Whitepaper event",
+    "predicate": "allows",
+    "object": "Associates to research and present papers"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "present papers to",
+    "object": "executive and sub-head Batch"
+  },
+  {
+    "subject": "Club members",
+    "predicate": "design",
+    "object": "modules and blogs"
+  },
+  {
+    "subject": "Summer program",
+    "predicate": "selects",
+    "object": "first-years as Summer Associates"
+  },
+  {
+    "subject": "Case study competition",
+    "predicate": "requires",
+    "object": "associates to solve problem statements independently"
+  },
+  {
+    "subject": "Analytics competition",
+    "predicate": "concentrates on",
+    "object": "core of machine learning"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "write algorithms in",
+    "object": "Analytics competition"
+  },
+  {
+    "subject": "Trading Competition",
+    "predicate": "lasts for",
+    "object": "10 days"
+  },
+  {
+    "subject": "Associates and Summer Associates",
+    "predicate": "carry out",
+    "object": "intraday trading"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "are selected to be part of",
+    "object": "sub-head batch"
+  },
+  {
+    "subject": "The Club",
+    "predicate": "conducts",
+    "object": "activities such as open house sessions and case studies"
+  },
+  {
+    "subject": "Indian Case Challenge",
+    "predicate": "provides platform for",
+    "object": "undergraduate and graduate students"
+  },
+  {
+    "subject": "participants",
+    "predicate": "compete in",
+    "object": "Indian Case Challenge"
+  },
+  {
+    "subject": "ICC 2021",
+    "predicate": "was organized in association with",
+    "object": "Kshitij"
+  },
+  {
+    "subject": "Open house sessions",
+    "predicate": "are conducted by",
+    "object": "Business Club"
+  },
+  {
+    "subject": "Open house sessions",
+    "predicate": "are conducted in conjunction with",
+    "object": "Alphabeta, ZS Associates, and IIMC Consulting Club"
+  },
+  {
+    "subject": "Webinars",
+    "predicate": "are conducted by",
+    "object": "the club"
+  },
+  {
+    "subject": "Webinars",
+    "predicate": "are presided by",
+    "object": "renowned speakers"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "are",
+    "object": "Sarthak Badjatiya, Shramajit Gupta, Virendra Singh"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "include",
+    "object": "Pranay Yadav, Pratyush Devliyal, Umang Mavani, Ravikiran Shinde"
+  },
+  {
+    "subject": "Pranay Yadav",
+    "predicate": "heads",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Pratyush Devliyal",
+    "predicate": "heads",
+    "object": "Consultancy"
+  },
+  {
+    "subject": "Umang Mavani",
+    "predicate": "heads",
+    "object": "Finance"
+  },
+  {
+    "subject": "Ravikiran Shinde",
+    "predicate": "heads",
+    "object": "Technical"
+  },
+  {
+    "subject": "Ashutosh Dwivedi",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Nishant Jayaswal",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Shiladitya Saha",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Raunak Chitlangia",
+    "predicate": "heads",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Shubhrit Agrawal",
+    "predicate": "heads",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Manik Aggarwal",
+    "predicate": "heads",
+    "object": "Consultancy"
+  },
+  {
+    "subject": "Dhruva Ratanpura",
+    "predicate": "heads",
+    "object": "Finance"
+  },
+  {
+    "subject": "Murtaza Phalasiya",
+    "predicate": "heads",
+    "object": "Technical"
+  },
+  {
+    "subject": "Rajat Bhavnani",
+    "predicate": "heads",
+    "object": "Technical"
+  },
+  {
+    "subject": "Rihen Chheda",
+    "predicate": "heads",
+    "object": "Logistics"
+  },
+  {
+    "subject": "Ritwik Bajaj",
+    "predicate": "heads",
+    "object": "Logistics"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "are",
+    "object": "Priya Mehta, Kumar Sparsh, Udit Sarin"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "has department",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "has department",
+    "object": "Finance"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "has department",
+    "object": "Consultancy"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "has department",
+    "object": "Technical"
+  },
+  {
+    "subject": "Analytics",
+    "predicate": "is headed by",
+    "object": "Charu Agarwal"
+  },
+  {
+    "subject": "Analytics",
+    "predicate": "is headed by",
+    "object": "Shwetha Krishnamurthy"
+  },
+  {
+    "subject": "Finance",
+    "predicate": "is headed by",
+    "object": "Debjyoti Chakrabarti"
+  },
+  {
+    "subject": "Consultancy",
+    "predicate": "is headed by",
+    "object": "Medha Asija"
+  },
+  {
+    "subject": "Technical",
+    "predicate": "is headed by",
+    "object": "Shubham Singhal"
+  },
+  {
+    "subject": "Technical",
+    "predicate": "is headed by",
+    "object": "Vaibhav Chauhan"
+  },
+  {
+    "subject": "Harsh Agarwal",
+    "predicate": "role",
+    "object": "Governor"
+  },
+  {
+    "subject": "Hitendra Pratap",
+    "predicate": "role",
+    "object": "Governor"
+  },
+  {
+    "subject": "Shubhra Agrawal",
+    "predicate": "role",
+    "object": "Governor"
+  },
+  {
+    "subject": "Ankit Agarwal",
+    "predicate": "head_of",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Subham Rajgaria",
+    "predicate": "head_of",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Ankit Agarwal",
+    "predicate": "head_of",
+    "object": "Finance"
+  },
+  {
+    "subject": "Rajat Ragha",
+    "predicate": "head_of",
+    "object": "Finance"
+  },
+  {
+    "subject": "Shubham Sharma",
+    "predicate": "head_of",
+    "object": "Finance"
+  },
+  {
+    "subject": "Shubham Maheshwari",
+    "predicate": "head_of",
+    "object": "Strategy"
+  },
+  {
+    "subject": "Rahul Raj",
+    "predicate": "head_of",
+    "object": "Blogs and Articles"
+  },
+  {
+    "subject": "Anjali Bharti",
+    "predicate": "head_of",
+    "object": "Design"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "are",
+    "object": "Aman Sharma, Nikita Kishore"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "has_subunit",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "has_subunit",
+    "object": "Finance"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "has_subunit",
+    "object": "Strategy"
+  },
+  {
+    "subject": "Analytics",
+    "predicate": "head_is",
+    "object": "Yash Jain"
+  },
+  {
+    "subject": "Finance",
+    "predicate": "head_is",
+    "object": "Amandeep Singh, Puneet Pansari"
+  },
+  {
+    "subject": "Strategy",
+    "predicate": "head_is",
+    "object": "Amit Gunjan, Yogshree Choukse"
+  },
+  {
+    "subject": "Aditya Parashar",
+    "predicate": "is a Governor",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Deepankar Sachdeva",
+    "predicate": "is a Governor",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Amrit Goswami",
+    "predicate": "is a Head of Analytics",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Chinmay Singh",
+    "predicate": "is a Head of Analytics",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Karan Mahajan",
+    "predicate": "is a Head of Analytics",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Shreyansh Jain",
+    "predicate": "is a Head of Finance",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Vikrant Gupta",
+    "predicate": "is a Head of Finance",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Tushar Mohandas",
+    "predicate": "is a Head of Strategy",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Tushar Singla",
+    "predicate": "is a Head of Strategy",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Aditya Singhania",
+    "predicate": "is a Head of Technical",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Aryan Saxena",
+    "predicate": "is a Governor",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Lakshraj Doshi",
+    "predicate": "is a Governor",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Shashank Singh",
+    "predicate": "is a Governor",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Arusarka Bose",
+    "predicate": "is a Head of Analytics",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Naman Paharia",
+    "predicate": "is a Head of Analytics",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Abhinav Bohra",
+    "predicate": "is a Head of Analytics",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Sayantan Das",
+    "predicate": "is a Head of Finance",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Lakshiyata Chhajer",
+    "predicate": "is a Head of Finance",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Amur Khandelwal",
+    "predicate": "is a Head of Finance",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Shivam",
+    "predicate": "is a Head of Strategy",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Gaurav Joshi",
+    "predicate": "is a Head of Strategy",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Inakshi Kar",
+    "predicate": "is a Head of Strategy",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Arya Uttamchandani",
+    "predicate": "is a Governor",
+    "object": "Governors"
+  },
+  {
+    "subject": "Sankalp Bose",
+    "predicate": "is a Governor",
+    "object": "Governors"
+  },
+  {
+    "subject": "Karan Uppal",
+    "predicate": "is a Head of",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Dikshant Pratap Singh",
+    "predicate": "is a Head of",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Arnav Bhutda",
+    "predicate": "is a Head of",
+    "object": "Finance"
+  },
+  {
+    "subject": "Suhas Jain",
+    "predicate": "is a Head of",
+    "object": "Finance"
+  },
+  {
+    "subject": "Aditya Saha",
+    "predicate": "is a Head of",
+    "object": "Finance"
+  },
+  {
+    "subject": "Tejaswi Pagadala",
+    "predicate": "is a Head of",
+    "object": "Strategy"
+  },
+  {
+    "subject": "Kashish Lundia",
+    "predicate": "is a Head of",
+    "object": "Strategy"
+  },
+  {
+    "subject": "Piyush Dhamane",
+    "predicate": "is a Head of",
+    "object": "Web"
+  },
+  {
+    "subject": "Deepansh Agrawal",
+    "predicate": "is a Head of",
+    "object": "Branding and Public Relations"
+  },
+  {
+    "subject": "Madiha Hanifa",
+    "predicate": "is_governor_of",
+    "object": "Bharat Uday"
+  },
+  {
+    "subject": "Vaibhav Jalani",
+    "predicate": "heads",
+    "object": "Analytics"
+  },
+  {
+    "subject": "Siddharth Madupathi",
+    "predicate": "is_part_of",
+    "object": "Strategy"
+  },
+  {
+    "subject": "Pragya Choudhary",
+    "predicate": "is_part_of",
+    "object": "Strategy"
+  },
+  {
+    "subject": "Ram Sundaram",
+    "predicate": "is_part_of",
+    "object": "Finance"
+  },
+  {
+    "subject": "Patel Yuti",
+    "predicate": "is_part_of",
+    "object": "Finance"
+  },
+  {
+    "subject": "Sai Kalyan Meghavath",
+    "predicate": "is_part_of",
+    "object": "Web and Design"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "are",
+    "object": "Siddharth Dikshit"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "are",
+    "object": "Shreeya Mishra"
+  },
+  {
+    "subject": "Analytics",
+    "predicate": "head is",
+    "object": "Adyan Rizvi"
+  },
+  {
+    "subject": "Analytics",
+    "predicate": "head is",
+    "object": "Ishan Ray"
+  },
+  {
+    "subject": "Analytics",
+    "predicate": "head is",
+    "object": "Lokesh Tirthani"
+  },
+  {
+    "subject": "Finance",
+    "predicate": "head is",
+    "object": "Suryaansh Jindal"
+  },
+  {
+    "subject": "Finance",
+    "predicate": "head is",
+    "object": "Ojasvi R Singh"
+  },
+  {
+    "subject": "Strategy",
+    "predicate": "head is",
+    "object": "Atmajyoti Ghosh"
+  },
+  {
+    "subject": "Strategy",
+    "predicate": "head is",
+    "object": "Arya Vardhan Singh"
+  },
+  {
+    "subject": "Strategy",
+    "predicate": "head is",
+    "object": "Jash Mody"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "include",
+    "object": "Arnav Bansal"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "include",
+    "object": "Anshul Trehan"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "have leader",
+    "object": "Analytics: Arya Dighde"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "have leader",
+    "object": "Finance: Aman Samriya, Manya S. Chopra"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "have leader",
+    "object": "Strategy: Adrika Agarwal, Aarushi Mahajan"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "have leader",
+    "object": "Web: Abhiram Siddhanti"
+  },
+  {
+    "subject": "Tushar Singla",
+    "predicate": "won",
+    "object": "SmartIdeaThon"
+  },
+  {
+    "subject": "Tushar Singla",
+    "predicate": "won",
+    "object": "India Innovation Championship"
+  },
+  {
+    "subject": "Arusarka Bose",
+    "predicate": "won",
+    "object": "KIRIT: Case Study"
+  },
+  {
+    "subject": "Arusarka Bose",
+    "predicate": "was finalist in",
+    "object": "AbInbev Maverick Hackathon"
+  },
+  {
+    "subject": "Naman paharia",
+    "predicate": "was finalist in",
+    "object": "AbInbev Maverick Hackathon"
+  },
+  {
+    "subject": "Sankalp Bose",
+    "predicate": "was runner-up in",
+    "object": "Sale-Able, 2021"
+  },
+  {
+    "subject": "Naman Paharia",
+    "predicate": "won",
+    "object": "Hate speech detection"
+  },
+  {
+    "subject": "Pagadala Tejaswi",
+    "predicate": "was finalist in",
+    "object": "Finopoly"
+  },
+  {
+    "subject": "Aditya Saha",
+    "predicate": "was finalist in",
+    "object": "Finopoly"
+  },
+  {
+    "subject": "Arnav Bhutda",
+    "predicate": "was finalist in",
+    "object": "Finopoly"
+  },
+  {
+    "subject": "Aditya Parashar",
+    "predicate": "won",
+    "object": "Smart India Hackathon 2020"
+  },
+  {
+    "subject": "Amrit Goswami",
+    "predicate": "won",
+    "object": "Smart India Hackathon 2020"
+  },
+  {
+    "subject": "Karan Mahajan",
+    "predicate": "won",
+    "object": "Smart India Hackathon 2020"
+  },
+  {
+    "subject": "Tushar Singla",
+    "predicate": "was runner-up in",
+    "object": "Empresario"
+  },
+  {
+    "subject": "Tushar Singla",
+    "predicate": "won",
+    "object": "Young Innovators Challenge Awards"
+  },
+  {
+    "subject": "Tushar Singla",
+    "predicate": "won",
+    "object": "Local Startups Meet"
+  },
+  {
+    "subject": "Inakshi Kar",
+    "predicate": "achieved",
+    "object": "SGH Business Game"
+  },
+  {
+    "subject": "Sankalp Bose",
+    "predicate": "was runner-up in",
+    "object": "Case Electo 2020"
+  },
+  {
+    "subject": "Deepansh Agrawal",
+    "predicate": "was national finalist in",
+    "object": "Case Club League 2020"
+  },
+  {
+    "subject": "Sankalp Bose",
+    "predicate": "was national finalist in",
+    "object": "Case Club League 2020"
+  },
+  {
+    "subject": "Suhas Jain",
+    "predicate": "was national finalist in",
+    "object": "Case Club League 2020"
+  },
+  {
+    "subject": "Sankalp Bose",
+    "predicate": "was first runner-up in",
+    "object": "Green Canvas 2020"
+  },
+  {
+    "subject": "Aryansh Singh",
+    "predicate": "achieved",
+    "object": "Creative Shock"
+  },
+  {
+    "subject": "Karan Uppal",
+    "predicate": "achieved",
+    "object": "Creative Shock"
+  },
+  {
+    "subject": "Amrit Goswami",
+    "predicate": "was finalist in",
+    "object": "CoreNet Global Academic Challenge"
+  },
+  {
+    "subject": "Vikrant Gupta",
+    "predicate": "was finalist in",
+    "object": "CoreNet Global Academic Challenge"
+  },
+  {
+    "subject": "Aryan Saxena",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Shashank Singh",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Simran Rajagopalan",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Laksh Doshi",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Inakshi Kar",
+    "predicate": "was second in",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Abhinav Bohra",
+    "predicate": "was second in",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Gaurav Joshi",
+    "predicate": "was second in",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Nishant Jayaswal",
+    "predicate": "was first runner-up in",
+    "object": "Campus Beats"
+  },
+  {
+    "subject": "Shiladitya Saha",
+    "predicate": "was first runner-up in",
+    "object": "Campus Beats"
+  },
+  {
+    "subject": "Rajat Bhavnani",
+    "predicate": "was first runner-up in",
+    "object": "Campus Beats"
+  },
+  {
+    "subject": "Kumar Sparsh",
+    "predicate": "was first runner-up in",
+    "object": "Campus Beats"
+  },
+  {
+    "subject": "Dhruva Ratanpura",
+    "predicate": "was runner-up in",
+    "object": "Smart City Challenge"
+  },
+  {
+    "subject": "Kumar Sparsh",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Charu Agrawal",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Udit Sarin",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Harsh Agarwal",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Hitendra Pratap",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Dhruva Ratanpura",
+    "predicate": "was finalist in",
+    "object": "Solvay Business Game"
+  },
+  {
+    "subject": "Nishant Jayaswal",
+    "predicate": "was finalist in",
+    "object": "Solvay Business Game"
+  },
+  {
+    "subject": "Manik Aggarwal",
+    "predicate": "was finalist in",
+    "object": "Solvay Business Game"
+  },
+  {
+    "subject": "Rihen Chheda",
+    "predicate": "was finalist in",
+    "object": "Solvay Business Game"
+  },
+  {
+    "subject": "Murtaza Phalasiya",
+    "predicate": "was finalist in",
+    "object": "Solvay Business Game"
+  },
+  {
+    "subject": "Shramajit Gupta",
+    "predicate": "was national finalist in",
+    "object": "CIMA Global Business Challenge"
+  },
+  {
+    "subject": "Umang Mavani",
+    "predicate": "was world top 10 finalist in",
+    "object": "Global Investment Banking Valuation Olympiad"
+  },
+  {
+    "subject": "Sarthak Badjatiya",
+    "predicate": "was world top 10 finalist in",
+    "object": "Global Investment Banking Valuation Olympiad"
+  },
+  {
+    "subject": "Dhruva Ratanpura",
+    "predicate": "was world top 10 finalist in",
+    "object": "Global Investment Banking Valuation Olympiad"
+  },
+  {
+    "subject": "Ashutosh Dwivedi",
+    "predicate": "was world top 10 finalist in",
+    "object": "Global Investment Banking Valuation Olympiad"
+  },
+  {
+    "subject": "Murtaza Phalasiya",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Nishant Jayaswal",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Rajat Bhavnani",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Rounak Gulati",
+    "predicate": "was semi-finalist in",
+    "object": "9th GMBCC"
+  },
+  {
+    "subject": "Dhruva Ratanpura",
+    "predicate": "was semi-finalist in",
+    "object": "9th GMBCC"
+  },
+  {
+    "subject": "Murtaza Phalasiya",
+    "predicate": "was semi-finalist in",
+    "object": "9th GMBCC"
+  },
+  {
+    "subject": "Rounak Gulati",
+    "predicate": "won",
+    "object": "Inter IIT Tech Meet"
+  },
+  {
+    "subject": "Shramajit Gupta",
+    "predicate": "won",
+    "object": "Inter IIT Tech Meet"
+  },
+  {
+    "subject": "Umang Mavani",
+    "predicate": "won",
+    "object": "Inter IIT Tech Meet"
+  },
+  {
+    "subject": "Nishant Jayaswal",
+    "predicate": "was 2nd runner-up in",
+    "object": "Paycheck"
+  },
+  {
+    "subject": "Vasudha Todi",
+    "predicate": "was 2nd runner-up in",
+    "object": "Paycheck"
+  },
+  {
+    "subject": "Kumar Sparsh",
+    "predicate": "was 2nd runner-up in",
+    "object": "Paycheck"
+  },
+  {
+    "subject": "Ashutosh Dwivedi",
+    "predicate": "was 1st runner-up in",
+    "object": "Le Play\u2019s Marathon"
+  },
+  {
+    "subject": "Souvik Bhattacharya",
+    "predicate": "was 1st runner-up in",
+    "object": "Le Play\u2019s Marathon"
+  },
+  {
+    "subject": "Priya Mehta",
+    "predicate": "was 1st runner-up in",
+    "object": "Le Play\u2019s Marathon"
+  },
+  {
+    "subject": "Nishant Jayaswal",
+    "predicate": "was 3rd runner-up in",
+    "object": "Le Play\u2019s Marathon"
+  },
+  {
+    "subject": "Shaswat Datta",
+    "predicate": "was 3rd runner-up in",
+    "object": "Le Play\u2019s Marathon"
+  },
+  {
+    "subject": "Charu Agrawal",
+    "predicate": "was 3rd runner-up in",
+    "object": "Le Play\u2019s Marathon"
+  },
+  {
+    "subject": "Nishant Jayaswal",
+    "predicate": "won",
+    "object": "National Students Space Challenge"
+  },
+  {
+    "subject": "Shaswat Datta",
+    "predicate": "won",
+    "object": "National Students Space Challenge"
+  },
+  {
+    "subject": "Shwetha Krishnamurthy",
+    "predicate": "won",
+    "object": "National Students Space Challenge"
+  },
+  {
+    "subject": "Kumar Sparsh",
+    "predicate": "won",
+    "object": "National Students Space Challenge"
+  },
+  {
+    "subject": "Virendra Singh",
+    "predicate": "won",
+    "object": "Petrocase"
+  },
+  {
+    "subject": "Shramajit Gupta",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Umang Mavani",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Ashutosh Dwivedi",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Nishant Jayaswal",
+    "predicate": "was 3rd runner-up in",
+    "object": "VJTI Consultant"
+  },
+  {
+    "subject": "Shwetha Krishnamurthy",
+    "predicate": "was 3rd runner-up in",
+    "object": "VJTI Consultant"
+  },
+  {
+    "subject": "Priya Mehta",
+    "predicate": "was 3rd runner-up in",
+    "object": "VJTI Consultant"
+  },
+  {
+    "subject": "Shramajit Gupta",
+    "predicate": "was 1st runner-up in",
+    "object": "Petrocase"
+  },
+  {
+    "subject": "Umang Mavani",
+    "predicate": "was 1st runner-up in",
+    "object": "Petrocase"
+  },
+  {
+    "subject": "Rounak Gulati",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Pratyush Devliyal",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Ravikiran Shinde",
+    "predicate": "won",
+    "object": "Techniche"
+  },
+  {
+    "subject": "Rounak Gulati",
+    "predicate": "won",
+    "object": "B-Consigliere"
+  },
+  {
+    "subject": "Rishabh Kataruka",
+    "predicate": "was Asia-Pacific finalist in",
+    "object": "Speak out for Engineering"
+  },
+  {
+    "subject": "Rounak Gulati",
+    "predicate": "was 1st runner-up in",
+    "object": "Ojass"
+  },
+  {
+    "subject": "Rounak Gulati",
+    "predicate": "was 1st runner-up in",
+    "object": "E-bizz"
+  },
+  {
+    "subject": "Shailesh Gupta",
+    "predicate": "achieved",
+    "object": "Business Masters"
+  },
+  {
+    "subject": "Sudipto Sannigrahi",
+    "predicate": "achieved",
+    "object": "Business Masters"
+  },
+  {
+    "subject": "Srichandana",
+    "predicate": "achieved",
+    "object": "Business Masters"
+  },
+  {
+    "subject": "Nalin Gupta",
+    "predicate": "won",
+    "object": "Concipio"
+  },
+  {
+    "subject": "Sudipto Sannigrahi",
+    "predicate": "was 1st runner-up in",
+    "object": "B-Plan"
+  },
+  {
+    "subject": "Avigyan Karan",
+    "predicate": "won",
+    "object": "Yukti"
+  },
+  {
+    "subject": "Shailesh Gupta",
+    "predicate": "won",
+    "object": "E-waste reuse event"
+  },
+  {
+    "subject": "Nalin Gupta",
+    "predicate": "won",
+    "object": "E-waste reuse event"
+  },
+  {
+    "subject": "Siddhartha Verma",
+    "predicate": "won",
+    "object": "Concipio"
+  },
+  {
+    "subject": "Akhilesh Betanamudi",
+    "predicate": "achieved",
+    "object": "Ecomagination"
+  },
+  {
+    "subject": "Shailesh Gupta",
+    "predicate": "won",
+    "object": "Concipio"
+  },
+  {
+    "subject": "Shailesh Gupta",
+    "predicate": "won",
+    "object": "Srijan"
+  }
+]

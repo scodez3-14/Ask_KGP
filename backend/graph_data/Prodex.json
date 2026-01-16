@@ -1,0 +1,217 @@
+[
+  {
+    "subject": "Prodex",
+    "predicate": "is a",
+    "object": "technical society"
+  },
+  {
+    "subject": "Prodex",
+    "predicate": "is focused on promoting",
+    "object": "Product Design"
+  },
+  {
+    "subject": "Prodex",
+    "predicate": "is focused on promoting",
+    "object": "Hardware modelling"
+  },
+  {
+    "subject": "Prodex",
+    "predicate": "is focused on promoting",
+    "object": "Innovation"
+  },
+  {
+    "subject": "Prodex",
+    "predicate": "is focused on developing",
+    "object": "innovative products to real life problems"
+  },
+  {
+    "subject": "Prodex",
+    "predicate": "has",
+    "object": "A 3 tier team of 20+ product designing enthusiasts"
+  },
+  {
+    "subject": "Organization",
+    "predicate": "nurtures the habit of",
+    "object": "Hardware Modelling"
+  },
+  {
+    "subject": "Organization",
+    "predicate": "provides financial help to",
+    "object": "students"
+  },
+  {
+    "subject": "Organization",
+    "predicate": "provides mechanical help to",
+    "object": "students"
+  },
+  {
+    "subject": "Organization",
+    "predicate": "provides required resources to",
+    "object": "students"
+  },
+  {
+    "subject": "students",
+    "predicate": "transform",
+    "object": "innovative ideas"
+  },
+  {
+    "subject": "innovative ideas",
+    "predicate": "transform into",
+    "object": "mechanical products"
+  },
+  {
+    "subject": "Organization",
+    "predicate": "fuels technological advancement of",
+    "object": "India"
+  },
+  {
+    "subject": "Organization",
+    "predicate": "inspires",
+    "object": "students under plus2 level"
+  },
+  {
+    "subject": "students under plus2 level",
+    "predicate": "participate in",
+    "object": "IGNITE"
+  },
+  {
+    "subject": "IGNITE",
+    "predicate": "conducted by",
+    "object": "CBSE"
+  },
+  {
+    "subject": "CBSE",
+    "predicate": "conducts in association with",
+    "object": "National Innovation Foundation"
+  },
+  {
+    "subject": "Organization",
+    "predicate": "highlights",
+    "object": "latest technological advancements"
+  },
+  {
+    "subject": "latest technological advancements",
+    "predicate": "are in",
+    "object": "India"
+  },
+  {
+    "subject": "latest technological advancements",
+    "predicate": "are in",
+    "object": "throughout the world"
+  },
+  {
+    "subject": "The company",
+    "predicate": "was established in",
+    "object": "2012"
+  },
+  {
+    "subject": "The company",
+    "predicate": "was established by",
+    "object": "a bunch of passionate people"
+  },
+  {
+    "subject": "a bunch of passionate people",
+    "predicate": "dreamt big",
+    "object": "true"
+  },
+  {
+    "subject": "a bunch of passionate people",
+    "predicate": "shared a common interest in",
+    "object": "designing and building things"
+  },
+  {
+    "subject": "a bunch of passionate people",
+    "predicate": "built things out of",
+    "object": "their own ideas"
+  },
+  {
+    "subject": "ANDROIDEX",
+    "predicate": "type",
+    "object": "android application making workshop"
+  },
+  {
+    "subject": "ANDROIDEX",
+    "predicate": "had attendees",
+    "object": "292"
+  },
+  {
+    "subject": "ANDROIDEX",
+    "predicate": "associated with",
+    "object": "Freshers\u2019 Introductory Workshop 2013"
+  },
+  {
+    "subject": "FIGULUS",
+    "predicate": "type",
+    "object": "Web coding workshop"
+  },
+  {
+    "subject": "FIGULUS",
+    "predicate": "had attendees",
+    "object": "403"
+  },
+  {
+    "subject": "FIGULUS",
+    "predicate": "location",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "FIGULUS",
+    "predicate": "conducted",
+    "object": "Webpage Design competition"
+  },
+  {
+    "subject": "Webpage Design competition",
+    "predicate": "had participants",
+    "object": "158"
+  },
+  {
+    "subject": "Aerotrix Super Challenge",
+    "predicate": "type",
+    "object": "RC Aircraft design and fabrication workshop and competition"
+  },
+  {
+    "subject": "Aerotrix Super Challenge",
+    "predicate": "location",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Aerotrix Super Challenge",
+    "predicate": "had teams",
+    "object": "9"
+  },
+  {
+    "subject": "TaSafe",
+    "predicate": "type",
+    "object": "women safety device"
+  },
+  {
+    "subject": "TaSafe",
+    "predicate": "function",
+    "object": "against assailant attacks"
+  },
+  {
+    "subject": "Shubham Kakde",
+    "predicate": "was a governor",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Vivek Wankhade",
+    "predicate": "was a governor",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Mann Goel",
+    "predicate": "was a governor",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Manish Kumar",
+    "predicate": "was a governor",
+    "object": "2015-17"
+  },
+  {
+    "subject": "Amol Sakhale",
+    "predicate": "was a governor",
+    "object": "2015-17"
+  }
+]

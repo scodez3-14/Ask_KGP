@@ -1,0 +1,322 @@
+[
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "founded in",
+    "object": "2015"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "has founder",
+    "object": "Gaurav Jain"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "has number of members",
+    "object": "110"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "has website",
+    "object": "kossiitkgp.org"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "has Instagram",
+    "object": "https://www.instagram.com/kossiitkgp/"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "has Facebook",
+    "object": "https://www.facebook.com/kossiitkgp"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "has contact",
+    "object": "[email protected]"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "has Github",
+    "object": "github.com/kossiitkgp"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "conducts activity",
+    "object": "Kharagpur Winter of Code"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "conducts activity",
+    "object": "Git and Github Workshop"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "conducts activity",
+    "object": "GSoC Introductory Seminar"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "conducts activity",
+    "object": "Linux Install Fest"
+  },
+  {
+    "subject": "Kharagpur Open Source Society",
+    "predicate": "conducts activity",
+    "object": "Python Workshop"
+  },
+  {
+    "subject": "Kharagpur Open Source Society (KOSS)",
+    "predicate": "is",
+    "object": "community of open-source enthusiasts"
+  },
+  {
+    "subject": "Kharagpur Open Source Society (KOSS)",
+    "predicate": "located at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "KOSS members",
+    "predicate": "collaborate on",
+    "object": "innovative open-source projects"
+  },
+  {
+    "subject": "KOSS members",
+    "predicate": "apply",
+    "object": "cutting-edge solutions to real-world problems"
+  },
+  {
+    "subject": "The community",
+    "predicate": "promotes",
+    "object": "knowledge-sharing"
+  },
+  {
+    "subject": "The community",
+    "predicate": "promotes",
+    "object": "personal growth"
+  },
+  {
+    "subject": "The community",
+    "predicate": "provides",
+    "object": "supportive and engaging environment"
+  },
+  {
+    "subject": "The community",
+    "predicate": "organises",
+    "object": "events"
+  },
+  {
+    "subject": "The events",
+    "predicate": "introduce students to",
+    "object": "open-source culture"
+  },
+  {
+    "subject": "The events",
+    "predicate": "introduce students to",
+    "object": "Linux technologies"
+  },
+  {
+    "subject": "The events",
+    "predicate": "introduce students to",
+    "object": "Git version control workflows"
+  },
+  {
+    "subject": "The events",
+    "predicate": "introduce students to",
+    "object": "various software technologies"
+  },
+  {
+    "subject": "The events",
+    "predicate": "are instrumental in fostering",
+    "object": "culture of technology education"
+  },
+  {
+    "subject": "The events",
+    "predicate": "are instrumental in fostering",
+    "object": "hands-on learning"
+  },
+  {
+    "subject": "The events",
+    "predicate": "are instrumental in fostering",
+    "object": "collaborative knowledge exchange"
+  },
+  {
+    "subject": "Kharagpur Winter of Code",
+    "predicate": "is",
+    "object": "a 5-week long online program"
+  },
+  {
+    "subject": "Kharagpur Winter of Code",
+    "predicate": "is for",
+    "object": "students who are new to open source software development"
+  },
+  {
+    "subject": "Kharagpur Winter of Code",
+    "predicate": "helps",
+    "object": "students to get involved in open source"
+  },
+  {
+    "subject": "Kharagpur Winter of Code",
+    "predicate": "prepares",
+    "object": "students for many open source summer programs"
+  },
+  {
+    "subject": "Open source summit",
+    "predicate": "held on",
+    "object": "20th and 21st January 2018"
+  },
+  {
+    "subject": "Open source summit",
+    "predicate": "part of",
+    "object": "Kshitij'18"
+  },
+  {
+    "subject": "Git and Github workshop",
+    "predicate": "conducted on",
+    "object": "first day of the summit"
+  },
+  {
+    "subject": "Python workshop",
+    "predicate": "conducted on",
+    "object": "first day of the summit"
+  },
+  {
+    "subject": "Python advanced workshop",
+    "predicate": "conducted on",
+    "object": "first day of the summit"
+  },
+  {
+    "subject": "Javascript workshop",
+    "predicate": "conducted on",
+    "object": "first day of the summit"
+  },
+  {
+    "subject": "Golang workshop",
+    "predicate": "conducted on",
+    "object": "first day of the summit"
+  },
+  {
+    "subject": "Talks",
+    "predicate": "held on",
+    "object": "second day"
+  },
+  {
+    "subject": "Talks",
+    "predicate": "featured",
+    "object": "KWOC'18 mentors"
+  },
+  {
+    "subject": "Talks",
+    "predicate": "featured",
+    "object": "other open source developers"
+  },
+  {
+    "subject": "Talks",
+    "predicate": "had as keynote speakers",
+    "object": "KWOC'18 mentors and other open source developers"
+  },
+  {
+    "subject": "Talks",
+    "predicate": "were recorded",
+    "object": "Yes"
+  },
+  {
+    "subject": "Talks",
+    "predicate": "can be found at",
+    "object": "here"
+  },
+  {
+    "subject": "Open Source Summit",
+    "predicate": "date",
+    "object": "19th and 20th January 2019"
+  },
+  {
+    "subject": "Open Source Summit",
+    "predicate": "part of",
+    "object": "Kshitij'19"
+  },
+  {
+    "subject": "KOSS",
+    "predicate": "conducts",
+    "object": "Linux Install Fest"
+  },
+  {
+    "subject": "KOSS",
+    "predicate": "in association with",
+    "object": "Metakgp"
+  },
+  {
+    "subject": "KOSS",
+    "predicate": "in association with",
+    "object": "IEEE Section IIT Kharagpur"
+  },
+  {
+    "subject": "Linux Install Fest",
+    "predicate": "is open to",
+    "object": "everyone in IIT Kharagpur"
+  },
+  {
+    "subject": "Linux Install Fest",
+    "predicate": "helps participants get Linux as",
+    "object": "Primary or Secondary Operating system"
+  },
+  {
+    "subject": "Linux Install Fest",
+    "predicate": "happens in",
+    "object": "Autumn Semester"
+  },
+  {
+    "subject": "members of KOSS",
+    "predicate": "help students to install",
+    "object": "Ubuntu"
+  },
+  {
+    "subject": "This workshop",
+    "predicate": "covers",
+    "object": "the basics of Git and GitHub"
+  },
+  {
+    "subject": "This workshop",
+    "predicate": "focuses on",
+    "object": "using these tools to help Open Source development"
+  },
+  {
+    "subject": "Git and GitHub",
+    "predicate": "help",
+    "object": "Open Source development"
+  },
+  {
+    "subject": "This workshop",
+    "predicate": "teaches",
+    "object": "Python"
+  },
+  {
+    "subject": "This workshop",
+    "predicate": "teaches to level",
+    "object": "intermediate"
+  },
+  {
+    "subject": "This workshop",
+    "predicate": "teaches to",
+    "object": "students"
+  },
+  {
+    "subject": "Python",
+    "predicate": "is taught at level",
+    "object": "intermediate"
+  },
+  {
+    "subject": "GSoC Introductory Seminar",
+    "predicate": "is about",
+    "object": "Google Summer of Code"
+  },
+  {
+    "subject": "GSoC Introductory Seminar",
+    "predicate": "included",
+    "object": "Q&A session"
+  },
+  {
+    "subject": "Q&A session",
+    "predicate": "cleared",
+    "object": "basic doubts"
+  }
+]

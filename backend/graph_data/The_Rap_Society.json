@@ -1,0 +1,362 @@
+[
+  {
+    "subject": "The Rap Society",
+    "predicate": "abbreviated as",
+    "object": "tRAPS"
+  },
+  {
+    "subject": "The Rap Society",
+    "predicate": "is a group of",
+    "object": "kids"
+  },
+  {
+    "subject": "The Rap Society",
+    "predicate": "is committed to spreading",
+    "object": "hip-hop culture"
+  },
+  {
+    "subject": "The Rap Society",
+    "predicate": "is spreading across",
+    "object": "IIT KHARAGPUR campus"
+  },
+  {
+    "subject": "The Rap Society",
+    "predicate": "founded in",
+    "object": "2023"
+  },
+  {
+    "subject": "The Rap Society",
+    "predicate": "founded by",
+    "object": "RAHUL RANWA"
+  },
+  {
+    "subject": "The Rap Society",
+    "predicate": "founded by",
+    "object": "VIVEK SHARMA"
+  },
+  {
+    "subject": "RAHUL RANWA",
+    "predicate": "is a",
+    "object": "sophomore"
+  },
+  {
+    "subject": "VIVEK SHARMA",
+    "predicate": "is a",
+    "object": "sophomore"
+  },
+  {
+    "subject": "Selections for membership",
+    "predicate": "held",
+    "object": "annually in the month of August"
+  },
+  {
+    "subject": "Selections",
+    "predicate": "held for",
+    "object": "Freshers and Sophomores"
+  },
+  {
+    "subject": "Around 30 students",
+    "predicate": "are selected",
+    "object": "in an academic year"
+  },
+  {
+    "subject": "Selection process",
+    "predicate": "evaluates",
+    "object": "candidates"
+  },
+  {
+    "subject": "Selection process",
+    "predicate": "evaluates candidates on their",
+    "object": "Enthusiasm for the genre"
+  },
+  {
+    "subject": "Selections",
+    "predicate": "are open for",
+    "object": "all"
+  },
+  {
+    "subject": "1st Years",
+    "predicate": "are",
+    "object": "Associates"
+  },
+  {
+    "subject": "2nd Years",
+    "predicate": "are",
+    "object": "Members"
+  },
+  {
+    "subject": "3rd Years",
+    "predicate": "are",
+    "object": "Governing Batch"
+  },
+  {
+    "subject": "4th Years",
+    "predicate": "are",
+    "object": "Heads"
+  },
+  {
+    "subject": "5th Years",
+    "predicate": "are",
+    "object": "Advisors"
+  },
+  {
+    "subject": "Rahul Ranwa",
+    "predicate": "member_of",
+    "object": "2024-2025 group"
+  },
+  {
+    "subject": "Vivek Sharma",
+    "predicate": "member_of",
+    "object": "2024-2025 group"
+  },
+  {
+    "subject": "Harsh Yadav",
+    "predicate": "member_of",
+    "object": "2024-2025 group"
+  },
+  {
+    "subject": "Arhana Jain",
+    "predicate": "member_of",
+    "object": "2024-2025 group"
+  },
+  {
+    "subject": "Anurag Pokhariyal",
+    "predicate": "is part of",
+    "object": "2025-2026"
+  },
+  {
+    "subject": "Eshwar Bhadhavath",
+    "predicate": "is part of",
+    "object": "2025-2026"
+  },
+  {
+    "subject": "Kanikaa Malik",
+    "predicate": "is part of",
+    "object": "2025-2026"
+  },
+  {
+    "subject": "Mohit Kumar",
+    "predicate": "is part of",
+    "object": "2025-2026"
+  },
+  {
+    "subject": "Kaala Jaadu 2.0",
+    "predicate": "artist",
+    "object": "Rahul Ranwa"
+  },
+  {
+    "subject": "Kaala Jaadu 2.0",
+    "predicate": "release year",
+    "object": "2024"
+  },
+  {
+    "subject": "Hoshiyaar",
+    "predicate": "artist",
+    "object": "Rahul Ranwa"
+  },
+  {
+    "subject": "Sharam",
+    "predicate": "artist",
+    "object": "Anurag Pokhariyal and Rithvik Thota"
+  },
+  {
+    "subject": "Aage Aage Tum Chalo",
+    "predicate": "artist",
+    "object": "Kanika Malik"
+  },
+  {
+    "subject": "Chitra",
+    "predicate": "artist",
+    "object": "Kinjal Sensharma"
+  },
+  {
+    "subject": "We One",
+    "predicate": "artist",
+    "object": "Eshwxr and Mohit"
+  },
+  {
+    "subject": "Shehar",
+    "predicate": "artist",
+    "object": "Daakiya, Kinjal, Rahul and Viivek"
+  },
+  {
+    "subject": "Shehar",
+    "predicate": "release year",
+    "object": "2025"
+  },
+  {
+    "subject": "Kasoor",
+    "predicate": "artist",
+    "object": "Udit Raj and Rahul Ranwa"
+  },
+  {
+    "subject": "Kasoor",
+    "predicate": "release year",
+    "object": "2025"
+  },
+  {
+    "subject": "GODFATHER",
+    "predicate": "artist",
+    "object": "Eshwxr and Mohit"
+  },
+  {
+    "subject": "GODFATHER",
+    "predicate": "release year",
+    "object": "2025"
+  },
+  {
+    "subject": "PLUS ONE",
+    "predicate": "artist",
+    "object": "Vivek Sharma, Rahul Ranwa"
+  },
+  {
+    "subject": "PLUS ONE",
+    "predicate": "tracklist",
+    "object": "Astray, Chand, When I Grow Up, asleep (Ft. Daakiya), Kaabil (Ft. Kinjal), Kab Aayegi Tu?"
+  },
+  {
+    "subject": "PLUS ONE",
+    "predicate": "album",
+    "object": "Plus One by Vivek and Rahul"
+  },
+  {
+    "subject": "tRAPs Clan",
+    "predicate": "artist",
+    "object": "Aarya, Rudra and Yugam"
+  },
+  {
+    "subject": "tRAPs Clan",
+    "predicate": "playlist",
+    "object": "FM 2024"
+  },
+  {
+    "subject": "tRAPs Clan",
+    "predicate": "year",
+    "object": "2024"
+  },
+  {
+    "subject": "Kab Tak?",
+    "predicate": "artist",
+    "object": "Amal and Siddhant"
+  },
+  {
+    "subject": "Throne",
+    "predicate": "artist",
+    "object": "Sujal Shah, Manthan and Devendra"
+  },
+  {
+    "subject": "Confessions",
+    "predicate": "artist",
+    "object": "Soudipta Koley"
+  },
+  {
+    "subject": "K3G",
+    "predicate": "artist",
+    "object": "Sanskaar, Smit, Rohit and Yash Patil"
+  },
+  {
+    "subject": "United (Beatbox)",
+    "predicate": "artist",
+    "object": "Pranjal, Luther King and Rounak"
+  },
+  {
+    "subject": "Phases",
+    "predicate": "artist",
+    "object": "Saransh, Manas, Devesh and Yuvraj"
+  },
+  {
+    "subject": "Dhoop Chav",
+    "predicate": "artist",
+    "object": "Ayush Nayal and Kripanshu"
+  },
+  {
+    "subject": "#1 (2024) Eshwxr Vs Mohit",
+    "predicate": "battle",
+    "object": "Eshwxr Vs Mohit"
+  },
+  {
+    "subject": "#1 (2024) Eshwxr Vs Mohit",
+    "predicate": "battle",
+    "object": "Sanskar Vs Manthan"
+  },
+  {
+    "subject": "#1 (2024) Eshwxr Vs Mohit",
+    "predicate": "battle",
+    "object": "Devendra Vs Kripanshu"
+  },
+  {
+    "subject": "tRAPs",
+    "predicate": "participated in",
+    "object": "Spring Fest RAP MANIA 2024"
+  },
+  {
+    "subject": "tRAPs",
+    "predicate": "has",
+    "object": "Playlist Link"
+  },
+  {
+    "subject": "OPEN IIT BEATBOXING 2024",
+    "predicate": "has winner",
+    "object": "Vijendra Singh Shyaam"
+  },
+  {
+    "subject": "OPEN IIT BEATBOXING 2024",
+    "predicate": "has winner",
+    "object": "Aryan Sakpal"
+  },
+  {
+    "subject": "OPEN IIT BEATBOXING 2024",
+    "predicate": "has winner",
+    "object": "Uditangshu"
+  },
+  {
+    "subject": "Vijendra Singh Shyaam",
+    "predicate": "is affiliated with",
+    "object": "tRAPs"
+  },
+  {
+    "subject": "Aryan Sakpal",
+    "predicate": "is affiliated with",
+    "object": "tRAPs"
+  },
+  {
+    "subject": "Uditangshu",
+    "predicate": "is affiliated with",
+    "object": "tRAPs"
+  },
+  {
+    "subject": "OPEN IIT RAP 2023",
+    "predicate": "has winner",
+    "object": "Mohit Kumar"
+  },
+  {
+    "subject": "OPEN IIT RAP 2023",
+    "predicate": "has winner",
+    "object": "Sanskaar"
+  },
+  {
+    "subject": "OPEN IIT RAP 2023",
+    "predicate": "has winner",
+    "object": "Rahul Ranwa"
+  },
+  {
+    "subject": "Mohit Kumar",
+    "predicate": "is affiliated with",
+    "object": "tRAPs"
+  },
+  {
+    "subject": "Sanskaar",
+    "predicate": "is affiliated with",
+    "object": "tRAPs"
+  },
+  {
+    "subject": "Rahul Ranwa",
+    "predicate": "is affiliated with",
+    "object": "tRAPs"
+  },
+  {
+    "subject": "OPEN IIT RAP 2023",
+    "predicate": "is part of",
+    "object": "OPEN IIT RAP 2024"
+  }
+]

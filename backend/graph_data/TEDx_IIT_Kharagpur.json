@@ -1,0 +1,237 @@
+[
+  {
+    "subject": "Atul Kulkarni",
+    "predicate": "is",
+    "object": "National award-winning professional actor"
+  },
+  {
+    "subject": "Atul Kulkarni",
+    "predicate": "is",
+    "object": "President, QUEST"
+  },
+  {
+    "subject": "Irshad Kamil",
+    "predicate": "is",
+    "object": "Lyricist"
+  },
+  {
+    "subject": "Irshad Kamil",
+    "predicate": "is",
+    "object": "Filmfare Awardee"
+  },
+  {
+    "subject": "Ulrike Reinhard",
+    "predicate": "is",
+    "object": "Social Activist"
+  },
+  {
+    "subject": "Ulrike Reinhard",
+    "predicate": "is",
+    "object": "Founder, Janwaar Castle"
+  },
+  {
+    "subject": "Gaurav Juyal",
+    "predicate": "is",
+    "object": "Creative Visualizer"
+  },
+  {
+    "subject": "Gaurav Juyal",
+    "predicate": "is",
+    "object": "Artist"
+  },
+  {
+    "subject": "Gaurav Juyal",
+    "predicate": "is",
+    "object": "Disney's Art Attack"
+  },
+  {
+    "subject": "Devina Kothari",
+    "predicate": "is",
+    "object": "Industrial Designer"
+  },
+  {
+    "subject": "Devina Kothari",
+    "predicate": "is",
+    "object": "The Red Dot Awardee"
+  },
+  {
+    "subject": "Nirali Kartik Shah",
+    "predicate": "is",
+    "object": "Singer"
+  },
+  {
+    "subject": "Nirali Kartik Shah",
+    "predicate": "is",
+    "object": "Composer"
+  },
+  {
+    "subject": "Nirali Kartik Shah",
+    "predicate": "is",
+    "object": "Maati Baani"
+  },
+  {
+    "subject": "The soul inside fusion music",
+    "predicate": "is presented by",
+    "object": "Karthick Iyer"
+  },
+  {
+    "subject": "The soul inside fusion music",
+    "predicate": "has video link",
+    "object": "https://www.youtube.com/watch?v=39kSiDKnkb8"
+  },
+  {
+    "subject": "Breaking gender barriers",
+    "predicate": "is presented by",
+    "object": "Mallika Dutt"
+  },
+  {
+    "subject": "Breaking gender barriers",
+    "predicate": "has video link",
+    "object": "https://www.youtube.com/watch?v=Mn3tQODx8z8"
+  },
+  {
+    "subject": "The Power of Artificial Intelligence",
+    "predicate": "is presented by",
+    "object": "Rahul Alex Panicker"
+  },
+  {
+    "subject": "The Power of Artificial Intelligence",
+    "predicate": "has video link",
+    "object": "https://www.youtube.com/watch?v=SkbIsMB04fE"
+  },
+  {
+    "subject": "How to put an end to premature deaths",
+    "predicate": "is presented by",
+    "object": "Manish Ranjan"
+  },
+  {
+    "subject": "How to put an end to premature deaths",
+    "predicate": "has video link",
+    "object": "https://www.youtube.com/watch?v=dDlO_o1yHqo"
+  },
+  {
+    "subject": "Gerry Martin",
+    "predicate": "speaks about",
+    "object": "Conservation is not what you think it is"
+  },
+  {
+    "subject": "Gerry Martin",
+    "predicate": "has video",
+    "object": "https://www.youtube.com/watch?v=lZbP7mmLTQw"
+  },
+  {
+    "subject": "Armstrong Pame",
+    "predicate": "speaks about",
+    "object": "I, Me and Mine"
+  },
+  {
+    "subject": "Armstrong Pame",
+    "predicate": "has video",
+    "object": "https://www.youtube.com/watch?v=p58KoSMaPZs"
+  },
+  {
+    "subject": "Bikash Barai",
+    "predicate": "speaks about",
+    "object": "Why do Startups fail?"
+  },
+  {
+    "subject": "Bikash Barai",
+    "predicate": "has video",
+    "object": "https://www.youtube.com/watch?v=EqNGbgDqx7s"
+  },
+  {
+    "subject": "Anand Sivaraman",
+    "predicate": "speaks about",
+    "object": "Can we innovate to simplify?"
+  },
+  {
+    "subject": "Anand Sivaraman",
+    "predicate": "has video",
+    "object": "https://www.youtube.com/watch?v=YOjcvxSfJlY"
+  },
+  {
+    "subject": "Jayen Varma",
+    "predicate": "speaks about",
+    "object": "The Indian Slap Bass technique"
+  },
+  {
+    "subject": "Jayen Varma",
+    "predicate": "has video",
+    "object": "https://www.youtube.com/watch?v=NiHO1n3TtS0"
+  },
+  {
+    "subject": "Mayank Shekhar",
+    "predicate": "speaks about",
+    "object": "Why Bollywood Makes Bad Films"
+  },
+  {
+    "subject": "Mayank Shekhar",
+    "predicate": "has video",
+    "object": "https://www.youtube.com/watch?v=ZBtPm_QnYW8"
+  },
+  {
+    "subject": "Sugata Mitra",
+    "predicate": "is a speaker",
+    "object": "Speakers [2]"
+  },
+  {
+    "subject": "Captain Bana Singh",
+    "predicate": "is a speaker",
+    "object": "Speakers [2]"
+  },
+  {
+    "subject": "Shubhranshu Choudhary",
+    "predicate": "is a speaker",
+    "object": "Speakers [2]"
+  },
+  {
+    "subject": "Satyajit Bhatkal",
+    "predicate": "is a speaker",
+    "object": "Speakers [2]"
+  },
+  {
+    "subject": "Kailash Satyarthi",
+    "predicate": "is a speaker",
+    "object": "Speakers [2]"
+  },
+  {
+    "subject": "Aniruddha Sharma",
+    "predicate": "is a speaker",
+    "object": "Speakers [2]"
+  },
+  {
+    "subject": "Captain Bana Singh",
+    "predicate": "holds honor",
+    "object": "Param Veer Chakra"
+  },
+  {
+    "subject": "TEDx IIT Kharagpur 2015",
+    "predicate": "occurred on",
+    "object": "19 October 2015"
+  },
+  {
+    "subject": "TEDx IIT Kharagpur 2013",
+    "predicate": "occurred on",
+    "object": "19 October 2015"
+  },
+  {
+    "subject": "TEDx IIT Kharagpur 2015",
+    "predicate": "is a",
+    "object": "TEDx event"
+  },
+  {
+    "subject": "TEDx IIT Kharagpur 2013",
+    "predicate": "is a",
+    "object": "TEDx event"
+  },
+  {
+    "subject": "TEDx IIT Kharagpur 2015",
+    "predicate": "located at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "TEDx IIT Kharagpur 2013",
+    "predicate": "located at",
+    "object": "IIT Kharagpur"
+  }
+]

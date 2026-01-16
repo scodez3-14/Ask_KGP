@@ -1,0 +1,372 @@
+[
+  {
+    "subject": "Western Technology Music Society",
+    "predicate": "is popularly known as",
+    "object": "WTMS"
+  },
+  {
+    "subject": "Western Technology Music Society",
+    "predicate": "is located in",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Western Technology Music Society",
+    "predicate": "governs",
+    "object": "western music scene in IIT Kharagpur"
+  },
+  {
+    "subject": "Western Technology Music Society",
+    "predicate": "aims to spread",
+    "object": "diverse music genres"
+  },
+  {
+    "subject": "Western Technology Music Society",
+    "predicate": "aims to nurture and motivate",
+    "object": "musicians"
+  },
+  {
+    "subject": "Western Technology Music Society",
+    "predicate": "aims to inculcate values and expression through",
+    "object": "music"
+  },
+  {
+    "subject": "Western Technology Music Society",
+    "predicate": "aims to develop good music taste among",
+    "object": "audience"
+  },
+  {
+    "subject": "WTMS selection auditions",
+    "predicate": "are held",
+    "object": "at least once in a year"
+  },
+  {
+    "subject": "WTMS selection auditions",
+    "predicate": "are held",
+    "object": "in the autumn semester"
+  },
+  {
+    "subject": "WTMS selection auditions",
+    "predicate": "happen",
+    "object": "in the spring semester too"
+  },
+  {
+    "subject": "WTMS selection auditions",
+    "predicate": "are held",
+    "object": "for all students (UG/PG)"
+  },
+  {
+    "subject": "WTMS selection auditions",
+    "predicate": "are held",
+    "object": "around the month of August/September"
+  },
+  {
+    "subject": "Selection procedure",
+    "predicate": "consist of",
+    "object": "two rounds"
+  },
+  {
+    "subject": "First round",
+    "predicate": "is",
+    "object": "a preliminary screening round"
+  },
+  {
+    "subject": "First round",
+    "predicate": "assess",
+    "object": "basic musical ability"
+  },
+  {
+    "subject": "First round",
+    "predicate": "assess",
+    "object": "comfort with the instrument (or singing)"
+  },
+  {
+    "subject": "First round",
+    "predicate": "assess",
+    "object": "basic knowledge"
+  },
+  {
+    "subject": "Screened candidates",
+    "predicate": "are invited",
+    "object": "to give a second round of auditions"
+  },
+  {
+    "subject": "Second round",
+    "predicate": "given",
+    "object": "few (2-3) songs to prepare"
+  },
+  {
+    "subject": "Songs",
+    "predicate": "are decided",
+    "object": "same for everyone"
+  },
+  {
+    "subject": "Songs",
+    "predicate": "cover",
+    "object": "a diverse spectrum of techniques/skills"
+  },
+  {
+    "subject": "Songs for vocalists",
+    "predicate": "are given",
+    "object": "on the basis of the pitch range"
+  },
+  {
+    "subject": "Songs for vocalists",
+    "predicate": "are given",
+    "object": "on the basis of the singer's tonality"
+  },
+  {
+    "subject": "Gap between rounds",
+    "predicate": "is",
+    "object": "3-4 days"
+  },
+  {
+    "subject": "WTMS",
+    "predicate": "has",
+    "object": "three governors"
+  },
+  {
+    "subject": "three governors",
+    "predicate": "selected by",
+    "object": "society seniors"
+  },
+  {
+    "subject": "three governors",
+    "predicate": "govern",
+    "object": "the society"
+  },
+  {
+    "subject": "three governors",
+    "predicate": "represent",
+    "object": "the society"
+  },
+  {
+    "subject": "the society",
+    "predicate": "represented in",
+    "object": "Gymkhana"
+  },
+  {
+    "subject": "three governors",
+    "predicate": "handle",
+    "object": "overall co-ordination during practices, productions and competitions"
+  },
+  {
+    "subject": "the society",
+    "predicate": "has primary activities",
+    "object": "organizing and performing two productions every academic year"
+  },
+  {
+    "subject": "the society",
+    "predicate": "performs",
+    "object": "one production in the Autumn Semester"
+  },
+  {
+    "subject": "the society",
+    "predicate": "performs",
+    "object": "one production in the Spring Semester"
+  },
+  {
+    "subject": "the playlist",
+    "predicate": "is decided",
+    "object": "few weeks prior to the production"
+  },
+  {
+    "subject": "the playlist",
+    "predicate": "is decided by",
+    "object": "a consensus of all the members in the society"
+  },
+  {
+    "subject": "songs",
+    "predicate": "are chosen",
+    "object": "so that the playlist is as diverse as possible"
+  },
+  {
+    "subject": "the playlist",
+    "predicate": "consists of",
+    "object": "genres such as Rock, Metal, Jazz, Blues, Funk, Neo-soul, R&B"
+  },
+  {
+    "subject": "WTMS",
+    "predicate": "performs",
+    "object": "annual production"
+  },
+  {
+    "subject": "annual production",
+    "predicate": "occurs in",
+    "object": "autumn semester"
+  },
+  {
+    "subject": "annual production",
+    "predicate": "occurs in",
+    "object": "October/November"
+  },
+  {
+    "subject": "annual production",
+    "predicate": "around",
+    "object": "Durga Puja vacations"
+  },
+  {
+    "subject": "new inductees",
+    "predicate": "get chance to perform for",
+    "object": "WTMS"
+  },
+  {
+    "subject": "WTMS",
+    "predicate": "performs",
+    "object": "the spring production"
+  },
+  {
+    "subject": "the spring production",
+    "predicate": "occurs during",
+    "object": "the spring semester"
+  },
+  {
+    "subject": "the spring production",
+    "predicate": "occurs in",
+    "object": "March"
+  },
+  {
+    "subject": "the spring production",
+    "predicate": "occurs after",
+    "object": "the end-semester examinations"
+  },
+  {
+    "subject": "the spring production",
+    "predicate": "occurs around",
+    "object": "Hall Days"
+  },
+  {
+    "subject": "the spring production",
+    "predicate": "is",
+    "object": "the final production of the graduating batch"
+  },
+  {
+    "subject": "the graduating batch",
+    "predicate": "plays",
+    "object": "favourite songs"
+  },
+  {
+    "subject": "the graduating batch",
+    "predicate": "plays songs",
+    "object": "for the last time"
+  },
+  {
+    "subject": "the graduating batch",
+    "predicate": "plays songs",
+    "object": "in KGP"
+  },
+  {
+    "subject": "2019-20",
+    "predicate": "had Governors",
+    "object": "Nishok Sundarresan"
+  },
+  {
+    "subject": "2019-20",
+    "predicate": "had Governors",
+    "object": "Riazuddin Khan"
+  },
+  {
+    "subject": "2018-19",
+    "predicate": "had Governors",
+    "object": "Bhushan Deshmukh"
+  },
+  {
+    "subject": "2018-19",
+    "predicate": "had Governors",
+    "object": "Utkarsh Tyagi"
+  },
+  {
+    "subject": "2018-19",
+    "predicate": "had Governors",
+    "object": "Haripriyo Mondal"
+  },
+  {
+    "subject": "2017-18",
+    "predicate": "had Governors",
+    "object": "Kushal Gaikwad"
+  },
+  {
+    "subject": "2017-18",
+    "predicate": "had Governors",
+    "object": "Abhinav Jain"
+  },
+  {
+    "subject": "2017-18",
+    "predicate": "had Governors",
+    "object": "Souvik Bhattacharya"
+  },
+  {
+    "subject": "2016-17",
+    "predicate": "had Governors",
+    "object": "Nishant Kumar"
+  },
+  {
+    "subject": "2016-17",
+    "predicate": "had Governors",
+    "object": "Jainil Yadav"
+  },
+  {
+    "subject": "2016-17",
+    "predicate": "had Governors",
+    "object": "Shambhobi Bhattacharya"
+  },
+  {
+    "subject": "2015-16",
+    "predicate": "had Governors",
+    "object": "Vinay Bhaskar"
+  },
+  {
+    "subject": "2015-16",
+    "predicate": "had Governors",
+    "object": "Dikshant Raj"
+  },
+  {
+    "subject": "2015-16",
+    "predicate": "had Governors",
+    "object": "Satyaki Das"
+  },
+  {
+    "subject": "2014-15",
+    "predicate": "had Governors",
+    "object": "Armaan Hatwal"
+  },
+  {
+    "subject": "2014-15",
+    "predicate": "had Governors",
+    "object": "Akash Gupta"
+  },
+  {
+    "subject": "2014-15",
+    "predicate": "had Governors",
+    "object": "Soham Goswami"
+  },
+  {
+    "subject": "2013-14",
+    "predicate": "had Governors",
+    "object": "Aritra Basu"
+  },
+  {
+    "subject": "2013-14",
+    "predicate": "had Governors",
+    "object": "Koulick Ghosh"
+  },
+  {
+    "subject": "2013-14",
+    "predicate": "had Governors",
+    "object": "Sumit Mohanty"
+  },
+  {
+    "subject": "2012-13",
+    "predicate": "had Governors",
+    "object": "Praful Puranik"
+  },
+  {
+    "subject": "2012-13",
+    "predicate": "had Governors",
+    "object": "Saakallya Biswas"
+  },
+  {
+    "subject": "2012-13",
+    "predicate": "had Governors",
+    "object": "Sayan Pramanik"
+  }
+]

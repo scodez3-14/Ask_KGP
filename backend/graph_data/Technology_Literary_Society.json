@@ -1,0 +1,662 @@
+[
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "has activity",
+    "object": "Creative Writing"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "has activity",
+    "object": "Poetry"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "has activity",
+    "object": "Kavi Sammelan"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "has activity",
+    "object": "Designing"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "has Facebook page",
+    "object": "www.facebook.com/tls.iitkgp"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "has Instagram page",
+    "object": "www.instagram.com/tls.iitkgp/"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "has YouTube channel",
+    "object": "www.youtube.com/channel/UCKQg7OhH07y2I77Hy_52s_Q"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "is under",
+    "object": "TSG"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "is",
+    "object": "literary organization of IIT Kharagpur"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "involves",
+    "object": "enthusiastic English & Hindi writers, and designers"
+  },
+  {
+    "subject": "The society",
+    "predicate": "used to publish",
+    "object": "monthly wall magazine Hang On"
+  },
+  {
+    "subject": "The society",
+    "predicate": "used to publish",
+    "object": "literary newsletter KGP Pulse"
+  },
+  {
+    "subject": "Hang On and KGP Pulse",
+    "predicate": "have been discontinued",
+    "object": "in favour of using social media"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "continues to publish",
+    "object": "annual campus magazine Alankar"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "introduced",
+    "object": "Kavya Sandhya"
+  },
+  {
+    "subject": "Kavya Sandhya",
+    "predicate": "is named after",
+    "object": "Kavi Sammelan"
+  },
+  {
+    "subject": "Kavya Sandhya",
+    "predicate": "is experimental in nature",
+    "object": "First edition"
+  },
+  {
+    "subject": "Hindi poets from Team TLS",
+    "predicate": "exhibit",
+    "object": "poetry and oratory skills on stage"
+  },
+  {
+    "subject": "Kavya Sandhya",
+    "predicate": "receives",
+    "object": "great admiration from the kavis in the campus"
+  },
+  {
+    "subject": "Kavya Sandhya",
+    "predicate": "motivated",
+    "object": "us to bring it in a larger scale as the Kavyanjali"
+  },
+  {
+    "subject": "Kavya Sandhya",
+    "predicate": "is held",
+    "object": "in the autumn semester"
+  },
+  {
+    "subject": "Kavya Sandhya",
+    "predicate": "gives a chance for",
+    "object": "the Hindi poets of the campus to dazzle the audience with their words"
+  },
+  {
+    "subject": "Kavyanjali",
+    "predicate": "is continuation of",
+    "object": "Kavya Sandha"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "collaborated with",
+    "object": "Awaaz"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "collaborated with",
+    "object": "Rajbhasha Vibhag"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "organized",
+    "object": "Kavyanjali"
+  },
+  {
+    "subject": "Kavyanjali",
+    "predicate": "was held in",
+    "object": "Kalidas auditorium"
+  },
+  {
+    "subject": "Kavyanjali",
+    "predicate": "presided over by",
+    "object": "Prof. Prem Shankar Tripathi"
+  },
+  {
+    "subject": "Kavyanjali",
+    "predicate": "presided over by",
+    "object": "Shri Ravi Pratap Singh"
+  },
+  {
+    "subject": "Kavyanjali",
+    "predicate": "presided over by",
+    "object": "Shri Jagesh Tiwari"
+  },
+  {
+    "subject": "Kavyanjali",
+    "predicate": "is held annually in",
+    "object": "spring semester"
+  },
+  {
+    "subject": "Kavyanjali",
+    "predicate": "includes poets from",
+    "object": "outside KGP campus"
+  },
+  {
+    "subject": "Kavyanjali",
+    "predicate": "includes poets from",
+    "object": "inside KGP campus"
+  },
+  {
+    "subject": "poets",
+    "predicate": "enrapture",
+    "object": "audience"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "hosted",
+    "object": "Poetry slam event"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "hosted",
+    "object": "Spring fest"
+  },
+  {
+    "subject": "Poetry slam event",
+    "predicate": "had participation from",
+    "object": "6 colleges"
+  },
+  {
+    "subject": "Poetry slam event",
+    "predicate": "was open for",
+    "object": "Hindi poets"
+  },
+  {
+    "subject": "Poetry slam event",
+    "predicate": "was open for",
+    "object": "English poets"
+  },
+  {
+    "subject": "Farrago",
+    "predicate": "was conducted",
+    "object": "in 2018-19"
+  },
+  {
+    "subject": "Farrago",
+    "predicate": "was",
+    "object": "English spoken word event"
+  },
+  {
+    "subject": "Farrago",
+    "predicate": "was conducted for the first time",
+    "object": "in 2018-19"
+  },
+  {
+    "subject": "Farrago",
+    "predicate": "was held to promote",
+    "object": "culture of English spoken word"
+  },
+  {
+    "subject": "Farrago",
+    "predicate": "saw participation from",
+    "object": "TLS members"
+  },
+  {
+    "subject": "Farrago",
+    "predicate": "saw participation from",
+    "object": "exceptional poets outside TLS from the campus"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "publishes",
+    "object": "content from its Facebook page"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "made its debut on",
+    "object": "Instagram"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "started regularly publishing from",
+    "object": "its Instagram page"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "publishing from",
+    "object": "its Instagram page since 2019"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "believed to be founded",
+    "object": "sometime in the 50s"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "founded in same year as",
+    "object": "Hindi Technology Dramatics Society"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "was previously responsible for",
+    "object": "conducting KGP's literary fest, Manzar"
+  },
+  {
+    "subject": "Technology Literary Society",
+    "predicate": "was previously responsible for",
+    "object": "publishing the annual campus magazine, Alankar"
+  },
+  {
+    "subject": "Manzar",
+    "predicate": "was conducted in the week following",
+    "object": "Spring Fest"
+  },
+  {
+    "subject": "Kshitij",
+    "predicate": "was started in",
+    "object": "2002"
+  },
+  {
+    "subject": "time slots for Spring Fest and Manzar",
+    "predicate": "were merged",
+    "object": "in 2002"
+  },
+  {
+    "subject": "logistical problems",
+    "predicate": "arose between",
+    "object": "SF and TLS teams"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "was broken in",
+    "object": "2 parts"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "kept",
+    "object": "9 Governors"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "had responsibility to",
+    "object": "publish Alankar at the end of the year"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "came up with new publication in",
+    "object": "2008"
+  },
+  {
+    "subject": "Hang On",
+    "predicate": "is a",
+    "object": "monthly wall magazine"
+  },
+  {
+    "subject": "Hang On",
+    "predicate": "is",
+    "object": "satirical depiction of events"
+  },
+  {
+    "subject": "Hang On",
+    "predicate": "is",
+    "object": "mostly humorous in nature"
+  },
+  {
+    "subject": "serious pieces",
+    "predicate": "are kept for",
+    "object": "ALANKAR"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "founded another publication in",
+    "object": "2009"
+  },
+  {
+    "subject": "KGP Pulse",
+    "predicate": "was a",
+    "object": "bi-monthly publication"
+  },
+  {
+    "subject": "KGP Pulse",
+    "predicate": "was discontinued in",
+    "object": "2016"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "started conducting events along with",
+    "object": "Spring Fest"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "started conducting events with Spring Fest in",
+    "object": "2010"
+  },
+  {
+    "subject": "Alankar",
+    "predicate": "was not published in",
+    "object": "2010"
+  },
+  {
+    "subject": "Alankar",
+    "predicate": "was revived in",
+    "object": "2012"
+  },
+  {
+    "subject": "Alankar",
+    "predicate": "has been published every year since",
+    "object": "2012"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "has had only",
+    "object": "4 Governors"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "has only 4 Governors every year from",
+    "object": "2010-11"
+  },
+  {
+    "subject": "TLS",
+    "predicate": "has core principle and motto",
+    "object": "helping KGP to express themselves"
+  },
+  {
+    "subject": "Amitesh Kumar (HS '26)",
+    "predicate": "is Governor for",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Shivam (GG '26)",
+    "predicate": "is Governor for",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Vidya Niwas Mishra (EE '27)",
+    "predicate": "is Governor for",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Amrita Ghosh (ME '26)",
+    "predicate": "is Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Deovardhan (GG '25)",
+    "predicate": "is Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Indra Kumar Gupta (AE '25)",
+    "predicate": "is Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Maithili Bhuyar (EE '26)",
+    "predicate": "is Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Vaishnavi Nikam (ME '25)",
+    "predicate": "is Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Pranay Pandey (PH '25)",
+    "predicate": "is Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Nishita Singh (BT '25)",
+    "predicate": "is Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Shreya Gupta (HS '25)",
+    "predicate": "is Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Tanmay Malatkar (IM '24)",
+    "predicate": "is Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Mehak Sharma (ME '24)",
+    "predicate": "is Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Aditi Sisodia (NA '24)",
+    "predicate": "is Governor for",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Apurav Tambe (NA '24)",
+    "predicate": "is Governor for",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Shalmali Sriram (AR '24)",
+    "predicate": "is Governor for",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Umang Pandey (ME '23)",
+    "predicate": "is Governor for",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Sarvesh Deshpande (ME '23)",
+    "predicate": "is Governor for",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Archi Banerjee (PH '23)",
+    "predicate": "is Governor for",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Kshitij Anand (AE '23)",
+    "predicate": "is Governor for",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Utkarsh Agrawal (MF '22)",
+    "predicate": "is Governor for",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Kushal Patankar (MT '21)",
+    "predicate": "is Governor for",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Pankhuri Saxena (HS '22)",
+    "predicate": "is Governor for",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Pranav Shukla (CE '22)",
+    "predicate": "is Governor for",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Prem Shankar (HS '22)",
+    "predicate": "is Governor for",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Yash Shukla (MI '21)",
+    "predicate": "is Governor for",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Aditya Prakash (IM '21)",
+    "predicate": "is Governor for",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Akshit Lonare (EE '20)",
+    "predicate": "is Governor for",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Sourav Garg (EC '21)",
+    "predicate": "is Governor for",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Shreshth Khare (CH '19)",
+    "predicate": "is Governor for",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Aayush Keshva (PH '20)",
+    "predicate": "is Governor for",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Swapnil Batle (MA '20)",
+    "predicate": "is Governor for",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Ashutosh Bhaskar (GG '20)",
+    "predicate": "is Governor for",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Lalit Khemlani (EC '18)",
+    "predicate": "is Governor for",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Himanshu Mishra (MA '19)",
+    "predicate": "is Governor for",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Nitish Kumar (CE '18)",
+    "predicate": "is Governor for",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Pankaj Sutar (HS '19)",
+    "predicate": "is Governor for",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Yash Shrivastava (CS '17)",
+    "predicate": "is Governor for",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Rishabh Upadhyay (CY '18)",
+    "predicate": "is Governor for",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Sumit Kumar Pandey (MI '17)",
+    "predicate": "is Governor for",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Atchuta Srinivas Duddu (IE '17)",
+    "predicate": "is Governor for",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Ujjwal Dubey (CH '16)",
+    "predicate": "is Governor for",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Hardik Rajpal (PH '17)",
+    "predicate": "is Governor for",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Triyansha Vijayvargiya (GG '17)",
+    "predicate": "is Governor for",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Shailesh Kumar (GG '17)",
+    "predicate": "is Governor for",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Pragya Sharma (EE '15)",
+    "predicate": "is Governor for",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Nidhi Dwivedi (HS '16)",
+    "predicate": "is Governor for",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Sushruta Mishra (ME '15)",
+    "predicate": "is Governor for",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Ketan Mundhada (AR '16)",
+    "predicate": "is Governor for",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Rahul Jai Singh (ME '15)",
+    "predicate": "is Governor for",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Priya Singh (CH '14)",
+    "predicate": "is Governor for",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Vikas Dubey (IM '15)",
+    "predicate": "is Governor for",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Saif Khan (CY '15)",
+    "predicate": "is Governor for",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Archives",
+    "predicate": "has URL",
+    "object": "https://web.archive.org/web/20150515065840/http://www.gymkhana.iitkgp.ernet.in/societies"
+  },
+  {
+    "subject": "Archives",
+    "predicate": "has URL",
+    "object": "https://web.archive.org/web/20131121043239/http://www.gymkhana.iitkgp.ernet.in/societies/tls"
+  },
+  {
+    "subject": "Archives",
+    "predicate": "has URL",
+    "object": "https://web.archive.org/web/20120912043025/http://www.gymkhana.iitkgp.ernet.in/societies/tls"
+  }
+]

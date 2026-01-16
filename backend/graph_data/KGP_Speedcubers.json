@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "KGP Speedcubers",
+    "predicate": "is a",
+    "object": "hobby group"
+  },
+  {
+    "subject": "KGP Speedcubers",
+    "predicate": "located at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "KGP Speedcubers",
+    "predicate": "looks to organize",
+    "object": "workshops"
+  },
+  {
+    "subject": "KGP Speedcubers",
+    "predicate": "looks to organize",
+    "object": "competitions"
+  },
+  {
+    "subject": "KGP Speedcubers",
+    "predicate": "teaches",
+    "object": "how to solve the Rubik's cube"
+  },
+  {
+    "subject": "KGP Speedcubers",
+    "predicate": "introduces to",
+    "object": "the world of speedcubing"
+  }
+]

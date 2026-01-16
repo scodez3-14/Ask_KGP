@@ -1,0 +1,2200 @@
+[
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "founded",
+    "object": "2001"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "founder",
+    "object": "Anish Reddy"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "has members",
+    "object": "35"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "website",
+    "object": "www.robotix.in"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "contact",
+    "object": "+91 7620821543 (Parth Gupta)"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "contact",
+    "object": "+91 9142735129 (Amrit Lal Singh)"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "under",
+    "object": "TSG"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "activities",
+    "object": "Robotics"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "activities",
+    "object": "Robotix(competition)"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "activities",
+    "object": "KRAIG"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "activities",
+    "object": "KRISS"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "activities",
+    "object": "Annual Winter School of AI and Robotics"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "activities",
+    "object": "Robotics Workshops"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "activities",
+    "object": "Makerspace"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "activities",
+    "object": "Line Follower Hackathon"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "is an official society under",
+    "object": "Technology Students' Gymkhana"
+  },
+  {
+    "subject": "Technology Students' Gymkhana",
+    "predicate": "is under",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "is a focal point for",
+    "object": "activities and projects related to robotics in the campus"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "has reached",
+    "object": "steadily expanding each year"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "is one of the nerve centres of",
+    "object": "amateur robotics in India"
+  },
+  {
+    "subject": "Technology Robotix Society (TRS)",
+    "predicate": "conducts",
+    "object": "events"
+  },
+  {
+    "subject": "Technology Robotix Society (TRS)",
+    "predicate": "targets",
+    "object": "undergraduate students"
+  },
+  {
+    "subject": "Technology Robotix Society (TRS)",
+    "predicate": "has general aim of",
+    "object": "spreading robotics culture"
+  },
+  {
+    "subject": "spreading robotics culture",
+    "predicate": "happens in",
+    "object": "campus and around"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "organized by",
+    "object": "TRS"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "occur during",
+    "object": "autumn semester"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "open to",
+    "object": "all students"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "main attendees",
+    "object": "first year undergraduate students"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "cover basics of",
+    "object": "robotics"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "start with",
+    "object": "drives"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "include",
+    "object": "mechanisms"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "include",
+    "object": "electronics"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "include",
+    "object": "integrated circuits"
+  },
+  {
+    "subject": "KRAIG classes",
+    "predicate": "include",
+    "object": "autonomous robotics"
+  },
+  {
+    "subject": "The annual winter workshop",
+    "predicate": "is conducted",
+    "object": "each year after the conclusion of the autumn semester"
+  },
+  {
+    "subject": "The workshops",
+    "predicate": "are mentored by",
+    "object": "second year robotics enthusiasts including TRS members"
+  },
+  {
+    "subject": "The workshops",
+    "predicate": "teach",
+    "object": "interested students the concepts of either autonomous robotics or computer vision"
+  },
+  {
+    "subject": "interested students",
+    "predicate": "attempt to tackle",
+    "object": "a relevant problem statement"
+  },
+  {
+    "subject": "Students",
+    "predicate": "are selected through",
+    "object": "a common test organized by TRS"
+  },
+  {
+    "subject": "TRS",
+    "predicate": "organizes",
+    "object": "a common test"
+  },
+  {
+    "subject": "TRS",
+    "predicate": "assigns",
+    "object": "problem statements and mentors to the students"
+  },
+  {
+    "subject": "The students",
+    "predicate": "try to tackle together",
+    "object": "problem statements and mentors"
+  },
+  {
+    "subject": "The students",
+    "predicate": "try to tackle together",
+    "object": "in one week of time"
+  },
+  {
+    "subject": "Kharagpur Robotics and Intelligent Systems Seminars (KRISS)",
+    "predicate": "is an initiative",
+    "object": "to bring together people across departments and different years to discuss and exchange ideas related to more mature and nuanced areas of robotics"
+  },
+  {
+    "subject": "The primary motivation of KRISS",
+    "predicate": "is",
+    "object": "to encourage feedback and potential collaboration between interested individuals"
+  },
+  {
+    "subject": "The primary motivation of KRISS",
+    "predicate": "is",
+    "object": "to foster a general culture of research-oriented discussions"
+  },
+  {
+    "subject": "TRS",
+    "predicate": "organizes",
+    "object": "competitions"
+  },
+  {
+    "subject": "competitions",
+    "predicate": "include",
+    "object": "Robosoccer"
+  },
+  {
+    "subject": "TRS",
+    "predicate": "organizes",
+    "object": "Pathfinder workshop"
+  },
+  {
+    "subject": "TRS",
+    "predicate": "conducts",
+    "object": "workshops for robotics"
+  },
+  {
+    "subject": "TRS",
+    "predicate": "conducts workshops in",
+    "object": "other colleges in India"
+  },
+  {
+    "subject": "Technology Robotix Society alumni",
+    "predicate": "initiated",
+    "object": "numerous robotics projects"
+  },
+  {
+    "subject": "numerous robotics projects",
+    "predicate": "have received",
+    "object": "independent funding"
+  },
+  {
+    "subject": "numerous robotics projects",
+    "predicate": "have been converted to",
+    "object": "independent research groups"
+  },
+  {
+    "subject": "independent research groups",
+    "predicate": "are located in",
+    "object": "the campus"
+  },
+  {
+    "subject": "Technology Robotix Society",
+    "predicate": "is managing",
+    "object": "two research projects"
+  },
+  {
+    "subject": "Quadrotor project",
+    "predicate": "is one of",
+    "object": "two research projects being managed by TRS"
+  },
+  {
+    "subject": "Swarm project",
+    "predicate": "is one of",
+    "object": "two research projects being managed by TRS"
+  },
+  {
+    "subject": "Aerial Robotics Kharagpur",
+    "predicate": "has_main_article",
+    "object": "Aerial Robotics Kharagpur"
+  },
+  {
+    "subject": "Quadrotor",
+    "predicate": "is_a",
+    "object": "unmanned aerial vehicle project"
+  },
+  {
+    "subject": "Quadrotor",
+    "predicate": "taken_up_by",
+    "object": "Team Robotix"
+  },
+  {
+    "subject": "Team Robotix",
+    "predicate": "initiated_quadrotor_project",
+    "object": "academic year 2014-15"
+  },
+  {
+    "subject": "Quadrotor project",
+    "predicate": "goal",
+    "object": "participate and win in I.A.R.C."
+  },
+  {
+    "subject": "I.A.R.C.",
+    "predicate": "is_a",
+    "object": "International Aerial Robotics Competition"
+  },
+  {
+    "subject": "I.A.R.C.",
+    "predicate": "is_described_as",
+    "object": "highly prestigious and contested global event"
+  },
+  {
+    "subject": "I.A.R.C.",
+    "predicate": "has_problem_statements",
+    "object": "realistic and daunting"
+  },
+  {
+    "subject": "Swarm IIT Kharagpur",
+    "predicate": "is project of",
+    "object": "Team Robotix"
+  },
+  {
+    "subject": "Team Robotix",
+    "predicate": "leads",
+    "object": "Swarm IIT Kharagpur"
+  },
+  {
+    "subject": "Swarm Robotics",
+    "predicate": "is field of",
+    "object": "Swarm IIT Kharagpur"
+  },
+  {
+    "subject": "Swarm Robotics",
+    "predicate": "rare in",
+    "object": "country"
+  },
+  {
+    "subject": "Swarm IIT Kharagpur",
+    "predicate": "aims to enable",
+    "object": "robots explore unknown terrain"
+  },
+  {
+    "subject": "Makerspace",
+    "predicate": "is an initiative of",
+    "object": "Team Robotix"
+  },
+  {
+    "subject": "Makerspace",
+    "predicate": "is a",
+    "object": "community-based open source hardware hacking lab"
+  },
+  {
+    "subject": "TRS",
+    "predicate": "aims to undertake projects under",
+    "object": "Makerspace"
+  },
+  {
+    "subject": "Makerspace",
+    "predicate": "includes completed projects",
+    "object": "2D PLOTTER"
+  },
+  {
+    "subject": "Makerspace",
+    "predicate": "includes completed projects",
+    "object": "Automated Inventory Management"
+  },
+  {
+    "subject": "Makerspace",
+    "predicate": "includes completed projects",
+    "object": "Self Learning Crawling Robot"
+  },
+  {
+    "subject": "Makerspace",
+    "predicate": "includes completed projects",
+    "object": "Inter-IIT TCTD challenge"
+  },
+  {
+    "subject": "QUADRUPED",
+    "predicate": "is an ongoing project of",
+    "object": "Makerspace"
+  },
+  {
+    "subject": "QUADRUPED",
+    "predicate": "is equipped with",
+    "object": "4 wheels"
+  },
+  {
+    "subject": "QUADRUPED",
+    "predicate": "can move using",
+    "object": "wheels on plane surfaces"
+  },
+  {
+    "subject": "QUADRUPED",
+    "predicate": "can use its legs to climb",
+    "object": "stairs/uneven surfaces"
+  },
+  {
+    "subject": "ROBOTIC ARM",
+    "predicate": "is an ongoing project of",
+    "object": "Makerspace"
+  },
+  {
+    "subject": "ROBOTIC ARM",
+    "predicate": "is a",
+    "object": "5 degree-of-freedom robotic arm"
+  },
+  {
+    "subject": "ROBOTIC ARM",
+    "predicate": "has a chassis made by",
+    "object": "3D printing"
+  },
+  {
+    "subject": "ROBOTIC ARM",
+    "predicate": "uses",
+    "object": "servos"
+  },
+  {
+    "subject": "ROBOTIC ARM",
+    "predicate": "can be used for",
+    "object": "research purposes"
+  },
+  {
+    "subject": "Robotix",
+    "predicate": "is a",
+    "object": "fest"
+  },
+  {
+    "subject": "Robotix",
+    "predicate": "occurs during",
+    "object": "Kshitij"
+  },
+  {
+    "subject": "Robotix",
+    "predicate": "has footfall",
+    "object": "over 2000 each year"
+  },
+  {
+    "subject": "Robotix",
+    "predicate": "is",
+    "object": "largest single robotics based annual agglomeration in South Asia"
+  },
+  {
+    "subject": "Events during Robotix",
+    "predicate": "are conducted under",
+    "object": "three categories"
+  },
+  {
+    "subject": "manual events",
+    "predicate": "are a category of",
+    "object": "Events during Robotix"
+  },
+  {
+    "subject": "participant",
+    "predicate": "handles",
+    "object": "robot"
+  },
+  {
+    "subject": "participant",
+    "predicate": "uses",
+    "object": "remote control"
+  },
+  {
+    "subject": "remote system",
+    "predicate": "may be",
+    "object": "wired or unwired"
+  },
+  {
+    "subject": "robot",
+    "predicate": "performs",
+    "object": "specified task"
+  },
+  {
+    "subject": "specified task",
+    "predicate": "is usually",
+    "object": "something mechanical"
+  },
+  {
+    "subject": "autonomous events",
+    "predicate": "are a category of",
+    "object": "Events during Robotix"
+  },
+  {
+    "subject": "robots",
+    "predicate": "act",
+    "object": "independently"
+  },
+  {
+    "subject": "participants",
+    "predicate": "are not allowed to control",
+    "object": "robots during their run"
+  },
+  {
+    "subject": "robots",
+    "predicate": "use",
+    "object": "programmed micro-controllers"
+  },
+  {
+    "subject": "programmed micro-controllers",
+    "predicate": "make",
+    "object": "decisions"
+  },
+  {
+    "subject": "Some events",
+    "predicate": "involve",
+    "object": "more than one robot"
+  },
+  {
+    "subject": "Some events",
+    "predicate": "can be a mix of",
+    "object": "autonomous and manually controlled robots"
+  },
+  {
+    "subject": "programming events",
+    "predicate": "are a category of",
+    "object": "Events during Robotix"
+  },
+  {
+    "subject": "participants",
+    "predicate": "are given",
+    "object": "problem statement"
+  },
+  {
+    "subject": "participants",
+    "predicate": "submit",
+    "object": "code"
+  },
+  {
+    "subject": "competitors",
+    "predicate": "are allowed to submit",
+    "object": "solutions online"
+  },
+  {
+    "subject": "Robotix 2019",
+    "predicate": "was held from",
+    "object": "18-20 January, 2019"
+  },
+  {
+    "subject": "Robotix 2019",
+    "predicate": "held",
+    "object": "Zenith"
+  },
+  {
+    "subject": "Zenith",
+    "predicate": "required building",
+    "object": "a manually controlled robot"
+  },
+  {
+    "subject": "a manually controlled robot",
+    "predicate": "is capable of",
+    "object": "crossing the gaps in the arena"
+  },
+  {
+    "subject": "a manually controlled robot",
+    "predicate": "avoids obstacles by",
+    "object": "increasing or decreasing its ground clearance"
+  },
+  {
+    "subject": "Robotix 2019",
+    "predicate": "held",
+    "object": "Cubiscan"
+  },
+  {
+    "subject": "Cubiscan",
+    "predicate": "required building",
+    "object": "a robot"
+  },
+  {
+    "subject": "a robot",
+    "predicate": "is capable of",
+    "object": "detecting the dimensions of the block"
+  },
+  {
+    "subject": "detecting the dimensions of the block",
+    "predicate": "estimates",
+    "object": "the volume of the block"
+  },
+  {
+    "subject": "a robot",
+    "predicate": "indicates",
+    "object": "the increasing order of volume of blocks"
+  },
+  {
+    "subject": "Robotix 2019",
+    "predicate": "held",
+    "object": "Crusade"
+  },
+  {
+    "subject": "Crusade",
+    "predicate": "required building",
+    "object": "an image processing robot"
+  },
+  {
+    "subject": "an image processing robot",
+    "predicate": "is capable of",
+    "object": "traversing in a lane"
+  },
+  {
+    "subject": "an image processing robot",
+    "predicate": "is capable of",
+    "object": "detecting glowing LEDs on its way"
+  },
+  {
+    "subject": "an image processing robot",
+    "predicate": "decides its path according to",
+    "object": "the frequencies of the blinking LEDs"
+  },
+  {
+    "subject": "Robotix 2018",
+    "predicate": "was held from",
+    "object": "19 - 21 January, 2018"
+  },
+  {
+    "subject": "Robotix 2018",
+    "predicate": "includes event",
+    "object": "Poles Apart"
+  },
+  {
+    "subject": "Robotix 2018",
+    "predicate": "includes event",
+    "object": "STAX"
+  },
+  {
+    "subject": "Robotix 2018",
+    "predicate": "includes event",
+    "object": "Fortress"
+  },
+  {
+    "subject": "Poles Apart",
+    "predicate": "is about",
+    "object": "Build a manually controlled robot"
+  },
+  {
+    "subject": "Poles Apart robot",
+    "predicate": "is capable of",
+    "object": "picking and placing blocks with accuracy"
+  },
+  {
+    "subject": "Poles Apart robot",
+    "predicate": "is capable of",
+    "object": "changing its interaxial distance"
+  },
+  {
+    "subject": "STAX",
+    "predicate": "is about",
+    "object": "Build a robot"
+  },
+  {
+    "subject": "STAX robot",
+    "predicate": "can rearrange",
+    "object": "blocks of different colors"
+  },
+  {
+    "subject": "STAX robot",
+    "predicate": "identifies",
+    "object": "colors"
+  },
+  {
+    "subject": "STAX robot",
+    "predicate": "uses",
+    "object": "line following"
+  },
+  {
+    "subject": "Fortress",
+    "predicate": "is about",
+    "object": "Build an image processing robot"
+  },
+  {
+    "subject": "Fortress robot",
+    "predicate": "can recognize",
+    "object": "useful patterns"
+  },
+  {
+    "subject": "Fortress robot",
+    "predicate": "uses",
+    "object": "pattern recognition"
+  },
+  {
+    "subject": "Fortress robot",
+    "predicate": "avoids",
+    "object": "other obstacles"
+  },
+  {
+    "subject": "Robotix 2017",
+    "predicate": "was held from",
+    "object": "27 - 29 January, 2017"
+  },
+  {
+    "subject": "Robotix 2017",
+    "predicate": "includes event",
+    "object": "Bomb Disposal"
+  },
+  {
+    "subject": "Robotix 2017",
+    "predicate": "includes event",
+    "object": "B.R.I.C.K.S."
+  },
+  {
+    "subject": "Robotix 2017",
+    "predicate": "includes event",
+    "object": "Conquest"
+  },
+  {
+    "subject": "Bomb Disposal",
+    "predicate": "description",
+    "object": "Build a manually controlled robot which is capable of cutting the required wires and lifting objects."
+  },
+  {
+    "subject": "B.R.I.C.K.S.",
+    "predicate": "description",
+    "object": "Build a robot that is capable of segregating building materials by differentiating between hollow and solid bricks by successful autonomous weight detection."
+  },
+  {
+    "subject": "Conquest",
+    "predicate": "description",
+    "object": "Build an image processing robot that can collect resources like food and wood from the arena while avoiding different obstacles."
+  },
+  {
+    "subject": "Robotix 2016",
+    "predicate": "held from",
+    "object": "21 - 24 January, 2016"
+  },
+  {
+    "subject": "Robotix 2016",
+    "predicate": "includes event",
+    "object": "Summit"
+  },
+  {
+    "subject": "Robotix 2016",
+    "predicate": "includes event",
+    "object": "Sherlock"
+  },
+  {
+    "subject": "Robotix 2016",
+    "predicate": "includes event",
+    "object": "Warehouse"
+  },
+  {
+    "subject": "Robotix 2016",
+    "predicate": "includes event",
+    "object": "S.H.E.L.D.O.N."
+  },
+  {
+    "subject": "Summit",
+    "predicate": "requires building",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "manually controlled robot",
+    "predicate": "capable of",
+    "object": "climbing staircases"
+  },
+  {
+    "subject": "manually controlled robot",
+    "predicate": "capable of",
+    "object": "picking storing and placing objects"
+  },
+  {
+    "subject": "Sherlock",
+    "predicate": "requires building",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "capable of",
+    "object": "decoding encoded wireless signals"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "capable of",
+    "object": "navigating in a featureless arena"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "uses",
+    "object": "digital compass"
+  },
+  {
+    "subject": "Warehouse",
+    "predicate": "requires building",
+    "object": "gesture controlled semi-autonomous robot"
+  },
+  {
+    "subject": "gesture controlled semi-autonomous robot",
+    "predicate": "capable of",
+    "object": "sorting blocks on multi-layered platforms"
+  },
+  {
+    "subject": "gesture controlled semi-autonomous robot",
+    "predicate": "uses",
+    "object": "RFID tags"
+  },
+  {
+    "subject": "S.H.E.L.D.O.N.",
+    "predicate": "requires building",
+    "object": "image processing robot"
+  },
+  {
+    "subject": "image processing robot",
+    "predicate": "capable of",
+    "object": "detecting characters"
+  },
+  {
+    "subject": "image processing robot",
+    "predicate": "uses",
+    "object": "overhead camera"
+  },
+  {
+    "subject": "image processing robot",
+    "predicate": "capable of",
+    "object": "traversing characters"
+  },
+  {
+    "subject": "traversal",
+    "predicate": "generates",
+    "object": "equation"
+  },
+  {
+    "subject": "equation",
+    "predicate": "must fulfill",
+    "object": "certain condition"
+  },
+  {
+    "subject": "AugHit",
+    "predicate": "is an event of",
+    "object": "Robotix 2015"
+  },
+  {
+    "subject": "AugHit",
+    "predicate": "requires building",
+    "object": "Image Processing robot"
+  },
+  {
+    "subject": "Image Processing robot",
+    "predicate": "can play",
+    "object": "Brick Break game"
+  },
+  {
+    "subject": "Minefield",
+    "predicate": "is an event of",
+    "object": "Robotix 2015"
+  },
+  {
+    "subject": "Minefield",
+    "predicate": "requires building",
+    "object": "semi-autonomous robot"
+  },
+  {
+    "subject": "semi-autonomous robot",
+    "predicate": "is capable of",
+    "object": "moving around"
+  },
+  {
+    "subject": "semi-autonomous robot",
+    "predicate": "is capable of",
+    "object": "clasping objects using gesture recognition"
+  },
+  {
+    "subject": "semi-autonomous robot",
+    "predicate": "implements",
+    "object": "metal-detection autonomously"
+  },
+  {
+    "subject": "Cascade",
+    "predicate": "is an event of",
+    "object": "Robotix 2015"
+  },
+  {
+    "subject": "Cascade",
+    "predicate": "requires building",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "manually controlled robot",
+    "predicate": "is capable of",
+    "object": "traversing vertical rods"
+  },
+  {
+    "subject": "manually controlled robot",
+    "predicate": "is capable of",
+    "object": "shooting terrorists"
+  },
+  {
+    "subject": "manually controlled robot",
+    "predicate": "is capable of",
+    "object": "extinguishing fire"
+  },
+  {
+    "subject": "Skyfall",
+    "predicate": "is an event of",
+    "object": "Robotix 2015"
+  },
+  {
+    "subject": "Skyfall",
+    "predicate": "requires building",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "manually controlled robot",
+    "predicate": "carries out",
+    "object": "shipment of parcels from dock to vessel"
+  },
+  {
+    "subject": "Step Up",
+    "predicate": "is an event of",
+    "object": "Robotix 2015"
+  },
+  {
+    "subject": "Step Up",
+    "predicate": "requires building",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "is capable of",
+    "object": "traversing a grid"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "is capable of",
+    "object": "arranging blocks on nodes in increasing order of height"
+  },
+  {
+    "subject": "Sudocode",
+    "predicate": "is an event of",
+    "object": "Robotix 2015"
+  },
+  {
+    "subject": "Sudocode",
+    "predicate": "requires writing",
+    "object": "code to optimise strategy to find and destroy enemy bunkers"
+  },
+  {
+    "subject": "Sudocode",
+    "predicate": "requires writing",
+    "object": "code to find and attack enemy troops"
+  },
+  {
+    "@type": "Event",
+    "@id": "Robotix_2014",
+    "name": "Robotix 2014",
+    "startDate": "2014-01-31",
+    "endDate": "2014-02-03"
+  },
+  {
+    "@type": "RoboticsCompetition",
+    "@id": "Robotix_2014_Event_GeoAware",
+    "name": "Geo-Aware",
+    "description": "Create a vision-guided robot which can use onboard video feed to navigate an environment based on an overhead image as a map.",
+    "isPartOf": "Robotix_2014",
+    "category": "Vision-Guided Navigation"
+  },
+  {
+    "@type": "RoboticsCompetition",
+    "@id": "Robotix_2014_Event_Tremors",
+    "name": "Tremors",
+    "description": "Build an Autonomous robot that can seek out victims present in the arena while detecting and avoiding earthquake affected vibration zones present in the arena.",
+    "isPartOf": "Robotix_2014",
+    "category": "Autonomous Search and Rescue"
+  },
+  {
+    "@type": "RoboticsCompetition",
+    "@id": "Robotix_2014_Event_CanyonRush",
+    "name": "Canyon Rush",
+    "description": "Build a manually controlled robot capable of traversing an arena similar to a canyon and saving victims stranded at certain depths.",
+    "isPartOf": "Robotix_2014",
+    "category": "Manual Traversal and Rescue"
+  },
+  {
+    "@type": "RoboticsCompetition",
+    "@id": "Robotix_2014_Event_Inspiralon",
+    "name": "Inspiralon",
+    "description": "Build a manually controlled robot capable of traversing a broken pipe and repairing it on the way, in this case, popping corks plugged in the pipe.",
+    "isPartOf": "Robotix_2014",
+    "category": "Manual Pipe Repair"
+  },
+  {
+    "@type": "RoboticsCompetition",
+    "@id": "Robotix_2014_Event_Transporter",
+    "name": "Transporter",
+    "description": "Build an autonomous robot which can traverse a grid and place blocks in voids on the grid such that it optimises its path while completing this task.",
+    "isPartOf": "Robotix_2014",
+    "category": "Autonomous Grid Path Optimization"
+  },
+  {
+    "@type": "CodingCompetition",
+    "@id": "Robotix_2014_Event_Sudocode",
+    "name": "Sudocode",
+    "description": "SudoCode was an online coding event including different Problem Statements to be judged by an online evaluator.",
+    "isPartOf": "Robotix_2014",
+    "category": "Online Coding"
+  },
+  {
+    "subject": "Robotix 2013",
+    "predicate": "was held from",
+    "object": "1\u20134 February 2013"
+  },
+  {
+    "subject": "Robotix 2013",
+    "predicate": "featured",
+    "object": "Abyss"
+  },
+  {
+    "subject": "Abyss",
+    "predicate": "is a",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "Abyss robot",
+    "predicate": "uses",
+    "object": "ropes"
+  },
+  {
+    "subject": "Abyss robot",
+    "predicate": "descends",
+    "object": "rocky surface"
+  },
+  {
+    "subject": "Abyss goal",
+    "predicate": "is to retrieve",
+    "object": "people (represented by rings)"
+  },
+  {
+    "subject": "Abyss goal",
+    "predicate": "brings them to",
+    "object": "station (represented by a pole)"
+  },
+  {
+    "subject": "Robotix 2013",
+    "predicate": "featured",
+    "object": "Overhaul"
+  },
+  {
+    "subject": "Overhaul",
+    "predicate": "is a",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "Overhaul robot",
+    "predicate": "traverses",
+    "object": "various terrains and crevasses"
+  },
+  {
+    "subject": "Overhaul robot",
+    "predicate": "constructs",
+    "object": "a path"
+  },
+  {
+    "subject": "Overhaul goal",
+    "predicate": "is to reach",
+    "object": "victims trapped at an accident site"
+  },
+  {
+    "subject": "Robotix 2013",
+    "predicate": "featured",
+    "object": "A.C.R.O.S.S."
+  },
+  {
+    "subject": "A.C.R.O.S.S.",
+    "predicate": "is an event involving",
+    "object": "a pair of autonomous robots"
+  },
+  {
+    "subject": "A.C.R.O.S.S. robots",
+    "predicate": "must work together to navigate",
+    "object": "a series of chasms and buildings"
+  },
+  {
+    "subject": "Robotix 2013",
+    "predicate": "featured",
+    "object": "Lumos"
+  },
+  {
+    "subject": "Lumos",
+    "predicate": "is an event for",
+    "object": "an autonomous robot"
+  },
+  {
+    "subject": "Lumos robot",
+    "predicate": "navigates",
+    "object": "a dark arena"
+  },
+  {
+    "subject": "Lumos robot",
+    "predicate": "has goal to turn off",
+    "object": "light sources"
+  },
+  {
+    "subject": "Lumos robot",
+    "predicate": "must avoid",
+    "object": "unlit sources"
+  },
+  {
+    "subject": "Robotix 2013",
+    "predicate": "featured",
+    "object": "Seeker"
+  },
+  {
+    "subject": "Seeker",
+    "predicate": "is an event for",
+    "object": "an autonomous robot"
+  },
+  {
+    "subject": "Seeker robot",
+    "predicate": "navigates",
+    "object": "an indoor environment"
+  },
+  {
+    "subject": "Seeker robot",
+    "predicate": "recognizes",
+    "object": "signs and directions"
+  },
+  {
+    "subject": "Seeker robot",
+    "predicate": "goal is to reach",
+    "object": "targets"
+  },
+  {
+    "subject": "Seeker robot",
+    "predicate": "goal is to find",
+    "object": "its way out"
+  },
+  {
+    "subject": "Robotix 2013",
+    "predicate": "featured",
+    "object": "Marauder's Map"
+  },
+  {
+    "subject": "Marauder's Map",
+    "predicate": "is",
+    "object": "an algorithm design event"
+  },
+  {
+    "subject": "Marauder's Map algorithm",
+    "predicate": "plans",
+    "object": "an itinerary for a Marauder"
+  },
+  {
+    "subject": "Marauder's Map itinerary",
+    "predicate": "loots",
+    "object": "various cities around the world"
+  },
+  {
+    "subject": "Marauder's Map algorithm",
+    "predicate": "considers",
+    "object": "account terrain"
+  },
+  {
+    "subject": "Marauder's Map algorithm",
+    "predicate": "considers",
+    "object": "travel time"
+  },
+  {
+    "subject": "Marauder's Map algorithm",
+    "predicate": "considers",
+    "object": "cost of transportation"
+  },
+  {
+    "subject": "Robotix 2012",
+    "predicate": "was held from",
+    "object": "27\u201330 January 2012"
+  },
+  {
+    "subject": "Inferno",
+    "predicate": "is an event of",
+    "object": "Robotix 2012"
+  },
+  {
+    "subject": "Inferno",
+    "predicate": "involves",
+    "object": "manual robots"
+  },
+  {
+    "subject": "manual robots",
+    "predicate": "play the role of",
+    "object": "firemen"
+  },
+  {
+    "subject": "firemen",
+    "predicate": "douse",
+    "object": "fires"
+  },
+  {
+    "subject": "Vertigo",
+    "predicate": "is an event of",
+    "object": "Robotix 2012"
+  },
+  {
+    "subject": "Vertigo",
+    "predicate": "involves",
+    "object": "robot"
+  },
+  {
+    "subject": "robot",
+    "predicate": "rides",
+    "object": "zip-line"
+  },
+  {
+    "subject": "robot",
+    "predicate": "shoots at",
+    "object": "targets"
+  },
+  {
+    "subject": "Stasis",
+    "predicate": "is an event of",
+    "object": "Robotix 2012"
+  },
+  {
+    "subject": "Stasis",
+    "predicate": "involves",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "balances",
+    "object": "water reservoir compartment"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "guides",
+    "object": "water reservoir compartment"
+  },
+  {
+    "subject": "Stalker",
+    "predicate": "is an event of",
+    "object": "Robotix 2012"
+  },
+  {
+    "subject": "Stalker",
+    "predicate": "involves",
+    "object": "autonomous robots"
+  },
+  {
+    "subject": "autonomous robots",
+    "predicate": "communicate",
+    "object": "one another"
+  },
+  {
+    "subject": "first robot",
+    "predicate": "follows",
+    "object": "line"
+  },
+  {
+    "subject": "first robot",
+    "predicate": "communicates with",
+    "object": "second robot"
+  },
+  {
+    "subject": "second robot",
+    "predicate": "traces",
+    "object": "similar path"
+  },
+  {
+    "subject": "second robot",
+    "predicate": "is on",
+    "object": "another arena"
+  },
+  {
+    "subject": "another arena",
+    "predicate": "does not have",
+    "object": "markings"
+  },
+  {
+    "subject": "Nuke Clear",
+    "predicate": "is an event of",
+    "object": "Robotix 2012"
+  },
+  {
+    "subject": "Nuke Clear",
+    "predicate": "involves",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "uses",
+    "object": "image processing"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "navigates",
+    "object": "arena"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "detects",
+    "object": "bombs"
+  },
+  {
+    "subject": "autonomous robot",
+    "predicate": "defuses",
+    "object": "bombs"
+  },
+  {
+    "subject": "Echelon",
+    "predicate": "is an event of",
+    "object": "Robotix 2012"
+  },
+  {
+    "subject": "Echelon",
+    "predicate": "is",
+    "object": "online event"
+  },
+  {
+    "subject": "Echelon",
+    "predicate": "aims to make",
+    "object": "machine"
+  },
+  {
+    "subject": "machine",
+    "predicate": "capable of",
+    "object": "understanding our world"
+  },
+  {
+    "subject": "Echelon",
+    "predicate": "uses",
+    "object": "basic NLP tasks"
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robotix 2011"
+    },
+    "predicate": {
+      "@type": "PropertyValue",
+      "name": "startDate",
+      "value": "2011-01-28"
+    },
+    "object": {
+      "@type": "Thing",
+      "name": "28\u201331 January 2011"
+    }
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robotix 2011"
+    },
+    "predicate": {
+      "@type": "PropertyValue",
+      "name": "endDate",
+      "value": "2011-01-31"
+    },
+    "object": {
+      "@type": "Thing",
+      "name": "28\u201331 January 2011"
+    }
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robotix 2011"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "featuredEvent"
+    },
+    "object": {
+      "@type": "Event",
+      "name": "R.A.F.T."
+    }
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robotix 2011"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "featuredEvent"
+    },
+    "object": {
+      "@type": "Event",
+      "name": "Pirate Bay"
+    }
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robotix 2011"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "featuredEvent"
+    },
+    "object": {
+      "@type": "Event",
+      "name": "The Fugitives"
+    }
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robotix 2011"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "featuredEvent"
+    },
+    "object": {
+      "@type": "Event",
+      "name": "Ballista"
+    }
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robotix 2011"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "featuredEvent"
+    },
+    "object": {
+      "@type": "Event",
+      "name": "Robocop"
+    }
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robotix 2011"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "featuredEvent"
+    },
+    "object": {
+      "@type": "Event",
+      "name": "The Negotiators"
+    }
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "R.A.F.T."
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "description"
+    },
+    "object": "The manually controlled robot or group of robots use a water raft to retrieve people (balls) from flood affected areas (platforms), and bring them to safety (designated zone)."
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Pirate Bay"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "description"
+    },
+    "object": "The manually controlled robot searches and digs for buried treasure, and then rescues fellow pirates."
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "The Fugitives"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "description"
+    },
+    "object": "An team of up to four autonomous robots communicate and collaborate to detect and corner fugitive robots."
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Ballista"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "description"
+    },
+    "object": "The autonomous robot shoots ping-pong balls into a basket from different locations. Judging is based on accuracy and range."
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "Robocop"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "description"
+    },
+    "object": "The autonomous robot uses on-board image processing to identify and knock out statuettes of a certain color."
+  },
+  {
+    "@type": "Triple",
+    "subject": {
+      "@type": "Event",
+      "name": "The Negotiators"
+    },
+    "predicate": {
+      "@type": "Property",
+      "name": "description"
+    },
+    "object": "In the online event, the participants submit a computer program that can negotiate with other opponents in order to complete a configuration of blocks on a virtual arena."
+  },
+  {
+    "subject": "Robotix 2010",
+    "predicate": "was held from",
+    "object": "28\u201331 January 2010"
+  },
+  {
+    "subject": "Robotix 2010",
+    "predicate": "featured event",
+    "object": "Xplode"
+  },
+  {
+    "subject": "Xplode",
+    "predicate": "theme inspired by",
+    "object": "land mine problem in some African countries"
+  },
+  {
+    "subject": "Xplode",
+    "predicate": "requires robots",
+    "object": "pair of autonomous robots"
+  },
+  {
+    "subject": "mine-detecting robot",
+    "predicate": "maps",
+    "object": "arena"
+  },
+  {
+    "subject": "mine-detecting robot",
+    "predicate": "transmits information to",
+    "object": "mine-avoiding robot"
+  },
+  {
+    "subject": "mine-avoiding robot",
+    "predicate": "attempts to reach",
+    "object": "goal"
+  },
+  {
+    "subject": "mine-avoiding robot",
+    "predicate": "avoids",
+    "object": "mines"
+  },
+  {
+    "subject": "Robotix 2010",
+    "predicate": "featured event",
+    "object": "Xtension"
+  },
+  {
+    "subject": "Xtension",
+    "predicate": "robots coordinate to traverse",
+    "object": "series of chasms"
+  },
+  {
+    "subject": "Xtension",
+    "predicate": "requires at least one",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "Robotix 2010",
+    "predicate": "featured event",
+    "object": "8MileX"
+  },
+  {
+    "subject": "8MileX",
+    "predicate": "is similar to",
+    "object": "Robotix 2009 8 Mile event"
+  },
+  {
+    "subject": "8MileX",
+    "predicate": "is scaled down version of",
+    "object": "DARPA Grand Challenge"
+  },
+  {
+    "subject": "Robotix 2010",
+    "predicate": "featured event",
+    "object": "TribotX Championship"
+  },
+  {
+    "subject": "TribotX Championship",
+    "predicate": "is",
+    "object": "three-tier tournament"
+  },
+  {
+    "subject": "TribotX Championship",
+    "predicate": "requires participants to use",
+    "object": "manually-controlled robots"
+  },
+  {
+    "subject": "TribotX Championship",
+    "predicate": "tasks selected from",
+    "object": "pool of modules"
+  },
+  {
+    "subject": "contestants",
+    "predicate": "informed of task",
+    "object": "12 hours before start"
+  },
+  {
+    "subject": "Robotix 2010",
+    "predicate": "featured event",
+    "object": "eXplore"
+  },
+  {
+    "subject": "eXplore",
+    "predicate": "is",
+    "object": "underwater event"
+  },
+  {
+    "subject": "eXplore robots",
+    "predicate": "are",
+    "object": "manually-controlled"
+  },
+  {
+    "subject": "eXplore robots",
+    "predicate": "dive and release",
+    "object": "light weight balls"
+  },
+  {
+    "subject": "eXplore robots",
+    "predicate": "collect",
+    "object": "floating balls"
+  },
+  {
+    "subject": "eXplore robots",
+    "predicate": "bring balls to",
+    "object": "victory zone"
+  },
+  {
+    "subject": "Robotix 2010",
+    "predicate": "featured event",
+    "object": "Xants"
+  },
+  {
+    "subject": "Xants",
+    "predicate": "is",
+    "object": "programming/online event"
+  },
+  {
+    "subject": "Xants",
+    "predicate": "inspired by",
+    "object": "ant colonies"
+  },
+  {
+    "subject": "Xants",
+    "predicate": "inspired by principles of",
+    "object": "swarm intelligence and collective intelligence"
+  },
+  {
+    "subject": "Robotix 2009",
+    "predicate": "was held from",
+    "object": "29 January \u2013 1 February 2009"
+  },
+  {
+    "subject": "Robotix 2009",
+    "predicate": "featured",
+    "object": "8 Mile"
+  },
+  {
+    "subject": "Robotix 2009",
+    "predicate": "featured",
+    "object": "12 Doors Down"
+  },
+  {
+    "subject": "Robotix 2009",
+    "predicate": "featured",
+    "object": "Micro Mouse 4D"
+  },
+  {
+    "subject": "Robotix 2009",
+    "predicate": "featured",
+    "object": "FramED9211"
+  },
+  {
+    "subject": "Robotix 2009",
+    "predicate": "featured",
+    "object": "wEDGED"
+  },
+  {
+    "subject": "Robotix 2009",
+    "predicate": "featured",
+    "object": "#mEsh"
+  },
+  {
+    "subject": "8 Mile",
+    "predicate": "is",
+    "object": "autonomous battery-powered vehicles"
+  },
+  {
+    "subject": "8 Mile",
+    "predicate": "traverse",
+    "object": "road"
+  },
+  {
+    "subject": "8 Mile",
+    "predicate": "follow",
+    "object": "traffic rules"
+  },
+  {
+    "subject": "12 Doors Down",
+    "predicate": "is",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "12 Doors Down",
+    "predicate": "placed in",
+    "object": "labyrinth of cells"
+  },
+  {
+    "subject": "Micro Mouse 4D",
+    "predicate": "is",
+    "object": "programming/online event"
+  },
+  {
+    "subject": "Micro Mouse 4D",
+    "predicate": "simulated with",
+    "object": "Microsoft Robotics Studio"
+  },
+  {
+    "subject": "FramED9211",
+    "predicate": "is",
+    "object": "programming/online event"
+  },
+  {
+    "subject": "FramED9211",
+    "predicate": "involves",
+    "object": "image processing"
+  },
+  {
+    "subject": "wEDGED",
+    "predicate": "inspired by",
+    "object": "Nintendo platform games"
+  },
+  {
+    "subject": "wEDGED",
+    "predicate": "was",
+    "object": "one-on-one competition"
+  },
+  {
+    "subject": "#mEsh",
+    "predicate": "has mesh unit square size",
+    "object": "7 cm x 7 cm"
+  },
+  {
+    "subject": "Robotix 2008",
+    "predicate": "was held from",
+    "object": "31 January \u2013 3 February 2008"
+  },
+  {
+    "subject": "Robotix 2008",
+    "predicate": "featured",
+    "object": "I.M.A.G.E."
+  },
+  {
+    "subject": "Robotix 2008",
+    "predicate": "featured",
+    "object": "Robo-Relay"
+  },
+  {
+    "subject": "Robotix 2008",
+    "predicate": "featured",
+    "object": "On Spot Robotics (Autonomous)"
+  },
+  {
+    "subject": "Robotix 2008",
+    "predicate": "featured",
+    "object": "Stackistics"
+  },
+  {
+    "subject": "Robotix 2008",
+    "predicate": "featured",
+    "object": "Terra Ranger"
+  },
+  {
+    "subject": "Robotix 2008",
+    "predicate": "featured",
+    "object": "On Spot robotics (Manual)"
+  },
+  {
+    "subject": "Robotix 2008",
+    "predicate": "featured",
+    "object": "Mission Mars"
+  },
+  {
+    "subject": "I.M.A.G.E.",
+    "predicate": "is",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "I.M.A.G.E.",
+    "predicate": "uses",
+    "object": "maximum two cameras"
+  },
+  {
+    "subject": "I.M.A.G.E.",
+    "predicate": "navigates",
+    "object": "arena"
+  },
+  {
+    "subject": "I.M.A.G.E.",
+    "predicate": "avoids",
+    "object": "obstacles"
+  },
+  {
+    "subject": "I.M.A.G.E.",
+    "predicate": "passes",
+    "object": "checkpoints"
+  },
+  {
+    "subject": "I.M.A.G.E.",
+    "predicate": "reaches",
+    "object": "end point"
+  },
+  {
+    "subject": "Robo-Relay",
+    "predicate": "involves",
+    "object": "Two autonomous robots"
+  },
+  {
+    "subject": "Robo-Relay",
+    "predicate": "traverse",
+    "object": "irregular track"
+  },
+  {
+    "subject": "Robo-Relay",
+    "predicate": "carry",
+    "object": "baton"
+  },
+  {
+    "subject": "Robo-Relay",
+    "predicate": "features synchronization",
+    "object": "robots pass baton"
+  },
+  {
+    "subject": "On Spot Robotics (Autonomous)",
+    "predicate": "is",
+    "object": "undisclosed event"
+  },
+  {
+    "subject": "On Spot Robotics (Autonomous)",
+    "predicate": "requires building",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "On Spot Robotics (Autonomous)",
+    "predicate": "uses",
+    "object": "logic gate circuits"
+  },
+  {
+    "subject": "On Spot Robotics (Autonomous)",
+    "predicate": "forbids",
+    "object": "microcontrollers"
+  },
+  {
+    "subject": "Stackistics",
+    "predicate": "involves",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "Stackistics",
+    "predicate": "assembles",
+    "object": "blocks"
+  },
+  {
+    "subject": "Stackistics",
+    "predicate": "forms",
+    "object": "spatial structure"
+  },
+  {
+    "subject": "Terra Ranger",
+    "predicate": "involves",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "Terra Ranger",
+    "predicate": "travels on",
+    "object": "varied land terrains"
+  },
+  {
+    "subject": "Terra Ranger",
+    "predicate": "travels on",
+    "object": "water surfaces"
+  },
+  {
+    "subject": "On Spot robotics (Manual)",
+    "predicate": "is",
+    "object": "undisclosed event"
+  },
+  {
+    "subject": "On Spot robotics (Manual)",
+    "predicate": "requires building",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "On Spot robotics (Manual)",
+    "predicate": "requires building",
+    "object": "controller"
+  },
+  {
+    "subject": "Mission Mars",
+    "predicate": "is",
+    "object": "programming event"
+  },
+  {
+    "subject": "Mission Mars",
+    "predicate": "involves coding",
+    "object": "robot ants"
+  },
+  {
+    "subject": "robot ants",
+    "predicate": "coordinate among themselves",
+    "object": "mission to explore area"
+  },
+  {
+    "subject": "Robotix 2007",
+    "predicate": "was held from",
+    "object": "1\u20134 February 2007"
+  },
+  {
+    "subject": "Rail Track Inspector",
+    "predicate": "is an event of",
+    "object": "Robotix 2007"
+  },
+  {
+    "subject": "Rail Track Inspector robot",
+    "predicate": "follows",
+    "object": "two parallel white lines"
+  },
+  {
+    "subject": "Rail Track Inspector robot",
+    "predicate": "reports",
+    "object": "errors"
+  },
+  {
+    "subject": "Rail Track Inspector errors",
+    "predicate": "are of two types: distance difference and discontinuity"
+  },
+  {
+    "subject": "Grid Navigator",
+    "predicate": "is an event of",
+    "object": "Robotix 2007"
+  },
+  {
+    "subject": "Grid Navigator robot",
+    "predicate": "moves in",
+    "object": "an 8-foot square maze"
+  },
+  {
+    "subject": "Grid Navigator robot",
+    "predicate": "detects",
+    "object": "positions of obstacles"
+  },
+  {
+    "subject": "Mission Mars",
+    "predicate": "is an event of",
+    "object": "Robotix 2007"
+  },
+  {
+    "subject": "Mission Mars",
+    "predicate": "is a repeat of",
+    "object": "previous year's event"
+  },
+  {
+    "subject": "Mission Mars participants",
+    "predicate": "write code to control",
+    "object": "robot ants"
+  },
+  {
+    "subject": "Mission Mars participants",
+    "predicate": "code in",
+    "object": "C, C++, or Java"
+  },
+  {
+    "subject": "Jigsaw",
+    "predicate": "is an event of",
+    "object": "Robotix 2007"
+  },
+  {
+    "subject": "Jigsaw participants",
+    "predicate": "write code to solve",
+    "object": "a jumbled up picture"
+  },
+  {
+    "subject": "Jigsaw participants",
+    "predicate": "code in",
+    "object": "C or C++"
+  },
+  {
+    "subject": "Load runner",
+    "predicate": "is an event of",
+    "object": "Robotix 2007"
+  },
+  {
+    "subject": "Load runner robot",
+    "predicate": "uses",
+    "object": "a hooking mechanism"
+  },
+  {
+    "subject": "Load runner robot",
+    "predicate": "pulls",
+    "object": "a train to its destination"
+  },
+  {
+    "subject": "Load runner",
+    "predicate": "prohibits use of",
+    "object": "magnetic material"
+  },
+  {
+    "subject": "Step climber",
+    "predicate": "is an event of",
+    "object": "Robotix 2007"
+  },
+  {
+    "subject": "Step climber robot",
+    "predicate": "climbs",
+    "object": "a flight of stairs"
+  },
+  {
+    "subject": "Robotix 2006",
+    "predicate": "was held from",
+    "object": "2\u20135 February 2006"
+  },
+  {
+    "subject": "Robotix 2006",
+    "predicate": "featured",
+    "object": "Distance Tracker"
+  },
+  {
+    "subject": "Robotix 2006",
+    "predicate": "featured",
+    "object": "Match Maker"
+  },
+  {
+    "subject": "Robotix 2006",
+    "predicate": "featured",
+    "object": "Mission Mars"
+  },
+  {
+    "subject": "Robotix 2006",
+    "predicate": "featured",
+    "object": "Top-sy Turvy"
+  },
+  {
+    "subject": "Robotix 2006",
+    "predicate": "featured",
+    "object": "Water Polo"
+  },
+  {
+    "subject": "Distance Tracker",
+    "predicate": "is a type of",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "Distance Tracker",
+    "predicate": "travels",
+    "object": "a certain path"
+  },
+  {
+    "subject": "Distance Tracker",
+    "predicate": "reports",
+    "object": "the distance traversed"
+  },
+  {
+    "subject": "Match Maker",
+    "predicate": "is a type of",
+    "object": "autonomous robot"
+  },
+  {
+    "subject": "Match Maker",
+    "predicate": "moves",
+    "object": "white blocks"
+  },
+  {
+    "subject": "Mission Mars",
+    "predicate": "is a type of",
+    "object": "programming/online event"
+  },
+  {
+    "subject": "Mission Mars",
+    "predicate": "involves participants coding",
+    "object": "robot ants"
+  },
+  {
+    "subject": "Top-sy Turvy",
+    "predicate": "is a type of",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "Top-sy Turvy",
+    "predicate": "takes",
+    "object": "balls at different heights and surfaces"
+  },
+  {
+    "subject": "Top-sy Turvy",
+    "predicate": "throws",
+    "object": "balls in a goal post"
+  },
+  {
+    "subject": "Water Polo",
+    "predicate": "is a type of",
+    "object": "manually controlled robot"
+  },
+  {
+    "subject": "Water Polo",
+    "predicate": "races on",
+    "object": "water surface"
+  },
+  {
+    "subject": "Water Polo",
+    "predicate": "places",
+    "object": "five balls inside a goal post"
+  },
+  {
+    "subject": "List of Societies and Clubs",
+    "predicate": "is a",
+    "object": "See Also item"
+  },
+  {
+    "subject": "List of student run research groups",
+    "predicate": "is a",
+    "object": "See Also item"
+  },
+  {
+    "subject": "Centre for Excellence in Robotics",
+    "predicate": "is a",
+    "object": "See Also item"
+  },
+  {
+    "subject": "Kshitij",
+    "predicate": "is a",
+    "object": "See Also item"
+  },
+  {
+    "subject": "Abhinavjain",
+    "predicate": "verified",
+    "object": "Context"
+  },
+  {
+    "subject": "Robotix Technology Robot Society",
+    "predicate": "belongs to",
+    "object": "Indian Institute of Technology Kharagpur"
+  },
+  {
+    "subject": "Robotix Technology Robot Society",
+    "predicate": "has event",
+    "object": "Events"
+  },
+  {
+    "subject": "Events",
+    "predicate": "includes",
+    "object": "Abyss"
+  },
+  {
+    "subject": "Events",
+    "predicate": "includes",
+    "object": "Overhaul"
+  },
+  {
+    "subject": "Events",
+    "predicate": "includes",
+    "object": "Across"
+  },
+  {
+    "subject": "Events",
+    "predicate": "includes",
+    "object": "Lumos"
+  },
+  {
+    "subject": "Events",
+    "predicate": "includes",
+    "object": "Seeker"
+  },
+  {
+    "subject": "Events",
+    "predicate": "includes",
+    "object": "Marauder's Map"
+  }
+]

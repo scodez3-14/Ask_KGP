@@ -1,0 +1,1007 @@
+[
+  {
+    "subject": "Encore",
+    "predicate": "has_context",
+    "object": "Quick Facts"
+  },
+  {
+    "subject": "Encore",
+    "predicate": "has_activity",
+    "object": "Theatre"
+  },
+  {
+    "subject": "Encore",
+    "predicate": "is_under",
+    "object": "TSG"
+  },
+  {
+    "subject": "Encore's TSG status",
+    "predicate": "is",
+    "object": "Yes"
+  },
+  {
+    "subject": "ENCORE",
+    "predicate": "is",
+    "object": "the institute's official English Dramatics Society"
+  },
+  {
+    "subject": "ENCORE",
+    "predicate": "was earlier referred to as",
+    "object": "English Technology Dramatics Society"
+  },
+  {
+    "subject": "ENCORE",
+    "predicate": "is under",
+    "object": "Technology Students' Gymkhana"
+  },
+  {
+    "subject": "ENCORE",
+    "predicate": "is a part of",
+    "object": "Dramatics Subcommittee"
+  },
+  {
+    "subject": "Dramatics Subcommittee",
+    "predicate": "is under",
+    "object": "Social and Cultural Committee"
+  },
+  {
+    "subject": "ENCORE selection auditions",
+    "predicate": "are held",
+    "object": "once per year"
+  },
+  {
+    "subject": "ENCORE selection auditions",
+    "predicate": "are held only for",
+    "object": "first years"
+  },
+  {
+    "subject": "ENCORE selection auditions",
+    "predicate": "are held in",
+    "object": "August"
+  },
+  {
+    "subject": "ENCORE selection auditions",
+    "predicate": "are for",
+    "object": "an active membership for all four/five years"
+  },
+  {
+    "subject": "The society",
+    "predicate": "selects",
+    "object": "a batch of 30-40 first years (UG) and 5-10 (PG)"
+  },
+  {
+    "subject": "The society",
+    "predicate": "selects the batch at",
+    "object": "the beginning of the academic year"
+  },
+  {
+    "subject": "The society",
+    "predicate": "selects the batch soon after",
+    "object": "the welcome production"
+  },
+  {
+    "subject": "Selection procedure",
+    "predicate": "consists of",
+    "object": "tasks that judge voice modulation, intensity, speech and diction, confidence and acting skills"
+  },
+  {
+    "subject": "Exceptional and highly enthusiastic people",
+    "predicate": "are inducted into",
+    "object": "ENCORE"
+  },
+  {
+    "subject": "Exceptional and highly enthusiastic people",
+    "predicate": "share",
+    "object": "a similar passion of theater"
+  },
+  {
+    "subject": "Exceptional and highly enthusiastic people",
+    "predicate": "contribute to",
+    "object": "the society"
+  },
+  {
+    "subject": "Past members who were inducted",
+    "predicate": "include",
+    "object": "Kaustabh Khare"
+  },
+  {
+    "subject": "ENCORE",
+    "predicate": "has",
+    "object": "four governors"
+  },
+  {
+    "subject": "governors",
+    "predicate": "selected by",
+    "object": "society seniors"
+  },
+  {
+    "subject": "governors",
+    "predicate": "select",
+    "object": "every year"
+  },
+  {
+    "subject": "governors",
+    "predicate": "govern",
+    "object": "the society"
+  },
+  {
+    "subject": "governors",
+    "predicate": "represent",
+    "object": "the society in the Gymkhana"
+  },
+  {
+    "subject": "governors",
+    "predicate": "handle",
+    "object": "overall co-ordination during productions"
+  },
+  {
+    "subject": "governors",
+    "predicate": "handle",
+    "object": "overall co-ordination during outstations"
+  },
+  {
+    "subject": "governors",
+    "predicate": "handle",
+    "object": "overall co-ordination during competitions"
+  },
+  {
+    "subject": "Cut",
+    "predicate": "type",
+    "object": "production"
+  },
+  {
+    "subject": "Cut",
+    "predicate": "created by",
+    "object": "Ed Monk"
+  },
+  {
+    "subject": "Cut",
+    "predicate": "performed for",
+    "object": "welcome production"
+  },
+  {
+    "subject": "welcome production",
+    "predicate": "for the year",
+    "object": "2015-16"
+  },
+  {
+    "subject": "ENCORE",
+    "predicate": "performs",
+    "object": "first production of the year"
+  },
+  {
+    "subject": "first production of the year",
+    "predicate": "is performed",
+    "object": "within two weeks of Autumn Semester starting"
+  },
+  {
+    "subject": "cast",
+    "predicate": "ranges from",
+    "object": "second years to fifth years"
+  },
+  {
+    "subject": "ENCORE",
+    "predicate": "generally picks up",
+    "object": "comical plays and sketch comedy"
+  },
+  {
+    "subject": "comical plays and sketch comedy",
+    "predicate": "entertain",
+    "object": "freshers"
+  },
+  {
+    "subject": "first production of the year",
+    "predicate": "is",
+    "object": "Welcome Production"
+  },
+  {
+    "subject": "Governors for the new tenure",
+    "predicate": "are introduced to",
+    "object": "KGP"
+  },
+  {
+    "subject": "Mudit Rustagi",
+    "predicate": "performs",
+    "object": "Impromptu act"
+  },
+  {
+    "subject": "Kartikeya Pradhan",
+    "predicate": "performs",
+    "object": "Impromptu act"
+  },
+  {
+    "subject": "Impromptu act",
+    "predicate": "is for",
+    "object": "Welcome Production"
+  },
+  {
+    "subject": "Mayank Das",
+    "predicate": "performs",
+    "object": "Monoacting the invisible man"
+  },
+  {
+    "subject": "Freshers",
+    "predicate": "are given",
+    "object": "thorough training of theatre oriented workshops"
+  },
+  {
+    "subject": "Theatre oriented workshops",
+    "predicate": "teach",
+    "object": "the basics of dramatics"
+  },
+  {
+    "subject": "Skills",
+    "predicate": "are taught",
+    "object": "in groups"
+  },
+  {
+    "subject": "First years",
+    "predicate": "train",
+    "object": "for three weeks"
+  },
+  {
+    "subject": "First years",
+    "predicate": "train at",
+    "object": "Vikramshila Foyer"
+  },
+  {
+    "subject": "Vikramshila Foyer",
+    "predicate": "is referred to as",
+    "object": "Baap Ki Jagah"
+  },
+  {
+    "subject": "Occasional skits, monologues, and challenging impromptu",
+    "predicate": "are attempted",
+    "object": "to improve the versatility of the actor"
+  },
+  {
+    "subject": "Separate workshops",
+    "predicate": "are conducted",
+    "object": "for PG Batch"
+  },
+  {
+    "subject": "Freshers' Production",
+    "predicate": "occurs in",
+    "object": "2015-16"
+  },
+  {
+    "subject": "The Governors",
+    "predicate": "train",
+    "object": "first years"
+  },
+  {
+    "subject": "The Governors",
+    "predicate": "produce",
+    "object": "Freshers' Production"
+  },
+  {
+    "subject": "First years",
+    "predicate": "comprise",
+    "object": "entire cast"
+  },
+  {
+    "subject": "PG Batch",
+    "predicate": "participates in",
+    "object": "tenures"
+  },
+  {
+    "subject": "PG Batch",
+    "predicate": "produce",
+    "object": "separate production"
+  },
+  {
+    "subject": "Nukkad Natak",
+    "predicate": "is the only event",
+    "object": "ENCORE does a play/street play in Hindi"
+  },
+  {
+    "subject": "Only the second years",
+    "predicate": "take part in",
+    "object": "Nukkad Natak competition"
+  },
+  {
+    "subject": "Nukkad Natak competition",
+    "predicate": "is organized during",
+    "object": "SpringFest"
+  },
+  {
+    "subject": "Leela Benare",
+    "predicate": "played by",
+    "object": "Abhivyakti Dixit"
+  },
+  {
+    "subject": "ENCORE",
+    "predicate": "participates annually in",
+    "object": "Rangmanch"
+  },
+  {
+    "subject": "Rangmanch",
+    "predicate": "is",
+    "object": "Stage Play event of SpringFest"
+  },
+  {
+    "subject": "Annual Production",
+    "predicate": "occurs",
+    "object": "End-March to Early-April"
+  },
+  {
+    "subject": "Annual Production",
+    "predicate": "features",
+    "object": "most diverse crowd"
+  },
+  {
+    "subject": "The Cabinet of Dr. Caligari",
+    "predicate": "performed by",
+    "object": "ETDS"
+  },
+  {
+    "subject": "The Cabinet of Dr. Caligari",
+    "predicate": "performed at",
+    "object": "NLS Bangalore"
+  },
+  {
+    "subject": "The White Pages",
+    "predicate": "written by",
+    "object": "Jonathan Dorf"
+  },
+  {
+    "subject": "Bullies Anonymous",
+    "predicate": "written by",
+    "object": "E.M. Bell"
+  },
+  {
+    "subject": "Lockdown",
+    "predicate": "written by",
+    "object": "Douglas Craven"
+  },
+  {
+    "subject": "Towser's Table",
+    "predicate": "written by",
+    "object": "Pete Benson"
+  },
+  {
+    "subject": "Bad Auditions-by-Bad Actors",
+    "predicate": "written by",
+    "object": "Ian McWethy"
+  },
+  {
+    "subject": "The Foreigner",
+    "predicate": "written by",
+    "object": "Larry Shue"
+  },
+  {
+    "subject": "Drugs are bad",
+    "predicate": "written by",
+    "object": "Jonathan Rand"
+  },
+  {
+    "subject": "Mind your language",
+    "predicate": "written by",
+    "object": "Vince Powell"
+  },
+  {
+    "subject": "Five Americans, Three Murders and A Poisoning",
+    "predicate": "written by",
+    "object": "Rebecca Preen"
+  },
+  {
+    "subject": "Doubt, A Parable",
+    "predicate": "written by",
+    "object": "John Patrick Shanley"
+  },
+  {
+    "subject": "The Play that Goes Wrong",
+    "predicate": "written by",
+    "object": "Henry Lewis"
+  },
+  {
+    "subject": "The Play that Goes Wrong",
+    "predicate": "written by",
+    "object": "Jonathan Sayer"
+  },
+  {
+    "subject": "The Play that Goes Wrong",
+    "predicate": "written by",
+    "object": "Henry Shields"
+  },
+  {
+    "subject": "The Play that Goes Wrong",
+    "predicate": "produced by",
+    "object": "Mischief Theatre Company"
+  },
+  {
+    "subject": "Fidelity Farce",
+    "predicate": "written by",
+    "object": "Gary Diamond"
+  },
+  {
+    "subject": "Losing Purpose",
+    "predicate": "written by",
+    "object": "Jim Pinnock"
+  },
+  {
+    "subject": "Silence! The Court is in Session",
+    "predicate": "written by",
+    "object": "Vijay Tendulkar"
+  },
+  {
+    "subject": "Affairs at Meddler's Top",
+    "predicate": "written by",
+    "object": "Richard Coleman"
+  },
+  {
+    "subject": "Picture Perfect",
+    "predicate": "written by",
+    "object": "Gary Earl Ross"
+  },
+  {
+    "subject": "Cut",
+    "predicate": "written by",
+    "object": "Ed Monk"
+  },
+  {
+    "subject": "It's not you, its me",
+    "predicate": "written by",
+    "object": "Don Zolidis"
+  },
+  {
+    "subject": "Black Comedy",
+    "predicate": "written by",
+    "object": "Peter Shaffer"
+  },
+  {
+    "subject": "The Complete Works of William Shakespeare Abridged",
+    "predicate": "written by",
+    "object": "Adam Long"
+  },
+  {
+    "subject": "The Complete Works of William Shakespeare Abridged",
+    "predicate": "written by",
+    "object": "Daniel Singer"
+  },
+  {
+    "subject": "The Complete Works of William Shakespeare Abridged",
+    "predicate": "written by",
+    "object": "Jess Winfield"
+  },
+  {
+    "subject": "Check Please",
+    "predicate": "written by",
+    "object": "Jonathan Rand"
+  },
+  {
+    "subject": "You Can't Take It with You",
+    "predicate": "written by",
+    "object": "George S. Kaufman"
+  },
+  {
+    "subject": "You Can't Take It with You",
+    "predicate": "written by",
+    "object": "Moss Hart"
+  },
+  {
+    "subject": "Psycho",
+    "predicate": "directed by",
+    "object": "Alfred Hitchcock"
+  },
+  {
+    "subject": "Strange Case of Dr. Jekyll and Mr. Hyde",
+    "predicate": "written by",
+    "object": "Robert Louis Stevenson"
+  },
+  {
+    "subject": "The Proposal",
+    "predicate": "written by",
+    "object": "Anton Chekhov"
+  },
+  {
+    "subject": "Vinayak Virmani",
+    "predicate": "served as Governor for",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Arushi Gupta",
+    "predicate": "served as Governor for",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Mayukh Saha",
+    "predicate": "served as Governor for",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Mehul Shah",
+    "predicate": "served as Governor for",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Ishaan Bajaj",
+    "predicate": "served as Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Ifrah Khan",
+    "predicate": "served as Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Shreyas Thanawala",
+    "predicate": "served as Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Shubham Wakudkar",
+    "predicate": "served as Governor for",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Kirti Chaturvedi",
+    "predicate": "served as Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Parth Gupta",
+    "predicate": "served as Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Ashutosh Ghuge",
+    "predicate": "served as Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Utkarsh Baghla",
+    "predicate": "served as Governor for",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Rushali Chakraborty",
+    "predicate": "served as Governor for",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Aditi Mishra",
+    "predicate": "served as Governor for",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Jaskaran Singh Sodhi",
+    "predicate": "served as Governor for",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Atharva Shinde",
+    "predicate": "served as Governor for",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Saumyata Khandelwal",
+    "predicate": "served as Governor for",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Ashwin Gupta",
+    "predicate": "served as Governor for",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Karan Singh",
+    "predicate": "served as Governor for",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Karmanya GB",
+    "predicate": "served as Governor for",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Rudraksh Gupta",
+    "predicate": "served as Governor for",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Pranjali Rastogi",
+    "predicate": "served as Governor for",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Shobhit Bhalotia",
+    "predicate": "served as Governor for",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Ishita Lade",
+    "predicate": "served as Governor for",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Chiranjeev Singh Rathore",
+    "predicate": "served as Governor for",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Kartik Tyagi",
+    "predicate": "served as Governor for",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Krutarth Dharmesh Shah",
+    "predicate": "served as Governor for",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Suyash Sharma",
+    "predicate": "served as Governor for",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Indresh",
+    "predicate": "served as Governor for",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Gauri Pathak",
+    "predicate": "served as Governor for",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Abhinav Kumar",
+    "predicate": "served as Governor for",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Apurv Dave",
+    "predicate": "served as Governor for",
+    "object": "2017-18"
+  },
+  {
+    "subject": "B K Vibhava",
+    "predicate": "served as Governor for",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Shilpi Jindal",
+    "predicate": "served as Governor for",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Varun A B",
+    "predicate": "served as Governor for",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Shivam Kumar",
+    "predicate": "served as Governor for",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Arun Patro",
+    "predicate": "served as Governor for",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Aakanksha Sangwan",
+    "predicate": "served as Governor for",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Divyansh Gupta",
+    "predicate": "served as Governor for",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Shivam Mehrotra",
+    "predicate": "served as Governor for",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Ketan Ingle",
+    "predicate": "served as Governor for",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Twinkle Soni",
+    "predicate": "served as Governor for",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Abhinav Pandey",
+    "predicate": "served as Governor for",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Alekhya Munagala",
+    "predicate": "served as Governor for",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Alipt Doshi",
+    "predicate": "served as Governor for",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Nayrhit Bhattacharya",
+    "predicate": "served as Governor for",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Sourya Mukherjee",
+    "predicate": "served as Governor for",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Abhivyakti Dixit",
+    "predicate": "served as Governor for",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Siddharth Srivastava",
+    "predicate": "served as Governor for",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Soumya Pasumarthy",
+    "predicate": "served as Governor for",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Mallika Prasad",
+    "predicate": "served as Governor for",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Mohit Gupta",
+    "predicate": "served as Governor for",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Kushal Mirpury",
+    "predicate": "served as Governor for",
+    "object": "2011-12"
+  },
+  {
+    "subject": "Mohd. Usman",
+    "predicate": "served as Governor for",
+    "object": "2011-12"
+  },
+  {
+    "subject": "Vikram Voleti",
+    "predicate": "served as Governor for",
+    "object": "2011-12"
+  },
+  {
+    "subject": "Deepali Gupta",
+    "predicate": "served as Governor for",
+    "object": "2011-12"
+  },
+  {
+    "subject": "Rohit Chotai",
+    "predicate": "served as Governor for",
+    "object": "2010-11"
+  },
+  {
+    "subject": "Vardhanam Daga",
+    "predicate": "served as Governor for",
+    "object": "2010-11"
+  },
+  {
+    "subject": "Hridya Ravimohan",
+    "predicate": "served as Governor for",
+    "object": "2010-11"
+  },
+  {
+    "subject": "Vivek Nautiyal",
+    "predicate": "served as Governor for",
+    "object": "2010-11"
+  },
+  {
+    "subject": "Achilles Edwin Alfred Saxby",
+    "predicate": "served as Governor for",
+    "object": "2009-10"
+  },
+  {
+    "subject": "Somnath Meher",
+    "predicate": "served as Governor for",
+    "object": "2009-10"
+  },
+  {
+    "subject": "Aditya Mani Jha",
+    "predicate": "served as Governor for",
+    "object": "2009-10"
+  },
+  {
+    "subject": "Shobana Santhanagopalan",
+    "predicate": "served as Governor for",
+    "object": "2009-10"
+  },
+  {
+    "subject": "Hardika Dayalani",
+    "predicate": "served as Governor for",
+    "object": "2008-09"
+  },
+  {
+    "subject": "Mayank Kedia",
+    "predicate": "served as Governor for",
+    "object": "2008-09"
+  },
+  {
+    "subject": "Nandam Karthik",
+    "predicate": "served as Governor for",
+    "object": "2008-09"
+  },
+  {
+    "subject": "Shaunak Laad",
+    "predicate": "served as Governor for",
+    "object": "2008-09"
+  },
+  {
+    "subject": "Abhas Saroha",
+    "predicate": "served as Governor for",
+    "object": "2007-08"
+  },
+  {
+    "subject": "Jimi Adhikari",
+    "predicate": "served as Governor for",
+    "object": "2007-08"
+  },
+  {
+    "subject": "Soumen Goswami",
+    "predicate": "served as Governor for",
+    "object": "2007-08"
+  },
+  {
+    "subject": "Toshe Prasad",
+    "predicate": "served as Governor for",
+    "object": "2007-08"
+  },
+  {
+    "subject": "Asha Parekh",
+    "predicate": "served as Governor for",
+    "object": "2006-07"
+  },
+  {
+    "subject": "Kumar Abhinav",
+    "predicate": "served as Governor for",
+    "object": "2006-07"
+  },
+  {
+    "subject": "Rajiv Agarwal",
+    "predicate": "served as Governor for",
+    "object": "2006-07"
+  },
+  {
+    "subject": "Aditi Amrita Sarangi",
+    "predicate": "served as Governor for",
+    "object": "2005-06"
+  },
+  {
+    "subject": "Dawn Thomas",
+    "predicate": "served as Governor for",
+    "object": "2005-06"
+  },
+  {
+    "subject": "Siddartha Sherpa",
+    "predicate": "served as Governor for",
+    "object": "2005-06"
+  },
+  {
+    "subject": "Anant Singh",
+    "predicate": "served as Governor for",
+    "object": "2004-05"
+  },
+  {
+    "subject": "Stage Play at Inter-IIT Cultural Meet, IIT Bombay",
+    "predicate": "won",
+    "object": "Silver in 2016"
+  },
+  {
+    "subject": "Nukkad at Inter-IIT Cultural Meet, IIT Bombay",
+    "predicate": "won",
+    "object": "Silver in 2016"
+  },
+  {
+    "subject": "Rangmanch at Spring Fest, IIT KGP",
+    "predicate": "won",
+    "object": "Bronze in 2016"
+  },
+  {
+    "subject": "Abhivyakti Dixit",
+    "predicate": "received",
+    "object": "Special Invitation to act in NCPA circuit for Rangmanch at Spring Fest, IIT KGP in 2016"
+  },
+  {
+    "subject": "Nukkad at Carpe Diem, IIM Calcutta",
+    "predicate": "won",
+    "object": "Silver in 2015"
+  },
+  {
+    "subject": "Stage Play at Unmaad, IIM Bangalore",
+    "predicate": "won",
+    "object": "Silver in 2014"
+  },
+  {
+    "subject": "Twinkle Soni",
+    "predicate": "won",
+    "object": "Best Supporting Actress for Stage Play at Unmaad, IIM Bangalore in 2014"
+  },
+  {
+    "subject": "Theatrix at Alcheringa, IIT Guwahati",
+    "predicate": "won",
+    "object": "Silver in 2013"
+  },
+  {
+    "subject": "Hulla Bol at Alcheringa, IIT Guwahati",
+    "predicate": "won",
+    "object": "Silver in 2013"
+  },
+  {
+    "subject": "Stage Play at Admit One, NLS Bangalore",
+    "predicate": "won",
+    "object": "Gold in 2011"
+  },
+  {
+    "subject": "Rohit Chotai",
+    "predicate": "won",
+    "object": "Best Actor for Stage Play at Admit One, NLS Bangalore in 2011"
+  },
+  {
+    "subject": "Stage Play at Carpe Diem, IIM Calcutta",
+    "predicate": "won",
+    "object": "Bronze in 2011"
+  },
+  {
+    "subject": "Nukkad at Carpe Diem, IIM Calcutta",
+    "predicate": "won",
+    "object": "Silver in 2011"
+  },
+  {
+    "subject": "Stage Play at Admit One, NLS Bangalore",
+    "predicate": "won",
+    "object": "Silver in 2010"
+  },
+  {
+    "subject": "Stage Play at Admit One, NLS Bangalore",
+    "predicate": "won",
+    "object": "Gold in 2009"
+  },
+  {
+    "subject": "Rohit Chotai",
+    "predicate": "won",
+    "object": "Best Actor for Stage Play at Admit One, NLS Bangalore in 2009"
+  },
+  {
+    "subject": "Mayank Mahavar",
+    "predicate": "won",
+    "object": "Ankik Dhar Cup"
+  },
+  {
+    "subject": "Sourya Mukherjee",
+    "predicate": "won",
+    "object": "Chandiramani Cup"
+  },
+  {
+    "subject": "Kaustabh Khare",
+    "predicate": "won",
+    "object": "Chandiramani Cup"
+  },
+  {
+    "subject": "Achilles Saxby",
+    "predicate": "won",
+    "object": "Institute Blue (Basketball) Ek"
+  },
+  {
+    "subject": "Pravah",
+    "predicate": "See also",
+    "object": "Druheen"
+  },
+  {
+    "subject": "Pravah",
+    "predicate": "See also",
+    "object": "Prasthanam"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "See also",
+    "object": "Prasthanam"
+  }
+]

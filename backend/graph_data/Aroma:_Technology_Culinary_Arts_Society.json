@@ -1,0 +1,587 @@
+[
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "has logo",
+    "object": "TCAS logo"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "has activity",
+    "object": "Culinary Arts"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "founded in",
+    "object": "2019"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "has founder",
+    "object": "Parth Gaglani"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "has founder",
+    "object": "Bhavanasi Sree Harsha"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "has founder",
+    "object": "Potluri Hemanth Kumar"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "has founder",
+    "object": "Manan Makhija"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "has number of members",
+    "object": "50"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "has website",
+    "object": "www.facebook.com/aroma.iitkgp/"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "is under",
+    "object": "TSG"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "is abbreviated as",
+    "object": "Aroma: TCAS"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "was created in",
+    "object": "Spring 2019"
+  },
+  {
+    "subject": "Aroma: Technology Culinary Arts Society",
+    "predicate": "was created in response to",
+    "object": "introduction of culinary events in the 3rd Inter IIT Cultural Meet"
+  },
+  {
+    "subject": "3rd Inter IIT Cultural Meet",
+    "predicate": "was held at",
+    "object": "IIT Roorkee"
+  },
+  {
+    "subject": "3rd Inter IIT Cultural Meet",
+    "predicate": "was held in",
+    "object": "December 2018"
+  },
+  {
+    "subject": "objective of Aroma: Technology Culinary Arts Society",
+    "predicate": "was",
+    "object": "to encourage the interest of students in culinary activities"
+  },
+  {
+    "subject": "Technology Culinary Arts Society",
+    "predicate": "has objective",
+    "object": "encourage students to take an active interest in culinary activities"
+  },
+  {
+    "subject": "Technology Culinary Arts Society",
+    "predicate": "promotes",
+    "object": "culinary arts culture in the Institute on behalf of Gymkhana"
+  },
+  {
+    "subject": "Technology Culinary Arts Society",
+    "predicate": "will submit proposals for organizing",
+    "object": "workshops and seminars on culinary arts and proper diet for health care"
+  },
+  {
+    "subject": "Technology Culinary Arts Society",
+    "predicate": "endeavours to encourage",
+    "object": "culinary arts and allied activities among the students"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "are responsible for",
+    "object": "arranging the required facilities"
+  },
+  {
+    "subject": "Technology Culinary Arts Society",
+    "predicate": "organizes",
+    "object": "various workshops and events for the students' community"
+  },
+  {
+    "subject": "Technology Culinary Arts Society",
+    "predicate": "helps members to",
+    "object": "learn and practice culinary arts"
+  },
+  {
+    "subject": "Technology Culinary Arts Society",
+    "predicate": "operates under",
+    "object": "Technology Students Gymkhana"
+  },
+  {
+    "subject": "Aroma",
+    "predicate": "conducts",
+    "object": "several workshops every year"
+  },
+  {
+    "subject": "Aroma",
+    "predicate": "conducts",
+    "object": "2 - 3 workshops every semester"
+  },
+  {
+    "subject": "workshops",
+    "predicate": "are aimed at",
+    "object": "promoting a holistic development of all food enthusiasts"
+  },
+  {
+    "subject": "workshops",
+    "predicate": "improve",
+    "object": "skills and knowledge across cuisines and techniques"
+  },
+  {
+    "subject": "Food Stall",
+    "predicate": "located_at",
+    "object": "Twilight Jamboree"
+  },
+  {
+    "subject": "Food Stall",
+    "predicate": "associated_with",
+    "object": "Institute Wellness Group"
+  },
+  {
+    "subject": "Food Stall",
+    "predicate": "served",
+    "object": "mocktails"
+  },
+  {
+    "subject": "Food Stall",
+    "predicate": "served",
+    "object": "sandwiches"
+  },
+  {
+    "subject": "Food Stall",
+    "predicate": "served",
+    "object": "pav bhaji"
+  },
+  {
+    "subject": "Food Stall",
+    "predicate": "served",
+    "object": "dessert"
+  },
+  {
+    "subject": "Food Stall",
+    "predicate": "had_footfall",
+    "object": "over 200 people"
+  },
+  {
+    "subject": "cooking workshop",
+    "predicate": "was organized for",
+    "object": "international students"
+  },
+  {
+    "subject": "cooking workshop",
+    "predicate": "was held during",
+    "object": "Dyuti"
+  },
+  {
+    "subject": "cooking workshop",
+    "predicate": "was organized in association with",
+    "object": "International Relations Cell"
+  },
+  {
+    "subject": "students",
+    "predicate": "were shown",
+    "object": "spices in Indian foods"
+  },
+  {
+    "subject": "students",
+    "predicate": "were shown how",
+    "object": "spices are used"
+  },
+  {
+    "subject": "students",
+    "predicate": "were shown",
+    "object": "easy snacks"
+  },
+  {
+    "subject": "easy snacks",
+    "predicate": "include",
+    "object": "pakora"
+  },
+  {
+    "subject": "students",
+    "predicate": "were shown",
+    "object": "desserts"
+  },
+  {
+    "subject": "desserts",
+    "predicate": "include",
+    "object": "phirni"
+  },
+  {
+    "subject": "students",
+    "predicate": "were shown",
+    "object": "drinks"
+  },
+  {
+    "subject": "drinks",
+    "predicate": "include",
+    "object": "jal jeera"
+  },
+  {
+    "subject": "Food Exhibition",
+    "predicate": "frequency",
+    "object": "twice annually"
+  },
+  {
+    "subject": "Food Exhibition",
+    "predicate": "schedule",
+    "object": "once per semester"
+  },
+  {
+    "subject": "Governing Body",
+    "predicate": "consists of",
+    "object": "FOUR Governors"
+  },
+  {
+    "subject": "FOUR Governors",
+    "predicate": "nominated by",
+    "object": "the President"
+  },
+  {
+    "subject": "the President",
+    "predicate": "in consultation with",
+    "object": "concerned student members of the Executive Council"
+  },
+  {
+    "subject": "Society team",
+    "predicate": "comprises",
+    "object": "4 Student Governors"
+  },
+  {
+    "subject": "Society team",
+    "predicate": "comprises",
+    "object": "5-8 other 3rd-year student members"
+  },
+  {
+    "subject": "Society team",
+    "predicate": "comprises",
+    "object": "10-15 2nd year student members"
+  },
+  {
+    "subject": "Society team",
+    "predicate": "comprises",
+    "object": "15-20 1st year student members"
+  },
+  {
+    "subject": "Society team",
+    "predicate": "comprises",
+    "object": "significant number of members from the PG and RS student community"
+  },
+  {
+    "subject": "4 Student Governors",
+    "predicate": "are",
+    "object": "3rd-year students"
+  },
+  {
+    "subject": "4 Student Governors",
+    "predicate": "responsible for",
+    "object": "smooth operation of the society"
+  },
+  {
+    "subject": "smooth operation of the society",
+    "predicate": "includes",
+    "object": "inventory and finance management"
+  },
+  {
+    "subject": "smooth operation of the society",
+    "predicate": "includes",
+    "object": "activity organisation"
+  },
+  {
+    "subject": "smooth operation of the society",
+    "predicate": "includes",
+    "object": "liaison with the local market"
+  },
+  {
+    "subject": "Selections every year",
+    "predicate": "are",
+    "object": "open for all students"
+  },
+  {
+    "subject": "Selections every year",
+    "predicate": "not limited to",
+    "object": "freshers"
+  },
+  {
+    "subject": "Parth Gaglani",
+    "predicate": "is a founder of",
+    "object": "TCAS"
+  },
+  {
+    "subject": "Bhavanasi Sree Harsha",
+    "predicate": "is a founder of",
+    "object": "TCAS"
+  },
+  {
+    "subject": "Potluri Hemanth Kumar",
+    "predicate": "is a founder of",
+    "object": "TCAS"
+  },
+  {
+    "subject": "Manan Makhija",
+    "predicate": "is a founder of",
+    "object": "TCAS"
+  },
+  {
+    "subject": "Aditya Manwar",
+    "predicate": "was a governor for session",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Pankhuri Saxena",
+    "predicate": "was a governor for session",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Saumy Maheshwari",
+    "predicate": "was a governor for session",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Hardik Tibrewal",
+    "predicate": "was a governor for session",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Pooja Reddy",
+    "predicate": "was a governor for session",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Rajdeep Das",
+    "predicate": "was a governor for session",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Tanaya Pakhale",
+    "predicate": "was a governor for session",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Aniket Talreja",
+    "predicate": "was a governor for session",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Gaurav Jain",
+    "predicate": "was a governor for session",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Piyush Dangare",
+    "predicate": "was a governor for session",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Yash Vora",
+    "predicate": "was a governor for session",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Anika Mundhada",
+    "predicate": "was a governor for session",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Geerwaan Reddy",
+    "predicate": "was a governor for session",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Priyansh Singh",
+    "predicate": "was a governor for session",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Sneha Bansal",
+    "predicate": "was a governor for session",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Jasothan Venkatesan",
+    "predicate": "was a governor for session",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Samyak Panda",
+    "predicate": "was a governor for session",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Sreejita Saha",
+    "predicate": "was a governor for session",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Tanishq Prasad",
+    "predicate": "was a governor for session",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Anupam Mehrotra",
+    "predicate": "is a governor for session",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Bhagya Jyothi",
+    "predicate": "is a governor for session",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Sumanth Javvaji",
+    "predicate": "is a governor for session",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Yash Raj",
+    "predicate": "is a governor for session",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Aayushi Ahirwar",
+    "predicate": "is Governor for year",
+    "object": "2025-26"
+  },
+  {
+    "subject": "Rudranarayan Pradhan",
+    "predicate": "is Governor for year",
+    "object": "2025-26"
+  },
+  {
+    "subject": "Rushil Vora",
+    "predicate": "is Governor for year",
+    "object": "2025-26"
+  },
+  {
+    "subject": "Yogesh Sharma",
+    "predicate": "is Governor for year",
+    "object": "2025-26"
+  },
+  {
+    "subject": "Anupam Mehrotra",
+    "predicate": "is Governor for year",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Bhagya Jyothi",
+    "predicate": "is Governor for year",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Sumanth Javvaji",
+    "predicate": "is Governor for year",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Yash Raj",
+    "predicate": "is Governor for year",
+    "object": "2024-25"
+  },
+  {
+    "subject": "Jasothan Venkatesan",
+    "predicate": "is Governor for year",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Samyak Panda",
+    "predicate": "is Governor for year",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Sreejita Saha",
+    "predicate": "is Governor for year",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Tanishq Prasad",
+    "predicate": "is Governor for year",
+    "object": "2023-24"
+  },
+  {
+    "subject": "Anika Mundhada",
+    "predicate": "is Governor for year",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Geerwaan Reddy",
+    "predicate": "is Governor for year",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Priyansh Singh",
+    "predicate": "is Governor for year",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Sneha Bansal",
+    "predicate": "is Governor for year",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Aniket Talreja",
+    "predicate": "is Governor for year",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Gaurav Jain",
+    "predicate": "is Governor for year",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Piyush Dangare",
+    "predicate": "is Governor for year",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Yash Vora",
+    "predicate": "is Governor for year",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Hardik Tibrewal",
+    "predicate": "is Governor for year",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Pooja Reddy",
+    "predicate": "is Governor for year",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Rajdeep Das",
+    "predicate": "is Governor for year",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Tanaya Pakhale",
+    "predicate": "is Governor for year",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Aditya Manwar",
+    "predicate": "is Governor for year",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Pankhuri Saxena",
+    "predicate": "is Governor for year",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Saumy Maheshwari",
+    "predicate": "is Governor for year",
+    "object": "2019-20"
+  }
+]

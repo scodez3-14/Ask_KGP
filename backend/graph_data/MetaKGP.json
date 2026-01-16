@@ -1,0 +1,787 @@
+[
+  {
+    "subject": "MetaKGP",
+    "predicate": "founded",
+    "object": "2014"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "has founder",
+    "object": "Vivek Aithal"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "has founder",
+    "object": "Vikrant Varma"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "has governors",
+    "object": "See Governance"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "has website",
+    "object": "https://metakgp.org"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "has Instagram",
+    "object": "@metakgp_"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "has contact",
+    "object": "Metakgp:Contact us"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "has GitHub",
+    "object": "github/metakgp"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "under TSG",
+    "object": "No"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "is",
+    "object": "community"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "consists of",
+    "object": "engineers"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "consists of",
+    "object": "hackers"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "consists of",
+    "object": "artists"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "belongs to",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "collaborates on",
+    "object": "projects"
+  },
+  {
+    "subject": "projects",
+    "predicate": "help",
+    "object": "students"
+  },
+  {
+    "subject": "wiki",
+    "predicate": "is",
+    "object": "open repository"
+  },
+  {
+    "subject": "wiki",
+    "predicate": "belongs to",
+    "object": "MetaKGP"
+  },
+  {
+    "subject": "wiki",
+    "predicate": "contains",
+    "object": "community knowledge"
+  },
+  {
+    "subject": "community knowledge",
+    "predicate": "is about",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "wiki",
+    "predicate": "can be edited by",
+    "object": "anyone"
+  },
+  {
+    "subject": "MetaKGP",
+    "predicate": "hangs out on",
+    "object": "Slack"
+  },
+  {
+    "subject": "Metakgp",
+    "predicate": "foundedBy",
+    "object": "Vivek Aithal"
+  },
+  {
+    "subject": "Metakgp",
+    "predicate": "foundedBy",
+    "object": "Vikrant Varma"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "coFounded",
+    "object": "Metakgp"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "coFounded",
+    "object": "Metakgp"
+  },
+  {
+    "subject": "Metakgp",
+    "predicate": "foundedAt",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Metakgp",
+    "predicate": "foundedIn",
+    "object": "2014"
+  },
+  {
+    "subject": "Metakgp",
+    "predicate": "revivedBy",
+    "object": "Harsh Gupta"
+  },
+  {
+    "subject": "Metakgp",
+    "predicate": "revivedBy",
+    "object": "Vivek Rai"
+  },
+  {
+    "subject": "Harsh Gupta",
+    "predicate": "helpedRevive",
+    "object": "Metakgp"
+  },
+  {
+    "subject": "Vivek Rai",
+    "predicate": "helpedRevive",
+    "object": "Metakgp"
+  },
+  {
+    "subject": "Metakgp",
+    "predicate": "revivedIn",
+    "object": "2015"
+  },
+  {
+    "subject": "Vikrant",
+    "predicate": "met",
+    "object": "Harsh, Sanyam and Vivek Rai"
+  },
+  {
+    "subject": "Vikrant",
+    "predicate": "discussed",
+    "object": "idea of a wiki for IIT-KGP"
+  },
+  {
+    "subject": "Vikrant",
+    "predicate": "started",
+    "object": "wiki for IIT-KGP"
+  },
+  {
+    "subject": "Vikrant",
+    "predicate": "set up",
+    "object": "mediawiki instance on digital ocean"
+  },
+  {
+    "subject": "metaKGP",
+    "predicate": "met",
+    "object": "generous contributions by Vivek Rai, Kumar Abhishek and Harsh Gupta"
+  },
+  {
+    "subject": "we",
+    "predicate": "got",
+    "object": "metakgp.org domain"
+  },
+  {
+    "subject": "we",
+    "predicate": "launched",
+    "object": "metaKGP to the public"
+  },
+  {
+    "subject": "we",
+    "predicate": "launched",
+    "object": "facebook page"
+  },
+  {
+    "subject": "we",
+    "predicate": "launched",
+    "object": "mfqp"
+  },
+  {
+    "subject": "mfqp",
+    "predicate": "is a tool for",
+    "object": "searching question papers on the library's previous year question papers website"
+  },
+  {
+    "subject": "we",
+    "predicate": "started publishing",
+    "object": "(gymkhana) constitution fun facts"
+  },
+  {
+    "subject": "Shashank Saraf",
+    "predicate": "agreed to let us use",
+    "object": "the metakgp Google Group name"
+  },
+  {
+    "subject": "the metakgp Google Group name",
+    "predicate": "was previously used for",
+    "object": "Metallurgy and Materials Science- IIT Kharagpur, 2006"
+  },
+  {
+    "subject": "Amrav",
+    "predicate": "talks about",
+    "object": "motivations and goals of metakgp"
+  },
+  {
+    "subject": "Amrav",
+    "predicate": "talks about",
+    "object": "definition of metakgp"
+  },
+  {
+    "subject": "Hargup",
+    "predicate": "states",
+    "object": "metakgp wants to give KGP its history"
+  },
+  {
+    "subject": "Members of MetaKGP",
+    "predicate": "develop",
+    "object": "various projects, including this wiki"
+  },
+  {
+    "subject": "code",
+    "predicate": "is developed on",
+    "object": "Github"
+  },
+  {
+    "subject": "code",
+    "predicate": "is hosted on",
+    "object": "DigitalOcean"
+  },
+  {
+    "subject": "Each project",
+    "predicate": "has",
+    "object": "maintainers"
+  },
+  {
+    "subject": "maintainers",
+    "predicate": "are responsible for",
+    "object": "its development"
+  },
+  {
+    "subject": "maintainers",
+    "predicate": "have",
+    "object": "administrative control over its repository"
+  },
+  {
+    "subject": "Category:Projects",
+    "predicate": "has list",
+    "object": "IQPS"
+  },
+  {
+    "subject": "Category:Projects",
+    "predicate": "has list",
+    "object": "Kronos"
+  },
+  {
+    "subject": "Category:Projects",
+    "predicate": "has list",
+    "object": "MFQP"
+  },
+  {
+    "subject": "Category:Projects",
+    "predicate": "has list",
+    "object": "Naarad"
+  },
+  {
+    "subject": "Category:Projects",
+    "predicate": "has list",
+    "object": "WIMP"
+  },
+  {
+    "subject": "Main page",
+    "predicate": "belongs to",
+    "object": "Metakgp"
+  },
+  {
+    "subject": "Main page",
+    "predicate": "covers topic",
+    "object": "Infrastructure"
+  },
+  {
+    "subject": "Metakgp",
+    "predicate": "has section",
+    "object": "SysAdmin"
+  },
+  {
+    "subject": "Context",
+    "predicate": "is about",
+    "object": "Infrastructure"
+  },
+  {
+    "subject": "Community name",
+    "predicate": "is written as",
+    "object": "metaKGP"
+  },
+  {
+    "subject": "Community name",
+    "predicate": "is also written as",
+    "object": "MetaKGP"
+  },
+  {
+    "subject": "Community name",
+    "predicate": "is also written as",
+    "object": "Metakgp"
+  },
+  {
+    "subject": "Community name",
+    "predicate": "is used for",
+    "object": "usernames"
+  },
+  {
+    "subject": "Correct capitalization",
+    "predicate": "is",
+    "object": "disputed"
+  },
+  {
+    "subject": "Members",
+    "predicate": "have differing opinions on",
+    "object": "capitalization"
+  },
+  {
+    "subject": "xkcd",
+    "predicate": "has",
+    "object": "clear guidelines for capitalization"
+  },
+  {
+    "subject": "Meta Pages",
+    "predicate": "are under",
+    "object": "namespace Metakgp"
+  },
+  {
+    "subject": "Meta Pages",
+    "predicate": "are for",
+    "object": "metakgp"
+  },
+  {
+    "subject": "Metakgp:About Metakgp",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Book Club",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Collecting photographs",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Contact us",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Conventions",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Copyrights",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Demo Days",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Demo Days/2018-01-17 Demo Day 1",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Demo Days/2018-11-09 Demo Day 9",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Demo Days/2019-01-13 Demo Day 10",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Demo Days/Demo Day 2025",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Featured articles",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Finances",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:GNU Linux Install Fest 2016",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Governance",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:How to conduct elections",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:How to create voters list",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Incident Reports",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Incident Reports/2019-07-17 Visual Editor stopped working for a few hours",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2015-09-26",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-01-11",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-01-25",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-04-01",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-04-09",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-08-07",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-08-13",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-08-15-SWG-Meeting",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-08-26",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-08-26-Dean-Meeting",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-09-23",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2016-10-23",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2017-04-11-Ankur-Pandey",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2017-04-15",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2017-04-17-SysAdmin",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2017-07-27",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2017-08-13",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2017-09-03",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2017-11-12",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2018-08-09",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/2019-04-13",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Meetups/KGP Developers Meet",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Membership",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:MetaX",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election March 2017",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election March 2017/SOP Arun Patro",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election March 2017/SOP Ayush Goyal",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election March 2017/SOP Naresh R",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election March 2017/SOP Nishant Nikhil",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election March 2017/SOP Pranit Bauva",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election March 2017/SOP Rameshwar Bhaskaran",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election March 2017/SOP Sayan Sinha",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election October 2017",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election October 2017/SOP Kaustubh Hiware",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Old Governance Model/Election October 2017/SOP Srihari Radhakrishna",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Organization and coordination",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Package blurbs",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Policies and guidelines",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Potential Editors",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Privacy policy",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Project Maintainer",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Publicity",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Report June-September 2016",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Requested infoboxes",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:SCAMP",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Sandbox",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Style guide",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:SysAdmin",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:SysAdmin/2018-03-12 Migration of the droplet from FRA1 region to BLR region",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:SysAdmin/2018-03-14 Downtime due to unset variable in LocalSettings.php",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:SysAdmin/2019-10-13 Managing DNS records using Terraform",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:SysAdmin/Create a new user on the server",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:SysAdmin/Finding out if an IP is blocked and why",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:SysAdmin/Reset server password for a user",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Sysop",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:TIOB",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:TODO",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Talks",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:The Kharagpur Documentation Project",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Trackr",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Unverified",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Verification",
+    "predicate": "is a",
+    "object": "meta page"
+  },
+  {
+    "subject": "Metakgp:Wikipedians from KGP",
+    "predicate": "is a",
+    "object": "meta page"
+  }
+]

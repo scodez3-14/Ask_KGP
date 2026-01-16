@@ -1,0 +1,1037 @@
+[
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "has activity",
+    "object": "Robotics"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "has activity",
+    "object": "RoboCup"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "was founded in",
+    "object": "2009"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "was founded by",
+    "object": "Aamir Ahmad"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "was founded by",
+    "object": "Kaustubh Tripathi"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "was founded by",
+    "object": "Sanjiban Choudhury"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "has number of members",
+    "object": "60"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "has website",
+    "object": "KRSSG"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "has contact",
+    "object": "+91 747 805 5444 (Tanishq Jasoria)"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "has contact",
+    "object": "+91 950 994 0509 (Ashish Kumar Gaurav)"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "is under",
+    "object": "SRIC"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "is",
+    "object": "one of IIT Kharagpur's first endeavours in robotics research"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "is",
+    "object": "a research group sponsored by SRIC as part of Centre for Excellence in Robotics"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "sponsored by",
+    "object": "SRIC"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "part of",
+    "object": "Centre for Excellence in Robotics"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "aims to",
+    "object": "make autonomous soccer-playing robots and participate in international competitions"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "participates in",
+    "object": "Robocup"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "participates in",
+    "object": "FIRA Roboworld Cup"
+  },
+  {
+    "subject": "Undergraduate students from all departments and years",
+    "predicate": "are part of",
+    "object": "Kharagpur Robosoccer Students' Group"
+  },
+  {
+    "subject": "Prof. A.K. Deb",
+    "predicate": "is",
+    "object": "principal investigator for the project"
+  },
+  {
+    "subject": "Prof. A.K. Deb",
+    "predicate": "investigates",
+    "object": "Kharagpur Robosoccer Students' Group"
+  },
+  {
+    "subject": "Prof. Jayanta Mukhopadhyay",
+    "predicate": "mentors",
+    "object": "Kharagpur Robosoccer Students' Group"
+  },
+  {
+    "subject": "Prof. D.K. Pratihar",
+    "predicate": "mentors",
+    "object": "Kharagpur Robosoccer Students' Group"
+  },
+  {
+    "subject": "Prof. Sudeshna Sarkar",
+    "predicate": "mentors",
+    "object": "Kharagpur Robosoccer Students' Group"
+  },
+  {
+    "subject": "Kharagpur Robosoccer Students' Group",
+    "predicate": "also known as",
+    "object": "KRSSG"
+  },
+  {
+    "subject": "Aamir Ahmad",
+    "predicate": "interned at",
+    "object": "Institute for Systems and Robotics (ISR)"
+  },
+  {
+    "subject": "Aamir Ahmad",
+    "predicate": "convinced",
+    "object": "Prof. Pedro Lima"
+  },
+  {
+    "subject": "Prof. Pedro Lima",
+    "predicate": "was a former trustee of",
+    "object": "Robocup Federation"
+  },
+  {
+    "subject": "Prof. Pedro Lima",
+    "predicate": "brought",
+    "object": "Robocup to India"
+  },
+  {
+    "subject": "Robocup@India challenge",
+    "predicate": "was organized by",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Robocup@India challenge",
+    "predicate": "took place in",
+    "object": "2009"
+  },
+  {
+    "subject": "Robocup@India challenge",
+    "predicate": "was the first of its kind in",
+    "object": "South East Asia"
+  },
+  {
+    "subject": "India",
+    "predicate": "joined",
+    "object": "elite body of only 18 nations worldwide to host such a league"
+  },
+  {
+    "subject": "Students of IIT Kharagpur",
+    "predicate": "participated in",
+    "object": "Robocup@India challenge"
+  },
+  {
+    "subject": "Students of IIT Kharagpur",
+    "predicate": "formed",
+    "object": "KRSSG"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "got faculty attention from",
+    "object": "Prof. Jayanta Mukhopadhyay"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "got faculty attention from",
+    "object": "Prof. Sudeshna Sarkar"
+  },
+  {
+    "subject": "Prof. Jayanta Mukhopadhyay",
+    "predicate": "took up",
+    "object": "KRSSG as a research project"
+  },
+  {
+    "subject": "Prof. Sudeshna Sarkar",
+    "predicate": "took up",
+    "object": "KRSSG as a research project"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "received first funding from",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Sanjiban Choudhury",
+    "predicate": "took",
+    "object": "KRSSG as his Bachelor's Thesis Project"
+  },
+  {
+    "subject": "Kaustubh Tripathy",
+    "predicate": "took",
+    "object": "KRSSG as his Master's Thesis Project"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "aimed to participate in",
+    "object": "FIRA 2010"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "participated in",
+    "object": "FIRA 2010"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "used",
+    "object": "purchased robots"
+  },
+  {
+    "subject": "FIRA 2010",
+    "predicate": "was held in",
+    "object": "Bangalore"
+  },
+  {
+    "subject": "Sanjiban Choudhury",
+    "predicate": "was the sole representative of",
+    "object": "KRSSG at FIRA 2010"
+  },
+  {
+    "subject": "Team Sahas",
+    "predicate": "is from",
+    "object": "IIT Madras"
+  },
+  {
+    "subject": "Gaurav Rathi",
+    "predicate": "led",
+    "object": "KRSSG team for FIRA 2012 attempt"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "attempted to participate in",
+    "object": "FIRA 2012"
+  },
+  {
+    "subject": "FIRA 2012",
+    "predicate": "was to be held in",
+    "object": "Bristol, UK"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "participated in",
+    "object": "FIRA 2013"
+  },
+  {
+    "subject": "FIRA 2013",
+    "predicate": "was held in",
+    "object": "Kuala Lumpur, Malaysia"
+  },
+  {
+    "subject": "Students of KRSSG",
+    "predicate": "developed",
+    "object": "mechanical design"
+  },
+  {
+    "subject": "Students of KRSSG",
+    "predicate": "developed",
+    "object": "circuit fabrication"
+  },
+  {
+    "subject": "Students of KRSSG",
+    "predicate": "developed",
+    "object": "control code"
+  },
+  {
+    "subject": "Students of KRSSG",
+    "predicate": "developed",
+    "object": "AI"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "entered",
+    "object": "Simurosot simulation league"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "used",
+    "object": "self-manufactured robots"
+  },
+  {
+    "subject": "Team Sahas",
+    "predicate": "used",
+    "object": "self-manufactured robots"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "was one of only two teams using self-manufactured robots at",
+    "object": "FIRA 2013"
+  },
+  {
+    "subject": "Indian team",
+    "predicate": "won a match in",
+    "object": "FIRA for the first time"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "participated in",
+    "object": "FIRA 2014"
+  },
+  {
+    "subject": "FIRA 2014",
+    "predicate": "was held in",
+    "object": "Beijing, China"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "participated in",
+    "object": "FIRA 2015"
+  },
+  {
+    "subject": "FIRA 2015",
+    "predicate": "was held in",
+    "object": "Daejeon, South Korea"
+  },
+  {
+    "subject": "Kaustubh Tripathi",
+    "predicate": "was Student Coordinator in",
+    "object": "2009"
+  },
+  {
+    "subject": "Kaustubh Tripathi",
+    "predicate": "was from batch",
+    "object": "2010"
+  },
+  {
+    "subject": "Sanjiban Choudhury",
+    "predicate": "was Student Coordinator in",
+    "object": "2010"
+  },
+  {
+    "subject": "Sanjiban Choudhury",
+    "predicate": "was from batch",
+    "object": "2011"
+  },
+  {
+    "subject": "Bittu Sarkar",
+    "predicate": "was Student Coordinator in",
+    "object": "2011"
+  },
+  {
+    "subject": "Bittu Sarkar",
+    "predicate": "was from batch",
+    "object": "2012"
+  },
+  {
+    "subject": "Gaurav Rathi",
+    "predicate": "was Student Coordinator in",
+    "object": "2012"
+  },
+  {
+    "subject": "Gaurav Rathi",
+    "predicate": "was from batch",
+    "object": "2013"
+  },
+  {
+    "subject": "Shourav Chakravarty",
+    "predicate": "was Student Coordinator in",
+    "object": "2012"
+  },
+  {
+    "subject": "Shourav Chakravarty",
+    "predicate": "was from batch",
+    "object": "2014"
+  },
+  {
+    "subject": "Harsh Surana",
+    "predicate": "was Student Coordinator in",
+    "object": "2013"
+  },
+  {
+    "subject": "Harsh Surana",
+    "predicate": "was from batch",
+    "object": "2014"
+  },
+  {
+    "subject": "Ashish Daga",
+    "predicate": "was Student Coordinator in",
+    "object": "2014"
+  },
+  {
+    "subject": "Ashish Daga",
+    "predicate": "was from batch",
+    "object": "2016"
+  },
+  {
+    "subject": "Soumyadeep Mukherjee",
+    "predicate": "was Student Coordinator in",
+    "object": "2014"
+  },
+  {
+    "subject": "Soumyadeep Mukherjee",
+    "predicate": "was from batch",
+    "object": "2016"
+  },
+  {
+    "subject": "Akshay Gupta",
+    "predicate": "was Student Coordinator in",
+    "object": "2015"
+  },
+  {
+    "subject": "Akshay Gupta",
+    "predicate": "was from batch",
+    "object": "2016"
+  },
+  {
+    "subject": "Raunak Dhaniwala",
+    "predicate": "was Student Coordinator in",
+    "object": "2015"
+  },
+  {
+    "subject": "Raunak Dhaniwala",
+    "predicate": "was from batch",
+    "object": "2016"
+  },
+  {
+    "subject": "Seemant Jay",
+    "predicate": "was Student Coordinator in",
+    "object": "2015"
+  },
+  {
+    "subject": "Seemant Jay",
+    "predicate": "was from batch",
+    "object": "2016"
+  },
+  {
+    "subject": "Abhinav Agarwalla",
+    "predicate": "was Student Coordinator in",
+    "object": "2016"
+  },
+  {
+    "subject": "Abhinav Agarwalla",
+    "predicate": "was from batch",
+    "object": "2018"
+  },
+  {
+    "subject": "Kumar Abhinav",
+    "predicate": "was Student Coordinator in",
+    "object": "2016"
+  },
+  {
+    "subject": "Kumar Abhinav",
+    "predicate": "was from batch",
+    "object": "2018"
+  },
+  {
+    "subject": "Kaustubh Mundhada",
+    "predicate": "was Student Coordinator in",
+    "object": "2016"
+  },
+  {
+    "subject": "Kaustubh Mundhada",
+    "predicate": "was from batch",
+    "object": "2017"
+  },
+  {
+    "subject": "Dhananjay Yadav",
+    "predicate": "was Student Coordinator in",
+    "object": "2016"
+  },
+  {
+    "subject": "Dhananjay Yadav",
+    "predicate": "was from batch",
+    "object": "2017"
+  },
+  {
+    "subject": "Gunjan Sengupta",
+    "predicate": "was Student Coordinator in",
+    "object": "2017"
+  },
+  {
+    "subject": "Gunjan Sengupta",
+    "predicate": "was from batch",
+    "object": "2018"
+  },
+  {
+    "subject": "Ankit Lohani",
+    "predicate": "was Student Coordinator in",
+    "object": "2017"
+  },
+  {
+    "subject": "Ankit Lohani",
+    "predicate": "was from batch",
+    "object": "2018"
+  },
+  {
+    "subject": "Rishabh Jain",
+    "predicate": "was Student Coordinator in",
+    "object": "2017"
+  },
+  {
+    "subject": "Rishabh Jain",
+    "predicate": "was from batch",
+    "object": "2018"
+  },
+  {
+    "subject": "Sudarshan Sharma",
+    "predicate": "was Student Coordinator in",
+    "object": "2018"
+  },
+  {
+    "subject": "Sudarshan Sharma",
+    "predicate": "was from batch",
+    "object": "2020"
+  },
+  {
+    "subject": "Mayank Bhushan",
+    "predicate": "was Student Coordinator in",
+    "object": "2018"
+  },
+  {
+    "subject": "Mayank Bhushan",
+    "predicate": "was from batch",
+    "object": "2020"
+  },
+  {
+    "subject": "Ankush Roy",
+    "predicate": "was Student Coordinator in",
+    "object": "2018"
+  },
+  {
+    "subject": "Ankush Roy",
+    "predicate": "was from batch",
+    "object": "2020"
+  },
+  {
+    "subject": "Buridi Sree Aditya",
+    "predicate": "was Student Coordinator in",
+    "object": "2018"
+  },
+  {
+    "subject": "Buridi Sree Aditya",
+    "predicate": "was from batch",
+    "object": "2020"
+  },
+  {
+    "subject": "Tanishq Jasoria",
+    "predicate": "was Student Coordinator in",
+    "object": "2019"
+  },
+  {
+    "subject": "Tanishq Jasoria",
+    "predicate": "was from batch",
+    "object": "2021"
+  },
+  {
+    "subject": "Ashish Kumar Gaurav",
+    "predicate": "was Student Coordinator in",
+    "object": "2019"
+  },
+  {
+    "subject": "Ashish Kumar Gaurav",
+    "predicate": "was from batch",
+    "object": "2021"
+  },
+  {
+    "subject": "Shivam Kumar Panda",
+    "predicate": "was Student Coordinator in",
+    "object": "2019"
+  },
+  {
+    "subject": "Shivam Kumar Panda",
+    "predicate": "was from batch",
+    "object": "2021"
+  },
+  {
+    "subject": "Shubhanan Shriniket",
+    "predicate": "was Student Coordinator in",
+    "object": "2019"
+  },
+  {
+    "subject": "Shubhanan Shriniket",
+    "predicate": "was from batch",
+    "object": "2020"
+  },
+  {
+    "subject": "RoboCup Four Wheel Robot",
+    "predicate": "is a",
+    "object": "RoboCup"
+  },
+  {
+    "subject": "RoboCup Four Wheel Robot",
+    "predicate": "has component",
+    "object": "Four Wheel"
+  },
+  {
+    "subject": "project",
+    "predicate": "was result of",
+    "object": "success of the RoboCup India Challenge in August 2009"
+  },
+  {
+    "subject": "success of the RoboCup India Challenge",
+    "predicate": "took place in",
+    "object": "campus"
+  },
+  {
+    "subject": "success of the RoboCup India Challenge",
+    "predicate": "took place in",
+    "object": "August 2009"
+  },
+  {
+    "subject": "project",
+    "predicate": "led to creation of",
+    "object": "KRSSG"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "was created formally",
+    "object": "as result of project"
+  },
+  {
+    "subject": "aim of the project",
+    "predicate": "is to develop",
+    "object": "team of autonomous robots"
+  },
+  {
+    "subject": "team of autonomous robots",
+    "predicate": "is developed in accordance with rules of",
+    "object": "International RoboCup Small Sized League"
+  },
+  {
+    "subject": "notable highlights of the project",
+    "predicate": "include development of",
+    "object": "team of omni-directional robots"
+  },
+  {
+    "subject": "omni-directional robots",
+    "predicate": "have",
+    "object": "linear kicker"
+  },
+  {
+    "subject": "omni-directional robots",
+    "predicate": "have",
+    "object": "chip kicker"
+  },
+  {
+    "subject": "chip kicker",
+    "predicate": "shoots",
+    "object": "golf ball"
+  },
+  {
+    "subject": "chip kicker",
+    "predicate": "chips",
+    "object": "golf ball"
+  },
+  {
+    "subject": "RoboCup 3D Simulated Soccer League",
+    "predicate": "challenges",
+    "object": "control of virtual humanoid team of robots"
+  },
+  {
+    "subject": "virtual humanoid team of robots",
+    "predicate": "compete",
+    "object": "against one another"
+  },
+  {
+    "subject": "RoboCup 3D Simulated Soccer League",
+    "predicate": "aims to control",
+    "object": "different kinds of humanoid robot models"
+  },
+  {
+    "subject": "RoboCup 3D Simulated Soccer League",
+    "predicate": "simulates",
+    "object": "communication between players"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "started working on",
+    "object": "this league"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "started working on",
+    "object": "RoboCup 3D Simulated Soccer League"
+  },
+  {
+    "subject": "FIRA Mirosot project",
+    "predicate": "has aim",
+    "object": "develop a team of autonomous robots"
+  },
+  {
+    "subject": "project",
+    "predicate": "develops",
+    "object": "team of differential drive robots"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "developed",
+    "object": "two versions of Mirosot robots"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "participated in",
+    "object": "4 FIRA Roboworld Cups"
+  },
+  {
+    "subject": "FIRA Simurosot",
+    "predicate": "is",
+    "object": "simulation league of differential drive robots playing soccer"
+  },
+  {
+    "subject": "KRSSt",
+    "predicate": "started working on",
+    "object": "FIRA Simurosot"
+  },
+  {
+    "subject": "KRSSt",
+    "predicate": "started working after",
+    "object": "2010"
+  },
+  {
+    "subject": "KRSSt",
+    "predicate": "participated in",
+    "object": "Simurosot"
+  },
+  {
+    "subject": "KRSSt",
+    "predicate": "participated in",
+    "object": "FIRA Roboworld Cups"
+  },
+  {
+    "subject": "KRSSt",
+    "predicate": "has participation count",
+    "object": "3"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "has started working on",
+    "object": "humanoid robotics"
+  },
+  {
+    "subject": "students",
+    "predicate": "working on",
+    "object": "simulation league"
+  },
+  {
+    "subject": "students",
+    "predicate": "trying to get",
+    "object": "Darwin Mini"
+  },
+  {
+    "subject": "Darwin Mini",
+    "predicate": "play",
+    "object": "soccer"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "working on designing",
+    "object": "its own humanoid"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "getting",
+    "object": "its own humanoid to play soccer"
+  },
+  {
+    "subject": "Code-O-Soccer",
+    "predicate": "is a",
+    "object": "coding competition"
+  },
+  {
+    "subject": "Code-O-Soccer",
+    "predicate": "is conducted by",
+    "object": "Kharagpur RoboSoccer Students' Group"
+  },
+  {
+    "subject": "Code-O-Soccer",
+    "predicate": "is conducted in the month of",
+    "object": "October"
+  },
+  {
+    "subject": "Code-O-Soccer",
+    "predicate": "has main aim to introduce",
+    "object": "the concept of autonomous soccer playing robots in students mind"
+  },
+  {
+    "subject": "Code-O-Soccer",
+    "predicate": "has main aim to motivate",
+    "object": "students to create a challenging strategy using the provided API on a three vs three robot match"
+  },
+  {
+    "subject": "robots",
+    "predicate": "are provided by",
+    "object": "KRSSG"
+  },
+  {
+    "subject": "Code-O-Soccer",
+    "predicate": "is going national for the first time in",
+    "object": "2015"
+  },
+  {
+    "subject": "Code-O-Soccer",
+    "predicate": "is going national in collaboration with",
+    "object": "IEEE"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "conducted workshops",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "partnered with",
+    "object": "IEEE"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "partnered with",
+    "object": "Intel"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "aimed to spread",
+    "object": "culture of robotics in India"
+  },
+  {
+    "subject": "KRSSG",
+    "predicate": "displayed",
+    "object": "work and skills"
+  },
+  {
+    "subject": "KRSSG Team",
+    "predicate": "is divided into",
+    "object": "four sections"
+  },
+  {
+    "subject": "AI or Coding Team",
+    "predicate": "is",
+    "object": "team that develops the strategy and high level control of the robot(s)"
+  },
+  {
+    "subject": "AI or Coding Team",
+    "predicate": "is responsible for",
+    "object": "developing the code architecture for robot control"
+  },
+  {
+    "subject": "Embedded Electronics Team",
+    "predicate": "is responsible for",
+    "object": "developing the on-board control system and circuits of the robot(s)"
+  },
+  {
+    "subject": "Embedded Electronics Team",
+    "predicate": "works on",
+    "object": "cutting edge electronics"
+  },
+  {
+    "subject": "Embedded Electronics Team",
+    "predicate": "designs",
+    "object": "the circuits"
+  },
+  {
+    "subject": "Embedded Electronics Team",
+    "predicate": "tests",
+    "object": "the circuits"
+  },
+  {
+    "subject": "Embedded Electronics Team",
+    "predicate": "fabricates",
+    "object": "the circuits"
+  },
+  {
+    "subject": "Mechanical Design team",
+    "predicate": "is responsible for",
+    "object": "designing the mechanical structure of the robots"
+  },
+  {
+    "subject": "Mechanical Design team",
+    "predicate": "manufactures",
+    "object": "mechanical structure of the robots"
+  },
+  {
+    "subject": "Mechanical Design team",
+    "predicate": "designs",
+    "object": "prototypes"
+  },
+  {
+    "subject": "Mechanical Design team",
+    "predicate": "tests",
+    "object": "designs"
+  },
+  {
+    "subject": "designs",
+    "predicate": "are tested on",
+    "object": "simulation"
+  },
+  {
+    "subject": "designs",
+    "predicate": "are tested on",
+    "object": "prototypes"
+  },
+  {
+    "subject": "Prototypes",
+    "predicate": "are designed prior to",
+    "object": "final manufacturing"
+  },
+  {
+    "subject": "Management team",
+    "predicate": "is responsible for",
+    "object": "Public Relations"
+  },
+  {
+    "subject": "Management team",
+    "predicate": "is responsible for",
+    "object": "website"
+  },
+  {
+    "subject": "Management team",
+    "predicate": "is responsible for",
+    "object": "Facebook page"
+  },
+  {
+    "subject": "Management team",
+    "predicate": "is responsible for",
+    "object": "sponsorships for the team"
+  },
+  {
+    "subject": "Management team",
+    "predicate": "manage",
+    "object": "events conducted by KRSSG"
+  },
+  {
+    "subject": "Management team",
+    "predicate": "attempt to bring",
+    "object": "collaborations with industries"
+  },
+  {
+    "subject": "Team KRSSG",
+    "predicate": "participated in",
+    "object": "FIRA 2015"
+  },
+  {
+    "subject": "Team KRSSG",
+    "predicate": "achieved result",
+    "object": "Bronze Trophy"
+  },
+  {
+    "subject": "Team KRSSG",
+    "predicate": "located in",
+    "object": "Dajeon, South Korea"
+  },
+  {
+    "subject": "Team KRSSG",
+    "predicate": "had leader",
+    "object": "Seemant Jay"
+  },
+  {
+    "subject": "Sanjiban Choudhury",
+    "predicate": "was contingent leader for",
+    "object": "2010 FIRA Mirosot"
+  },
+  {
+    "subject": "Shourav Chakravarty",
+    "predicate": "was contingent leader for",
+    "object": "2013 FIRA Mirosot"
+  },
+  {
+    "subject": "Harsh Surana",
+    "predicate": "was contingent leader for",
+    "object": "2013 FIRA Simurosot"
+  },
+  {
+    "subject": "Arpit Tarang Saxena",
+    "predicate": "was contingent leader for",
+    "object": "2014 FIRA Mirosot"
+  },
+  {
+    "subject": "Akshay Gupta",
+    "predicate": "was contingent leader for",
+    "object": "2014 FIRA Simurosot"
+  },
+  {
+    "subject": "Seemant Jay",
+    "predicate": "was contingent leader for",
+    "object": "2015 FIRA Mirosot"
+  },
+  {
+    "subject": "Kumar Abhinav",
+    "predicate": "was contingent leader for",
+    "object": "2015 FIRA Simurosot"
+  },
+  {
+    "subject": "Nishant Nikhil",
+    "predicate": "was contingent leader for",
+    "object": "2016 RoboCup 3D"
+  },
+  {
+    "subject": "Abhinav Agarwal",
+    "predicate": "was contingent leader for",
+    "object": "2016 RoboCup 3D"
+  },
+  {
+    "subject": "Buridi Sree Aaditya",
+    "predicate": "was contingent leader for",
+    "object": "2017 RoboCup 3D"
+  },
+  {
+    "subject": "Shubhanan Shriniket",
+    "predicate": "was contingent leader for",
+    "object": "2018 RoboCup 3D"
+  },
+  {
+    "subject": "KRSSG Website",
+    "predicate": "Verified by",
+    "object": "Dementor"
+  },
+  {
+    "subject": "KRSSG Website",
+    "predicate": "Verified on",
+    "object": "September 18, 2015"
+  },
+  {
+    "subject": "Intel Workshop",
+    "predicate": "Hosted by",
+    "object": "KRSSG"
+  },
+  {
+    "subject": "Further Information",
+    "predicate": "contains",
+    "object": "Github Organisation"
+  }
+]

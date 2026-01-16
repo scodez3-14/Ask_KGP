@@ -1,0 +1,1547 @@
+[
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "founded",
+    "object": "2011"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "hasFounder",
+    "object": "Anmol Chopra"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "hasFounder",
+    "object": "Rahul Agrawal"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "hasNumberOfMembers",
+    "object": "30"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "hasWebsite",
+    "object": "swgiitkgp .org"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "hasContact",
+    "object": "Akash Verma"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "hasContact",
+    "object": "Amit Anand"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "hasContact",
+    "object": "Nikhil Kedia"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "hasContact",
+    "object": "Sourav Basu"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "under",
+    "object": "TSG"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "is a",
+    "object": "student body"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "is under",
+    "object": "office of the Dean of Students' Affairs, IIT Kharagpur"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "strives to be with",
+    "object": "those who need help"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "promises to sweat for",
+    "object": "realization and solutions of issues faced by fellow mates"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "is an organization of",
+    "object": "the students"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "functions as",
+    "object": "two teams"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "has",
+    "object": "The Central Team"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "has",
+    "object": "The Hall Coordinators Team"
+  },
+  {
+    "subject": "The Counselling Centre",
+    "predicate": "set up in",
+    "object": "2009"
+  },
+  {
+    "subject": "The Counselling Centre",
+    "predicate": "set up by",
+    "object": "Dean Of Students\u2032 Affairs"
+  },
+  {
+    "subject": "Dean Of Students\u2032 Affairs",
+    "predicate": "affiliated to",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "The Counselling Centre",
+    "predicate": "was outcome of",
+    "object": "efforts to make campus better"
+  },
+  {
+    "subject": "The Counselling Centre",
+    "predicate": "provided",
+    "object": "place for students to approach with problems"
+  },
+  {
+    "subject": "The Counselling Centre",
+    "predicate": "reach extended through",
+    "object": "Hall Coordinators Team"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "established in",
+    "object": "August 2011"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "was outcome of",
+    "object": "increasing student strength needing active participation"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "evolved from",
+    "object": "idea to perpetuate hassle-free campus life"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "is",
+    "object": "dedicated group of students"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "plans to emerge as",
+    "object": "more successful organization"
+  },
+  {
+    "subject": "SWG",
+    "predicate": "aims",
+    "object": "to ensure that every student's life in KGP is hassle free"
+  },
+  {
+    "subject": "SWG",
+    "predicate": "aims",
+    "object": "to instil a belief in every student that they can achieve all their goals in life"
+  },
+  {
+    "subject": "SWG",
+    "predicate": "assists",
+    "object": "students in resolving their difficulties in every field"
+  },
+  {
+    "subject": "SWG",
+    "predicate": "aims",
+    "object": "to create and sustain an environment that promotes personal growth and discovery"
+  },
+  {
+    "subject": "SWG",
+    "predicate": "aims",
+    "object": "to create and sustain an environment that promotes the pursuit of healthy minds and bodies"
+  },
+  {
+    "subject": "SWG",
+    "predicate": "aims",
+    "object": "to create and sustain an environment that promotes participation in the creation of a caring community"
+  },
+  {
+    "subject": "Student Mentorship Programme",
+    "predicate": "involves",
+    "object": "guidance and mentorship"
+  },
+  {
+    "subject": "Student Mentorship Programme",
+    "predicate": "involves mentorship of",
+    "object": "first year student"
+  },
+  {
+    "subject": "first year student",
+    "predicate": "is mentored by",
+    "object": "3rd or 4th year student"
+  },
+  {
+    "subject": "3rd or 4th year student",
+    "predicate": "is of the same department as",
+    "object": "first year student"
+  },
+  {
+    "subject": "Student Mentorship Programme",
+    "predicate": "has objective to help",
+    "object": "first years"
+  },
+  {
+    "subject": "Student Mentorship Programme",
+    "predicate": "helps first years understand",
+    "object": "various aspects of college life"
+  },
+  {
+    "subject": "Student Mentorship Programme",
+    "predicate": "ensures that",
+    "object": "hindsight of the Mentor becomes the foresight of the Mentee"
+  },
+  {
+    "subject": "Mentee",
+    "predicate": "can benefit from",
+    "object": "insight of the Mentor"
+  },
+  {
+    "subject": "Mentee",
+    "predicate": "finds way to utilize",
+    "object": "time in the campus"
+  },
+  {
+    "subject": "Student Mentor Programme",
+    "predicate": "provides scope for",
+    "object": "constructive and productive interaction"
+  },
+  {
+    "subject": "constructive and productive interaction",
+    "predicate": "is between",
+    "object": "freshmen and experienced seniors"
+  },
+  {
+    "subject": "constructive and productive interaction",
+    "predicate": "forms integral part of",
+    "object": "college life"
+  },
+  {
+    "subject": "PDS Doubt Sessions",
+    "predicate": "organized by",
+    "object": "the SWG"
+  },
+  {
+    "subject": "Programming and Data Structures",
+    "predicate": "is an important course of",
+    "object": "the first year curricula"
+  },
+  {
+    "subject": "The instructors",
+    "predicate": "are",
+    "object": "senior students of the institute"
+  },
+  {
+    "subject": "The instructors",
+    "predicate": "try to increase",
+    "object": "the problem tackling capability of the students"
+  },
+  {
+    "subject": "The instructors",
+    "predicate": "build up",
+    "object": "the confidence of the students to face the competition"
+  },
+  {
+    "subject": "Friday\u2019s sessions",
+    "predicate": "provide",
+    "object": "tutorial sheets to the students"
+  },
+  {
+    "subject": "The tutors",
+    "predicate": "help",
+    "object": "the students"
+  },
+  {
+    "subject": "The tutors",
+    "predicate": "help the students to solve",
+    "object": "the questions"
+  },
+  {
+    "subject": "The tutors",
+    "predicate": "clear",
+    "object": "the doubts of each and every student"
+  },
+  {
+    "subject": "Sunday\u2019s sessions",
+    "predicate": "require students to bring",
+    "object": "their laptops"
+  },
+  {
+    "subject": "Sunday\u2019s sessions",
+    "predicate": "provide",
+    "object": "a set of programming questions"
+  },
+  {
+    "subject": "The tutors",
+    "predicate": "help the students in",
+    "object": "coding, compiling and running their programs"
+  },
+  {
+    "subject": "The instructors",
+    "predicate": "provide",
+    "object": "printed solution of the tutorial sheet to the students"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "in association with",
+    "object": "Smart Training Institute"
+  },
+  {
+    "subject": "Smart Training Institute",
+    "predicate": "is renowned for",
+    "object": "grooming and perfecting soft skills"
+  },
+  {
+    "subject": "Student Welfare Group in association with Smart Training Institute",
+    "predicate": "presents",
+    "object": "opportunity to boost students' performance at group discussions and personal interviews"
+  },
+  {
+    "subject": "The workshop",
+    "predicate": "has been",
+    "object": "a success in the past"
+  },
+  {
+    "subject": "The workshop",
+    "predicate": "received",
+    "object": "positive feedback from most students"
+  },
+  {
+    "subject": "Collaboration with the private institute",
+    "predicate": "is in",
+    "object": "early phase"
+  },
+  {
+    "subject": "Collaboration with the private institute",
+    "predicate": "has",
+    "object": "room and scope in future"
+  },
+  {
+    "subject": "SWG",
+    "predicate": "aims to provide",
+    "object": "better workshops in the following sessions"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "organized",
+    "object": "Panel Discussion (Wings Of Fire)"
+  },
+  {
+    "subject": "Panel Discussion (Wings Of Fire)",
+    "predicate": "was conducted by",
+    "object": "batch of 2010-11"
+  },
+  {
+    "subject": "Panel Discussion (Wings Of Fire)",
+    "predicate": "invited",
+    "object": "students"
+  },
+  {
+    "subject": "panelists",
+    "predicate": "shared",
+    "object": "valuable experience"
+  },
+  {
+    "subject": "discussion",
+    "predicate": "encompassed",
+    "object": "every facet of KGP life"
+  },
+  {
+    "subject": "every facet of KGP life",
+    "predicate": "includes",
+    "object": "academics"
+  },
+  {
+    "subject": "every facet of KGP life",
+    "predicate": "includes",
+    "object": "extracurriculars"
+  },
+  {
+    "subject": "every facet of KGP life",
+    "predicate": "includes",
+    "object": "sports"
+  },
+  {
+    "subject": "every facet of KGP life",
+    "predicate": "includes",
+    "object": "societies"
+  },
+  {
+    "subject": "every facet of KGP life",
+    "predicate": "includes",
+    "object": "PORs"
+  },
+  {
+    "subject": "discussion",
+    "predicate": "was helpful for",
+    "object": "freshers"
+  },
+  {
+    "subject": "freshers",
+    "predicate": "had just joined",
+    "object": "institute"
+  },
+  {
+    "subject": "panelists",
+    "predicate": "shared experience of",
+    "object": "4-5 years in KGP"
+  },
+  {
+    "subject": "2nd and 3rd year students",
+    "predicate": "gathered for",
+    "object": "panel discussion"
+  },
+  {
+    "subject": "ForeSight",
+    "predicate": "is presented by",
+    "object": "SWG"
+  },
+  {
+    "subject": "ForeSight",
+    "predicate": "is a",
+    "object": "program"
+  },
+  {
+    "subject": "ForeSight",
+    "predicate": "provides",
+    "object": "unique interface to connect with experts"
+  },
+  {
+    "subject": "ForeSight",
+    "predicate": "targets",
+    "object": "campus students"
+  },
+  {
+    "subject": "ForeSight",
+    "predicate": "connects with",
+    "object": "people who have mastered their field"
+  },
+  {
+    "subject": "ForeSight",
+    "predicate": "covers",
+    "object": "career related dimensions"
+  },
+  {
+    "subject": "career related dimensions",
+    "predicate": "include",
+    "object": "placements"
+  },
+  {
+    "subject": "career related dimensions",
+    "predicate": "include",
+    "object": "internships"
+  },
+  {
+    "subject": "career related dimensions",
+    "predicate": "include",
+    "object": "FTs"
+  },
+  {
+    "subject": "career related dimensions",
+    "predicate": "include",
+    "object": "competitions"
+  },
+  {
+    "subject": "ForeSight",
+    "predicate": "sources data from",
+    "object": "students of the campus"
+  },
+  {
+    "subject": "ForeSight",
+    "predicate": "sources data from",
+    "object": "alumni of the institute"
+  },
+  {
+    "subject": "campus ride",
+    "predicate": "begins from",
+    "object": "Technology Students' Gymkhana, IIT Kharagpur (TSG)"
+  },
+  {
+    "subject": "campus ride",
+    "predicate": "acquaints",
+    "object": "freshers"
+  },
+  {
+    "subject": "campus ride",
+    "predicate": "shows",
+    "object": "important places of the campus"
+  },
+  {
+    "subject": "Technology Students' Gymkhana, IIT Kharagpur (TSG)",
+    "predicate": "organizes",
+    "object": "campus ride"
+  },
+  {
+    "subject": "more than 1200 freshers in 28 separate buses",
+    "predicate": "were shown",
+    "object": "magnificence of the KGP campus"
+  },
+  {
+    "subject": "SWG team",
+    "predicate": "interacts with",
+    "object": "freshers"
+  },
+  {
+    "subject": "Institute Information Brochure",
+    "predicate": "was circulated",
+    "object": "freshers"
+  },
+  {
+    "subject": "SWG team",
+    "predicate": "made rigorous efforts",
+    "object": "Institute Information Brochure"
+  },
+  {
+    "subject": "administration",
+    "predicate": "supported",
+    "object": "Institute Information Brochure"
+  },
+  {
+    "subject": "Institute Information Brochure",
+    "predicate": "helped",
+    "object": "freshers batch"
+  },
+  {
+    "subject": "freshers batch",
+    "predicate": "were at",
+    "object": "KGP"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "organizes",
+    "object": "Electrical and Mechanics Doubt Sessions"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "assisted by",
+    "object": "Vice President, TSG"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "assisted by",
+    "object": "faculty of Electrical Technology and Mechanics"
+  },
+  {
+    "subject": "Electrical and Mechanics Doubt Sessions",
+    "predicate": "intended for",
+    "object": "first year UG students"
+  },
+  {
+    "subject": "Electrical and Mechanics Doubt Sessions",
+    "predicate": "occurs on",
+    "object": "Every Saturday"
+  },
+  {
+    "subject": "Electrical and Mechanics Doubt Sessions",
+    "predicate": "starts from",
+    "object": "29th August, 2015"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "conducts",
+    "object": "Hall Coordinators Programme"
+  },
+  {
+    "subject": "Student Welfare Group",
+    "predicate": "conducts with the help of",
+    "object": "Hall Coordinators' Team"
+  },
+  {
+    "subject": "Hall Coordinators' Team",
+    "predicate": "works directly with",
+    "object": "Counselling Centre"
+  },
+  {
+    "subject": "Hall Coordinators' Team",
+    "predicate": "works for",
+    "object": "overall well-being of fellow peers"
+  },
+  {
+    "subject": "Hall Coordinators' Team",
+    "predicate": "ensures",
+    "object": "A Hassle-free Kgp Life"
+  },
+  {
+    "subject": "Kharagpur Blood Connect",
+    "predicate": "is an initiative of",
+    "object": "Student Welfare Group (SWG) IIT Kharagpur"
+  },
+  {
+    "subject": "Kharagpur Blood Connect",
+    "predicate": "is an initiative of",
+    "object": "Gopali Youth Welfare Society"
+  },
+  {
+    "subject": "Kharagpur Blood Connect",
+    "predicate": "established to serve",
+    "object": "same purpose"
+  },
+  {
+    "subject": "Kharagpur Blood Connect",
+    "predicate": "helps in making",
+    "object": "contribution"
+  },
+  {
+    "subject": "Kharagpur Blood Connect",
+    "predicate": "helps in making",
+    "object": "blood donation"
+  },
+  {
+    "subject": "Kharagpur Blood Connect",
+    "predicate": "is an endeavour of ensuring",
+    "object": "no one on campus struggles to find a blood donor in times of need"
+  },
+  {
+    "subject": "SWG",
+    "predicate": "has come with",
+    "object": "Public Speaking Forum"
+  },
+  {
+    "subject": "Public Speaking Forum",
+    "predicate": "is",
+    "object": "a platform"
+  },
+  {
+    "subject": "Public Speaking Forum",
+    "predicate": "makes",
+    "object": "you aptly equipped"
+  },
+  {
+    "subject": "Public Speaking Forum",
+    "predicate": "helps to fight",
+    "object": "the fear of Public Speaking"
+  },
+  {
+    "subject": "Public Speaking Forum",
+    "predicate": "is",
+    "object": "an 8 session long program"
+  },
+  {
+    "subject": "The initiative",
+    "predicate": "concentrates on",
+    "object": "individuals with a basic knowledge of English language"
+  },
+  {
+    "subject": "Speaking on a public platform",
+    "predicate": "bothers",
+    "object": "individuals with a basic knowledge of English language"
+  },
+  {
+    "subject": "Speaking on a public platform",
+    "predicate": "can prove to be",
+    "object": "a hindrance"
+  },
+  {
+    "subject": "Speaking on a public platform",
+    "predicate": "can prove to be a hindrance in",
+    "object": "realizing their future endeavors"
+  },
+  {
+    "subject": "Anish Behuray Jainish Solanki",
+    "predicate": "is an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Khushi Agrawal",
+    "predicate": "is an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Priyanshi Khetan",
+    "predicate": "is an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Shubham Singh",
+    "predicate": "is an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Yash Kumar JSR",
+    "predicate": "is an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Sujit Nikhitha Sapharu",
+    "predicate": "is an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Shashank Tiwari",
+    "predicate": "is an",
+    "object": "Executive Head"
+  },
+  {
+    "subject": "Astha Kumari",
+    "predicate": "is an",
+    "object": "Executive Head"
+  },
+  {
+    "subject": "Akshat Kapoor",
+    "predicate": "is a",
+    "object": "Head"
+  },
+  {
+    "subject": "Shravan Barad",
+    "predicate": "is a",
+    "object": "Head"
+  },
+  {
+    "subject": "Bhawesh Kukreja",
+    "predicate": "is a",
+    "object": "Head"
+  },
+  {
+    "subject": "Vumika Ghosh",
+    "predicate": "is a",
+    "object": "Head"
+  },
+  {
+    "subject": "Shivam Bisen",
+    "predicate": "is a",
+    "object": "Head"
+  },
+  {
+    "subject": "Astitva Srivastava",
+    "predicate": "is a",
+    "object": "Head"
+  },
+  {
+    "subject": "2023 - 24",
+    "predicate": "has",
+    "object": "Advisors"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Rithick Prabakar Dhruv Rathi"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Bishal Kumar Behera"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Aditi Ujjain Lalam"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Hari Prasad Md Zaid Alam"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Pratik Choudhury"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Sneha Majumder"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Keval Mehta"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Himadri Pandya"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Abhishek"
+  },
+  {
+    "subject": "2023 - 24",
+    "predicate": "has",
+    "object": "Executive Heads"
+  },
+  {
+    "subject": "Executive Heads",
+    "predicate": "includes",
+    "object": "JSR Sujit"
+  },
+  {
+    "subject": "Executive Heads",
+    "predicate": "includes",
+    "object": "Nikhitha Sapharu"
+  },
+  {
+    "subject": "2023 - 24",
+    "predicate": "has",
+    "object": "Heads"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Anish Behuray"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Jainish Solanki"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Khushi Agrawal"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Priyanshi Khetan"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Shubham Singh"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Yash Kumar"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Devesh Gobind"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Tanaya Ramane"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Swagat Kumar Panda"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Sreeya Chillapuri"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Waqaar Hussain"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Awais Akhtar"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Sri Harika Reddy"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Yathartha Soneji"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Vedant Vani"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Jeripothula Sindhu Bhosale"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Shivam Pravin"
+  },
+  {
+    "subject": "Executive Heads",
+    "predicate": "includes",
+    "object": "Himadri Pandya"
+  },
+  {
+    "subject": "Executive Heads",
+    "predicate": "includes",
+    "object": "Abhishek"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Rithick Prabakar"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Dhruv Rathi"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Bishal Kumar Behera"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Aditi Ujjain"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Lalam Hari Prasad"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Keval Mehta"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Md Zaid Alam"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Pratik Choudhury"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Sneha Majumder"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Kunal Das"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Lavish Singhal"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Tapasya Pratap Singh"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Devang Upadhyaya"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Aditi Singhania"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Nikhil Kumar"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Animesh Jha"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Prachi Kharparde"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Akash Dusane"
+  },
+  {
+    "subject": "Executive Heads",
+    "predicate": "includes",
+    "object": "Jeripothula Sindhu Bhosale"
+  },
+  {
+    "subject": "Executive Heads",
+    "predicate": "includes",
+    "object": "Shivam Pravin"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Devesh Gobind"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Tanaya Ramane"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Swagat Kumar Panda"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Sreeya Chillapuri"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Waqaar Hussain"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Awais Akhtar"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Sri Harika Reddy"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Yathartha Soneji"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Vedant Vani"
+  },
+  {
+    "subject": "Akshat Jain",
+    "predicate": "was a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Anju Joon",
+    "predicate": "was a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Lakshya Agrawal",
+    "predicate": "was a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Nishchal Baghele",
+    "predicate": "was a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Rajat Goel",
+    "predicate": "was a",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Anshul Agarwal",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Kunal Das",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Lavish Singhal",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Mrityunjay Mehta",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Ritam Talukder",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Shivam Bhatia",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Tapasya Pratap Singh",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Utkarsh Kumar",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Pushpendra Singh Rathore",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Priyang Mani Tripathi",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Aamol Lohani",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Dileep Shukla",
+    "predicate": "holds position",
+    "object": "Advisor"
+  },
+  {
+    "subject": "TYSS",
+    "predicate": "holds position",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Santosh Saurabh",
+    "predicate": "holds position",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Chandra Pandey",
+    "predicate": "holds position",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Rajat Goel",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Prateek Manikpuri",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Akshat Jain",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Anju Joon",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Lakshya Agrawal",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Nishchal Baghele",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Rajdeep Singh",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Yograj Sirohi",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Nihal Gupta",
+    "predicate": "is_a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Vaibhav Agrawal",
+    "predicate": "is_a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Raju Bhakar",
+    "predicate": "is_a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Shashwat Mishra",
+    "predicate": "is_a",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Prasanna Dange",
+    "predicate": "is_a",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Utkarsh Kumar",
+    "predicate": "is_a",
+    "object": "Head"
+  },
+  {
+    "subject": "Pushpendra Singh Rathore",
+    "predicate": "is_a",
+    "object": "Head"
+  },
+  {
+    "subject": "Aamol Lohani",
+    "predicate": "is_a",
+    "object": "Head"
+  },
+  {
+    "subject": "Dileep Shukla",
+    "predicate": "is_a",
+    "object": "Head"
+  },
+  {
+    "subject": "Priyang Mani Tripathi",
+    "predicate": "is_a",
+    "object": "Head"
+  },
+  {
+    "subject": "TYSS",
+    "predicate": "is_a",
+    "object": "Head"
+  },
+  {
+    "subject": "Santosh Saurabh Chandra Pandey",
+    "predicate": "is_a",
+    "object": "Head"
+  },
+  {
+    "subject": "2016-17",
+    "predicate": "context for",
+    "object": "Governors"
+  },
+  {
+    "subject": "2016-17",
+    "predicate": "context for",
+    "object": "Advisors"
+  },
+  {
+    "subject": "2016-17",
+    "predicate": "context for",
+    "object": "Heads"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "includes",
+    "object": "Amey Muley"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "includes",
+    "object": "Akash Khandelwal"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "includes",
+    "object": "Karan Gupta"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Tushar Gupta"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Ashutosh Yadav"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Manoj Meena"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Siddhant Jain"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "includes",
+    "object": "Sanket Modi"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Raju Bhakar"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Prasanna Dange"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Ankur Ankit"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Surendra Puri"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Shashwat Mishra"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Nihal Gupta"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Vaibhav Agrawal"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Zain Ahmad"
+  },
+  {
+    "subject": "Heads",
+    "predicate": "includes",
+    "object": "Veda Vyshnavi Pranitha Sriramoju"
+  },
+  {
+    "subject": "Akash Verma",
+    "predicate": "was a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Amit Anand",
+    "predicate": "was a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Nikhil Kedia",
+    "predicate": "was a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Sourav Basu",
+    "predicate": "was a",
+    "object": "Governor"
+  },
+  {
+    "subject": "Sheenal Chhabra",
+    "predicate": "was an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Abhishek Chakraborty",
+    "predicate": "was an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Nishant Agarwal",
+    "predicate": "was an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Shankar Basava",
+    "predicate": "was an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Uma Ravali",
+    "predicate": "was an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Ankit Bansal",
+    "predicate": "was an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Shyam Simaria",
+    "predicate": "was an",
+    "object": "Advisor"
+  },
+  {
+    "subject": "Manoj Meena",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Prithvi Krishna",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Kunwarvir Singh",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Akash Khandelwal",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Chahak Tharani",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Ravina Moirangthem",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Ashutosh Yadav",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Tushar Gupta",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Karan Gupta",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Ishan Jain",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Siddhant Jain",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Sanket Modi",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Amey Muley",
+    "predicate": "was a",
+    "object": "Head"
+  },
+  {
+    "subject": "Abhishek Chaudhary",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Nishchay Dayal",
+    "predicate": "holds position",
+    "object": "Governor"
+  },
+  {
+    "subject": "Akash Verma",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Amit Anand",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Nikhil Kedia",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Sourav Basu",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Sheenal Chhabra",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Abhishek Chakraborty",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Nishant Agarwal",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Shankar Basava",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Uma Ravali",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Ankit Bansal",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Shyam Simaria",
+    "predicate": "holds position",
+    "object": "Head"
+  },
+  {
+    "subject": "Content",
+    "predicate": "refers to",
+    "object": "http://issuu.com/studentwelfaregroup/docs/ug_information_brochure"
+  },
+  {
+    "subject": "SWG IIT KGP",
+    "predicate": "has official Facebook page",
+    "object": "https://www.facebook.com/SWGIITKGP"
+  },
+  {
+    "subject": "SWG IIT KGP",
+    "predicate": "has official Android app",
+    "object": "https://play.google.com/store/apps/details?id=com.swg.swg_app&hl=en_IN&gl=US&pli=1"
+  },
+  {
+    "subject": "SWG IIT KGP",
+    "predicate": "has official Medium profile",
+    "object": "https://medium.com/@swgiitkgp"
+  },
+  {
+    "subject": "SWG IIT KGP",
+    "predicate": "has official Instagram account",
+    "object": "https://www.instagram.com/swg.iit_kgp/"
+  }
+]

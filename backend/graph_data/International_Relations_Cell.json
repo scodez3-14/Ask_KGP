@@ -1,0 +1,597 @@
+[
+  {
+    "subject": "Students' International Relations Cell",
+    "predicate": "formed under",
+    "object": "Dean of International Relations"
+  },
+  {
+    "subject": "Students' International Relations Cell",
+    "predicate": "has aim",
+    "object": "assist Office of International Relations"
+  },
+  {
+    "subject": "Students' International Relations Cell",
+    "predicate": "assists",
+    "object": "Office of International Relations"
+  },
+  {
+    "subject": "Office of International Relations",
+    "predicate": "facilitates",
+    "object": "development and management of partnerships"
+  },
+  {
+    "subject": "Office of International Relations",
+    "predicate": "facilitates",
+    "object": "development and management of linkages"
+  },
+  {
+    "subject": "Office of International Relations",
+    "predicate": "facilitates",
+    "object": "development and management of networks"
+  },
+  {
+    "subject": "partnerships",
+    "predicate": "with",
+    "object": "institutions of academic excellence"
+  },
+  {
+    "subject": "linkages",
+    "predicate": "with",
+    "object": "institutions of academic excellence"
+  },
+  {
+    "subject": "networks",
+    "predicate": "with",
+    "object": "institutions of academic excellence"
+  },
+  {
+    "subject": "partnerships",
+    "predicate": "with",
+    "object": "institutions of repute"
+  },
+  {
+    "subject": "linkages",
+    "predicate": "with",
+    "object": "institutions of repute"
+  },
+  {
+    "subject": "networks",
+    "predicate": "with",
+    "object": "institutions of repute"
+  },
+  {
+    "subject": "institutions of academic excellence",
+    "predicate": "located in",
+    "object": "all over the world"
+  },
+  {
+    "subject": "institutions of repute",
+    "predicate": "located in",
+    "object": "all over the world"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "dedicated to",
+    "object": "formulate proposals for creating opportunities"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "dedicated to",
+    "object": "implement proposals for creating opportunities"
+  },
+  {
+    "subject": "proposals",
+    "predicate": "for",
+    "object": "international exchange of students"
+  },
+  {
+    "subject": "proposals",
+    "predicate": "for",
+    "object": "international exchange of academic staff"
+  },
+  {
+    "subject": "international exchange",
+    "predicate": "with",
+    "object": "high quality institutions"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "dedicated to",
+    "object": "discover better means of collaboration"
+  },
+  {
+    "subject": "collaboration",
+    "predicate": "with",
+    "object": "international institutions"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "fostered through",
+    "object": "process of internationalization"
+  },
+  {
+    "subject": "process of internationalization",
+    "predicate": "of",
+    "object": "institute"
+  },
+  {
+    "subject": "process of internationalization",
+    "predicate": "keeping in tandem with",
+    "object": "vision"
+  },
+  {
+    "subject": "process of internationalization",
+    "predicate": "keeping in tandem with",
+    "object": "mission"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "has premier objective",
+    "object": "provide direct benefit to students and faculty members"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "is",
+    "object": "voluntary non-profit organization"
+  },
+  {
+    "subject": "members",
+    "predicate": "part of",
+    "object": "Institute body"
+  },
+  {
+    "subject": "members",
+    "predicate": "have",
+    "object": "spirit of teamwork"
+  },
+  {
+    "subject": "members",
+    "predicate": "have",
+    "object": "enthusiasm of being part of institute body"
+  },
+  {
+    "subject": "members",
+    "predicate": "have",
+    "object": "insight into day-to-day world"
+  },
+  {
+    "subject": "Students' International Relations Cell (SIRC)",
+    "predicate": "charter adopted on",
+    "object": "01 October, 2015"
+  },
+  {
+    "subject": "charter of Students' International Relations Cell (SIRC)",
+    "predicate": "approved by",
+    "object": "Dean of International Relations"
+  },
+  {
+    "subject": "charter of Students' International Relations Cell (SIRC)",
+    "predicate": "approved by",
+    "object": "Dean of Undergraduate Studies"
+  },
+  {
+    "subject": "Semester Away Program (SAP)",
+    "predicate": "started in academic session",
+    "object": "2016-2017"
+  },
+  {
+    "subject": "Foreign Training Program (FTP)",
+    "predicate": "started in academic session",
+    "object": "2016-2017"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "is intended to assist",
+    "object": "Institute"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "is intended to assist",
+    "object": "Office of IR"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "develops activities and partnerships",
+    "object": "sustainable activities and partnerships"
+  },
+  {
+    "subject": "sustainable activities and partnerships",
+    "predicate": "improves",
+    "object": "academic and research relations"
+  },
+  {
+    "subject": "academic and research relations",
+    "predicate": "connect",
+    "object": "Institute"
+  },
+  {
+    "subject": "academic and research relations",
+    "predicate": "connect",
+    "object": "key international partners"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "increases",
+    "object": "student exchange opportunities"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "facilitates",
+    "object": "research partnerships"
+  },
+  {
+    "subject": "research partnerships",
+    "predicate": "have",
+    "object": "intellectual value and impact"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "promotes",
+    "object": "research globally"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "promotes relationships between",
+    "object": "foreign universities and Institute"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "helps define scope of",
+    "object": "relationships between foreign universities and Institute"
+  },
+  {
+    "subject": "relationships between foreign universities and Institute",
+    "predicate": "are defined through",
+    "object": "MoUs"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "interfaces with",
+    "object": "other internal entities"
+  },
+  {
+    "subject": "other internal entities",
+    "predicate": "facilitate",
+    "object": "visits of delegations and students"
+  },
+  {
+    "subject": "visits of delegations and students",
+    "predicate": "are coming to",
+    "object": "Institute"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "acts as interface between",
+    "object": "office of IR"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "acts as interface between",
+    "object": "undergraduate students of Institute"
+  },
+  {
+    "subject": "SIR CELL",
+    "predicate": "is prescribed by",
+    "object": "Office of International Relations, IIT Kharagpur"
+  },
+  {
+    "subject": "SIR CELL",
+    "predicate": "assists",
+    "object": "Office of International Relations, IIT Kharagpur"
+  },
+  {
+    "subject": "SIR CELL",
+    "predicate": "assists in improving",
+    "object": "global rank and reputation among international audiences"
+  },
+  {
+    "subject": "SIR CELL",
+    "predicate": "assists",
+    "object": "Office(IR)"
+  },
+  {
+    "subject": "SIR CELL",
+    "predicate": "assists in promoting",
+    "object": "research globally"
+  },
+  {
+    "subject": "SIR CELL",
+    "predicate": "assists in enhancing",
+    "object": "knowledge transfer opportunities through international engagements and collaborations"
+  },
+  {
+    "subject": "SIR CELL",
+    "predicate": "assists in developing",
+    "object": "international programs"
+  },
+  {
+    "subject": "international programs",
+    "predicate": "are beneficial for",
+    "object": "students, staff, and partners"
+  },
+  {
+    "subject": "international programs",
+    "predicate": "are developed with support of",
+    "object": "Institute's faculties, schools and departments"
+  },
+  {
+    "subject": "The Director, IIT Kharagpur",
+    "predicate": "is",
+    "object": "Chief Patron of the Students' International Relations Cell"
+  },
+  {
+    "subject": "The Dean of International Relations, IIT Kharagpur",
+    "predicate": "is",
+    "object": "Honorable Chairperson of the Students' International Relations Cell"
+  },
+  {
+    "subject": "The Vice President, Technology Students\u2019 Gymkhana, IIT Kharagpur",
+    "predicate": "is",
+    "object": "Consulting Supervisor of the International Relations Cell"
+  },
+  {
+    "subject": "The Advisory Committee",
+    "predicate": "acts as",
+    "object": "Advisory body for the incumbent Executive Committee"
+  },
+  {
+    "subject": "Every Executive Committee Member",
+    "predicate": "assumes post of",
+    "object": "Advisor after completing tenure"
+  },
+  {
+    "subject": "The Executive Committee",
+    "predicate": "is responsible for",
+    "object": "initiatives and activities of the International Relations Cell"
+  },
+  {
+    "subject": "The Executive Committee",
+    "predicate": "is accountable to",
+    "object": "Chief Patron, Chairperson, and Advisory Committee"
+  },
+  {
+    "subject": "General Secretaries",
+    "predicate": "serve in",
+    "object": "Students' International Relations Cell"
+  },
+  {
+    "subject": "Coordinator",
+    "predicate": "serves in",
+    "object": "International Relations Cell"
+  },
+  {
+    "subject": "Student Member",
+    "predicate": "serves in",
+    "object": "International Relations Cell"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "works in tandem with",
+    "object": "staff and faculty members associated with the International Relations Office"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "develops and manages",
+    "object": "international partnerships, linkages and networks"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "identifies",
+    "object": "international research and internship programs"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "identifies",
+    "object": "student exchange programs"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "identifies",
+    "object": "foreign training programs"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "Reciprocal Student Exchange Programme"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "Foreign Training Programme"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "International Faculty Newsletter"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "FT Seminar"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "MS PhD Seminar"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "FT Blog Series"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "Global Leadership Series"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "Institute Lecture Series"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "Organisation of Hult Prize, IIT Kharagpur"
+  },
+  {
+    "subject": "SIRC",
+    "predicate": "organizes",
+    "object": "Organisation of Dyuti"
+  },
+  {
+    "subject": "Kamal Kyal",
+    "predicate": "was G.Sec of",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Mansi Uniyal",
+    "predicate": "was G.Sec of",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Rishabh Srivastava",
+    "predicate": "was G.Sec of",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Sankalp Srivastava",
+    "predicate": "was G.Sec of",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Parth Gupta",
+    "predicate": "was G.Sec of",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Annanya Singh",
+    "predicate": "was G.Sec of",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Ritik Chachan",
+    "predicate": "was G.Sec of",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Manthan Doshi",
+    "predicate": "was G.Sec of",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Shubham Srivastava",
+    "predicate": "was G.Sec of",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Raj Kolamuri",
+    "predicate": "was G.Sec of",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Asish Koruprolu",
+    "predicate": "was G.Sec of",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Bhanu Gupta",
+    "predicate": "was G.Sec of",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Institute",
+    "predicate": "working towards",
+    "object": "innovation"
+  },
+  {
+    "subject": "Institute",
+    "predicate": "feeds on",
+    "object": "ideas"
+  },
+  {
+    "subject": "Institute",
+    "predicate": "turns",
+    "object": "ideas into reality"
+  },
+  {
+    "subject": "Institute",
+    "predicate": "takes",
+    "object": "new initiatives"
+  },
+  {
+    "subject": "Institute",
+    "predicate": "works on",
+    "object": "every individual's idea"
+  },
+  {
+    "subject": "Institute",
+    "predicate": "makes us",
+    "object": "unique"
+  },
+  {
+    "subject": "International Semester Exchange Program",
+    "predicate": "is a path to",
+    "object": "internationalize institute"
+  },
+  {
+    "subject": "International Semester Exchange Program",
+    "predicate": "facilitates",
+    "object": "exchange of students"
+  },
+  {
+    "subject": "Exchange of students",
+    "predicate": "between",
+    "object": "IIT Kharagpur and foreign institutes"
+  },
+  {
+    "subject": "Foreign Training Portal",
+    "predicate": "is a path to",
+    "object": "internationalize institute"
+  },
+  {
+    "subject": "Foreign Training Portal",
+    "predicate": "facilitates",
+    "object": "getting foreign internships"
+  },
+  {
+    "subject": "Newsletter",
+    "predicate": "is a path to",
+    "object": "internationalize institute"
+  },
+  {
+    "subject": "Newsletter",
+    "predicate": "is an initiative of",
+    "object": "International Relations Cell"
+  },
+  {
+    "subject": "Newsletter",
+    "predicate": "summarizes",
+    "object": "open International Scholarships and competitions"
+  },
+  {
+    "subject": "Newsletter",
+    "predicate": "summarizes",
+    "object": "Indo-X Grants"
+  },
+  {
+    "subject": "International Relations Cell",
+    "predicate": "publishes",
+    "object": "Newsletter"
+  },
+  {
+    "subject": "Institute",
+    "predicate": "working on",
+    "object": "other exciting proposals"
+  },
+  {
+    "subject": "Other exciting proposals",
+    "predicate": "improve",
+    "object": "IIT KGP's stand on the international front"
+  },
+  {
+    "subject": "IIT Kharagpur",
+    "predicate": "has external link",
+    "object": "Context: External links"
+  }
+]

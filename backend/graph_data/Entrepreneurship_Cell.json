@@ -1,0 +1,1267 @@
+[
+  {
+    "subject": "Entrepreneurship Cell",
+    "predicate": "is",
+    "object": "non-profit student\u2019s organization"
+  },
+  {
+    "subject": "Entrepreneurship Cell",
+    "predicate": "located at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Entrepreneurship Cell",
+    "predicate": "abbreviation",
+    "object": "E-Cell"
+  },
+  {
+    "subject": "Entrepreneurship Cell",
+    "predicate": "dedicated to",
+    "object": "promoting the spirit of entrepreneurship among students throughout India"
+  },
+  {
+    "subject": "Entrepreneurship Cell",
+    "predicate": "established in",
+    "object": "2006"
+  },
+  {
+    "subject": "Entrepreneurship Cell",
+    "predicate": "established under",
+    "object": "STEP (Science and Technology Entrepreneurs\u2019 Park)"
+  },
+  {
+    "subject": "Entrepreneurship Cell",
+    "predicate": "involved in",
+    "object": "more than 35 startup companies"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "aims to encourage",
+    "object": "college-level students"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "organises",
+    "object": "Workshops and Lectures"
+  },
+  {
+    "subject": "Workshops and Lectures",
+    "predicate": "create awareness about",
+    "object": "entrepreneurship"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "functions as",
+    "object": "a guide for students"
+  },
+  {
+    "subject": "students",
+    "predicate": "have",
+    "object": "creative ideas"
+  },
+  {
+    "subject": "creative ideas",
+    "predicate": "can be transformed into",
+    "object": "successful companies"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "provides mentorship through",
+    "object": "individuals"
+  },
+  {
+    "subject": "individuals",
+    "predicate": "provide mentorship to",
+    "object": "students launching their start-ups"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "was formed in",
+    "object": "2006"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "was formed from",
+    "object": "Students Chapter of TIETS"
+  },
+  {
+    "subject": "Students Chapter of TIETS",
+    "predicate": "is a body under",
+    "object": "SRIC"
+  },
+  {
+    "subject": "Students Chapter of TIETS",
+    "predicate": "is part of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "was formed by the efforts of",
+    "object": "some enterprising students"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "is flagship event of",
+    "object": "E-Cell"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "first held in",
+    "object": "2007"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "was formerly known as",
+    "object": "Entrepreneurship Summit or E-Summit"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Drive (EAD)",
+    "predicate": "is nation-wide drive of",
+    "object": "E-Cell"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Drive (EAD)",
+    "predicate": "was organized in",
+    "object": "2009"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "has more than",
+    "object": "50 members from within IIT Kharagpur"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "has outreach members from",
+    "object": "various other colleges in the city"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "conducts",
+    "object": "activities"
+  },
+  {
+    "subject": "activities",
+    "predicate": "benefit",
+    "object": "students within IIT Kharagpur"
+  },
+  {
+    "subject": "activities",
+    "predicate": "benefit",
+    "object": "students in other colleges throughout India"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "is flagship event of",
+    "object": "E-Cell"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "is organized during",
+    "object": "second weekend of January"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "first held in",
+    "object": "2005"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "originated from",
+    "object": "TIETS-Student Chapter"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "evolved into full-fledged entrepreneurship summit in",
+    "object": "2007"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "became global in",
+    "object": "2010"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "attracts participants from",
+    "object": "Singapore"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "attracts participants from",
+    "object": "Germany"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "attracts participants from",
+    "object": "United States of America"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "attracts participants from",
+    "object": "Japan"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "is a platform for",
+    "object": "entrepreneurial minds throughout the world"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "includes sessions such as",
+    "object": "Guest Lectures"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "includes sessions such as",
+    "object": "Workshops"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "includes conferences such as",
+    "object": "Venture Capitalist Conference"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "includes conferences such as",
+    "object": "Global Entrepreneurship Conference"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "is attended by",
+    "object": "motivated students"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "is attended by",
+    "object": "aspiring entrepreneurs"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit (GES)",
+    "predicate": "is attended by",
+    "object": "established professionals"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "hosts",
+    "object": "Global Entrepreneurship Conference (GEC)"
+  },
+  {
+    "subject": "organizations",
+    "predicate": "participate in",
+    "object": "Global Entrepreneurship Conference (GEC)"
+  },
+  {
+    "subject": "Global Entrepreneurship Conference (GEC)",
+    "predicate": "discuss",
+    "object": "entrepreneurial ecosystem"
+  },
+  {
+    "subject": "participating institutions",
+    "predicate": "include",
+    "object": "Harvard Business School"
+  },
+  {
+    "subject": "participating institutions",
+    "predicate": "include",
+    "object": "Illinois Institute of Technology"
+  },
+  {
+    "subject": "participating institutions",
+    "predicate": "include",
+    "object": "Oxford Entrepreneurs"
+  },
+  {
+    "subject": "participating institutions",
+    "predicate": "include",
+    "object": "Industrial Development Authority"
+  },
+  {
+    "subject": "participating institutions",
+    "predicate": "include",
+    "object": "National University of Singapore"
+  },
+  {
+    "subject": "participating institutions",
+    "predicate": "include",
+    "object": "Ludwig-Maximilians-Universit\u00e4t"
+  },
+  {
+    "subject": "participating institutions",
+    "predicate": "include",
+    "object": "TiE Japan"
+  },
+  {
+    "subject": "conference",
+    "predicate": "is screened to",
+    "object": "audience at IIT Kharagpur"
+  },
+  {
+    "subject": "Startup Fair",
+    "predicate": "is a",
+    "object": "platform"
+  },
+  {
+    "subject": "Startup Fair",
+    "predicate": "involves interaction of",
+    "object": "Entrepreneurs and students"
+  },
+  {
+    "subject": "Startup Fair",
+    "predicate": "aims to help",
+    "object": "Startups"
+  },
+  {
+    "subject": "Startup Fair",
+    "predicate": "helps startups to",
+    "object": "recruit the finest talent for internships/jobs"
+  },
+  {
+    "subject": "the GES",
+    "predicate": "has presence of",
+    "object": "a large number of Venture Capitalists"
+  },
+  {
+    "subject": "Startup Fair (in the GES)",
+    "predicate": "is an opportunity for",
+    "object": "Startups"
+  },
+  {
+    "subject": "Startups",
+    "predicate": "can use Startup Fair to",
+    "object": "showcase their growth to the VCs"
+  },
+  {
+    "subject": "Startups",
+    "predicate": "can use Startup Fair to",
+    "object": "apply for funding from VCs"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Drive",
+    "predicate": "is organized by",
+    "object": "E-Cell"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Drive",
+    "predicate": "is held in",
+    "object": "September\u2013October"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Drive",
+    "predicate": "has purpose",
+    "object": "promote entrepreneurship"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Drive",
+    "predicate": "encourages",
+    "object": "students from across India"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Drive",
+    "predicate": "comprises",
+    "object": "Entrepreneurship Awareness Camps"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Camps",
+    "predicate": "is located in",
+    "object": "cities throughout India"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Camps",
+    "predicate": "is hosted in",
+    "object": "reputed college"
+  },
+  {
+    "subject": "Entrepreneurship Awareness Camps",
+    "predicate": "includes",
+    "object": "successful entrepreneur"
+  },
+  {
+    "subject": "K.D. Singh",
+    "predicate": "is part of",
+    "object": "EAD 2009 speakers"
+  },
+  {
+    "subject": "Arbind Singh",
+    "predicate": "is part of",
+    "object": "EAD 2009 speakers"
+  },
+  {
+    "subject": "Gerard J. Rego",
+    "predicate": "is part of",
+    "object": "EAD 2009 speakers"
+  },
+  {
+    "subject": "Murugavel Janakiraman",
+    "predicate": "is part of",
+    "object": "EAD 2009 speakers"
+  },
+  {
+    "subject": "Vasant Subramanian",
+    "predicate": "is part of",
+    "object": "EAD 2009 speakers"
+  },
+  {
+    "subject": "K.D. Singh",
+    "predicate": "is associated with",
+    "object": "Alchemist Group"
+  },
+  {
+    "subject": "Arbind Singh",
+    "predicate": "is associated with",
+    "object": "Nidan"
+  },
+  {
+    "subject": "Arbind Singh",
+    "predicate": "is title holder of",
+    "object": "Social Entrepreneur of the year 2008"
+  },
+  {
+    "subject": "Gerard J. Rego",
+    "predicate": "is associated with",
+    "object": "Vayugrid Inc."
+  },
+  {
+    "subject": "Murugavel Janakiraman",
+    "predicate": "is associated with",
+    "object": "Bharatmatrimony.com"
+  },
+  {
+    "subject": "Vasant Subramanian",
+    "predicate": "was",
+    "object": "President of TiE, Kolkata Chapter"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "conducts",
+    "object": "6 major competitions"
+  },
+  {
+    "subject": "Winners of E-Cell competitions",
+    "predicate": "are provided with",
+    "object": "resources"
+  },
+  {
+    "subject": "Resources",
+    "predicate": "are",
+    "object": "Incubation"
+  },
+  {
+    "subject": "Resources",
+    "predicate": "are",
+    "object": "Mentorship"
+  },
+  {
+    "subject": "Resources",
+    "predicate": "are",
+    "object": "Financing"
+  },
+  {
+    "subject": "Resources",
+    "predicate": "are required to develop",
+    "object": "ideas into a company"
+  },
+  {
+    "subject": "Final judging round of all competitions",
+    "predicate": "is done during",
+    "object": "Global Entrepreneurship Summit"
+  },
+  {
+    "subject": "The entrepreneurship cell of IIT Kharagpur",
+    "predicate": "is all set to launch",
+    "object": "the preliminary round of Empresario 13"
+  },
+  {
+    "subject": "The entrepreneurship cell of IIT Kharagpur",
+    "predicate": "is",
+    "object": "Empresario"
+  },
+  {
+    "subject": "Empresario 13",
+    "predicate": "is",
+    "object": "the annual business plan competition"
+  },
+  {
+    "subject": "Empresario 13",
+    "predicate": "is among",
+    "object": "students across the globe"
+  },
+  {
+    "subject": "Concipio",
+    "predicate": "is",
+    "object": "annual in-house Business Plan competition"
+  },
+  {
+    "subject": "Concipio",
+    "predicate": "is organised by",
+    "object": "Entrepreneurship Cell, IIT Kharagpur"
+  },
+  {
+    "subject": "Entrepreneurship Cell, IIT Kharagpur",
+    "predicate": "is part of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Concipio",
+    "predicate": "promises to bring about",
+    "object": "fruitful transition in the regular placement culture of the institute"
+  },
+  {
+    "subject": "Concipio",
+    "predicate": "introduces",
+    "object": "Entrepreneurial avenues to the students"
+  },
+  {
+    "subject": "Concipio",
+    "predicate": "is aimed to transform",
+    "object": "raw ideas that are born in the institute"
+  },
+  {
+    "subject": "raw ideas",
+    "predicate": "are born in",
+    "object": "the institute"
+  },
+  {
+    "subject": "raw ideas",
+    "predicate": "are transformed into",
+    "object": "full fledged business models"
+  },
+  {
+    "subject": "Envision",
+    "predicate": "is a",
+    "object": "Product design competition"
+  },
+  {
+    "subject": "Envision",
+    "predicate": "organized by",
+    "object": "Entrepreneurship Cell, IIT Kharagpur"
+  },
+  {
+    "subject": "Envision",
+    "predicate": "cater to",
+    "object": "visionaries"
+  },
+  {
+    "subject": "visionaries",
+    "predicate": "have",
+    "object": "potential to impact present and revolutionize future"
+  },
+  {
+    "subject": "Envision",
+    "predicate": "has aim",
+    "object": "provide arena for next generation block-buster products"
+  },
+  {
+    "subject": "Envision",
+    "predicate": "provide platform for",
+    "object": "winners"
+  },
+  {
+    "subject": "winners",
+    "predicate": "take idea to",
+    "object": "next level"
+  },
+  {
+    "subject": "feasible products",
+    "predicate": "can get up to",
+    "object": "30 lacs worth of funding"
+  },
+  {
+    "subject": "feasible products",
+    "predicate": "can get",
+    "object": "mentorship"
+  },
+  {
+    "subject": "feasible products",
+    "predicate": "with assistance of",
+    "object": "TePP"
+  },
+  {
+    "subject": "Pensez",
+    "predicate": "is",
+    "object": "the annual Case Study Competition"
+  },
+  {
+    "subject": "Pensez",
+    "predicate": "is organised by",
+    "object": "the Entrepreneurship Cell"
+  },
+  {
+    "subject": "the problem statements",
+    "predicate": "are designed to inculcate",
+    "object": "an innovative strategy of analysing phenomena relating to entrepreneurship"
+  },
+  {
+    "subject": "the problem statements",
+    "predicate": "include",
+    "object": "Sociological aspects"
+  },
+  {
+    "subject": "the problem statements",
+    "predicate": "include",
+    "object": "Industrial aspects"
+  },
+  {
+    "subject": "the problem statements",
+    "predicate": "include",
+    "object": "Technological aspects"
+  },
+  {
+    "subject": "the aspects",
+    "predicate": "are designed to focus on",
+    "object": "certain trends and issues in entrepreneurial spheres"
+  },
+  {
+    "subject": "Eclairez",
+    "predicate": "is a",
+    "object": "Social Entrepreneurship Challenge"
+  },
+  {
+    "subject": "Eclairez",
+    "predicate": "aims towards",
+    "object": "individuals who have the gumption to empower those at the bottom of the pyramid"
+  },
+  {
+    "subject": "Eclairez",
+    "predicate": "aims towards",
+    "object": "individuals who earn profits for themselves while empowering the bottom of the pyramid"
+  },
+  {
+    "subject": "Eclairez",
+    "predicate": "aims at",
+    "object": "the amalgamation of students, NGOs, incubators, social entrepreneurs, venture-capitalists and corporations"
+  },
+  {
+    "subject": "Eclairez",
+    "predicate": "develops and encourages",
+    "object": "the spirit of Social entrepreneurship"
+  },
+  {
+    "subject": "Eclairez",
+    "predicate": "is a platform for",
+    "object": "Social entrepreneurs to showcase their innovative solutions"
+  },
+  {
+    "subject": "Cleantech Challenge",
+    "predicate": "organized by",
+    "object": "E-Cell"
+  },
+  {
+    "subject": "Cleantech Challenge",
+    "predicate": "is a",
+    "object": "Business Plan competition"
+  },
+  {
+    "subject": "Cleantech Challenge",
+    "predicate": "is oriented toward",
+    "object": "Clean Technology"
+  },
+  {
+    "subject": "Cleantech Challenge",
+    "predicate": "is",
+    "object": "first of its kind in India"
+  },
+  {
+    "subject": "Clean Technology",
+    "predicate": "is defined as",
+    "object": "company or business model that uses innovative technology to create economically viable products and services"
+  },
+  {
+    "subject": "Clean Technology",
+    "predicate": "incorporates",
+    "object": "products and services that improve operational performance, productivity or efficiency while reducing costs, inputs, energy consumption, waste or pollution"
+  },
+  {
+    "subject": "Clean Technology",
+    "predicate": "expected to help society move away from",
+    "object": "dependence on non-renewable fuels"
+  },
+  {
+    "subject": "Clean Technology",
+    "predicate": "expected to foster",
+    "object": "healthy natural environment"
+  },
+  {
+    "subject": "Negocio",
+    "predicate": "is",
+    "object": "web and mobile applications based b-plan competition"
+  },
+  {
+    "subject": "Negocio",
+    "predicate": "organized by",
+    "object": "Entrepreneurship Cell, IIT Kharagpur"
+  },
+  {
+    "subject": "Negocio",
+    "predicate": "promises to bring out",
+    "object": "new ideas"
+  },
+  {
+    "subject": "Negocio",
+    "predicate": "formulates",
+    "object": "revolutionary revenue models"
+  },
+  {
+    "subject": "revolutionary revenue models",
+    "predicate": "are in",
+    "object": "Web and Mobile Apps Spectra"
+  },
+  {
+    "subject": "Web and Mobile Apps Spectra",
+    "predicate": "are yet to be",
+    "object": "ventured"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "addresses",
+    "object": "latter"
+  },
+  {
+    "subject": "Guest Lectures",
+    "predicate": "are conducted as part of",
+    "object": "GES"
+  },
+  {
+    "subject": "Talks by various authorities",
+    "predicate": "are conducted",
+    "object": "as part of Guest Lectures"
+  },
+  {
+    "subject": "Talks by various authorities",
+    "predicate": "serve as",
+    "object": "motivation"
+  },
+  {
+    "subject": "Talks by various authorities",
+    "predicate": "serve as",
+    "object": "guide-posts for aspiring entrepreneurs"
+  },
+  {
+    "subject": "Arjun Malhotra",
+    "predicate": "is",
+    "object": "Co-founder of HCL Technologies"
+  },
+  {
+    "subject": "Arjun Malhotra",
+    "predicate": "is",
+    "object": "Chairman, Headstrong"
+  },
+  {
+    "subject": "Vinod Dham",
+    "predicate": "is",
+    "object": "Inventor of the Pentium Chip"
+  },
+  {
+    "subject": "Vinod Dham",
+    "predicate": "is known as",
+    "object": "Father of Pentium Chip"
+  },
+  {
+    "subject": "Sanjeev Bhikchandani",
+    "predicate": "is",
+    "object": "Founder of Naukri.com"
+  },
+  {
+    "subject": "Alok Patnia",
+    "predicate": "is",
+    "object": "Founder at Taxmantra.com"
+  },
+  {
+    "subject": "K.D. Singh",
+    "predicate": "is",
+    "object": "Founder of Alchemist Group"
+  },
+  {
+    "subject": "Sunil Handa",
+    "predicate": "is",
+    "object": "Serial entrepreneur"
+  },
+  {
+    "subject": "Sunil Handa",
+    "predicate": "is",
+    "object": "Faculty at IIM Ahmedabad"
+  },
+  {
+    "subject": "Sunil Handa",
+    "predicate": "is",
+    "object": "Management Guru"
+  },
+  {
+    "subject": "Padma Shri Anil Gupta",
+    "predicate": "is",
+    "object": "Faculty at IIM Ahmedabad"
+  },
+  {
+    "subject": "Padma Shri Anil Gupta",
+    "predicate": "is",
+    "object": "Padma Shri Awardee"
+  },
+  {
+    "subject": "Padma Shri Anil Gupta",
+    "predicate": "is recognized for",
+    "object": "distinguished achievements in the field of management education"
+  },
+  {
+    "subject": "Sramana Mitra",
+    "predicate": "is",
+    "object": "Forbes Columnist"
+  },
+  {
+    "subject": "Sramana Mitra",
+    "predicate": "is",
+    "object": "Strategic Consultant"
+  },
+  {
+    "subject": "Dominique Trempont",
+    "predicate": "is",
+    "object": "Board of Directors, 3Com"
+  },
+  {
+    "subject": "Dominique Trempont",
+    "predicate": "is",
+    "object": "Board of Directors, Finisar"
+  },
+  {
+    "subject": "Dominique Trempont",
+    "predicate": "is",
+    "object": "Board of Directors, Energy Recovery Inc."
+  },
+  {
+    "subject": "Dominique Trempont",
+    "predicate": "is associated with",
+    "object": "Steve Jobs"
+  },
+  {
+    "subject": "Dominique Trempont",
+    "predicate": "was",
+    "object": "CFO of NeXT"
+  },
+  {
+    "subject": "Anand Sen",
+    "predicate": "is",
+    "object": "Vice-President of Tata Steel"
+  },
+  {
+    "subject": "Rashmi Bansal",
+    "predicate": "is",
+    "object": "Writer of books such as Stay Hungry Stay Foolish"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "have a large impact on",
+    "object": "task encouraging the spirit of entrepreneurship in young minds"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "focus on",
+    "object": "a wide variety of topics"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "aim at building",
+    "object": "a broader understanding of new forms of innovation"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "aim at analysing",
+    "object": "the key challenges posed to entrepreneurs"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "address",
+    "object": "critical issues faced by entrepreneurs"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "address",
+    "object": "Business-plan writing"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "address",
+    "object": "funding one\u2019s own venture"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "take up",
+    "object": "technical and non-technical areas"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "take up",
+    "object": "Risk Management"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "take up",
+    "object": "Financial Analysis"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "take up",
+    "object": "opportunities of innovation and entrepreneurship available in certain sectors"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "are conducted annually by",
+    "object": "organizations like Intel , Novell , CII -Sorabhji Godrej , Seeders, Wipro (WiCamp)"
+  },
+  {
+    "subject": "Knowledge Camp",
+    "predicate": "is held",
+    "object": "annually within the Institute"
+  },
+  {
+    "subject": "Knowledge Camp",
+    "predicate": "aims at",
+    "object": "encouraging students to interact among themselves"
+  },
+  {
+    "subject": "students",
+    "predicate": "interact regarding",
+    "object": "new emergent technologies and business issues"
+  },
+  {
+    "subject": "new emergent technologies and business issues",
+    "predicate": "include",
+    "object": "alternate energy"
+  },
+  {
+    "subject": "new emergent technologies and business issues",
+    "predicate": "include",
+    "object": "finance"
+  },
+  {
+    "subject": "new emergent technologies and business issues",
+    "predicate": "include",
+    "object": "carbon trading"
+  },
+  {
+    "subject": "topics chosen for Knowledge Camp",
+    "predicate": "are from",
+    "object": "areas with active research"
+  },
+  {
+    "subject": "topics chosen for Knowledge Camp",
+    "predicate": "have applications in",
+    "object": "industry"
+  },
+  {
+    "subject": "topics chosen for Knowledge Camp",
+    "predicate": "are general enough to",
+    "object": "invoke interest"
+  },
+  {
+    "subject": "Knowledge Camp session",
+    "predicate": "begins with",
+    "object": "introduction of the topic"
+  },
+  {
+    "subject": "topic",
+    "predicate": "is declared",
+    "object": "well in advance"
+  },
+  {
+    "subject": "Knowledge Camp session",
+    "predicate": "followed by",
+    "object": "presentations by speakers"
+  },
+  {
+    "subject": "Every member",
+    "predicate": "is invited to",
+    "object": "make presentations"
+  },
+  {
+    "subject": "presentations by members",
+    "predicate": "have liberty of",
+    "object": "content and duration"
+  },
+  {
+    "subject": "topic",
+    "predicate": "is open to",
+    "object": "the house for questions"
+  },
+  {
+    "subject": "topic",
+    "predicate": "is open to",
+    "object": "the house to add to subtopics"
+  },
+  {
+    "subject": "content of presentations",
+    "predicate": "does not need to be",
+    "object": "after rigorous research or core calculations"
+  },
+  {
+    "subject": "content of presentations",
+    "predicate": "is",
+    "object": "more than welcome"
+  },
+  {
+    "subject": "reliable source",
+    "predicate": "is acceptable for",
+    "object": "discussions"
+  },
+  {
+    "subject": "reliable source",
+    "predicate": "is acceptable for",
+    "object": "presentations"
+  },
+  {
+    "subject": "Knowledge Camp",
+    "predicate": "provides",
+    "object": "a learning platform for students"
+  },
+  {
+    "subject": "students",
+    "predicate": "are from",
+    "object": "all disciplines and areas"
+  },
+  {
+    "subject": "students",
+    "predicate": "are irrespective of",
+    "object": "their year of study"
+  },
+  {
+    "subject": "Presenters",
+    "predicate": "include",
+    "object": "students"
+  },
+  {
+    "subject": "Presenters",
+    "predicate": "include",
+    "object": "research scholars"
+  },
+  {
+    "subject": "research scholars",
+    "predicate": "are presently working in",
+    "object": "the fields"
+  },
+  {
+    "subject": "Alumni of IIT Kharagpur",
+    "predicate": "are a source of",
+    "object": "funds for development projects"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "recommends",
+    "object": "good ideas that students of the institute have come up with"
+  },
+  {
+    "subject": "E-Cell",
+    "predicate": "recommends to",
+    "object": "the alumni network"
+  },
+  {
+    "subject": "Alumni",
+    "predicate": "scrutinize",
+    "object": "good ideas that students of the institute have come up with"
+  },
+  {
+    "subject": "Alumni",
+    "predicate": "help finance or mentor",
+    "object": "good ideas that students of the institute have come up with"
+  },
+  {
+    "subject": "Good ideas that students of the institute have come up with",
+    "predicate": "develop into",
+    "object": "full-grown companies"
+  },
+  {
+    "subject": "Innovation Platform",
+    "predicate": "is provided by",
+    "object": "E-Cell"
+  },
+  {
+    "subject": "Innovation Platform",
+    "predicate": "is for",
+    "object": "students interested in starting-up"
+  },
+  {
+    "subject": "First Year students",
+    "predicate": "are invited for",
+    "object": "Entrepreneurial ideas"
+  },
+  {
+    "subject": "professors",
+    "predicate": "select",
+    "object": "best entrepreneurial ideas"
+  },
+  {
+    "subject": "best entrepreneurial ideas",
+    "predicate": "are provided with funding by",
+    "object": "TIETS"
+  },
+  {
+    "subject": "best entrepreneurial ideas",
+    "predicate": "are provided with mentoring by",
+    "object": "professors"
+  },
+  {
+    "subject": "Innovation Platform",
+    "predicate": "takes place alongside",
+    "object": "regular academic course"
+  },
+  {
+    "subject": "students",
+    "predicate": "leave Institute at end of",
+    "object": "fourth- or fifth- year"
+  },
+  {
+    "subject": "ideas",
+    "predicate": "grow into",
+    "object": "company"
+  },
+  {
+    "subject": "company",
+    "predicate": "can face",
+    "object": "stiff competition in the real world"
+  },
+  {
+    "subject": "ideas related to product designing",
+    "predicate": "have been awarded",
+    "object": "Kishore Vaigyanik Protsahan Yojana (KVPY) scholarship"
+  },
+  {
+    "subject": "Kishore Vaigyanik Protsahan Yojana (KVPY) scholarship",
+    "predicate": "offered by",
+    "object": "Government of India"
+  },
+  {
+    "subject": "Rajendra Mishra School of Engineering Entrepreneurship",
+    "predicate": "was started",
+    "object": "in the year 2010"
+  },
+  {
+    "subject": "Rajendra Mishra School of Engineering Entrepreneurship",
+    "predicate": "was largely due to the efforts of",
+    "object": "E-Cell"
+  },
+  {
+    "subject": "Rajendra Mishra School of Engineering Entrepreneurship",
+    "predicate": "is the first school in India which",
+    "object": "imparts entrepreneurial education at college level"
+  },
+  {
+    "subject": "Students of IIT Kharagpur",
+    "predicate": "have the option to take up the M.S. course offered by",
+    "object": "SoEE"
+  },
+  {
+    "subject": "Students of IIT Kharagpur",
+    "predicate": "take up the M.S. course",
+    "object": "alongside their regular B.Tech course"
+  },
+  {
+    "subject": "Students of IIT Kharagpur",
+    "predicate": "upon successful completion of both the courses, are awarded",
+    "object": "Dual Degree (B.Tech.+M.S.)"
+  },
+  {
+    "subject": "Subjects under the M.S. course",
+    "predicate": "help students with",
+    "object": "the specific task of management within a startup"
+  },
+  {
+    "subject": "Subjects under the M.S. course",
+    "predicate": "are different from",
+    "object": "MBA courses that deal with corporate management"
+  },
+  {
+    "subject": "In the fifth-year",
+    "predicate": "students are provided with funding up to",
+    "object": "Rs. 1 Lakh"
+  },
+  {
+    "subject": "In the fifth-year",
+    "predicate": "students are provided with",
+    "object": "mentoring and incubation"
+  },
+  {
+    "subject": "In the fifth-year",
+    "predicate": "the purpose of providing funding, mentoring, and incubation is to enable students to",
+    "object": "develop their own company"
+  },
+  {
+    "subject": "Deferred Placement Programme (DPP)",
+    "predicate": "acts as",
+    "object": "cushion"
+  },
+  {
+    "subject": "Deferred Placement Programme (DPP)",
+    "predicate": "benefits",
+    "object": "students who want to pursue entrepreneurial ideas"
+  },
+  {
+    "subject": "student",
+    "predicate": "can pursue",
+    "object": "startup"
+  },
+  {
+    "subject": "student",
+    "predicate": "can attend",
+    "object": "campus-interviews"
+  },
+  {
+    "subject": "IIT-Kharagpur",
+    "predicate": "is first institute to offer",
+    "object": "Deferred Placement Programme"
+  },
+  {
+    "subject": "IIT-Kharagpur",
+    "predicate": "offers programme at",
+    "object": "Undergraduate-level"
+  },
+  {
+    "subject": "Kairos Society",
+    "predicate": "organizes",
+    "object": "annual Summit on Entrepreneurship"
+  },
+  {
+    "subject": "Kairos Society",
+    "predicate": "is",
+    "object": "US-based not-for-profit student-run organization"
+  },
+  {
+    "subject": "Indian team",
+    "predicate": "was part of",
+    "object": "2010 edition of Summit on Entrepreneurship"
+  },
+  {
+    "subject": "Indian team",
+    "predicate": "consisted of",
+    "object": "four members from E-Cell"
+  },
+  {
+    "subject": "delegation",
+    "predicate": "was endorsed by",
+    "object": "Mr. Sashi Tharoor"
+  },
+  {
+    "subject": "IIT Kharagpur event",
+    "predicate": "comes to",
+    "object": "NIT Rourkela"
+  },
+  {
+    "subject": "Arbind Singh Nidan",
+    "predicate": "was a finalist for",
+    "object": "Social Entrepreneur of the Year award 2008"
+  },
+  {
+    "subject": "Bill Drayton",
+    "predicate": "is quoted on",
+    "object": "BetterWorld.net entrepreneur quotes"
+  },
+  {
+    "subject": "Entrepreneurship Cell",
+    "predicate": "is related to",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Science and Technology Entrepreneurs' Park",
+    "predicate": "is part of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Global Entrepreneurship Summit",
+    "predicate": "is an event associated with",
+    "object": "Entrepreneurship Cell"
+  }
+]

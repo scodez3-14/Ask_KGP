@@ -1,0 +1,602 @@
+[
+  {
+    "subject": "CodeClub",
+    "predicate": "has activity",
+    "object": "Hackathons"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "has activity",
+    "object": "Code.Fun.Do"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "has activity",
+    "object": "CodeNites"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "has activity",
+    "object": "Bitwise"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "founded",
+    "object": "2013"
+  },
+  {
+    "subject": "Ashish Vasava",
+    "predicate": "is founder of",
+    "object": "CodeClub"
+  },
+  {
+    "subject": "Yash Bajaj",
+    "predicate": "is founder of",
+    "object": "CodeClub"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "has number of members",
+    "object": "40"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "has website",
+    "object": "cse .iitkgp .ac .in /~depsoc /codeclub .html"
+  },
+  {
+    "subject": "Vadde Santosh Pradeep Chandra",
+    "predicate": "is contact of",
+    "object": "CodeClub"
+  },
+  {
+    "subject": "Abhishek Niranjan",
+    "predicate": "is contact of",
+    "object": "CodeClub"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "under TSG",
+    "object": "No"
+  },
+  {
+    "subject": "Code Club",
+    "predicate": "is a department society of",
+    "object": "Computer Science & Engineering"
+  },
+  {
+    "subject": "Code Club",
+    "predicate": "is",
+    "object": "IIT Kharagpur's programming and computer science organization"
+  },
+  {
+    "subject": "Code Club",
+    "predicate": "is responsible for organizing",
+    "object": "CodeNites"
+  },
+  {
+    "subject": "CodeNites",
+    "predicate": "are",
+    "object": "a series of Intra KGP coding competitions"
+  },
+  {
+    "subject": "CodeNites",
+    "predicate": "are designed to promote",
+    "object": "a culture of competitive programming in the campus"
+  },
+  {
+    "subject": "Code Club",
+    "predicate": "also organizes",
+    "object": "BitWise"
+  },
+  {
+    "subject": "BitWise",
+    "predicate": "is",
+    "object": "the annual fest of the Computer Science and Engineering Department"
+  },
+  {
+    "subject": "Code Club",
+    "predicate": "holds",
+    "object": "Fresher Selections"
+  },
+  {
+    "subject": "Fresher Selections",
+    "predicate": "select",
+    "object": "first year students"
+  },
+  {
+    "subject": "first year students",
+    "predicate": "are from",
+    "object": "Department of Computer Science and Engineering"
+  },
+  {
+    "subject": "Fresher Selections",
+    "predicate": "select",
+    "object": "coordinators"
+  },
+  {
+    "subject": "Selection procedure",
+    "predicate": "consists of",
+    "object": "group-discussion round"
+  },
+  {
+    "subject": "Selection procedure",
+    "predicate": "consists of",
+    "object": "personal interview"
+  },
+  {
+    "subject": "personal interview",
+    "predicate": "is for",
+    "object": "shortlisted candidates"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are selected based on",
+    "object": "ability to think outside the box"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are selected based on",
+    "object": "dedication"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are selected based on",
+    "object": "enthusiasm"
+  },
+  {
+    "subject": "Prospective members",
+    "predicate": "are selected based on",
+    "object": "zeal to learn"
+  },
+  {
+    "subject": "Presidents",
+    "predicate": "are",
+    "object": "fourth year members"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "are",
+    "object": "fourth year members"
+  },
+  {
+    "subject": "fourth year members",
+    "predicate": "give overall direction to",
+    "object": "the club"
+  },
+  {
+    "subject": "fourth year members",
+    "predicate": "frame",
+    "object": "its vision for the future"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "are part of",
+    "object": "executive body"
+  },
+  {
+    "subject": "General Secretaries",
+    "predicate": "are part of",
+    "object": "executive body"
+  },
+  {
+    "subject": "executive body",
+    "predicate": "is made up of",
+    "object": "third year students"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "are responsible for",
+    "object": "running and management of the society"
+  },
+  {
+    "subject": "General Secretaries",
+    "predicate": "are responsible for",
+    "object": "running and management of the society"
+  },
+  {
+    "subject": "Second year members",
+    "predicate": "work as",
+    "object": "Secretaries"
+  },
+  {
+    "subject": "Secretaries",
+    "predicate": "are responsible for",
+    "object": "day-to-day functioning of the club"
+  },
+  {
+    "subject": "Secretaries",
+    "predicate": "are responsible for",
+    "object": "execution of its plans"
+  },
+  {
+    "subject": "Members in their first year",
+    "predicate": "make up",
+    "object": "body of enthusiastic Coordinators"
+  },
+  {
+    "subject": "Sudutt Harne",
+    "predicate": "is",
+    "object": "President"
+  },
+  {
+    "subject": "Nikhil Nayan Jha",
+    "predicate": "is",
+    "object": "President"
+  },
+  {
+    "subject": "Achal Gupta",
+    "predicate": "is",
+    "object": "General Secretary"
+  },
+  {
+    "subject": "Krushna Gaurkar",
+    "predicate": "is",
+    "object": "General Secretary"
+  },
+  {
+    "subject": "Dr. Rogers Mathew",
+    "predicate": "is",
+    "object": "Professor In-charge"
+  },
+  {
+    "subject": "Prof. Swagato Sanyal",
+    "predicate": "is",
+    "object": "Professor In-charge"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "is sponsored by",
+    "object": "Microsoft"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "is organized by",
+    "object": "CodeClub"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "is located at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "requires",
+    "object": "student teams"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "has duration",
+    "object": "24 hours"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "spreads over",
+    "object": "the entire weekend"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "includes",
+    "object": "workshops"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "includes",
+    "object": "coding"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "includes",
+    "object": "demos"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "includes",
+    "object": "results and prize distribution"
+  },
+  {
+    "subject": "Winners",
+    "predicate": "receive",
+    "object": "Microsoft products"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "awards",
+    "object": "t-shirts"
+  },
+  {
+    "subject": "Code.Fun.Do",
+    "predicate": "awards",
+    "object": "participation certificates"
+  },
+  {
+    "subject": "Code.Fun.Do++",
+    "predicate": "is organized in",
+    "object": "Autumn 2018"
+  },
+  {
+    "subject": "Code.Fun.Do++",
+    "predicate": "requires",
+    "object": "ideas on the given problem statement"
+  },
+  {
+    "subject": "Code.Fun.Do++",
+    "predicate": "has selection process",
+    "object": "remote work on selected ideas"
+  },
+  {
+    "subject": "Code.Fun.Do++",
+    "predicate": "qualifies",
+    "object": "5 teams"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "organizes",
+    "object": "fortnightly coding contests"
+  },
+  {
+    "subject": "fortnightly coding contests",
+    "predicate": "are organized in collaboration with",
+    "object": "HackerRank"
+  },
+  {
+    "subject": "fortnightly coding contests",
+    "predicate": "are for",
+    "object": "student community at IIT Kharagpur"
+  },
+  {
+    "subject": "problems for contests",
+    "predicate": "are set by",
+    "object": "fourth and fifth year students from Computer Science Department"
+  },
+  {
+    "subject": "programmers",
+    "predicate": "have their submissions scored on",
+    "object": "accuracy of their output and execution time of their solution"
+  },
+  {
+    "subject": "programmers",
+    "predicate": "are ranked and win prizes based on",
+    "object": "their accomplishments"
+  },
+  {
+    "subject": "ranking and prizes",
+    "predicate": "drive",
+    "object": "competition among users"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "hosts",
+    "object": "Fresher's event"
+  },
+  {
+    "subject": "Fresher's event",
+    "predicate": "is held at the beginning of",
+    "object": "each academic year"
+  },
+  {
+    "subject": "Fresher's event",
+    "predicate": "introduces",
+    "object": "computer science freshmen to the department"
+  },
+  {
+    "subject": "cultural show",
+    "predicate": "is part of",
+    "object": "Fresher's event"
+  },
+  {
+    "subject": "cultural show",
+    "predicate": "includes",
+    "object": "acts, plays, dances etc."
+  },
+  {
+    "subject": "acts, plays, dances etc.",
+    "predicate": "put up by",
+    "object": "students in their first year of study"
+  },
+  {
+    "subject": "annual event",
+    "predicate": "acquaints",
+    "object": "freshmen to the resources and opportunities"
+  },
+  {
+    "subject": "annual event",
+    "predicate": "helps build",
+    "object": "relations with other students from the Computer Science Department"
+  },
+  {
+    "subject": "Bitwise",
+    "predicate": "organized by",
+    "object": "CodeClub"
+  },
+  {
+    "subject": "Bitwise",
+    "predicate": "organized by",
+    "object": "CSE Department Society of IIT Kharagpur"
+  },
+  {
+    "subject": "Bitwise",
+    "predicate": "frequency",
+    "object": "annual"
+  },
+  {
+    "subject": "Bitwise",
+    "predicate": "type",
+    "object": "programming, application and web development fest"
+  },
+  {
+    "subject": "Bitwise",
+    "predicate": "duration",
+    "object": "three days"
+  },
+  {
+    "subject": "Bitwise",
+    "predicate": "time of year",
+    "object": "2nd week of March"
+  },
+  {
+    "subject": "Bitwise",
+    "predicate": "supported by",
+    "object": "Department of CSE"
+  },
+  {
+    "subject": "Bitwise 2015",
+    "predicate": "start date",
+    "object": "March 13, 2015"
+  },
+  {
+    "subject": "Bitwise 2015",
+    "predicate": "end date",
+    "object": "March 15, 2015"
+  },
+  {
+    "subject": "Bitwise 2015",
+    "predicate": "total prizes value",
+    "object": "\u20b9 200,000"
+  },
+  {
+    "subject": "SSD",
+    "predicate": "sponsor for",
+    "object": "Bitwise 2015"
+  },
+  {
+    "subject": "SSD",
+    "predicate": "sponsor type",
+    "object": "title sponsor"
+  },
+  {
+    "subject": "Xerox",
+    "predicate": "sponsor for",
+    "object": "Bitwise 2015"
+  },
+  {
+    "subject": "Xerox",
+    "predicate": "sponsor type",
+    "object": "associate sponsor"
+  },
+  {
+    "subject": "HackerRank",
+    "predicate": "partner for",
+    "object": "Bitwise 2015"
+  },
+  {
+    "subject": "HackerRank",
+    "predicate": "partner type",
+    "object": "coding partner"
+  },
+  {
+    "subject": "CodeClub",
+    "predicate": "organizes",
+    "object": "workshops and knowledge sessions"
+  },
+  {
+    "subject": "workshops and knowledge sessions",
+    "predicate": "are about",
+    "object": "computer science topics and programming languages"
+  },
+  {
+    "subject": "workshops and knowledge sessions",
+    "predicate": "are open to",
+    "object": "students from all years of study across departments and fields"
+  },
+  {
+    "subject": "upperclassmen",
+    "predicate": "share",
+    "object": "knowledge and experience"
+  },
+  {
+    "subject": "Classes on Python Programming",
+    "predicate": "have been held in",
+    "object": "Autumn 2015 semester"
+  },
+  {
+    "subject": "Classes on the Divide & Conquer Paradigm",
+    "predicate": "have been held in",
+    "object": "Autumn 2015 semester"
+  },
+  {
+    "subject": "Up AI Summit 2018",
+    "predicate": "was_organized_by",
+    "object": "Code Club, IIT Kharagpur"
+  },
+  {
+    "subject": "Up AI Summit 2018",
+    "predicate": "started_in",
+    "object": "first week of October"
+  },
+  {
+    "subject": "Up AI Summit 2018",
+    "predicate": "started_with",
+    "object": "open for all boot camp workshop"
+  },
+  {
+    "subject": "Up AI Summit 2018",
+    "predicate": "included",
+    "object": "talks"
+  },
+  {
+    "subject": "Up AI Summit 2018",
+    "predicate": "included",
+    "object": "workshops"
+  },
+  {
+    "subject": "Up AI Summit 2018",
+    "predicate": "included",
+    "object": "challenges / competitions"
+  },
+  {
+    "subject": "talks / workshops / challenges / competitions",
+    "predicate": "focused_on",
+    "object": "Machine Learning / Deep Learning"
+  },
+  {
+    "subject": "Up AI Summit 2018",
+    "predicate": "duration",
+    "object": "2.5 days"
+  },
+  {
+    "subject": "Code Fun Do - Code Club",
+    "predicate": "affiliated with",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Code Fun Do - Code Club, CSE",
+    "predicate": "affiliated with",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "CodeNite 7.0",
+    "predicate": "retrieved on",
+    "object": "30 September 2015"
+  },
+  {
+    "subject": "HackerRank",
+    "predicate": "linked to",
+    "object": "en.wikipedia.org"
+  },
+  {
+    "subject": "IIT Kharagpur CSE",
+    "predicate": "linked to",
+    "object": "cse.iitkgp.ac.in"
+  },
+  {
+    "subject": "SSD Kolkata",
+    "predicate": "linked to",
+    "object": "ssdkolkata.net"
+  },
+  {
+    "subject": "Xerox",
+    "predicate": "linked to",
+    "object": "xerox.com"
+  },
+  {
+    "subject": "HackerRank",
+    "predicate": "linked to",
+    "object": "hackerrank.com"
+  },
+  {
+    "subject": "Code Club IITKGP",
+    "predicate": "linked to",
+    "object": "facebook.com/CodeClub.IITKGP"
+  }
+]

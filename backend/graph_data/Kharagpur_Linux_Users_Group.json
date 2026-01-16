@@ -1,0 +1,207 @@
+[
+  {
+    "subject": "Kharagpur Linux Users Group",
+    "predicate": "is",
+    "object": "informal discussion group"
+  },
+  {
+    "subject": "Kharagpur Linux Users Group",
+    "predicate": "held on",
+    "object": "Fridays"
+  },
+  {
+    "subject": "KLUG meetings",
+    "predicate": "held at",
+    "object": "Insti Foyer"
+  },
+  {
+    "subject": "KLUG meetings",
+    "predicate": "held at",
+    "object": "BC Roy Hall's canteen"
+  },
+  {
+    "subject": "Kharagpur Linux Users Group",
+    "predicate": "is for",
+    "object": "people enthusiastic about software development"
+  },
+  {
+    "subject": "Kharagpur Linux Users Group",
+    "predicate": "is for",
+    "object": "people enthusiastic about technology"
+  },
+  {
+    "subject": "Kharagpur Linux Users Group",
+    "predicate": "is for",
+    "object": "people enthusiastic about open source"
+  },
+  {
+    "subject": "Linux Users Group at KGP",
+    "predicate": "started",
+    "object": "2004"
+  },
+  {
+    "subject": "Linux Users Group at KGP",
+    "predicate": "held",
+    "object": "informal meetings"
+  },
+  {
+    "subject": "Linux Users Group at KGP",
+    "predicate": "held",
+    "object": "install fest"
+  },
+  {
+    "subject": "Linux Users Group at KGP",
+    "predicate": "died out",
+    "object": "end of academic year in 2007"
+  },
+  {
+    "subject": "Ramkumar Ramachandra",
+    "predicate": "mentioned",
+    "object": "another Linux Users group"
+  },
+  {
+    "subject": "another Linux Users group",
+    "predicate": "existed",
+    "object": "between 2006 and 2008"
+  },
+  {
+    "subject": "KGP Group of Programmers",
+    "predicate": "came up",
+    "object": "2009"
+  },
+  {
+    "subject": "KGP Group of Programmers",
+    "predicate": "died out",
+    "object": "NA"
+  },
+  {
+    "subject": "KLUG",
+    "predicate": "formed by",
+    "object": "Ramkumar Ramachandra"
+  },
+  {
+    "subject": "KLUG",
+    "predicate": "formed by",
+    "object": "Sanjoy Das"
+  },
+  {
+    "subject": "KLUG",
+    "predicate": "formed by",
+    "object": "Anurag Priyam"
+  },
+  {
+    "subject": "KLUG",
+    "predicate": "formed in",
+    "object": "2011"
+  },
+  {
+    "subject": "The discussion at KLUG",
+    "predicate": "does not have",
+    "object": "a fixed agenda"
+  },
+  {
+    "subject": "People",
+    "predicate": "start off discussing",
+    "object": "different projects they have been working on"
+  },
+  {
+    "subject": "Conversations",
+    "predicate": "diverge to",
+    "object": "very diverse topics"
+  },
+  {
+    "subject": "Diverse topics",
+    "predicate": "include",
+    "object": "anything from history, privacy and copyright laws, economics to philosophy"
+  },
+  {
+    "subject": "KLUG",
+    "predicate": "follows",
+    "object": "a flat hierarchy"
+  },
+  {
+    "subject": "KLUG",
+    "predicate": "follows",
+    "object": "a system of open membership"
+  },
+  {
+    "subject": "Open membership",
+    "predicate": "implies",
+    "object": "anyone is free and welcomed to attend the discussion"
+  },
+  {
+    "subject": "New members",
+    "predicate": "are asked to introduce themselves",
+    "object": "to the group"
+  },
+  {
+    "subject": "Important minutes of the meetings or meetup notices",
+    "predicate": "are posted to",
+    "object": "the KLUG's google group"
+  },
+  {
+    "subject": "KLUG's google group",
+    "predicate": "is open for",
+    "object": "anyone to join"
+  },
+  {
+    "subject": "KLUG",
+    "predicate": "has moved to",
+    "object": "slack channel for real time communication and hangout"
+  },
+  {
+    "subject": "KLUG",
+    "predicate": "moved in place of",
+    "object": "IRC channel #klug-devel on freenode"
+  },
+  {
+    "subject": "A public log of all the communication on previous channel",
+    "predicate": "can be found at",
+    "object": "here"
+  },
+  {
+    "subject": "People interested in joining KLUG's slack channel",
+    "predicate": "use",
+    "object": "the self invite link http://klug-slack.herokuapp.com/"
+  },
+  {
+    "subject": "LUG@IITKGP",
+    "predicate": "was announced in",
+    "object": "Announcement of LUG@IITKGP"
+  },
+  {
+    "subject": "LUG@IITKGP",
+    "predicate": "was announced",
+    "object": "LUG@IITKGP announcement"
+  },
+  {
+    "subject": "LUG",
+    "predicate": "is missing at",
+    "object": "KGP"
+  },
+  {
+    "subject": "Summary of the workshop",
+    "predicate": "provides overview of",
+    "object": "workshop"
+  },
+  {
+    "subject": "Messing History",
+    "predicate": "is related to",
+    "object": "KGP"
+  },
+  {
+    "subject": "Ram",
+    "predicate": "answered about",
+    "object": "Programming Club in KGP"
+  },
+  {
+    "subject": "Sanket Agarwa",
+    "predicate": "blogged about",
+    "object": "KGP"
+  },
+  {
+    "subject": "KGP-Django-website",
+    "predicate": "is related to",
+    "object": "KGP"
+  }
+]

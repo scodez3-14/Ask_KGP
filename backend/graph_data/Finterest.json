@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Finterest",
+    "predicate": "has website",
+    "object": "www.facebook.com/Finterest"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "is",
+    "object": "Finance club"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "located at",
+    "object": "Vinod Gupta School of Management"
+  },
+  {
+    "subject": "Vinod Gupta School of Management",
+    "predicate": "is part of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "aims to nurture",
+    "object": "fin-quotient of students"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "aims to increase",
+    "object": "collaboration with industry"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "updates members on",
+    "object": "latest trends in corporate finance"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "updates members on",
+    "object": "latest trends in capital markets"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "updates members on",
+    "object": "latest trends in investment banking"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "conducts",
+    "object": "regular club meetings"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "has mission to build",
+    "object": "knowledge centre in finance"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "provides",
+    "object": "platform for VGSOM students"
+  },
+  {
+    "subject": "Finterest",
+    "predicate": "helps students enhance",
+    "object": "skills"
+  },
+  {
+    "subject": "students",
+    "predicate": "enhance skills by",
+    "object": "sharing concepts"
+  },
+  {
+    "subject": "students",
+    "predicate": "enhance skills by",
+    "object": "analyzing concepts"
+  },
+  {
+    "subject": "students",
+    "predicate": "enhance skills by",
+    "object": "applying concepts"
+  }
+]

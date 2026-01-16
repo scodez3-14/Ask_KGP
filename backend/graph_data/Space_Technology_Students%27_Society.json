@@ -1,0 +1,717 @@
+[
+  {
+    "subject": "Space Technology Students' Society",
+    "predicate": "founded",
+    "object": "2008"
+  },
+  {
+    "subject": "Space Technology Students' Society",
+    "predicate": "founded by",
+    "object": "Mayur Maheshwari"
+  },
+  {
+    "subject": "Space Technology Students' Society",
+    "predicate": "has member count",
+    "object": "45"
+  },
+  {
+    "subject": "Space Technology Students' Society",
+    "predicate": "has website",
+    "object": "www.facebook.com/spAts.iitkgp/"
+  },
+  {
+    "subject": "Space Technology Students' Society",
+    "predicate": "is under TSG",
+    "object": "No"
+  },
+  {
+    "subject": "Space Technology Student Society",
+    "predicate": "functions as",
+    "object": "student body of Kalpana Chawla Space Technology Cell"
+  },
+  {
+    "subject": "Kalpana Chawla Space Technology Cell",
+    "predicate": "is",
+    "object": "contact point of Indian Space Research Organisation"
+  },
+  {
+    "subject": "Kalpana Chawla Space Technology Cell",
+    "predicate": "located at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Space Technology Student Society",
+    "predicate": "organizes",
+    "object": "National Students' Space Challenge"
+  },
+  {
+    "subject": "National Students' Space Challenge",
+    "predicate": "has theme",
+    "object": "Space Technology and Astronomy"
+  },
+  {
+    "subject": "Space Technology Student Society",
+    "predicate": "ignites passion for",
+    "object": "space exploration at IIT Kharagpur"
+  },
+  {
+    "subject": "Space Technology Student Society",
+    "predicate": "publishes",
+    "object": "The Moonwalk newsletter"
+  },
+  {
+    "subject": "The Moonwalk newsletter",
+    "predicate": "covers",
+    "object": "space technology and astronomy developments"
+  },
+  {
+    "subject": "The Space Technology Students' Society",
+    "predicate": "was founded in",
+    "object": "2008"
+  },
+  {
+    "subject": "The Space Technology Students' Society",
+    "predicate": "was founded by",
+    "object": "a group of students"
+  },
+  {
+    "subject": "The Space Technology Students' Society",
+    "predicate": "was formed as",
+    "object": "official student body"
+  },
+  {
+    "subject": "The Space Technology Students' Society",
+    "predicate": "was formed under",
+    "object": "Kalpana Chawla Space Technology Cell (KCSTC)"
+  },
+  {
+    "subject": "The Space Technology Students' Society",
+    "predicate": "has grown in",
+    "object": "size and activities"
+  },
+  {
+    "subject": "The idea of a national level space-oriented fest",
+    "predicate": "was conceived and implemented as",
+    "object": "National Students' Space Challenge (NSSC)"
+  },
+  {
+    "subject": "National Students' Space Challenge (NSSC)",
+    "predicate": "was implemented in",
+    "object": "2011"
+  },
+  {
+    "subject": "National Students' Space Challenge (NSSC)",
+    "predicate": "has been organised",
+    "object": "for twelve more editions"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "is a subgroup of",
+    "object": "spAts"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "is",
+    "object": "dedicated Astronomy discussion group"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "was formed in",
+    "object": "2016"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "was formed under the guidance of",
+    "object": "Siddhant Singh"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "has student body divided into",
+    "object": "core teams and FQTQ team"
+  },
+  {
+    "subject": "core teams",
+    "predicate": "consists of",
+    "object": "Design team, Tech team, Management team"
+  },
+  {
+    "subject": "Management team",
+    "predicate": "is concerned with",
+    "object": "management and outreach"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "is based on",
+    "object": "Astronomical discussions and applications"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "organises",
+    "object": "sky-gazing sessions"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "organises",
+    "object": "space-themed discussions and talks"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "organises",
+    "object": "webinars, lectures, presentations"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "publishes",
+    "object": "the bi-semester newsletter 'the moonwalk'"
+  },
+  {
+    "subject": "the moonwalk newsletter",
+    "predicate": "is for",
+    "object": "people in the IIT Kharagpur community"
+  },
+  {
+    "subject": "teams",
+    "predicate": "organise",
+    "object": "National Students' Space Challenge"
+  },
+  {
+    "subject": "National Students' Space Challenge",
+    "predicate": "occurs during",
+    "object": "months of September-October"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "organises",
+    "object": "selections"
+  },
+  {
+    "subject": "spAts selections",
+    "predicate": "are held",
+    "object": "during late August"
+  },
+  {
+    "subject": "spAts selections",
+    "predicate": "occur",
+    "object": "once per year"
+  },
+  {
+    "subject": "spAts selections",
+    "predicate": "are aimed at",
+    "object": "newly joining freshers"
+  },
+  {
+    "subject": "newly joining freshers",
+    "predicate": "join for",
+    "object": "continued membership till the end of tenure"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "organises",
+    "object": "introductory seminar"
+  },
+  {
+    "subject": "introductory seminar",
+    "predicate": "takes place before",
+    "object": "selections"
+  },
+  {
+    "subject": "introductory seminar",
+    "predicate": "presents",
+    "object": "functioning of the society"
+  },
+  {
+    "subject": "introductory seminar",
+    "predicate": "presents",
+    "object": "about NSSC"
+  },
+  {
+    "subject": "interested candidates",
+    "predicate": "join as",
+    "object": "Junior Coordinators (JCoords)"
+  },
+  {
+    "subject": "JCoords",
+    "predicate": "conduct",
+    "object": "NSSC"
+  },
+  {
+    "subject": "JCoord team",
+    "predicate": "considers",
+    "object": "candidate's technological skills"
+  },
+  {
+    "subject": "JCoord team",
+    "predicate": "considers",
+    "object": "candidate's management skills"
+  },
+  {
+    "subject": "JCoord team",
+    "predicate": "considers",
+    "object": "candidate's communication skills"
+  },
+  {
+    "subject": "interested candidates",
+    "predicate": "select",
+    "object": "one portfolio"
+  },
+  {
+    "subject": "portfolios",
+    "predicate": "include",
+    "object": "FQTQ team"
+  },
+  {
+    "subject": "portfolios",
+    "predicate": "include",
+    "object": "Design team"
+  },
+  {
+    "subject": "portfolios",
+    "predicate": "include",
+    "object": "Tech team"
+  },
+  {
+    "subject": "portfolios",
+    "predicate": "include",
+    "object": "Management team"
+  },
+  {
+    "subject": "selections",
+    "predicate": "emphasize",
+    "object": "prior knowledge in specific portfolio"
+  },
+  {
+    "subject": "selections",
+    "predicate": "emphasize",
+    "object": "presentation skills"
+  },
+  {
+    "subject": "selections",
+    "predicate": "emphasize",
+    "object": "previous experience with technologies"
+  },
+  {
+    "subject": "selections",
+    "predicate": "emphasize",
+    "object": "knowledge in Astronomy and Astrophysics"
+  },
+  {
+    "subject": "selections",
+    "predicate": "consist of",
+    "object": "three rounds"
+  },
+  {
+    "subject": "three rounds",
+    "predicate": "include",
+    "object": "initial interview"
+  },
+  {
+    "subject": "three rounds",
+    "predicate": "include",
+    "object": "task round"
+  },
+  {
+    "subject": "three rounds",
+    "predicate": "include",
+    "object": "final interview"
+  },
+  {
+    "subject": "task submissions",
+    "predicate": "are reviewed",
+    "object": "during the process"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "comprises",
+    "object": "Core teams"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "comprises",
+    "object": "FQTQ team"
+  },
+  {
+    "subject": "Core teams",
+    "predicate": "undertakes",
+    "object": "their own tasks"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "undertakes",
+    "object": "their own tasks"
+  },
+  {
+    "subject": "the whole team",
+    "predicate": "collectively organises",
+    "object": "NSSC fest"
+  },
+  {
+    "subject": "Core teams",
+    "predicate": "are mainly responsible for",
+    "object": "Management, Outreach, Communication, Publicity, Sponsor handling, Design, Web Design and Finance for the fest and the other activities spAts organises"
+  },
+  {
+    "subject": "Core teams",
+    "predicate": "consist of",
+    "object": "the Design team, the Tech team and the Management team"
+  },
+  {
+    "subject": "FQTQ",
+    "predicate": "stands for",
+    "object": "From Quarks to Quasars"
+  },
+  {
+    "subject": "FQTQ",
+    "predicate": "describes team as",
+    "object": "more oriented to astrophysics in general"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "holds",
+    "object": "periodic discussions and presentations"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "holds",
+    "object": "sky-gazing events"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "holds",
+    "object": "open talks"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "holds",
+    "object": "webinars"
+  },
+  {
+    "subject": "FQTQ team",
+    "predicate": "holds",
+    "object": "content development"
+  },
+  {
+    "subject": "5th and 4th years",
+    "predicate": "comprise",
+    "object": "Steering Committee (SCom)"
+  },
+  {
+    "subject": "3rd years",
+    "predicate": "are",
+    "object": "Heads"
+  },
+  {
+    "subject": "2nd years",
+    "predicate": "function as",
+    "object": "Sub-Heads"
+  },
+  {
+    "subject": "2nd years",
+    "predicate": "function as",
+    "object": "Sub-Heads for the various events"
+  },
+  {
+    "subject": "First years",
+    "predicate": "contribute as",
+    "object": "Junior Coordinators (JCoords)"
+  },
+  {
+    "subject": "First years",
+    "predicate": "contribute as",
+    "object": "Junior Coordinators (JCoords) for the fest"
+  },
+  {
+    "subject": "spAts team",
+    "predicate": "conducts",
+    "object": "the fest"
+  },
+  {
+    "subject": "Conducting the fest",
+    "predicate": "is a major task for",
+    "object": "the whole spAts team"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "organizes",
+    "object": "activities within the campus"
+  },
+  {
+    "subject": "Induction Workshop",
+    "predicate": "conducts",
+    "object": "presentation on the life cycle of stars"
+  },
+  {
+    "subject": "Induction Workshop",
+    "predicate": "conducts",
+    "object": "hand-on experience through water rocket lift-off workshop"
+  },
+  {
+    "subject": "The spAts team",
+    "predicate": "interacts with",
+    "object": "Freshers batch"
+  },
+  {
+    "subject": "The spAts team",
+    "predicate": "conducts",
+    "object": "Induction Programme"
+  },
+  {
+    "subject": "Induction Workshop",
+    "predicate": "received",
+    "object": "positive response"
+  },
+  {
+    "subject": "workshop",
+    "predicate": "received",
+    "object": "positive response from the participants"
+  },
+  {
+    "subject": "National Students' Space Challenge",
+    "predicate": "is abbreviated as",
+    "object": "NSSC"
+  },
+  {
+    "subject": "National Students' Space Challenge",
+    "predicate": "is an annual space-themed fest",
+    "object": "true"
+  },
+  {
+    "subject": "National Students' Space Challenge",
+    "predicate": "is organised in the month",
+    "object": "September-October"
+  },
+  {
+    "subject": "National Students' Space Challenge",
+    "predicate": "has been organised since the year",
+    "object": "2011"
+  },
+  {
+    "subject": "National Students' Space Challenge",
+    "predicate": "is India's first and largest",
+    "object": "space technology and Astronomy themed fest"
+  },
+  {
+    "subject": "whole spAts team",
+    "predicate": "is indulged in organizing",
+    "object": "the fest"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "works to popularize",
+    "object": "astronomy"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "organizes",
+    "object": "sky-gazing sessions"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "covers",
+    "object": "exciting astronomical events"
+  },
+  {
+    "subject": "Space Month",
+    "predicate": "occurs in",
+    "object": "March"
+  },
+  {
+    "subject": "spAts",
+    "predicate": "observes",
+    "object": "Space Month"
+  },
+  {
+    "subject": "Space Month",
+    "predicate": "includes events like",
+    "object": "open discussions"
+  },
+  {
+    "subject": "Space Month",
+    "predicate": "includes events like",
+    "object": "webinars"
+  },
+  {
+    "subject": "Space Month",
+    "predicate": "includes events like",
+    "object": "quizzes"
+  },
+  {
+    "subject": "Space Month",
+    "predicate": "includes events like",
+    "object": "presentations"
+  },
+  {
+    "subject": "Space Month",
+    "predicate": "aims to contribute towards",
+    "object": "recent developments in space technology"
+  },
+  {
+    "subject": "The Moonwalk",
+    "predicate": "is",
+    "object": "a bi-semester newsletter"
+  },
+  {
+    "subject": "The Moonwalk",
+    "predicate": "is brought by",
+    "object": "the spAts team"
+  },
+  {
+    "subject": "The Moonwalk",
+    "predicate": "includes",
+    "object": "articles written on several astrophysical ideas"
+  },
+  {
+    "subject": "The Moonwalk",
+    "predicate": "includes",
+    "object": "new perspectives arising in space and planetary sciences"
+  },
+  {
+    "subject": "The Moonwalk",
+    "predicate": "includes",
+    "object": "recent developments in the field"
+  },
+  {
+    "subject": "The Moonwalk",
+    "predicate": "includes",
+    "object": "contributions by eminent scientists over the world"
+  },
+  {
+    "subject": "The Moonwalk",
+    "predicate": "includes",
+    "object": "discoveries"
+  },
+  {
+    "subject": "TheKGPCrux",
+    "predicate": "participated in",
+    "object": "Astro Quiz, Supernova, TechNex"
+  },
+  {
+    "subject": "Astro Quiz, Supernova, TechNex",
+    "predicate": "held at",
+    "object": "IIT (BHU) Varanasi"
+  },
+  {
+    "subject": "Astro Quiz, Supernova, TechNex",
+    "predicate": "year",
+    "object": "2019"
+  },
+  {
+    "subject": "TheKGPCrux",
+    "predicate": "achieved position",
+    "object": "GOLD"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "participated in",
+    "object": "Exploring the Interstellar, Supernova, TechNex"
+  },
+  {
+    "subject": "Exploring the Interstellar, Supernova, TechNex",
+    "predicate": "held at",
+    "object": "IIT (BHU) Varanasi"
+  },
+  {
+    "subject": "Exploring the Interstellar, Supernova, TechNex",
+    "predicate": "year",
+    "object": "2019"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "achieved position",
+    "object": "SILVER"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "participated in",
+    "object": "Scientists of Utopia, Supernova, TechNex"
+  },
+  {
+    "subject": "Scientists of Utopia, Supernova, TechNex",
+    "predicate": "held at",
+    "object": "IIT (BHU) Varanasi"
+  },
+  {
+    "subject": "Scientists of Utopia, Supernova, TechNex",
+    "predicate": "year",
+    "object": "2019"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "achieved position",
+    "object": "SILVER"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "participated in",
+    "object": "Scientists of Utopia, Supernova, TechNex"
+  },
+  {
+    "subject": "Scientists of Utopia, Supernova, TechNex",
+    "predicate": "held at",
+    "object": "IIT (BHU) Varanasi (Online)"
+  },
+  {
+    "subject": "Scientists of Utopia, Supernova, TechNex",
+    "predicate": "year",
+    "object": "2021"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "achieved position",
+    "object": "GOLD"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "participated in",
+    "object": "Astro Quiz, Supernova, TechNex"
+  },
+  {
+    "subject": "Astro Quiz, Supernova, TechNex",
+    "predicate": "held at",
+    "object": "IIT (BHU) Varanasi (Online)"
+  },
+  {
+    "subject": "Astro Quiz, Supernova, TechNex",
+    "predicate": "year",
+    "object": "2021"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "achieved position",
+    "object": "GOLD"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "participated in",
+    "object": "International Astronomy and Astrophysics Competition"
+  },
+  {
+    "subject": "International Astronomy and Astrophysics Competition",
+    "predicate": "held at",
+    "object": "Online"
+  },
+  {
+    "subject": "International Astronomy and Astrophysics Competition",
+    "predicate": "year",
+    "object": "2022"
+  },
+  {
+    "subject": "Eeshaan Sethia",
+    "predicate": "achieved position",
+    "object": "National Topper"
+  },
+  {
+    "subject": "The Statesman",
+    "predicate": "published",
+    "object": "\"Reaching for the stars\""
+  },
+  {
+    "subject": "\"Reaching for the stars\"",
+    "predicate": "was published on",
+    "object": "9 August 2013"
+  },
+  {
+    "subject": "NSSC",
+    "predicate": "is referenced in",
+    "object": "\"Reaching for the stars\""
+  }
+]

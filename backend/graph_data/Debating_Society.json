@@ -1,0 +1,3727 @@
+[
+  {
+    "subject": "Debating Society",
+    "predicate": "type",
+    "object": "Organization"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "has activity",
+    "object": "Parliamentary Debate"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "founded",
+    "object": "2009"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "founder",
+    "object": "Sumeet Mohanty"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "has member count",
+    "object": "60"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "has website",
+    "object": "www.facebook.com/kgpdebsoc"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "has contact",
+    "object": "+91 7892150266"
+  },
+  {
+    "subject": "+91 7892150266",
+    "predicate": "belongs to",
+    "object": "Ritwik Suresh"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "under",
+    "object": "TSG"
+  },
+  {
+    "subject": "Debating Society, IIT Kharagpur",
+    "predicate": "is a",
+    "object": "competitive debate organization"
+  },
+  {
+    "subject": "Debating Society, IIT Kharagpur",
+    "predicate": "is abbreviated as",
+    "object": "DebSoc"
+  },
+  {
+    "subject": "Debating Society, IIT Kharagpur",
+    "predicate": "is part of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Debating Society, IIT Kharagpur",
+    "predicate": "participates in",
+    "object": "Parliamentary Debates"
+  },
+  {
+    "subject": "Debating Society, IIT Kharagpur",
+    "predicate": "organized",
+    "object": "IIT Kharagpur Model United Nations Conference"
+  },
+  {
+    "subject": "Debating Society, IIT Kharagpur",
+    "predicate": "organized",
+    "object": "IIT Kharagpur Parliamentary Debate"
+  },
+  {
+    "subject": "a team from KGP DebSoc",
+    "predicate": "reached the",
+    "object": "ESL finals of Australs"
+  },
+  {
+    "subject": "a team from KGP DebSoc",
+    "predicate": "was the",
+    "object": "first all-Indian team to reach the ESL finals of Australs"
+  },
+  {
+    "subject": "Australs",
+    "predicate": "is a",
+    "object": "prestigious debating tournament"
+  },
+  {
+    "subject": "a team from KGP DebSoc",
+    "predicate": "won the",
+    "object": "ESL finals of Uhuru Worlds"
+  },
+  {
+    "subject": "Uhuru Worlds",
+    "predicate": "is a",
+    "object": "big and prestigious international tournament"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "seeks",
+    "object": "smart, enthusiastic debaters"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "accepts",
+    "object": "new members"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "takes in",
+    "object": "new members all year round"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "has no restriction on",
+    "object": "year of study"
+  },
+  {
+    "subject": "members",
+    "predicate": "have joined as late as",
+    "object": "4th year"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "holds",
+    "object": "Fresher Selections"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "holds",
+    "object": "Senior Selections"
+  },
+  {
+    "subject": "Fresher Selections and Senior Selections",
+    "predicate": "take place at",
+    "object": "beginning of the year"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "organizes",
+    "object": "training workshop"
+  },
+  {
+    "subject": "training workshop",
+    "predicate": "lasts",
+    "object": "about a month"
+  },
+  {
+    "subject": "training workshop",
+    "predicate": "teaches",
+    "object": "newcomers to parliamentary debating"
+  },
+  {
+    "subject": "training workshop",
+    "predicate": "teaches",
+    "object": "various facets and nuances of structured argumentation"
+  },
+  {
+    "subject": "The Debating Society",
+    "predicate": "meets at least",
+    "object": "two times a week"
+  },
+  {
+    "subject": "The Debating Society",
+    "predicate": "conducts",
+    "object": "practice sessions"
+  },
+  {
+    "subject": "practice sessions",
+    "predicate": "are usually conducted in",
+    "object": "the foyer of the Main Building"
+  },
+  {
+    "subject": "University-level competitive debates",
+    "predicate": "have",
+    "object": "the 3v3 Asians Parliamentary Debate"
+  },
+  {
+    "subject": "University-level competitive debates",
+    "predicate": "have",
+    "object": "the British Parliamentary Debate"
+  },
+  {
+    "subject": "The British Parliamentary Debate",
+    "predicate": "has",
+    "object": "four teams of two"
+  },
+  {
+    "subject": "The Debating Society",
+    "predicate": "participates in",
+    "object": "national and international debating competitions"
+  },
+  {
+    "subject": "Members",
+    "predicate": "choose their own",
+    "object": "teams"
+  },
+  {
+    "subject": "Members",
+    "predicate": "decide to",
+    "object": "adjudicate"
+  },
+  {
+    "subject": "Participating at many high-quality tournaments",
+    "predicate": "is regarded as",
+    "object": "the way to excel"
+  },
+  {
+    "subject": "The society",
+    "predicate": "supports members with",
+    "object": "getting permissions from professors"
+  },
+  {
+    "subject": "The society",
+    "predicate": "supports members with",
+    "object": "reimbursement of expenses"
+  },
+  {
+    "subject": "The Debating Society",
+    "predicate": "conducts",
+    "object": "the Intra-KGP Debate Tournament"
+  },
+  {
+    "subject": "The Debating Society",
+    "predicate": "conducts",
+    "object": "the Foundation Day debates"
+  },
+  {
+    "subject": "Sanat Mehrotra",
+    "predicate": "is a member of",
+    "object": "Debating Society"
+  },
+  {
+    "subject": "Sanat Mehrotra",
+    "predicate": "conducted",
+    "object": "freshers' workshop"
+  },
+  {
+    "subject": "freshers' workshop",
+    "predicate": "took place on",
+    "object": "18 August 2013"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "institutionalized",
+    "object": "2009"
+  },
+  {
+    "subject": "Sumeet Mohanty",
+    "predicate": "founded",
+    "object": "KGP Debate Club"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "affiliated with",
+    "object": "Technology Literary Society (TLS)"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "marked entry into",
+    "object": "competitive parliamentary debating"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "represented",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "participated in",
+    "object": "NLSPD 2009"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "participated in",
+    "object": "NUJSPD 2010"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "was formalized as",
+    "object": "Gymkhana society"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "was independent of",
+    "object": "TLS"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "had first governors",
+    "object": "Achyut Bihani, Shikha Singh, Anand Kr"
+  },
+  {
+    "subject": "number of governors",
+    "predicate": "was increased to",
+    "object": "four"
+  },
+  {
+    "subject": "KGP Debate Club",
+    "predicate": "was rechristened as",
+    "object": "Debating Society, IIT Kharagpur"
+  },
+  {
+    "subject": "Adarsh Mathew",
+    "predicate": "commissioned",
+    "object": "logo for the society"
+  },
+  {
+    "subject": "Prashanth Durai",
+    "predicate": "commissioned",
+    "object": "logo for the society"
+  },
+  {
+    "subject": "logo",
+    "predicate": "was created by",
+    "object": "Avik Dey"
+  },
+  {
+    "subject": "Debating Society",
+    "predicate": "agreed to jointly conduct",
+    "object": "IIT Kharagpur's first-ever Model United Nations Conference"
+  },
+  {
+    "subject": "Spring Fest",
+    "predicate": "agreed to jointly conduct",
+    "object": "IIT Kharagpur's first-ever Model United Nations Conference"
+  },
+  {
+    "subject": "IIT Kharagpur Model United Nations Conference",
+    "predicate": "was founded with",
+    "object": "Prashanth Durai as the first Secretary-General"
+  },
+  {
+    "subject": "2010",
+    "predicate": "governor",
+    "object": "Achyut Bihani (BT '12)"
+  },
+  {
+    "subject": "2010",
+    "predicate": "governor",
+    "object": "Anand Kr (CS '12)"
+  },
+  {
+    "subject": "2010",
+    "predicate": "governor",
+    "object": "Shikha Singh (MA '13)"
+  },
+  {
+    "subject": "2011",
+    "predicate": "governor",
+    "object": "Adarsh Mathew (IM '14)"
+  },
+  {
+    "subject": "2011",
+    "predicate": "governor",
+    "object": "Arpan Ahuja (MF '14)"
+  },
+  {
+    "subject": "2011",
+    "predicate": "governor",
+    "object": "Piyush Bagaria (EC '13)"
+  },
+  {
+    "subject": "2011",
+    "predicate": "governor",
+    "object": "Prashanth Durai (CY '14)"
+  },
+  {
+    "subject": "2012",
+    "predicate": "governor",
+    "object": "Bibhuti Bhushan (BT '14)"
+  },
+  {
+    "subject": "2012",
+    "predicate": "governor",
+    "object": "Sanat Mehrotra (EC '14)"
+  },
+  {
+    "subject": "2012",
+    "predicate": "governor",
+    "object": "Shreeja Datta (EC '15)"
+  },
+  {
+    "subject": "2012",
+    "predicate": "governor",
+    "object": "Sourya Dey (EE '14)"
+  },
+  {
+    "subject": "2013",
+    "predicate": "governor",
+    "object": "Amrit Anand (EC '16)"
+  },
+  {
+    "subject": "2013",
+    "predicate": "governor",
+    "object": "Shushman Choudhury (CS '15)"
+  },
+  {
+    "subject": "2013",
+    "predicate": "governor",
+    "object": "Vikrant Varma (CS '16)"
+  },
+  {
+    "subject": "2013",
+    "predicate": "governor",
+    "object": "Vivek Aithal (AE '16)"
+  },
+  {
+    "subject": "2014",
+    "predicate": "governor",
+    "object": "Ankur Agarwal (GG '17)"
+  },
+  {
+    "subject": "2014",
+    "predicate": "governor",
+    "object": "Manav Garg (AG '17)"
+  },
+  {
+    "subject": "2014",
+    "predicate": "governor",
+    "object": "Sankalp Gourisaria (CH '17)"
+  },
+  {
+    "subject": "2014",
+    "predicate": "governor",
+    "object": "Suprad Reddy (MI '16)"
+  },
+  {
+    "subject": "2015",
+    "predicate": "governor",
+    "object": "Ayushi Mrigen (MA '18)"
+  },
+  {
+    "subject": "2015",
+    "predicate": "governor",
+    "object": "Chandra Has Dondapati (EC '17)"
+  },
+  {
+    "subject": "2015",
+    "predicate": "governor",
+    "object": "Kunal Jain (IM '17)"
+  },
+  {
+    "subject": "2015",
+    "predicate": "governor",
+    "object": "Surya Chakrabarti (ME '17)"
+  },
+  {
+    "subject": "2016",
+    "predicate": "governor",
+    "object": "Aliya Jabbar (BT '19)"
+  },
+  {
+    "subject": "2016",
+    "predicate": "governor",
+    "object": "Aradhana Kumar (CH '18)"
+  },
+  {
+    "subject": "2016",
+    "predicate": "governor",
+    "object": "Gyan Darshan (BT '18)"
+  },
+  {
+    "subject": "2016",
+    "predicate": "governor",
+    "object": "Ruchika Bhatia (HS '19)"
+  },
+  {
+    "subject": "2017",
+    "predicate": "governor",
+    "object": "Prajwal Singhania (CS '20)"
+  },
+  {
+    "subject": "2017",
+    "predicate": "governor",
+    "object": "Rohit Roy (BT '19)"
+  },
+  {
+    "subject": "2017",
+    "predicate": "governor",
+    "object": "Rohit Sar (MF '19)"
+  },
+  {
+    "subject": "2017",
+    "predicate": "governor",
+    "object": "Chandar Siddharth (MA '20)"
+  },
+  {
+    "subject": "2018",
+    "predicate": "governor",
+    "object": "Suyash Ratna Tripathi (IM '20)"
+  },
+  {
+    "subject": "2018",
+    "predicate": "governor",
+    "object": "David Vishal (CH '21)"
+  },
+  {
+    "subject": "2018",
+    "predicate": "governor",
+    "object": "Rishiraj Bose (ME '20)"
+  },
+  {
+    "subject": "2018",
+    "predicate": "governor",
+    "object": "Vignesh Viswanathan (CS '20)"
+  },
+  {
+    "subject": "2019",
+    "predicate": "governor",
+    "object": "Astha Jakher (HS '22)"
+  },
+  {
+    "subject": "2019",
+    "predicate": "governor",
+    "object": "Tiyasha Mitra (CH '21)"
+  },
+  {
+    "subject": "2019",
+    "predicate": "governor",
+    "object": "Mirambika Sikdar (BT '22)"
+  },
+  {
+    "subject": "2019",
+    "predicate": "governor",
+    "object": "Syamanthak Srikrishnan (BT '21)"
+  },
+  {
+    "subject": "2020",
+    "predicate": "governor",
+    "object": "Saugandh Philkhana (EE '22)"
+  },
+  {
+    "subject": "2020",
+    "predicate": "governor",
+    "object": "Tanay Raghavendra (EC '22)"
+  },
+  {
+    "subject": "2020",
+    "predicate": "governor",
+    "object": "Devika Narayanan (MF '23)"
+  },
+  {
+    "subject": "2020",
+    "predicate": "governor",
+    "object": "Simran Rajagopalan (HS '23)"
+  },
+  {
+    "subject": "2021",
+    "predicate": "governor",
+    "object": "Anurag Kumar (ME '24)"
+  },
+  {
+    "subject": "2021",
+    "predicate": "governor",
+    "object": "Jaya Kediya (MA '24)"
+  },
+  {
+    "subject": "2021",
+    "predicate": "governor",
+    "object": "Mehul Gupta (IE '23)"
+  },
+  {
+    "subject": "2021",
+    "predicate": "governor",
+    "object": "Sruthi Mahalakshmi (AG '24)"
+  },
+  {
+    "subject": "2022",
+    "predicate": "governor",
+    "object": "Abhijna Choodi (HS '25)"
+  },
+  {
+    "subject": "2022",
+    "predicate": "governor",
+    "object": "Diya Sarkar (CH '24)"
+  },
+  {
+    "subject": "2022",
+    "predicate": "governor",
+    "object": "Shriya Harlapur (MA '25)"
+  },
+  {
+    "subject": "2022",
+    "predicate": "governor",
+    "object": "Sugandh Sinha (CE '24)"
+  },
+  {
+    "subject": "2023",
+    "predicate": "governor",
+    "object": "Allen Emmanuel Binny (EC '26)"
+  },
+  {
+    "subject": "2023",
+    "predicate": "governor",
+    "object": "Ashley Placid (PH '25)"
+  },
+  {
+    "subject": "2023",
+    "predicate": "governor",
+    "object": "Rahul R (EE '26)"
+  },
+  {
+    "subject": "2023",
+    "predicate": "governor",
+    "object": "Sneha Dash (EC '26)"
+  },
+  {
+    "subject": "2024",
+    "predicate": "governor",
+    "object": "Apoorva Pandey (AE '27)"
+  },
+  {
+    "subject": "2024",
+    "predicate": "governor",
+    "object": "Harsh Singh (EC '27)"
+  },
+  {
+    "subject": "2024",
+    "predicate": "governor",
+    "object": "Parvathy Venugopal (HS '26)"
+  },
+  {
+    "subject": "2024",
+    "predicate": "governor",
+    "object": "Pranaya Chowdary (CS '26)"
+  },
+  {
+    "subject": "2025",
+    "predicate": "governor",
+    "object": "Kevin Jais (AE '27)"
+  },
+  {
+    "subject": "2025",
+    "predicate": "governor",
+    "object": "Krushnashish Pradhan (ME '28)"
+  },
+  {
+    "subject": "2025",
+    "predicate": "governor",
+    "object": "Ritwik Suresh (EE '27)"
+  },
+  {
+    "subject": "2025",
+    "predicate": "governor",
+    "object": "Shruti Gangrade (AG '28)"
+  },
+  {
+    "subject": "Adarsh Mathew",
+    "predicate": "participated_in",
+    "object": "IIT Guwahati PD"
+  },
+  {
+    "subject": "Arpan Ahuja",
+    "predicate": "participated_in",
+    "object": "IIT Guwahati PD"
+  },
+  {
+    "subject": "Piyush Bagaria",
+    "predicate": "participated_in",
+    "object": "IIT Guwahati PD"
+  },
+  {
+    "subject": "IIT Guwahati PD",
+    "predicate": "has_achievement",
+    "object": "Semi-Finalists"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "Suprad Reddy",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "Vinit Hase",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "KSOL PD 2012",
+    "predicate": "has_achievement",
+    "object": "Quarter-Finalists"
+  },
+  {
+    "subject": "Amrit Anand",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "Manish Advani",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "Sanat Mehrotra",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "Arijit Patra",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "Karthik",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "Manpreet Singh",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2012"
+  },
+  {
+    "subject": "KSOL PD 2012",
+    "predicate": "has_achievement",
+    "object": "Octo-Finalists"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "3rd Best Speaker"
+  },
+  {
+    "subject": "Sanat Mehrotra",
+    "predicate": "participated_in",
+    "object": "IITD PD 2012"
+  },
+  {
+    "subject": "Shreeja Dutta",
+    "predicate": "participated_in",
+    "object": "IITD PD 2012"
+  },
+  {
+    "subject": "Sourya Dey",
+    "predicate": "participated_in",
+    "object": "IITD PD 2012"
+  },
+  {
+    "subject": "IITD PD 2012",
+    "predicate": "has_achievement",
+    "object": "Quarter-Finalists"
+  },
+  {
+    "subject": "Rishi Mehta",
+    "predicate": "participated_in",
+    "object": "IITB Mood Indigo 2013"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "IITB Mood Indigo 2013"
+  },
+  {
+    "subject": "IITB Mood Indigo 2013",
+    "predicate": "has_achievement",
+    "object": "Quarter-Finalists"
+  },
+  {
+    "subject": "Rishi Mehta",
+    "predicate": "participated_in",
+    "object": "NITR PD 2013"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "participated_in",
+    "object": "NITR PD 2013"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "NITR PD 2013"
+  },
+  {
+    "subject": "NITR PD 2013",
+    "predicate": "has_achievement",
+    "object": "Winners"
+  },
+  {
+    "subject": "Ankit Bhattacharjee",
+    "predicate": "participated_in",
+    "object": "NITR PD 2013"
+  },
+  {
+    "subject": "Yash Chandnani",
+    "predicate": "participated_in",
+    "object": "NITR PD 2013"
+  },
+  {
+    "subject": "Harsh Shah",
+    "predicate": "participated_in",
+    "object": "NITR PD 2013"
+  },
+  {
+    "subject": "NITR PD 2013",
+    "predicate": "has_achievement",
+    "object": "Quarter-finalists"
+  },
+  {
+    "subject": "Adarsh Mathew",
+    "predicate": "participated_in",
+    "object": "VITDT 2013"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "participated_in",
+    "object": "VITDT 2013"
+  },
+  {
+    "subject": "VITDT 2013",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Sanat Mehrotra",
+    "predicate": "participated_in",
+    "object": "VITDT 2013"
+  },
+  {
+    "subject": "Sankalp Gourisaria",
+    "predicate": "participated_in",
+    "object": "VITDT 2013"
+  },
+  {
+    "subject": "VITDT 2013",
+    "predicate": "has_achievement",
+    "object": "Quarter-Finalists"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "Novice Finals Adjudicator"
+  },
+  {
+    "subject": "Amrit Anand",
+    "predicate": "participated_in",
+    "object": "IITD PD 2013"
+  },
+  {
+    "subject": "Manish Advani",
+    "predicate": "participated_in",
+    "object": "IITD PD 2013"
+  },
+  {
+    "subject": "Shushman Chowdhary",
+    "predicate": "participated_in",
+    "object": "IITD PD 2013"
+  },
+  {
+    "subject": "IITD PD 2013",
+    "predicate": "has_achievement",
+    "object": "Octo-Finalists"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "Best Adjudicator"
+  },
+  {
+    "subject": "Rishi Mehta",
+    "predicate": "participated_in",
+    "object": "66th Mukarji Memorial Debate"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "participated_in",
+    "object": "66th Mukarji Memorial Debate"
+  },
+  {
+    "subject": "66th Mukarji Memorial Debate",
+    "predicate": "has_achievement",
+    "object": "Semi-finalists"
+  },
+  {
+    "subject": "Rishi Mehta",
+    "predicate": "participated_in",
+    "object": "Indian National Debate Championship"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "participated_in",
+    "object": "Indian National Debate Championship"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "Indian National Debate Championship"
+  },
+  {
+    "subject": "Indian National Debate Championship",
+    "predicate": "has_achievement",
+    "object": "Quarters"
+  },
+  {
+    "subject": "Kunal Jain",
+    "predicate": "participated_in",
+    "object": "MukMem ProAms"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "participated_in",
+    "object": "MukMem ProAms"
+  },
+  {
+    "subject": "MukMem ProAms",
+    "predicate": "has_achievement",
+    "object": "Quarter-finalists"
+  },
+  {
+    "subject": "MukMem ProAms",
+    "predicate": "has_achievement",
+    "object": "top of tabs break"
+  },
+  {
+    "subject": "MukMem ProAms",
+    "predicate": "has_achievement",
+    "object": "top of speaker tabs"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "Sudeshna Trilok",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "Suprad Reddy",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "NITR PD 2014",
+    "predicate": "has_achievement",
+    "object": "Winners"
+  },
+  {
+    "subject": "Ayushi Mrigen",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "Chandra Has Dondapati",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "Surya Chakrabarti",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "NITR PD 2014",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Amrit Anand Amresh",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "Shushman Choudhury",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "NITR PD 2014",
+    "predicate": "has_achievement",
+    "object": "Semi-finalists"
+  },
+  {
+    "subject": "Naitik Jain",
+    "predicate": "received",
+    "object": "Best Adjudicator"
+  },
+  {
+    "subject": "Prasad Fadke",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "Daivik Swarup",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "Anurag Kar",
+    "predicate": "participated_in",
+    "object": "NITR PD 2014"
+  },
+  {
+    "subject": "NITR PD 2014",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "Best Speaker"
+  },
+  {
+    "subject": "Rishi Mehta",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2014"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2014"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2014"
+  },
+  {
+    "subject": "NUJS PD 2014",
+    "predicate": "has_achievement",
+    "object": "Pre-quarters"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "participated_in",
+    "object": "JGLS PD 2014"
+  },
+  {
+    "subject": "Ankur Agarwal",
+    "predicate": "participated_in",
+    "object": "JGLS PD 2014"
+  },
+  {
+    "subject": "Sankalp Gourisaria",
+    "predicate": "participated_in",
+    "object": "JGLS PD 2014"
+  },
+  {
+    "subject": "JGLS PD 2014",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Naitik Jain",
+    "predicate": "received",
+    "object": "Best Adjudicator"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "IITB Mood Indigo IV 2014"
+  },
+  {
+    "subject": "Rishi Mehta",
+    "predicate": "participated_in",
+    "object": "IITB Mood Indigo IV 2014"
+  },
+  {
+    "subject": "IITB Mood Indigo IV 2014",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Ayushi Mrigen",
+    "predicate": "participated_in",
+    "object": "IITB Mood Indigo IV 2014"
+  },
+  {
+    "subject": "Chandra Has Dondapati",
+    "predicate": "participated_in",
+    "object": "IITB Mood Indigo IV 2014"
+  },
+  {
+    "subject": "IITB Mood Indigo IV 2014",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "Shadow adj core"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "Grand Finals adjudicator"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "Invited adjudicator"
+  },
+  {
+    "subject": "Rishi Mehta",
+    "predicate": "participated_in",
+    "object": "67th Mukarji Memorial Debate"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "67th Mukarji Memorial Debate"
+  },
+  {
+    "subject": "67th Mukarji Memorial Debate",
+    "predicate": "has_achievement",
+    "object": "Pre-Quarters"
+  },
+  {
+    "subject": "Rishi Mehta",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2015"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2015"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2015"
+  },
+  {
+    "subject": "NUJS PD 2015",
+    "predicate": "has_achievement",
+    "object": "Pre-quarters"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2015"
+  },
+  {
+    "subject": "Ankur Agarwal",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2015"
+  },
+  {
+    "subject": "Sankalp Gourisaria",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2015"
+  },
+  {
+    "subject": "Vishal Chauhan",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2015"
+  },
+  {
+    "subject": "Shashwat Gangwal",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2015"
+  },
+  {
+    "subject": "Anurag Kar",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2015"
+  },
+  {
+    "subject": "KSOL PD 2015",
+    "predicate": "has_achievement",
+    "object": "Semi-Finalists"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "Best Adjudicator"
+  },
+  {
+    "subject": "Sudeshna Trilok",
+    "predicate": "received",
+    "object": "Second Best Adjudicator"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "received",
+    "object": "Best adjudicator"
+  },
+  {
+    "subject": "Aradhana Kumar",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2015"
+  },
+  {
+    "subject": "Aliya Jabbar",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2015"
+  },
+  {
+    "subject": "Ruchika Bhatia",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2015"
+  },
+  {
+    "subject": "Derozio Memorial Debate 2015",
+    "predicate": "has_achievement",
+    "object": "Octo-Finalists"
+  },
+  {
+    "subject": "Aradhana Kumar",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2016"
+  },
+  {
+    "subject": "Aliya Jabbar",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2016"
+  },
+  {
+    "subject": "Ruchika Bhatia",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2016"
+  },
+  {
+    "subject": "KSOL PD 2016",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Gyan Darshan",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2016"
+  },
+  {
+    "subject": "Vishal Chauhan",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2016"
+  },
+  {
+    "subject": "Shashwat Gangwal",
+    "predicate": "participated_in",
+    "object": "KSOL PD 2016"
+  },
+  {
+    "subject": "KSOL PD 2016",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Vivek Aithal",
+    "predicate": "participated_in",
+    "object": "NITR PD 2016"
+  },
+  {
+    "subject": "Vikrant Varma",
+    "predicate": "participated_in",
+    "object": "NITR PD 2016"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "participated_in",
+    "object": "NITR PD 2016"
+  },
+  {
+    "subject": "NITR PD 2016",
+    "predicate": "has_achievement",
+    "object": "Winners"
+  },
+  {
+    "subject": "Gyan Darshan",
+    "predicate": "participated_in",
+    "object": "NITR PD 2016"
+  },
+  {
+    "subject": "Vishal Chauhan",
+    "predicate": "participated_in",
+    "object": "NITR PD 2016"
+  },
+  {
+    "subject": "Ankit Bhattacharje",
+    "predicate": "participated_in",
+    "object": "NITR PD 2016"
+  },
+  {
+    "subject": "NITR PD 2016",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Manav Garg",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2017"
+  },
+  {
+    "subject": "Kunal Jain",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2017"
+  },
+  {
+    "subject": "NLUO PD 2017",
+    "predicate": "has_achievement",
+    "object": "Winners"
+  },
+  {
+    "subject": "Suyash Ratna Tripathi",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2017"
+  },
+  {
+    "subject": "Vignesh Vishwanathan",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2017"
+  },
+  {
+    "subject": "David Vishal",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2017"
+  },
+  {
+    "subject": "Heritage PD 2017",
+    "predicate": "has_achievement",
+    "object": "Novice-Category Winners"
+  },
+  {
+    "subject": "Partha Kadambi",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2017"
+  },
+  {
+    "subject": "Ankit Bhattacharjee",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2017"
+  },
+  {
+    "subject": "Chandar Siddarth",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2017"
+  },
+  {
+    "subject": "NUJS PD 2017",
+    "predicate": "has_achievement",
+    "object": "Octo Finalists"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2018"
+  },
+  {
+    "subject": "Suyash Ratna Tripathi",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2018"
+  },
+  {
+    "subject": "NUJS PD 2018",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Rohit Roy",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2018"
+  },
+  {
+    "subject": "Rohit Sar",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2018"
+  },
+  {
+    "subject": "Subhrajit Chowdhury",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2018"
+  },
+  {
+    "subject": "NUJS PD 2018",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Vishal Chauhan",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2018"
+  },
+  {
+    "subject": "Suyash Ratna Tripathi",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2018"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2018"
+  },
+  {
+    "subject": "Heritage PD 2018",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "received",
+    "object": "2nd Best Adjudicator"
+  },
+  {
+    "subject": "Suyash Ratna Tripathi",
+    "predicate": "participated_in",
+    "object": "IITB PD 2018"
+  },
+  {
+    "subject": "Vignesh Vishwanathan",
+    "predicate": "participated_in",
+    "object": "IITB PD 2018"
+  },
+  {
+    "subject": "IITB PD 2018",
+    "predicate": "has_achievement",
+    "object": "Pre Quarters"
+  },
+  {
+    "subject": "Adithya Prajapati",
+    "predicate": "participated_in",
+    "object": "IITB PD 2018"
+  },
+  {
+    "subject": "Sumith Varaganti",
+    "predicate": "participated_in",
+    "object": "IITB PD 2018"
+  },
+  {
+    "subject": "IITB PD 2018",
+    "predicate": "has_achievement",
+    "object": "Novice Pre Semis"
+  },
+  {
+    "subject": "Syamanthak Srikrishnan",
+    "predicate": "participated_in",
+    "object": "IITB PD 2018"
+  },
+  {
+    "subject": "IITB PD 2018",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Rohit Roy",
+    "predicate": "participated_in",
+    "object": "Inter IIT PD 2018"
+  },
+  {
+    "subject": "Rohit Sar",
+    "predicate": "participated_in",
+    "object": "Inter IIT PD 2018"
+  },
+  {
+    "subject": "Subhrajit Chowdhury",
+    "predicate": "participated_in",
+    "object": "Inter IIT PD 2018"
+  },
+  {
+    "subject": "Inter IIT PD 2018",
+    "predicate": "has_achievement",
+    "object": "Winners"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "Inter IIT PD 2018"
+  },
+  {
+    "subject": "Suthirtha Roy",
+    "predicate": "participated_in",
+    "object": "Inter IIT PD 2018"
+  },
+  {
+    "subject": "Rohan Khilnani",
+    "predicate": "participated_in",
+    "object": "Inter IIT PD 2018"
+  },
+  {
+    "subject": "Inter IIT PD 2018",
+    "predicate": "has_achievement",
+    "object": "Top 10 Adjudicator Breaks"
+  },
+  {
+    "subject": "Rohit Roy",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "Rohit Sar",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "Subhrajit Chowdhury",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "NUJS PD 2019",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Suyash Ratna Tripathi",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "David Vishal",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "Vignesh Vishwanathan",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "NUJS PD 2019",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Chandar Siddarth",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "Sutirtha Roy",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "Rohan Khilani",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "NUJS PD 2019",
+    "predicate": "has_achievement",
+    "object": "Octofinals"
+  },
+  {
+    "subject": "Partha Kadambi",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "Divyam Jain",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2019"
+  },
+  {
+    "subject": "NUJS PD 2019",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Breaks"
+  },
+  {
+    "subject": "Partha Kadambi",
+    "predicate": "received",
+    "object": "Best Adjudicator"
+  },
+  {
+    "subject": "Rohit Sar",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2019"
+  },
+  {
+    "subject": "NLUO PD 2019",
+    "predicate": "has_achievement",
+    "object": "Winners"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2019"
+  },
+  {
+    "subject": "Simran Rajagopalan",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2019"
+  },
+  {
+    "subject": "Devika Narayanan",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2019"
+  },
+  {
+    "subject": "Derozio Memorial Debate 2019",
+    "predicate": "has_achievement",
+    "object": "Pre-Semis"
+  },
+  {
+    "subject": "Shikhar Mohan",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2019"
+  },
+  {
+    "subject": "Nesara R Swamy",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2019"
+  },
+  {
+    "subject": "Pranav Krishnan",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2019"
+  },
+  {
+    "subject": "Partha Kadambi",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2019"
+  },
+  {
+    "subject": "Syamanthak Srikrishnan",
+    "predicate": "participated_in",
+    "object": "Derozio Memorial Debate 2019"
+  },
+  {
+    "subject": "Derozio Memorial Debate 2019",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Breaks"
+  },
+  {
+    "subject": "Rohit A",
+    "predicate": "participated_in",
+    "object": "IITB PD 2019"
+  },
+  {
+    "subject": "Aneeta James",
+    "predicate": "participated_in",
+    "object": "IITB PD 2019"
+  },
+  {
+    "subject": "IITB PD 2019",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Partha Kadambi",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "Chandar Siddarth",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "Aliya Jabbar",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "NUJS PD 2020",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Vignesh Vishwanathan",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "Suyash Ratna Tripathi",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "David Vishal",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "NUJS PD 2020",
+    "predicate": "has_achievement",
+    "object": "Octofinalists"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "Pranav Krishnan",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "Rishiraj Bose",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2020"
+  },
+  {
+    "subject": "NUJS PD 2020",
+    "predicate": "has_achievement",
+    "object": "Adjudicator break"
+  },
+  {
+    "subject": "Vignesh Vishwanathan",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Suyash Ratna Tripathi",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "NLUO PD 2020",
+    "predicate": "has_achievement",
+    "object": "Winners"
+  },
+  {
+    "subject": "Rishiraj Bose",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Devika Narayanan",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "NLUO PD 2020",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Saugandh Philkhana",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Anurag Kumar",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Mehul Gupta",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Dipanki Mukherjee",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "NLUO PD 2020",
+    "predicate": "has_achievement",
+    "object": "Semi-Finalists"
+  },
+  {
+    "subject": "Debaditya Mukhopadhyay",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Abhikhya Tripathy",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "NLUO PD 2020",
+    "predicate": "has_achievement",
+    "object": "Novice Runners up"
+  },
+  {
+    "subject": "Abhyudaya Nilosey",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Jaya Kedia",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Simran Rajagopalan",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Aneeta James",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Sruthi Mahalakshmi",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Kinjal Shah",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "Suhas Jain",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2020"
+  },
+  {
+    "subject": "NLUO PD 2020",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Breaks"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2020"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2020"
+  },
+  {
+    "subject": "Chandar Siddarth",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2020"
+  },
+  {
+    "subject": "Heritage PD 2020",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "BDC Digital Discourse"
+  },
+  {
+    "subject": "Aneeta James",
+    "predicate": "participated_in",
+    "object": "BDC Digital Discourse"
+  },
+  {
+    "subject": "BDC Digital Discourse",
+    "predicate": "has_achievement",
+    "object": "Pre Semi Finalists"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Asian E-Debate Challenge"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "Asian E-Debate Challenge"
+  },
+  {
+    "subject": "Asian E-Debate Challenge",
+    "predicate": "has_achievement",
+    "object": "Novice Runners up"
+  },
+  {
+    "subject": "Aneeta James",
+    "predicate": "participated_in",
+    "object": "Asian E-Debate Challenge"
+  },
+  {
+    "subject": "David Vishal",
+    "predicate": "participated_in",
+    "object": "Asian E-Debate Challenge"
+  },
+  {
+    "subject": "Asian E-Debate Challenge",
+    "predicate": "has_achievement",
+    "object": "Novice Semi Finalists"
+  },
+  {
+    "subject": "Aneeta James",
+    "predicate": "participated_in",
+    "object": "Linkbate debate Championship"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "Linkbate debate Championship"
+  },
+  {
+    "subject": "Angana Mondal",
+    "predicate": "participated_in",
+    "object": "Linkbate debate Championship"
+  },
+  {
+    "subject": "Ujjwal Tiwary",
+    "predicate": "participated_in",
+    "object": "Linkbate debate Championship"
+  },
+  {
+    "subject": "Linkbate debate Championship",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Linkbate debate Championship"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "Linkbate debate Championship"
+  },
+  {
+    "subject": "Linkbate debate Championship",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Taiwan Debate Open"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "Taiwan Debate Open"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "Taiwan Debate Open"
+  },
+  {
+    "subject": "Taiwan Debate Open",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Saugandh Philkhana",
+    "predicate": "participated_in",
+    "object": "Philippines Debate Open"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "Philippines Debate Open"
+  },
+  {
+    "subject": "Philippines Debate Open",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Suyash Ratna Tripathi",
+    "predicate": "participated_in",
+    "object": "India Debate Open"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "India Debate Open"
+  },
+  {
+    "subject": "India Debate Open",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Sruthi Mahalakshmi",
+    "predicate": "participated_in",
+    "object": "India Debate Open (AP)"
+  },
+  {
+    "subject": "India Debate Open (AP)",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Australs"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "Australs"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "Australs"
+  },
+  {
+    "subject": "Australs",
+    "predicate": "has_achievement",
+    "object": "ESL Finalists"
+  },
+  {
+    "subject": "Saugandh Philkhana",
+    "predicate": "participated_in",
+    "object": "Access Online Debates"
+  },
+  {
+    "subject": "Suhas Jain",
+    "predicate": "participated_in",
+    "object": "Access Online Debates"
+  },
+  {
+    "subject": "Access Online Debates",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Rohit A",
+    "predicate": "participated_in",
+    "object": "Just DC open 2020"
+  },
+  {
+    "subject": "Mehul Gupta",
+    "predicate": "participated_in",
+    "object": "Just DC open 2020"
+  },
+  {
+    "subject": "Just DC open 2020",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Sruthi Mahalakshmi",
+    "predicate": "participated_in",
+    "object": "Hasanuddin BP"
+  },
+  {
+    "subject": "Ragini Laskar",
+    "predicate": "participated_in",
+    "object": "Hasanuddin BP"
+  },
+  {
+    "subject": "Hasanuddin BP",
+    "predicate": "has_achievement",
+    "object": "Open Quarter Finalisits"
+  },
+  {
+    "subject": "Anurag Kumar",
+    "predicate": "participated_in",
+    "object": "Hasanuddin BP"
+  },
+  {
+    "subject": "Yash Vora",
+    "predicate": "participated_in",
+    "object": "Hasanuddin BP"
+  },
+  {
+    "subject": "Hasanuddin BP",
+    "predicate": "has_achievement",
+    "object": "Novice Finalists"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "ILNU pre UADC"
+  },
+  {
+    "subject": "Simran Rajagopalan",
+    "predicate": "participated_in",
+    "object": "ILNU pre UADC"
+  },
+  {
+    "subject": "Devika Narayanan",
+    "predicate": "participated_in",
+    "object": "ILNU pre UADC"
+  },
+  {
+    "subject": "ILNU pre UADC",
+    "predicate": "has_achievement",
+    "object": "Pre-Quarterfinalists"
+  },
+  {
+    "subject": "Stuti Parmar",
+    "predicate": "participated_in",
+    "object": "ILNU pre UADC"
+  },
+  {
+    "subject": "ILNU pre UADC",
+    "predicate": "has_achievement",
+    "object": "Breaking Adjudicator"
+  },
+  {
+    "subject": "Saugandh Philkhana",
+    "predicate": "participated_in",
+    "object": "Triumph Debate Open"
+  },
+  {
+    "subject": "Syamanthak Srikrishnan",
+    "predicate": "participated_in",
+    "object": "Triumph Debate Open"
+  },
+  {
+    "subject": "Triumph Debate Open",
+    "predicate": "has_achievement",
+    "object": "Pre-Semifinalists"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "IWDC"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "IWDC"
+  },
+  {
+    "subject": "IWDC",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Breaks"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "Safar Debate"
+  },
+  {
+    "subject": "Safar Debate",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "Proxime Debate Open"
+  },
+  {
+    "subject": "Proxime Debate Open",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Proxime Debate Open",
+    "predicate": "has_achievement",
+    "object": "Open Finals Chair"
+  },
+  {
+    "subject": "Debaditya Mukhopadhyay",
+    "predicate": "participated_in",
+    "object": "ADU Novice"
+  },
+  {
+    "subject": "Abhikhya Tripathi",
+    "predicate": "participated_in",
+    "object": "ADU Novice"
+  },
+  {
+    "subject": "Ujjwal Tiwary",
+    "predicate": "participated_in",
+    "object": "ADU Novice"
+  },
+  {
+    "subject": "Stuti Parmar",
+    "predicate": "participated_in",
+    "object": "ADU Novice"
+  },
+  {
+    "subject": "ADU Novice",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Debaditya Mukhopadhyay",
+    "predicate": "participated_in",
+    "object": "MDO"
+  },
+  {
+    "subject": "Abhikhya Tripathi",
+    "predicate": "participated_in",
+    "object": "MDO"
+  },
+  {
+    "subject": "MDO",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "MDO"
+  },
+  {
+    "subject": "MDO",
+    "predicate": "has_achievement",
+    "object": "Semi Finalist"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "MDO"
+  },
+  {
+    "subject": "MDO",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Tanay Raghavendra",
+    "predicate": "participated_in",
+    "object": "CUPD"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "CUPD"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "CUPD"
+  },
+  {
+    "subject": "CUPD",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Sruthi Mahalakshmi",
+    "predicate": "participated_in",
+    "object": "IDO AP"
+  },
+  {
+    "subject": "IDO AP",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Womxn's Debate"
+  },
+  {
+    "subject": "Womxn's Debate",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "East Coast Asians"
+  },
+  {
+    "subject": "East Coast Asians",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Taiwan Schools Debate"
+  },
+  {
+    "subject": "Taiwan Schools Debate",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "SBS PD"
+  },
+  {
+    "subject": "SBS PD",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "received",
+    "object": "Core Adjudicator"
+  },
+  {
+    "subject": "Anushka Chatterjee",
+    "predicate": "participated_in",
+    "object": "Pearl PD"
+  },
+  {
+    "subject": "Shriya Harlapur",
+    "predicate": "participated_in",
+    "object": "Pearl PD"
+  },
+  {
+    "subject": "Pearl PD",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Breaks"
+  },
+  {
+    "subject": "Sruthi Mahalakshmi",
+    "predicate": "participated_in",
+    "object": "DTU PD"
+  },
+  {
+    "subject": "DTU PD",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Ananya Nagar",
+    "predicate": "participated_in",
+    "object": "CNLU PD"
+  },
+  {
+    "subject": "Samyak Jain",
+    "predicate": "participated_in",
+    "object": "CNLU PD"
+  },
+  {
+    "subject": "Sidharth Sinha",
+    "predicate": "participated_in",
+    "object": "CNLU PD"
+  },
+  {
+    "subject": "CNLU PD",
+    "predicate": "has_achievement",
+    "object": "Novice Semi Finalists"
+  },
+  {
+    "subject": "Debaditya Mukhopadhyay",
+    "predicate": "participated_in",
+    "object": "Smart Debates Mini"
+  },
+  {
+    "subject": "Abhikhya Tripathi",
+    "predicate": "participated_in",
+    "object": "Smart Debates Mini"
+  },
+  {
+    "subject": "Smart Debates Mini",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Debaditya Mukhopadhyay",
+    "predicate": "participated_in",
+    "object": "JLU"
+  },
+  {
+    "subject": "Abhikhya Tripathi",
+    "predicate": "participated_in",
+    "object": "JLU"
+  },
+  {
+    "subject": "JLU",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "Uhuru Worlds"
+  },
+  {
+    "subject": "Uhuru Worlds",
+    "predicate": "has_achievement",
+    "object": "ESL Semi Finalist"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "NDO"
+  },
+  {
+    "subject": "NDO",
+    "predicate": "has_achievement",
+    "object": "Pre-Semi Finalist"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "received",
+    "object": "Best Invited Adjudicator"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "GLC Debate"
+  },
+  {
+    "subject": "GLC Debate",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "People Speak"
+  },
+  {
+    "subject": "People Speak",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Tiyasha Mitra",
+    "predicate": "participated_in",
+    "object": "Mukarji Memorial ProAm Debate"
+  },
+  {
+    "subject": "Mukarji Memorial ProAm Debate",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Shriya Harlapur",
+    "predicate": "participated_in",
+    "object": "NLUO BPD"
+  },
+  {
+    "subject": "NLUO BPD",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "Pro-Ams Debate"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "Pro-Ams Debate"
+  },
+  {
+    "subject": "Pro-Ams Debate",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Manas Sharma",
+    "predicate": "participated_in",
+    "object": "Pro-Ams Debate"
+  },
+  {
+    "subject": "Aumkaar Shukla",
+    "predicate": "participated_in",
+    "object": "Pro-Ams Debate"
+  },
+  {
+    "subject": "Pro-Ams Debate",
+    "predicate": "has_achievement",
+    "object": "Novice Break"
+  },
+  {
+    "subject": "Saloni Gole",
+    "predicate": "participated_in",
+    "object": "Pro-Ams Debate"
+  },
+  {
+    "subject": "Geerwaan Reddy",
+    "predicate": "participated_in",
+    "object": "Pro-Ams Debate"
+  },
+  {
+    "subject": "Shroyon Dasgupta",
+    "predicate": "received",
+    "object": "Best Novice Speaker"
+  },
+  {
+    "subject": "Anurag Kumar",
+    "predicate": "participated_in",
+    "object": "Pakistan Debate Open"
+  },
+  {
+    "subject": "Shriya Harlapur",
+    "predicate": "participated_in",
+    "object": "Pakistan Debate Open"
+  },
+  {
+    "subject": "Pakistan Debate Open",
+    "predicate": "has_achievement",
+    "object": "Novice Semi Finalists"
+  },
+  {
+    "subject": "Abhijna Choodi",
+    "predicate": "participated_in",
+    "object": "Axiom Debate Open"
+  },
+  {
+    "subject": "Ishan Manchanda",
+    "predicate": "participated_in",
+    "object": "Axiom Debate Open"
+  },
+  {
+    "subject": "Axiom Debate Open",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Sruthi Mahalakshmi",
+    "predicate": "participated_in",
+    "object": "Axiom Debate Open"
+  },
+  {
+    "subject": "Vishal Subramanyam",
+    "predicate": "participated_in",
+    "object": "Axiom Debate Open"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "Axiom Debate Open"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "Axiom Debate Open"
+  },
+  {
+    "subject": "Axiom Debate Open",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Breaks"
+  },
+  {
+    "subject": "Astha Jakher",
+    "predicate": "participated_in",
+    "object": "CNLU PD"
+  },
+  {
+    "subject": "Mirambika Sikdar",
+    "predicate": "participated_in",
+    "object": "CNLU PD"
+  },
+  {
+    "subject": "CNLU PD",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Abhijna Choodi",
+    "predicate": "participated_in",
+    "object": "TNNLU Pre Australs"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "TNNLU Pre Australs"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "TNNLU Pre Australs"
+  },
+  {
+    "subject": "TNNLU Pre Australs",
+    "predicate": "has_achievement",
+    "object": "Novice Winners"
+  },
+  {
+    "subject": "Shriya Harlapur",
+    "predicate": "participated_in",
+    "object": "TNNLU Pre Australs"
+  },
+  {
+    "subject": "TNNLU Pre Australs",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Abhijna Choodi",
+    "predicate": "participated_in",
+    "object": "Delhi Pre Australs"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "Delhi Pre Australs"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "Delhi Pre Australs"
+  },
+  {
+    "subject": "Delhi Pre Australs",
+    "predicate": "has_achievement",
+    "object": "Runners Up"
+  },
+  {
+    "subject": "Saloni Gole",
+    "predicate": "participated_in",
+    "object": "Delhi Pre Australs"
+  },
+  {
+    "subject": "Delhi Pre Australs",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Anurag Kumar",
+    "predicate": "participated_in",
+    "object": "Vishveshwaraya PD"
+  },
+  {
+    "subject": "Shroyon Dasgupta",
+    "predicate": "participated_in",
+    "object": "Vishveshwaraya PD"
+  },
+  {
+    "subject": "Vishveshwaraya PD",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Rohit A",
+    "predicate": "participated_in",
+    "object": "Vivaad AP"
+  },
+  {
+    "subject": "Mehul Gupta",
+    "predicate": "participated_in",
+    "object": "Vivaad AP"
+  },
+  {
+    "subject": "Shriya Harlapur",
+    "predicate": "participated_in",
+    "object": "Vivaad AP"
+  },
+  {
+    "subject": "Vivaad AP",
+    "predicate": "has_achievement",
+    "object": "Quarter Finalists"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Kosha Lele",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "NIT Durgapur PD",
+    "predicate": "has_achievement",
+    "object": "Open Breaks"
+  },
+  {
+    "subject": "Dhruv Parikh",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Archie Avirati",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Sumit Kumar",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Anirudh M",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Aadityavikram Biyani",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Jahnavi Soni",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Nikhil Vishwakarma",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Aviral Pandey",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Shubham Ranjan",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "NIT Durgapur PD",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Allen Emmanuel Binny",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Sneha Dash",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "NIT Durgapur PD"
+  },
+  {
+    "subject": "NIT Durgapur PD",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Breaks"
+  },
+  {
+    "subject": "Sneha Dash",
+    "predicate": "received",
+    "object": "Best Adjudicator"
+  },
+  {
+    "subject": "Abhijna Choodi",
+    "predicate": "participated_in",
+    "object": "DNLU PD"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "DNLU PD"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "DNLU PD"
+  },
+  {
+    "subject": "DNLU PD",
+    "predicate": "has_achievement",
+    "object": "Runners Up"
+  },
+  {
+    "subject": "Ishan Daga",
+    "predicate": "participated_in",
+    "object": "DNLU PD"
+  },
+  {
+    "subject": "Samyak Jain",
+    "predicate": "participated_in",
+    "object": "DNLU PD"
+  },
+  {
+    "subject": "Aaditri Vaibhav",
+    "predicate": "participated_in",
+    "object": "DNLU PD"
+  },
+  {
+    "subject": "DNLU PD",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Ananya Nagar",
+    "predicate": "participated_in",
+    "object": "DNLU PD"
+  },
+  {
+    "subject": "DNLU PD",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Archie Avirati",
+    "predicate": "participated_in",
+    "object": "UPES"
+  },
+  {
+    "subject": "Tanishka Garg",
+    "predicate": "participated_in",
+    "object": "UPES"
+  },
+  {
+    "subject": "Vinayak Agarwal",
+    "predicate": "participated_in",
+    "object": "UPES"
+  },
+  {
+    "subject": "UPES",
+    "predicate": "has_achievement",
+    "object": "Semi Finalists"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "UPES"
+  },
+  {
+    "subject": "UPES",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Sidharth Sinha",
+    "predicate": "participated_in",
+    "object": "RVDT"
+  },
+  {
+    "subject": "RVDT",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "Philippines Debate Open"
+  },
+  {
+    "subject": "Philippines Debate Open",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "DSNLU PD"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "DSNLU PD"
+  },
+  {
+    "subject": "DSNLU PD",
+    "predicate": "has_achievement",
+    "object": "Quarter Finals"
+  },
+  {
+    "subject": "Sumit Kumar",
+    "predicate": "participated_in",
+    "object": "INDO PD"
+  },
+  {
+    "subject": "Madhavakrishna",
+    "predicate": "participated_in",
+    "object": "INDO PD"
+  },
+  {
+    "subject": "INDO PD",
+    "predicate": "has_achievement",
+    "object": "Reserve Open Breaks"
+  },
+  {
+    "subject": "Shriya Harlapur",
+    "predicate": "participated_in",
+    "object": "INDO PD"
+  },
+  {
+    "subject": "Abhijna Choodi",
+    "predicate": "participated_in",
+    "object": "INDO PD"
+  },
+  {
+    "subject": "INDO PD",
+    "predicate": "has_achievement",
+    "object": "Open Semifinalists"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "RCL PD"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "participated_in",
+    "object": "RCL PD"
+  },
+  {
+    "subject": "RCL PD",
+    "predicate": "has_achievement",
+    "object": "Novice Finalists"
+  },
+  {
+    "subject": "Sneha Dash",
+    "predicate": "participated_in",
+    "object": "WoLCE Debate Open"
+  },
+  {
+    "subject": "WoLCE Debate Open",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Breaks"
+  },
+  {
+    "subject": "Aviral Pandey",
+    "predicate": "participated_in",
+    "object": "Hasanuddin BP"
+  },
+  {
+    "subject": "Madhavakrishna",
+    "predicate": "participated_in",
+    "object": "Hasanuddin BP"
+  },
+  {
+    "subject": "Hasanuddin BP",
+    "predicate": "has_achievement",
+    "object": "Open Semifinalists"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "GRRIPP-DUDS"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "GRRIPP-DUDS"
+  },
+  {
+    "subject": "GRRIPP-DUDS",
+    "predicate": "has_achievement",
+    "object": "Open Finalists"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "Anushka Aashvi",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "IITB PD 2023",
+    "predicate": "has_achievement",
+    "object": "Open Quarterfinalists"
+  },
+  {
+    "subject": "Ishan Daga",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "IITB PD 2023",
+    "predicate": "has_achievement",
+    "object": "Breaking Adjudicator"
+  },
+  {
+    "subject": "Abhijna Choodi",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2023"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2023"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2023"
+  },
+  {
+    "subject": "NUJS PD 2023",
+    "predicate": "has_achievement",
+    "object": "Winners"
+  },
+  {
+    "subject": "Anurag Kumar",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2023"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2023"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2023"
+  },
+  {
+    "subject": "NUJS PD 2023",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2023"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2023"
+  },
+  {
+    "subject": "Allen Emmanuel Binny",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2023"
+  },
+  {
+    "subject": "Sneha Dash",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2023"
+  },
+  {
+    "subject": "NLUO PD 2023",
+    "predicate": "has_achievement",
+    "object": "Finalists"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "received",
+    "object": "Best Speaker"
+  },
+  {
+    "subject": "Narayani Sai Pemmaraju",
+    "predicate": "participated_in",
+    "object": "NLUO PD 2023"
+  },
+  {
+    "subject": "NLUO PD 2023",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Anubhav Mitra",
+    "predicate": "participated_in",
+    "object": "LSR PD 2023"
+  },
+  {
+    "subject": "Akashneel Raychaudhuri",
+    "predicate": "participated_in",
+    "object": "LSR PD 2023"
+  },
+  {
+    "subject": "Anshul Trehan",
+    "predicate": "participated_in",
+    "object": "LSR PD 2023"
+  },
+  {
+    "subject": "LSR PD 2023",
+    "predicate": "has_achievement",
+    "object": "Novice Semifinalists"
+  },
+  {
+    "subject": "Anubhav Mitra",
+    "predicate": "received",
+    "object": "Novice Best Speaker"
+  },
+  {
+    "subject": "Parvathy Venugopal",
+    "predicate": "participated_in",
+    "object": "SMDO PD 2023"
+  },
+  {
+    "subject": "Abhimanyu Dev Upadhyay",
+    "predicate": "participated_in",
+    "object": "SMDO PD 2023"
+  },
+  {
+    "subject": "SMDO PD 2023",
+    "predicate": "has_achievement",
+    "object": "Novice Semifinalists"
+  },
+  {
+    "subject": "Aaradhya Srivastava",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2023"
+  },
+  {
+    "subject": "Kashika Sharma",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2023"
+  },
+  {
+    "subject": "Divyansh Gaurav",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2023"
+  },
+  {
+    "subject": "Heritage PD 2023",
+    "predicate": "has_achievement",
+    "object": "Novice Finalists"
+  },
+  {
+    "subject": "Abhimanyu Dev Upadhyay",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2023"
+  },
+  {
+    "subject": "Heritage PD 2023",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "DTU Pre-UADC 2023"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "participated_in",
+    "object": "DTU Pre-UADC 2023"
+  },
+  {
+    "subject": "Allen Emmanuel Binny",
+    "predicate": "participated_in",
+    "object": "DTU Pre-UADC 2023"
+  },
+  {
+    "subject": "DTU Pre-UADC 2023",
+    "predicate": "has_achievement",
+    "object": "Open Breaks"
+  },
+  {
+    "subject": "Sneha Dash",
+    "predicate": "participated_in",
+    "object": "DTU Pre-UADC 2023"
+  },
+  {
+    "subject": "DTU Pre-UADC 2023",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Pranaya Chowdary",
+    "predicate": "participated_in",
+    "object": "IIT Bhubaneswar PD 2023"
+  },
+  {
+    "subject": "IIT Bhubaneswar PD 2023",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "SRCC Pre-ABP 2023"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "SRCC Pre-ABP 2023"
+  },
+  {
+    "subject": "SRCC Pre-ABP 2023",
+    "predicate": "has_achievement",
+    "object": "Open Quarterfinalists"
+  },
+  {
+    "subject": "Vishnuvardhan Murali",
+    "predicate": "participated_in",
+    "object": "SRCC Pre-ABP 2023"
+  },
+  {
+    "subject": "Shubham Kumar",
+    "predicate": "participated_in",
+    "object": "SRCC Pre-ABP 2023"
+  },
+  {
+    "subject": "SRCC Pre-ABP 2023",
+    "predicate": "has_achievement",
+    "object": "Novice Semifinalists"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "received",
+    "object": "Open Best Speaker"
+  },
+  {
+    "subject": "Anubhav Mitra",
+    "predicate": "participated_in",
+    "object": "RPMD"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "RPMD"
+  },
+  {
+    "subject": "Abhijna Choodi",
+    "predicate": "participated_in",
+    "object": "RPMD"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "RPMD"
+  },
+  {
+    "subject": "RPMD",
+    "predicate": "has_achievement",
+    "object": "Open SemifInalists"
+  },
+  {
+    "subject": "Allen Emmanuel Binny",
+    "predicate": "participated_in",
+    "object": "RPMD"
+  },
+  {
+    "subject": "RPMD",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "participated_in",
+    "object": "SNDC (SMU Novice)"
+  },
+  {
+    "subject": "Swetapadma Kar",
+    "predicate": "participated_in",
+    "object": "SNDC (SMU Novice)"
+  },
+  {
+    "subject": "SNDC (SMU Novice)",
+    "predicate": "has_achievement",
+    "object": "Open Semifinalists"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "IITB PD 2023",
+    "predicate": "has_achievement",
+    "object": "Open Semifinalists"
+  },
+  {
+    "subject": "Anubhav Mitra",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "Parvathy Venugopal",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "IITB PD 2023",
+    "predicate": "has_achievement",
+    "object": "Open Quarterfinalists"
+  },
+  {
+    "subject": "Kunal",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "Mayukh",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "Apoorva Pandey",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "Pranaya Chowdary",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "IITB PD 2023",
+    "predicate": "has_achievement",
+    "object": "Novice Quarterfinalists"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "IITB PD 2023"
+  },
+  {
+    "subject": "IITB PD 2023",
+    "predicate": "has_achievement",
+    "object": "Adjudicator Break"
+  },
+  {
+    "subject": "Anubhav Mitra",
+    "predicate": "participated_in",
+    "object": "India WUDC Fundraiser"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "India WUDC Fundraiser"
+  },
+  {
+    "subject": "India WUDC Fundraiser",
+    "predicate": "has_achievement",
+    "object": "ESL Semifinalists(highest breaking Indian Team)"
+  },
+  {
+    "subject": "Anubhav Mitra",
+    "predicate": "participated_in",
+    "object": "DTU Winters PD 2024"
+  },
+  {
+    "subject": "Harsh Singh",
+    "predicate": "participated_in",
+    "object": "DTU Winters PD 2024"
+  },
+  {
+    "subject": "DTU Winters PD 2024",
+    "predicate": "has_achievement",
+    "object": "Novice Winners"
+  },
+  {
+    "subject": "Milind Sharma",
+    "predicate": "participated_in",
+    "object": "DTU Winters PD 2024"
+  },
+  {
+    "subject": "Swetapadma Kar",
+    "predicate": "participated_in",
+    "object": "DTU Winters PD 2024"
+  },
+  {
+    "subject": "DTU Winters PD 2024",
+    "predicate": "has_achievement",
+    "object": "Novice Semifinalists"
+  },
+  {
+    "subject": "Apoorva Pandey",
+    "predicate": "participated_in",
+    "object": "DTU Winters PD 2024"
+  },
+  {
+    "subject": "Divyansh Gaurav",
+    "predicate": "participated_in",
+    "object": "DTU Winters PD 2024"
+  },
+  {
+    "subject": "DTU Winters PD 2024",
+    "predicate": "has_achievement",
+    "object": "Novice Pre-Semifinalists"
+  },
+  {
+    "subject": "Rahul R",
+    "predicate": "participated_in",
+    "object": "DTU Winters PD 2024"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "DTU Winters PD 2024"
+  },
+  {
+    "subject": "DTU Winters PD 2024",
+    "predicate": "has_achievement",
+    "object": "Breaking Adjudicators"
+  },
+  {
+    "subject": "Kashika Sharma",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2024"
+  },
+  {
+    "subject": "Parvathy Venugopal",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2024"
+  },
+  {
+    "subject": "Pranaya Chowdary",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2024"
+  },
+  {
+    "subject": "NUJS PD 2024",
+    "predicate": "has_achievement",
+    "object": "Novice Winners"
+  },
+  {
+    "subject": "Anubhav Mitra",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2024"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2024"
+  },
+  {
+    "subject": "Allen Emmanuel Binny",
+    "predicate": "participated_in",
+    "object": "NUJS PD 2024"
+  },
+  {
+    "subject": "NUJS PD 2024",
+    "predicate": "has_achievement",
+    "object": "Open Quarterfinalists"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "received",
+    "object": "Best Reply Speaker"
+  },
+  {
+    "subject": "Anubhav Mitra",
+    "predicate": "participated_in",
+    "object": "NUALS PD 2024"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "NUALS PD 2024"
+  },
+  {
+    "subject": "NUALS PD 2024",
+    "predicate": "has_achievement",
+    "object": "Open Semifinalists"
+  },
+  {
+    "subject": "Sugandh Sinha",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Jaya Kedia",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Calcutta Open",
+    "predicate": "has_achievement",
+    "object": "Open Runners Up"
+  },
+  {
+    "subject": "Dhruva J Herrick",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Ritwik Suresh",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Md Hasan Akhtar",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Calcutta Open",
+    "predicate": "has_achievement",
+    "object": "Open Semifinalists"
+  },
+  {
+    "subject": "Rohan Singh",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Gauri Prem",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Sonil Negi",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Calcutta Open",
+    "predicate": "has_achievement",
+    "object": "Open Quarterfinalists"
+  },
+  {
+    "subject": "Md Hasan Akhtar",
+    "predicate": "received",
+    "object": "Best Novice Speaker"
+  },
+  {
+    "subject": "Shreya Mohanty",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Krushnashish Pradhan",
+    "predicate": "participated_in",
+    "object": "Calcutta Open"
+  },
+  {
+    "subject": "Calcutta Open",
+    "predicate": "has_achievement",
+    "object": "Breaking Adjudicators"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "NITD PD 2024"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "NITD PD 2024"
+  },
+  {
+    "subject": "NITD PD 2024",
+    "predicate": "has_achievement",
+    "object": "Breaking Adjudicators(IAs)"
+  },
+  {
+    "subject": "Kunal Patil",
+    "predicate": "participated_in",
+    "object": "NITK PD 2024"
+  },
+  {
+    "subject": "Ayush Kumar",
+    "predicate": "participated_in",
+    "object": "NITK PD 2024"
+  },
+  {
+    "subject": "Yash Raj Pandey",
+    "predicate": "participated_in",
+    "object": "NITK PD 2024"
+  },
+  {
+    "subject": "NITK PD 2024",
+    "predicate": "has_achievement",
+    "object": "Open Semifinalists"
+  },
+  {
+    "subject": "Atharva Ganju",
+    "predicate": "participated_in",
+    "object": "BITS PD 2024"
+  },
+  {
+    "subject": "Kevin Jais",
+    "predicate": "participated_in",
+    "object": "BITS PD 2024"
+  },
+  {
+    "subject": "Hasan",
+    "predicate": "participated_in",
+    "object": "BITS PD 2024"
+  },
+  {
+    "subject": "Shruti Gangrade",
+    "predicate": "participated_in",
+    "object": "BITS PD 2024"
+  },
+  {
+    "subject": "BITS PD 2024",
+    "predicate": "has_achievement",
+    "object": "Open Semifinalists"
+  },
+  {
+    "subject": "Krushnashish Pradhan",
+    "predicate": "participated_in",
+    "object": "BITS PD 2024"
+  },
+  {
+    "subject": "Dhruva J Herrick",
+    "predicate": "participated_in",
+    "object": "BITS PD 2024"
+  },
+  {
+    "subject": "BITS PD 2024",
+    "predicate": "has_achievement",
+    "object": "Open Quarterfinalists"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "Diliman Pre-UADC 2024"
+  },
+  {
+    "subject": "Diliman Pre-UADC 2024",
+    "predicate": "has_achievement",
+    "object": "Breaking Adjudicator"
+  },
+  {
+    "subject": "Kevin Jais",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2024"
+  },
+  {
+    "subject": "Agrim Goyal",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2024"
+  },
+  {
+    "subject": "Atharva Ganju",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2024"
+  },
+  {
+    "subject": "Heritage PD 2024",
+    "predicate": "has_achievement",
+    "object": "Open Octofinalists"
+  },
+  {
+    "subject": "Nimisha Gupta",
+    "predicate": "participated_in",
+    "object": "Heritage PD 2024"
+  },
+  {
+    "subject": "Heritage PD 2024",
+    "predicate": "has_achievement",
+    "object": "Breaking Adjudicator"
+  },
+  {
+    "subject": "Diya Sarkar",
+    "predicate": "participated_in",
+    "object": "Uhuru Worlds 2024"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "Uhuru Worlds 2024"
+  },
+  {
+    "subject": "Uhuru Worlds 2024",
+    "predicate": "has_achievement",
+    "object": "ESL Champions"
+  },
+  {
+    "subject": "Hasan Akhtar",
+    "predicate": "participated_in",
+    "object": "Dialectica Pre-ABP"
+  },
+  {
+    "subject": "Ritwik Suresh",
+    "predicate": "participated_in",
+    "object": "Dialectica Pre-ABP"
+  },
+  {
+    "subject": "Dialectica Pre-ABP",
+    "predicate": "has_achievement",
+    "object": "Novice Winners"
+  },
+  {
+    "subject": "Ashley Placid",
+    "predicate": "participated_in",
+    "object": "Dialectica Pre-ABP"
+  },
+  {
+    "subject": "Dialectica Pre-ABP",
+    "predicate": "has_achievement",
+    "object": "Breaking Adjudicator"
+  },
+  {
+    "subject": "Atharva Ganju",
+    "predicate": "participated_in",
+    "object": "Summer Debate Symposium"
+  },
+  {
+    "subject": "Summer Debate Symposium",
+    "predicate": "has_achievement",
+    "object": "Second Best Adjudicator"
+  },
+  {
+    "subject": "Entry",
+    "predicate": "verified by",
+    "object": "Amrav"
+  },
+  {
+    "subject": "Entry",
+    "predicate": "verification date",
+    "object": "2014-08-16"
+  },
+  {
+    "subject": "Entry",
+    "predicate": "verified by",
+    "object": "whiplash"
+  },
+  {
+    "subject": "Entry",
+    "predicate": "verification date",
+    "object": "2015-08-02"
+  }
+]

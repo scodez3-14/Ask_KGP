@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "IIT Kharagpur Autonomous Underwater Vehicle Team",
+    "predicate": "is a",
+    "object": "student group"
+  },
+  {
+    "subject": "IIT Kharagpur Autonomous Underwater Vehicle Team",
+    "predicate": "works in",
+    "object": "autonomous underwater robotics"
+  },
+  {
+    "subject": "IIT Kharagpur Autonomous Underwater Vehicle Team",
+    "predicate": "designs",
+    "object": "autonomous underwater robots"
+  },
+  {
+    "subject": "IIT Kharagpur Autonomous Underwater Vehicle Team",
+    "predicate": "builds",
+    "object": "autonomous underwater robots"
+  },
+  {
+    "subject": "IIT Kharagpur Autonomous Underwater Vehicle Team",
+    "predicate": "works under",
+    "object": "Dr C.S. Kumar"
+  },
+  {
+    "subject": "IIT Kharagpur Autonomous Underwater Vehicle Team",
+    "predicate": "works under",
+    "object": "Vishwanath Nagarajan"
+  },
+  {
+    "subject": "Dr C.S. Kumar",
+    "predicate": "is",
+    "object": "Professor, Mechanical Department"
+  },
+  {
+    "subject": "Vishwanath Nagarajan",
+    "predicate": "is",
+    "object": "Assistant Professor, Ocean Engineering & Naval Architecture"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "traces origin to",
+    "object": "December 2010"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "came together from",
+    "object": "computer science, electrical, mechanical, ocean engineering"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "develops",
+    "object": "autonomous underwater vehicles"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "developed first vehicle",
+    "object": "Kraken 1.0"
+  },
+  {
+    "subject": "Kraken 1.0",
+    "predicate": "developed in",
+    "object": "June 2011"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "overcame hurdles",
+    "object": "cost, manufacturability, efficient design, limited time"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "won",
+    "object": "first ever national event on AUVs at NIOT"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "participated in",
+    "object": "14th international AUVSI ROBOSUB Competition"
+  },
+  {
+    "subject": "14th international AUVSI ROBOSUB Competition",
+    "predicate": "held in",
+    "object": "San Diego, USA"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "cleared",
+    "object": "qualifying round"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "recognized by",
+    "object": "judges"
+  },
+  {
+    "subject": "TEAM AUV",
+    "predicate": "working on",
+    "object": "Kraken 4.0"
+  },
+  {
+    "subject": "Kraken 4.0",
+    "predicate": "worked on in",
+    "object": "2019"
+  }
+]

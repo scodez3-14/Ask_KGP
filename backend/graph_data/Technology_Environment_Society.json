@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Technology Environment Society (TES)",
+    "predicate": "is",
+    "object": "student-led organization"
+  },
+  {
+    "subject": "Technology Environment Society (TES)",
+    "predicate": "located_at",
+    "object": "Indian Institute of Technology (IIT) Kharagpur"
+  },
+  {
+    "subject": "Technology Environment Society (TES)",
+    "predicate": "dedicated_to",
+    "object": "conservation and preservation of the environment"
+  },
+  {
+    "subject": "Technology Environment Society (TES)",
+    "predicate": "promotes",
+    "object": "sustainability in society"
+  },
+  {
+    "subject": "Technology Environment Society (TES)",
+    "predicate": "strives_towards",
+    "object": "more sustainable future"
+  },
+  {
+    "subject": "Vision Prabaho",
+    "predicate": "founded_by",
+    "object": "Biswarup Mondal, Sirsendu Sekhar Barman and Pragnaditya Malakar"
+  },
+  {
+    "subject": "Vision Prabaho",
+    "predicate": "registered_as",
+    "object": "NGO"
+  },
+  {
+    "subject": "Tarak Chandra Paul",
+    "predicate": "is",
+    "object": "environmentalist"
+  },
+  {
+    "subject": "TES",
+    "predicate": "formalized_as",
+    "object": "Gymkhana society"
+  },
+  {
+    "subject": "TES",
+    "predicate": "has_members",
+    "object": "over 30 student members"
+  },
+  {
+    "subject": "Biswarup Mondal",
+    "predicate": "is_founder",
+    "object": "TES"
+  },
+  {
+    "subject": "Dr. Sirsendu Sekhar Barman",
+    "predicate": "is_founder",
+    "object": "TES"
+  },
+  {
+    "subject": "Dr. Pragnaditya Malakar",
+    "predicate": "is_founder",
+    "object": "TES"
+  },
+  {
+    "subject": "Prof. Manjira Sinha",
+    "predicate": "is_professor_in-charge",
+    "object": "TES"
+  },
+  {
+    "subject": "Prof. Subha Verma",
+    "predicate": "is_professor_in-charge",
+    "object": "TES"
+  },
+  {
+    "subject": "TES",
+    "predicate": "has_social_media_page",
+    "object": "https://www.facebook.com/TESIITKGP/"
+  },
+  {
+    "subject": "TES",
+    "predicate": "has_social_media_page",
+    "object": "https://www.instagram.com/tesiitkgp/"
+  }
+]

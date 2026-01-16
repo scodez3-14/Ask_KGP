@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Chess club",
+    "predicate": "located in",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "purpose",
+    "object": "boost enthusiasm and chess culture"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "membership process",
+    "object": "freshers' tournament"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "membership process",
+    "object": "interview"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "activities",
+    "object": "weekly practice sessions"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "activities",
+    "object": "workshops"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "activities",
+    "object": "tournaments"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "tournament types",
+    "object": "women's tournament"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "tournament types",
+    "object": "Inter-Section Tournament"
+  },
+  {
+    "subject": "Chess club",
+    "predicate": "tournament types",
+    "object": "Inter-Department Tournament"
+  },
+  {
+    "subject": "Facebook Page",
+    "predicate": "is a",
+    "object": "Contact medium"
+  },
+  {
+    "subject": "Instagram Page",
+    "predicate": "is a",
+    "object": "Contact medium"
+  },
+  {
+    "subject": "WhatsApp",
+    "predicate": "is a",
+    "object": "Contact medium"
+  },
+  {
+    "subject": "Medium Page",
+    "predicate": "is a",
+    "object": "Contact medium"
+  },
+  {
+    "subject": "Facebook Group",
+    "predicate": "is a",
+    "object": "Contact medium"
+  },
+  {
+    "subject": "Twitter",
+    "predicate": "is a",
+    "object": "Contact medium"
+  },
+  {
+    "subject": "Blog",
+    "predicate": "is a",
+    "object": "Contact medium"
+  },
+  {
+    "subject": "https://www.facebook.com/groups/chessiitkgp/",
+    "predicate": "is",
+    "object": "Facebook group for chess at IIT Kharagpur"
+  }
+]

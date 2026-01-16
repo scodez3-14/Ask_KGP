@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "BARC",
+    "predicate": "has",
+    "object": "Logo"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "is known as",
+    "object": "BARC"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "has attribute",
+    "object": "Quick Facts"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "is a student body under the aegis of",
+    "object": "Office of Alumni Affairs and International Relations"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "is committed to positioning and branding",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "IIT Kharagpur",
+    "predicate": "is positioned as a global leader in",
+    "object": "research, technology and higher education"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "evaluates public attitudes towards",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "identifies policies and procedures of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "IIT Kharagpur",
+    "predicate": "has stakeholders interested in its",
+    "object": "policies and procedures"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "plans and executes programs to earn",
+    "object": "understanding and acceptance"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "builds the",
+    "object": "IIT Kharagpur brand"
+  },
+  {
+    "subject": "IIT Kharagpur brand",
+    "predicate": "lets the world recognise",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "IIT Kharagpur brand",
+    "predicate": "puts across to the world",
+    "object": "'dedicated to the service of the nation'"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "is the bridge between",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Branding and Relations Cell",
+    "predicate": "is the bridge between IIT Kharagpur and",
+    "object": "target market"
+  },
+  {
+    "subject": "target market",
+    "predicate": "comprises",
+    "object": "aspirants and students"
+  },
+  {
+    "subject": "target market",
+    "predicate": "comprises",
+    "object": "faculties in India and abroad"
+  },
+  {
+    "subject": "target market",
+    "predicate": "comprises",
+    "object": "the media"
+  },
+  {
+    "subject": "target market",
+    "predicate": "comprises",
+    "object": "ranking institutions"
+  },
+  {
+    "subject": "target market",
+    "predicate": "comprises",
+    "object": "governments"
+  },
+  {
+    "subject": "Branding And Relations Cell, IIT Kharagpur",
+    "predicate": "can be followed on",
+    "object": "facebook"
+  },
+  {
+    "subject": "Branding And Relations Cell, IIT Kharagpur",
+    "predicate": "can be contacted via email at",
+    "object": "[email protected]"
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "subject": "SHARE",
+    "predicate": "is",
+    "object": "an innovative, student-led organization"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "bridges",
+    "object": "academic knowledge with real-world consulting"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "generates",
+    "object": "meaningful impact"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "empowers",
+    "object": "high-potential university students"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "prepares",
+    "object": "students to become socially responsible, results-driven leaders"
+  },
+  {
+    "subject": "students",
+    "predicate": "add value to",
+    "object": "both businesses and society"
+  },
+  {
+    "subject": "SHARE's teams",
+    "predicate": "have a proven track record in",
+    "object": "international case competitions"
+  },
+  {
+    "subject": "SHARE's teams",
+    "predicate": "have hands-on experience across",
+    "object": "diverse sectors including technology, consulting, and sustainable development"
+  },
+  {
+    "subject": "SHARE's teams",
+    "predicate": "deliver",
+    "object": "creative, effective, and actionable strategies"
+  },
+  {
+    "subject": "SHARE's teams' strategies",
+    "predicate": "transcend",
+    "object": "conventional solutions"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "offers",
+    "object": "a comprehensive range of services"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "provides",
+    "object": "development of strategies for market entry"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "provides",
+    "object": "strategies for geographic expansion"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "provides",
+    "object": "identification of new market opportunities"
+  },
+  {
+    "subject": "The team",
+    "predicate": "conducts",
+    "object": "in-depth analysis of market trends"
+  },
+  {
+    "subject": "The team",
+    "predicate": "conducts",
+    "object": "in-depth analysis of customer insights"
+  },
+  {
+    "subject": "The team",
+    "predicate": "designs",
+    "object": "pricing strategies"
+  },
+  {
+    "subject": "pricing strategies",
+    "predicate": "are aligned with",
+    "object": "product value propositions"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "supports clients by creating",
+    "object": "business plans"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "supports clients by identifying",
+    "object": "potential investors"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "supports clients by crafting",
+    "object": "compelling pitch presentations"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "extends expertise to",
+    "object": "data analytics"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "extends expertise to",
+    "object": "insight generation"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "extends expertise to",
+    "object": "delivering tailored recommendation plans"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "conducts recruitment",
+    "object": "at the beginning of the autumn semester"
+  },
+  {
+    "subject": "recruitment process",
+    "predicate": "includes",
+    "object": "group discussion"
+  },
+  {
+    "subject": "recruitment process",
+    "predicate": "includes",
+    "object": "personal interview"
+  },
+  {
+    "subject": "candidates",
+    "predicate": "are evaluated",
+    "object": "on ability to think critically, approach problems logically, and communicate ideas clearly and coherently"
+  },
+  {
+    "subject": "candidates",
+    "predicate": "are not evaluated",
+    "object": "on prior knowledge of consulting, strategy, or market research"
+  },
+  {
+    "subject": "evaluation",
+    "predicate": "emphasizes",
+    "object": "structured thinking"
+  },
+  {
+    "subject": "evaluation",
+    "predicate": "emphasizes",
+    "object": "analytical problem-solving"
+  },
+  {
+    "subject": "evaluation",
+    "predicate": "emphasizes",
+    "object": "strong sense of commitment"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "seeks",
+    "object": "individuals who can manage time effectively"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "seeks",
+    "object": "individuals who demonstrate professionalism within the team"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "primary mode of learning for first-year students is",
+    "object": "knowledge meetings"
+  },
+  {
+    "subject": "knowledge meetings",
+    "predicate": "lead sessions to introduce and explain",
+    "object": "essential consulting functions"
+  },
+  {
+    "subject": "knowledge meetings",
+    "predicate": "facilitate learning",
+    "object": "active discussions and relationships"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "enhances experiential learning through",
+    "object": "intra-team competitions"
+  },
+  {
+    "subject": "intra-team competitions",
+    "predicate": "include",
+    "object": "traditional case study challenge"
+  },
+  {
+    "subject": "intra-team competitions",
+    "predicate": "include",
+    "object": "equity research report"
+  },
+  {
+    "subject": "intra-team competitions",
+    "predicate": "include",
+    "object": "Bid to Pitch"
+  },
+  {
+    "subject": "Bid to Pitch",
+    "predicate": "participants begin by conceptualizing",
+    "object": "startup idea"
+  },
+  {
+    "subject": "Bid to Pitch",
+    "predicate": "participants deliver a brief pitch to",
+    "object": "peers"
+  },
+  {
+    "subject": "Bid to Pitch",
+    "predicate": "teams bid on",
+    "object": "promising ideas"
+  },
+  {
+    "subject": "teams",
+    "predicate": "purchase",
+    "object": "chosen idea"
+  },
+  {
+    "subject": "teams",
+    "predicate": "transform into",
+    "object": "comprehensive business plan"
+  },
+  {
+    "subject": "teams",
+    "predicate": "deliver final presentation simulating",
+    "object": "product or company launch"
+  },
+  {
+    "subject": "these initiatives",
+    "predicate": "crafted to cultivate",
+    "object": "creativity, strategic thinking, and collaboration"
+  },
+  {
+    "subject": "Case Study Competition",
+    "predicate": "develops",
+    "object": "critical thinking"
+  },
+  {
+    "subject": "Case Study Competition",
+    "predicate": "develops",
+    "object": "business acumen"
+  },
+  {
+    "subject": "first-year students",
+    "predicate": "examine",
+    "object": "real-world problems"
+  },
+  {
+    "subject": "first-year students",
+    "predicate": "offer strategic answers to",
+    "object": "real-world problems"
+  },
+  {
+    "subject": "Bid to Pitch",
+    "predicate": "fosters",
+    "object": "entrepreneurial thinking"
+  },
+  {
+    "subject": "Bid to Pitch",
+    "predicate": "fosters",
+    "object": "valuation skills"
+  },
+  {
+    "subject": "participants",
+    "predicate": "bid on",
+    "object": "startup ideas"
+  },
+  {
+    "subject": "participants",
+    "predicate": "pitch",
+    "object": "business models"
+  },
+  {
+    "subject": "Bid to Pitch",
+    "predicate": "simulates",
+    "object": "investment decisions"
+  },
+  {
+    "subject": "Equity Research Report",
+    "predicate": "gives experience with",
+    "object": "financial analysis"
+  },
+  {
+    "subject": "Equity Research Report",
+    "predicate": "gives experience with",
+    "object": "stock evaluation"
+  },
+  {
+    "subject": "Students",
+    "predicate": "create",
+    "object": "expert-caliber equity research reports"
+  },
+  {
+    "subject": "expert-caliber equity research reports",
+    "predicate": "are on",
+    "object": "publicly traded companies"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "are",
+    "object": "senior-most members of SHARE"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "are typically in their",
+    "object": "fourth or fifth year"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "draw upon",
+    "object": "extensive experience"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "provide",
+    "object": "strategic guidance"
+  },
+  {
+    "subject": "Advisors",
+    "predicate": "help shape",
+    "object": "overall direction of the organization"
+  },
+  {
+    "subject": "Presidents",
+    "predicate": "are",
+    "object": "third-year students"
+  },
+  {
+    "subject": "Presidents",
+    "predicate": "lead and manage",
+    "object": "key projects across SHARE"
+  },
+  {
+    "subject": "Presidents",
+    "predicate": "ensure",
+    "object": "initiatives are aligned with goals and vision"
+  },
+  {
+    "subject": "Managers",
+    "predicate": "are",
+    "object": "second-year students"
+  },
+  {
+    "subject": "Managers",
+    "predicate": "are responsible for",
+    "object": "executing project portfolios"
+  },
+  {
+    "subject": "Managers",
+    "predicate": "are responsible for",
+    "object": "overseeing daily operations"
+  },
+  {
+    "subject": "Managers",
+    "predicate": "play a crucial role in",
+    "object": "coordinating knowledge meetings"
+  },
+  {
+    "subject": "Managers",
+    "predicate": "play a crucial role in",
+    "object": "organizing internal competitions"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "are",
+    "object": "first-year students"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "support",
+    "object": "project work assigned by senior team members"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "gain",
+    "object": "hands-on experience"
+  },
+  {
+    "subject": "Associates",
+    "predicate": "develop",
+    "object": "foundational skills essential to consulting and strategic problem-solving"
+  },
+  {
+    "subject": "Kunal Patil",
+    "predicate": "role",
+    "object": "President"
+  },
+  {
+    "subject": "Sumanth Javvaji",
+    "predicate": "role",
+    "object": "President"
+  },
+  {
+    "subject": "Gaurav Sharma",
+    "predicate": "role",
+    "object": "President"
+  },
+  {
+    "subject": "Saurabh Chavan",
+    "predicate": "role",
+    "object": "President"
+  },
+  {
+    "subject": "Kunal Patil",
+    "predicate": "term",
+    "object": "2024-2025"
+  },
+  {
+    "subject": "Sumanth Javvaji",
+    "predicate": "term",
+    "object": "2024-2025"
+  },
+  {
+    "subject": "Gaurav Sharma",
+    "predicate": "term",
+    "object": "2024-2025"
+  },
+  {
+    "subject": "Saurabh Chavan",
+    "predicate": "term",
+    "object": "2024-2025"
+  },
+  {
+    "subject": "Aarya Majali",
+    "predicate": "is",
+    "object": "President (2025-2026)"
+  },
+  {
+    "subject": "Parth Khose",
+    "predicate": "is",
+    "object": "President (2025-2026)"
+  },
+  {
+    "subject": "Reyansh Jain",
+    "predicate": "is",
+    "object": "President (2025-2026)"
+  },
+  {
+    "subject": "Sarthak Yadav",
+    "predicate": "is",
+    "object": "President (2025-2026)"
+  },
+  {
+    "subject": "Subhayu Paul",
+    "predicate": "is",
+    "object": "President (2025-2026)"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "undertakes",
+    "object": "consulting-focused projects"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "highlight",
+    "object": "SHARE's core strengths in strategic thinking and problem-solving"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "typically involve",
+    "object": "market research"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "typically involve",
+    "object": "competitor analysis"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "typically involve",
+    "object": "business model development"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "typically involve",
+    "object": "pricing strategies"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "typically involve",
+    "object": "go-to-market planning"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "may include",
+    "object": "strategies for market entry or geographic expansion"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "may include",
+    "object": "analyzing customer insights to optimize pricing"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "may include",
+    "object": "developing investor-ready pitch decks"
+  },
+  {
+    "subject": "SHARE's projects",
+    "predicate": "may include",
+    "object": "conducting data-driven analysis"
+  },
+  {
+    "subject": "conducting data-driven analysis",
+    "predicate": "generates",
+    "object": "actionable recommendations"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "collaborates with",
+    "object": "startups"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "collaborates with",
+    "object": "companies"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "collaborates with",
+    "object": "other external partners"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "delivers",
+    "object": "high-impact, practical solutions"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "provides",
+    "object": "valuable, real-world consulting experience to its members"
+  },
+  {
+    "subject": "SHARE's past collaborations",
+    "predicate": "have spanned",
+    "object": "various industries"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Vivaldis"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Money Club"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Incubate Funds"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Runway"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Gram Vikas Trust"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Bosch-SDEX"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Fluxgen"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Culture OS"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Amazon-Smartbiz"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "Trezix"
+  },
+  {
+    "subject": "SHARE",
+    "predicate": "has collaborated with",
+    "object": "CineStox"
+  },
+  {
+    "subject": "share-iitkgp.com",
+    "predicate": "has_url",
+    "object": "https://share-iitkgp.com/home"
+  },
+  {
+    "subject": "Share-IIT-Kharagpur",
+    "predicate": "has_linkedin_url",
+    "object": "https://www.linkedin.com/company/share-iit-kharagpur/"
+  },
+  {
+    "subject": "share_iitkgp",
+    "predicate": "has_instagram_url",
+    "object": "https://www.instagram.com/share_iitkgp"
+  }
+]

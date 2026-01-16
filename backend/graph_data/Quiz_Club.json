@@ -1,0 +1,722 @@
+[
+  {
+    "subject": "Quiz Club",
+    "predicate": "has activity",
+    "object": "Quiz Sessions"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "has activity",
+    "object": "InterIIT Quiz Camp"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "membership type",
+    "object": "Open society"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "has Instagram",
+    "object": "https://www.instagram.com/iitkgp.qc"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "has Facebook",
+    "object": "https://www.facebook.com/iitkgp.quizclub/"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "is under",
+    "object": "TSG"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "is",
+    "object": "official quiz society of IIT Kharagpur"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "is",
+    "object": "open society"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "does not require",
+    "object": "exclusive membership"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "organises",
+    "object": "regular quiz sessions"
+  },
+  {
+    "subject": "regular quiz sessions",
+    "predicate": "are held at",
+    "object": "Yoga Room (1st floor) in Gymkhana"
+  },
+  {
+    "subject": "regular quiz sessions",
+    "predicate": "are held at",
+    "object": "10 PM"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "circulates information via",
+    "object": "facebook page"
+  },
+  {
+    "subject": "Students",
+    "predicate": "participate in",
+    "object": "Inter IIT Tech Meet"
+  },
+  {
+    "subject": "Students",
+    "predicate": "participate in",
+    "object": "Inter IIT Cultural Meet"
+  },
+  {
+    "subject": "Students",
+    "predicate": "participate in",
+    "object": "Nihilanth"
+  },
+  {
+    "subject": "Students",
+    "predicate": "participate in",
+    "object": "Tata Crucible Biz Quiz"
+  },
+  {
+    "subject": "Students",
+    "predicate": "participate in",
+    "object": "TAPMI QoTB"
+  },
+  {
+    "subject": "Students",
+    "predicate": "participate in",
+    "object": "DDM IT Quiz"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "has exploits in",
+    "object": "various quizzes all over India"
+  },
+  {
+    "subject": "Quiz Club's exploits",
+    "predicate": "garnered",
+    "object": "respect in the Kolkata quizzing circuit"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "formally started on",
+    "object": "14th March 2004"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "reached new heights under the leadership of",
+    "object": "various governors"
+  },
+  {
+    "subject": "quiz club",
+    "predicate": "welcomes",
+    "object": "freshers"
+  },
+  {
+    "subject": "quiz club",
+    "predicate": "encourages",
+    "object": "young minds to pursue their interests in quizzing"
+  },
+  {
+    "subject": "freshers",
+    "predicate": "come together in teams",
+    "object": "to win prizes"
+  },
+  {
+    "subject": "Open IIT Quiz",
+    "predicate": "is an event of",
+    "object": "great importance in our quizzing calendar"
+  },
+  {
+    "subject": "Open IIT Quiz",
+    "predicate": "has",
+    "object": "great turnout"
+  },
+  {
+    "subject": "participants",
+    "predicate": "indulge in",
+    "object": "intense quizzing"
+  },
+  {
+    "subject": "participants",
+    "predicate": "take home",
+    "object": "the prize"
+  },
+  {
+    "subject": "Past governors and eminent quizmasters",
+    "predicate": "are invited to host",
+    "object": "the event"
+  },
+  {
+    "subject": "Open IIT Quiz",
+    "predicate": "has been",
+    "object": "a great success in recent years"
+  },
+  {
+    "subject": "General Championship quizzes",
+    "predicate": "are",
+    "object": "important events"
+  },
+  {
+    "subject": "Biz, Sci-Tech and General quizzes",
+    "predicate": "constitute",
+    "object": "a good number of points"
+  },
+  {
+    "subject": "halls",
+    "predicate": "battle to come out on the top",
+    "object": "Biz, Sci-Tech and General quizzes"
+  },
+  {
+    "subject": "Major Chandrakant Nair",
+    "predicate": "was",
+    "object": "quiz master for 2018"
+  },
+  {
+    "subject": "Major Chandrakant Nair",
+    "predicate": "commented",
+    "object": "enthusiasm for Inter-hall competitions is very enthusing"
+  },
+  {
+    "subject": "Samanway Banerjee",
+    "predicate": "was",
+    "object": "quizmaster for Biz and Sci-Tech quizzes in 2019"
+  },
+  {
+    "subject": "Baneswar Sarker",
+    "predicate": "was",
+    "object": "quizmaster for General quiz in 2019"
+  },
+  {
+    "subject": "Arindam Dutta",
+    "predicate": "was",
+    "object": "quizmaster for General quiz in 2019"
+  },
+  {
+    "subject": "Quiz Club",
+    "predicate": "hosted",
+    "object": "Quiz Week"
+  },
+  {
+    "subject": "Quiz Week",
+    "predicate": "has in array",
+    "object": "8 quizzes"
+  },
+  {
+    "subject": "Quiz Week",
+    "predicate": "held exclusively for",
+    "object": "women participants"
+  },
+  {
+    "subject": "Quiz Week",
+    "predicate": "took place on",
+    "object": "International Women's Day"
+  },
+  {
+    "subject": "Participation",
+    "predicate": "was open to",
+    "object": "all"
+  },
+  {
+    "subject": "Quiz Week",
+    "predicate": "was",
+    "object": "huge success"
+  },
+  {
+    "subject": "Devika Narayanan",
+    "predicate": "is a governor",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Mihir Shrivastava",
+    "predicate": "is a governor",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Yashashvi Srivastava",
+    "predicate": "is a governor",
+    "object": "2022-23"
+  },
+  {
+    "subject": "Anshuman Agarwal",
+    "predicate": "is a governor",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Girish Suranje",
+    "predicate": "is a governor",
+    "object": "2021-22"
+  },
+  {
+    "subject": "Piyush Kedia",
+    "predicate": "is a governor",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Deepanshu Sinha",
+    "predicate": "is a governor",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Kaustav Mandal",
+    "predicate": "is a governor",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Abhimanyu Bharade",
+    "predicate": "is a governor",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Shubham",
+    "predicate": "is a governor",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Baibhab Pattnaik",
+    "predicate": "is a governor",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Mohit Tulsyan",
+    "predicate": "is a governor",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Amit Kumar Ram",
+    "predicate": "is a governor",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Harsh Agarwal",
+    "predicate": "is a governor",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Ashutosh Dwivedi",
+    "predicate": "is a governor",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Mayank Roy",
+    "predicate": "is a governor",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Arkopal Datta",
+    "predicate": "is a governor",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Naman Mitruka",
+    "predicate": "is a governor",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Shashank Kuchibothla",
+    "predicate": "is a governor",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Arijit Patra",
+    "predicate": "is a governor",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Digant Pandey",
+    "predicate": "is a governor",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Saumaric Dangwal",
+    "predicate": "is a governor",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Arman Sharma",
+    "predicate": "is a governor",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Ratan Rahul",
+    "predicate": "is a governor",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Somashish Ghosh",
+    "predicate": "is a governor",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Ajay Viswanathan",
+    "predicate": "is a governor",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Keshav Vats",
+    "predicate": "is a governor",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Yogarishi Vyas",
+    "predicate": "is a governor",
+    "object": "2013-14"
+  },
+  {
+    "subject": "Piyush Kedia, Shubham, Ashutosh Dwivedi",
+    "predicate": "won",
+    "object": "Silver at Inter IIT Cultural Meet India Quiz 2017"
+  },
+  {
+    "subject": "Amit Kumar Ram, Baibhab Pattnaik, Piyush Kedia",
+    "predicate": "won",
+    "object": "Silver at Inter IIT Cultural Meet MELA Quiz 2017"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Deepanshu Sinha, Piyush Kedia",
+    "predicate": "won",
+    "object": "Bronze at Inter IIT Cultural Meet Sports Quiz 2017"
+  },
+  {
+    "subject": "Shubham, Abhimanyu Bharade, Piyush Kedia",
+    "predicate": "won",
+    "object": "Gold at Inter IIT Cultural Meet General Quiz 2017"
+  },
+  {
+    "subject": "Shubham, Harsh Agarwal",
+    "predicate": "won",
+    "object": "Regional Finalist at Tata Crucible Campus Quiz Biz Quiz 2017"
+  },
+  {
+    "subject": "Piyush Kedia, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Semifinalists and Regional winners at Quiz on The Beach Biz Quiz 2018"
+  },
+  {
+    "subject": "Harsh Agarwal, Baibhab Pattnaik, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Gold at Nihilanth India Quiz 2018"
+  },
+  {
+    "subject": "Ashutosh Dwivedi, Baibhab Pattnaik, Piyush Kedia",
+    "predicate": "won",
+    "object": "Bronze at Gyandhara General U-25 Quiz 2018"
+  },
+  {
+    "subject": "Ashutosh Dwivedi, Piyush Kedia",
+    "predicate": "won",
+    "object": "Gold at Quiz General Quiz at KPC Medical College 2018"
+  },
+  {
+    "subject": "Ashutosh Dwivedi, Baibhab Pattnaik, Amit Kumar Ram",
+    "predicate": "won",
+    "object": "Gold at Convolution General Quiz 2018"
+  },
+  {
+    "subject": "Ashutosh Dwivedi, Mayank Roy, Amit Kumar Ram",
+    "predicate": "won",
+    "object": "Silver at Heritage quiz festival General Quiz 2018"
+  },
+  {
+    "subject": "Piyush Kedia, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Silver at Bizzathlon Biz Quiz 2018"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia",
+    "predicate": "won",
+    "object": "Regional Finalist at Tata Crucible Campus Quiz Biz Quiz 2018"
+  },
+  {
+    "subject": "Harsh Agarwal, Shubham, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Gold at GES IIT Kgp Biz-Tech Quiz 2018"
+  },
+  {
+    "subject": "Rupam Kumar Dubey, Harsha Vattem",
+    "predicate": "won",
+    "object": "Bronze at GES IIT Kgp Biz-Tech Quiz 2018"
+  },
+  {
+    "subject": "Amit Kumar Ram, Piyush Kedia",
+    "predicate": "won",
+    "object": "Gold at Quizzario, VGSoM General Quiz 2018"
+  },
+  {
+    "subject": "Shubham Kumar, Venkatesh Jaiswal",
+    "predicate": "won",
+    "object": "Bronze at Quizzario, VGSoM General Quiz 2018"
+  },
+  {
+    "subject": "Venkatesh Jaiswal, Piyush Kedia",
+    "predicate": "won",
+    "object": "Gold at Spectrum General Quiz 2018"
+  },
+  {
+    "subject": "Shubham Kumar, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Gold at Quizzomania, Impulse IIT Kgp General Quiz 2018"
+  },
+  {
+    "subject": "Piyush Kedia, Mohit Tulsyan",
+    "predicate": "won",
+    "object": "Silver at Quizzomania, Impulse IIT Kgp General Quiz 2018"
+  },
+  {
+    "subject": "Mohit Tulsyan, Mayank Roy, Bhutwala Raj, Sourav Kundu",
+    "predicate": "won",
+    "object": "Gold at COMPOSIT Tech Quiz 2018"
+  },
+  {
+    "subject": "Piyush Kedia, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Silver at COMPOSIT Tech Quiz 2018"
+  },
+  {
+    "subject": "Kaniska Ghosh, Shubham Mitra, Agnimitra Anand, Sourav Chirania",
+    "predicate": "won",
+    "object": "Gold at MEGALITH General Quiz 2018"
+  },
+  {
+    "subject": "Piyush Kedia, Harsh Agarwal",
+    "predicate": "won",
+    "object": "Silver at MEGALITH General Quiz 2018"
+  },
+  {
+    "subject": "Ashutosh Dwivedi, Mayank Roy, Baibhab Pattnaik, Amit Kumar Ram",
+    "predicate": "won",
+    "object": "Bronze at MEGALITH General Quiz 2018"
+  },
+  {
+    "subject": "Kaustav Mandal, Rupam Kumar Dubey",
+    "predicate": "won",
+    "object": "Silver at Wipro Quiz, Spring Fest Environment Quiz 2018"
+  },
+  {
+    "subject": "Piyush Kedia, Harsh Agarwal, Shubham Kumar, Abhimanyu Bharade, Abhinav Jha",
+    "predicate": "won",
+    "object": "Gold at Kshitij Biz Quiz 2018"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia, Bhutwala Raj",
+    "predicate": "won",
+    "object": "Bronze at Rendezvous Sci-Tech 2018"
+  },
+  {
+    "subject": "Amit Kumar Ram, Baibhab Pattnaik, MIhir Shrivastava",
+    "predicate": "won",
+    "object": "Gold at NSSC Space Quiz 2018"
+  },
+  {
+    "subject": "Hemansh Kashyap, Deepanshu Sinha, Kaustav Mandal",
+    "predicate": "won",
+    "object": "Silver at NSSC Space Quiz 2018"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia",
+    "predicate": "won",
+    "object": "Bronze at NSSC Space Quiz 2018"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia, Shubham Kumar",
+    "predicate": "won",
+    "object": "Silver at Inter IIT Cultural Meet Sci-Tech Quiz 2018"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia, Deepanshu Sinha",
+    "predicate": "won",
+    "object": "Silver at Inter IIT Cultural Meet Sports Quiz 2018"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia, Shubham Kumar",
+    "predicate": "won",
+    "object": "Gold at Inter IIT Cultural Meet Biz Quiz 2018"
+  },
+  {
+    "subject": "Deepanshu Sinha, Piyush Kedia, Shubham Kumar",
+    "predicate": "won",
+    "object": "Gold at Inter IIT Cultural Meet India Quiz 2018"
+  },
+  {
+    "subject": "Baibhab Pattnaik, Amit Kumar Ram, Piyush Kedia",
+    "predicate": "won",
+    "object": "Bronze at Inter IIT Cultural Meet MELA Quiz 2018"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia, Shubham Kumar",
+    "predicate": "won",
+    "object": "Gold at Inter IIT Cultural Meet General Quiz 2018"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia, Shubham Kumar",
+    "predicate": "won",
+    "object": "Bronze at Nihilanth Sci-Tech Quiz 2019"
+  },
+  {
+    "subject": "Harsh Agarwal, Shubham Kumar, Piyush Kedia",
+    "predicate": "won",
+    "object": "Gold at Nihilanth India Quiz 2019"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Piyush Kedia, Shubham Kumar",
+    "predicate": "won",
+    "object": "Gold at Nihilanth Biz Quiz 2019"
+  },
+  {
+    "subject": "Hemansh Kashyap, Mihir Shrivastava, Shubham Kumar",
+    "predicate": "won",
+    "object": "Bronze at Nihilanth MELA Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Deepanshu Sinha, Kaniska Ghosh",
+    "predicate": "won",
+    "object": "Bronze at Nihilanth Sports Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia",
+    "predicate": "won",
+    "object": "Bronze at Nihilanth Lone-Wolf Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Regional WInners at Quiz on The Beach Biz Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Rupam Kumar Dubey",
+    "predicate": "won",
+    "object": "Winners (Kolkata Round) at Tata Crucible Campus Quiz Biz Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Rupam Kumar Dubey, Girish Suranje",
+    "predicate": "won",
+    "object": "Runners up (Patna Round) at SBI Numero Yono Biz Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Abhimanyu Bharade, Shubham Kumar",
+    "predicate": "won",
+    "object": "Gold at QvicQvid General U-25 Quiz 2019"
+  },
+  {
+    "subject": "Mihir Shrivastava, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Bronze at QvicQvid Food, Flags and Travel Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Deepanshu Sinha, Amit Kumar Ram",
+    "predicate": "won",
+    "object": "Gold at Kolkata Quiz Festival College General Quiz 2018-19"
+  },
+  {
+    "subject": "Piyush Kedia, Rupam Kumar Dubey",
+    "predicate": "won",
+    "object": "Bronze at Catechyst Biz-Tech Quiz 2018-19"
+  },
+  {
+    "subject": "Amit Kumar Ram, Baibhab Pattnaik, Bhutwala Raj, Mihir Shrivastava",
+    "predicate": "won",
+    "object": "Silver at Spring Fest SpEnt Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Gold at Spring Fest SpEnt Quiz 2019"
+  },
+  {
+    "subject": "Amit Kumar Ram, Baibhab Pattnaik, Sourav Kundu, Mihir Shrivastava",
+    "predicate": "won",
+    "object": "Silver at Spring Fest Biz-Tech Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Abhimanyu Bharade, Bhutwala Raj",
+    "predicate": "won",
+    "object": "Gold at Spring Fest Biz-Tech Quiz 2019"
+  },
+  {
+    "subject": "Amit Kumar Ram, Baibhab Pattnaik, Sourav Kundu, Mihir Shrivastava",
+    "predicate": "won",
+    "object": "Silver at Mary Bucknell Trophy, Spring Fest General Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Abhimanyu Bharade",
+    "predicate": "won",
+    "object": "Gold at Mary Bucknell Trophy, Spring Fest General Quiz 2019"
+  },
+  {
+    "subject": "Baibhab Pattnaik, Shubham Kumar",
+    "predicate": "won",
+    "object": "Bronze at XLRI Ensemble Valhalla General Quiz 2018-19"
+  },
+  {
+    "subject": "Baibhab Pattnaik, Shubham Kumar",
+    "predicate": "won",
+    "object": "Silver at XLRI Ensemble Valhalla SpEnt Quiz 2018-19"
+  },
+  {
+    "subject": "Piyush Kedia, Deepanshu Sinha, Venkatesh Jaiswal",
+    "predicate": "won",
+    "object": "Bronze at Quiz Bollywood Quiz 2018-19"
+  },
+  {
+    "subject": "Avi Sankritya, Abhinav Japesh, Somnath Jena",
+    "predicate": "won",
+    "object": "Gold at Quarks General Quiz 2019"
+  },
+  {
+    "subject": "Piyush Kedia, Rupam Kumar Dubey",
+    "predicate": "won",
+    "object": "Gold at Pantheon Biz-Tech 2018-19"
+  },
+  {
+    "subject": "Amit Kumar Ram, Agnimitra Anand, Girish Suranje",
+    "predicate": "won",
+    "object": "Gold at Carpe Diem General Quiz 2019"
+  },
+  {
+    "subject": "Hemansh Kashyap, Deepanshu Sinha, Sourav Kundu",
+    "predicate": "won",
+    "object": "Silver at Carpe Diem General Quiz 2019"
+  },
+  {
+    "subject": "Kaustav Mandal, Rupam Kumar Dubey, Harsha Vattem",
+    "predicate": "won",
+    "object": "Bronze at Carpe Diem General Quiz 2019"
+  },
+  {
+    "subject": "Venkatesh Jaiswal, Shubham Kumar",
+    "predicate": "won",
+    "object": "Silver at Quizzario, VGSoM General Quiz 2019"
+  },
+  {
+    "subject": "Baibhab Pattnaik, MIhir Shrivastava",
+    "predicate": "won",
+    "object": "Gold at Quizzario, VGSoM General Quiz 2019"
+  },
+  {
+    "subject": "Abhimanyu Bharade, Shubham Kumar",
+    "predicate": "won",
+    "object": "Gold at MEGALITH General Quiz 2019"
+  },
+  {
+    "subject": "Kaniska Ghosh, Hemansh Kashyap, Girish Suranje, Agnimitra Anand",
+    "predicate": "won",
+    "object": "Silver at MEGALITH General Quiz 2019"
+  },
+  {
+    "subject": "Amit Kumar Ram, Girish Suranje",
+    "predicate": "won",
+    "object": "Gold at Quizzomania, Impulse General Quiz 2019"
+  },
+  {
+    "subject": "Kaustav Mandal, Kaniska Ghosh",
+    "predicate": "won",
+    "object": "Silver at Quizzomania, Impulse General Quiz 2019"
+  }
+]

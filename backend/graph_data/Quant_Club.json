@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Quant Club",
+    "predicate": "has activity",
+    "object": "Quantitative Finance"
+  },
+  {
+    "subject": "Quant Club",
+    "predicate": "founded in",
+    "object": "2019"
+  },
+  {
+    "subject": "Quant Club",
+    "predicate": "founded by",
+    "object": "Krishnam Kapoor"
+  },
+  {
+    "subject": "Quant Club",
+    "predicate": "has website",
+    "object": "acakshay.netlify.app/quantclub/"
+  },
+  {
+    "subject": "Quant Club",
+    "predicate": "under TSG",
+    "object": "No"
+  },
+  {
+    "subject": "Quant Club, IIT Kharagpur",
+    "predicate": "is",
+    "object": "an initiative for Quantitative Finance"
+  },
+  {
+    "subject": "Quant Club, IIT Kharagpur",
+    "predicate": "is by",
+    "object": "group of Quant enthusiast students"
+  },
+  {
+    "subject": "The nature of work done at Quant Club",
+    "predicate": "requires",
+    "object": "perfect blending of Mathematics, Finance & Computational skills"
+  },
+  {
+    "subject": "Quantitative analysts or \"Quants\"",
+    "predicate": "design and implement",
+    "object": "complex mathematical models"
+  },
+  {
+    "subject": "complex mathematical models",
+    "predicate": "allow",
+    "object": "financial firms to price and trade securities"
+  }
+]

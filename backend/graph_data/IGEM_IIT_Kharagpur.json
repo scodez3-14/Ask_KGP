@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "iGEM IIT Kharagpur",
+    "predicate": "is a contingent from",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "iGEM IIT Kharagpur",
+    "predicate": "participates in",
+    "object": "International Genetically Engineered Machine (iGEM) competition"
+  },
+  {
+    "subject": "International Genetically Engineered Machine (iGEM) competition",
+    "predicate": "is organized by",
+    "object": "Massachusetts Institute of Technology (MIT)"
+  },
+  {
+    "subject": "Massachusetts Institute of Technology (MIT)",
+    "predicate": "is located in",
+    "object": "Boston, USA"
+  },
+  {
+    "subject": "iGEM IIT Kharagpur",
+    "predicate": "made its maiden participation in",
+    "object": "iGEM 2015"
+  },
+  {
+    "subject": "iGEM 2015",
+    "predicate": "took place in",
+    "object": "September"
+  },
+  {
+    "subject": "iGEM IIT Kharagpur's project",
+    "predicate": "was sponsored by",
+    "object": "Dean of Alumni Affairs and SRIC"
+  },
+  {
+    "subject": "iGEM IIT Kharagpur's project",
+    "predicate": "was partially supported by",
+    "object": "ABT"
+  },
+  {
+    "subject": "iGEM IIT Kharagpur's project",
+    "predicate": "was partially supported by",
+    "object": "Department of Biotechnology"
+  },
+  {
+    "subject": "Department of Biotechnology (DBT), India",
+    "predicate": "awarded",
+    "object": "research and travel funding"
+  },
+  {
+    "subject": "research and travel funding",
+    "predicate": "awarded for",
+    "object": "project idea"
+  },
+  {
+    "subject": "project idea",
+    "predicate": "participated in",
+    "object": "2016"
+  },
+  {
+    "subject": "The team",
+    "predicate": "consists of",
+    "object": "17 undergraduates"
+  },
+  {
+    "subject": "The team",
+    "predicate": "consists of",
+    "object": "17 undergraduates from the Department of Biotechnology"
+  },
+  {
+    "subject": "The team",
+    "predicate": "is under the supervision of",
+    "object": "Dr. Agneyo Ganguly"
+  },
+  {
+    "subject": "An official team introduction video",
+    "predicate": "can be found on",
+    "object": "YouTube"
+  },
+  {
+    "subject": "IIT-KGPIANS",
+    "predicate": "entered",
+    "object": "iGEM"
+  },
+  {
+    "subject": "IIT-KGPIANS",
+    "predicate": "addressed",
+    "object": "food spoilage"
+  },
+  {
+    "subject": "Team IIT Kharagpur",
+    "predicate": "is",
+    "object": "iGEM team"
+  },
+  {
+    "subject": "IIT Kharagpur students",
+    "predicate": "prepared",
+    "object": "bacteria that can predetect spoiled food"
+  },
+  {
+    "subject": "bacteria",
+    "predicate": "can predetect",
+    "object": "spoiled food"
+  },
+  {
+    "subject": "iGEM IIT Kharagpur",
+    "predicate": "has",
+    "object": "Facebook page"
+  },
+  {
+    "subject": "iGEM IIT Kharagpur",
+    "predicate": "has",
+    "object": "Official YouTube channel"
+  },
+  {
+    "subject": "iGEM IIT Kharagpur",
+    "predicate": "has",
+    "object": "Twitter account"
+  }
+]

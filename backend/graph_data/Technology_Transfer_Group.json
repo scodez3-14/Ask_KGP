@@ -1,0 +1,162 @@
+[
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "is",
+    "object": "students' initiative"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "founded by",
+    "object": "Prof. Partha Pratim Chakroborty"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "under aegis of",
+    "object": "Sponsored Research & Industrial Consultancy"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "believes in potential of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "acts as link between",
+    "object": "industry and academia"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "facilitates transfer of",
+    "object": "industry ready technologies"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "presents",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "IIT Kharagpur",
+    "predicate": "is",
+    "object": "premier Research & Development centre"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "provides",
+    "object": "one-stop portal"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "launched in",
+    "object": "2018"
+  },
+  {
+    "subject": "Technology Transfer Group (TTG)",
+    "predicate": "in association with",
+    "object": "SRIC"
+  },
+  {
+    "subject": "TTG",
+    "predicate": "launched",
+    "object": "UG Portal"
+  },
+  {
+    "subject": "UG Portal",
+    "predicate": "fosters involvement of",
+    "object": "UG students"
+  },
+  {
+    "subject": "UG Portal",
+    "predicate": "in",
+    "object": "research"
+  },
+  {
+    "subject": "Dhiraj Meshram",
+    "predicate": "is contact for",
+    "object": "Technology Transfer Group (TTG)"
+  },
+  {
+    "subject": "Himesh Kothari",
+    "predicate": "is contact for",
+    "object": "Technology Transfer Group (TTG)"
+  },
+  {
+    "subject": "Tejas Ambhore",
+    "predicate": "is contact for",
+    "object": "Technology Transfer Group (TTG)"
+  },
+  {
+    "subject": "Yash Jadhav",
+    "predicate": "is contact for",
+    "object": "Technology Transfer Group (TTG)"
+  },
+  {
+    "subject": "Gayatriamulya Viswanathan",
+    "predicate": "is contact for",
+    "object": "Technology Transfer Group (TTG)"
+  },
+  {
+    "subject": "Lavesh Kasodekar",
+    "predicate": "is contact for",
+    "object": "Technology Transfer Group (TTG)"
+  },
+  {
+    "subject": "Patent Drive 2016-17",
+    "predicate": "is an event",
+    "object": "Patent Drive"
+  },
+  {
+    "subject": "Sponsored Research and Industrial Consultancy",
+    "predicate": "is a service offered at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Consultancy Services Offered at IIT Kharagpur",
+    "predicate": "is an event at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "TTG Team",
+    "predicate": "participated in",
+    "object": "International Engineering and Technology Fair (IETF)-2017"
+  },
+  {
+    "subject": "Geographical Indications (GI) Drive 2016",
+    "predicate": "is an event",
+    "object": "Geographical Indications"
+  },
+  {
+    "subject": "100 Days 100 Patents Drive 2012",
+    "predicate": "is an event",
+    "object": "Patents Drive"
+  },
+  {
+    "subject": "IndAc 2011",
+    "predicate": "is an event",
+    "object": "Industrial Academic"
+  },
+  {
+    "subject": "Technology Transfer Group, IIT Kharagpur",
+    "predicate": "is part of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "IPR & IR, IIT Kharagpur",
+    "predicate": "is part of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Patent Drive 2016-17",
+    "predicate": "is hosted by",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Technology Transfer Group, IIT Kharagpur",
+    "predicate": "is related to",
+    "object": "IPR & IR, IIT Kharagpur"
+  },
+  {
+    "subject": "IPR & IR, IIT Kharagpur",
+    "predicate": "is related to",
+    "object": "Patent Drive 2016-17"
+  }
+]

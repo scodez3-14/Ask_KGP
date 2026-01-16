@@ -1,0 +1,1282 @@
+[
+  {
+    "subject": "TeamKART",
+    "predicate": "is a group of",
+    "object": "students"
+  },
+  {
+    "subject": "students",
+    "predicate": "are from",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "likes to explore",
+    "object": "the practical side of automobile engineering"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "is a sponsored research project under",
+    "object": "Sponsored Research and Industrial Consultancy Cell (SRIC)"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "is a sponsored research project under",
+    "object": "Department of Mechanical Engineering"
+  },
+  {
+    "subject": "Department of Mechanical Engineering",
+    "predicate": "is at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "designs, manufactures and tests",
+    "object": "Formula style prototype, single-seat race cars"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "represents",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "competes in",
+    "object": "national and international Formula Student competitions"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "competes in",
+    "object": "Formula Student, UK"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "competes in",
+    "object": "Formula Bharat"
+  },
+  {
+    "subject": "the group",
+    "predicate": "has purpose",
+    "object": "to develop formula student race cars"
+  },
+  {
+    "subject": "Formula Student",
+    "predicate": "is",
+    "object": "a student-level engineering competition"
+  },
+  {
+    "subject": "Formula Student",
+    "predicate": "gives students",
+    "object": "a great learning experience"
+  },
+  {
+    "subject": "the learning experience",
+    "predicate": "covers",
+    "object": "all domains of engineering industry"
+  },
+  {
+    "subject": "the journey of each new car",
+    "predicate": "begins with",
+    "object": "its design"
+  },
+  {
+    "subject": "the design",
+    "predicate": "involves application of",
+    "object": "classroom knowledge in actual engineering problems"
+  },
+  {
+    "subject": "the design",
+    "predicate": "is achieved through",
+    "object": "modelling, simulation and experimentation"
+  },
+  {
+    "subject": "the next challenge",
+    "predicate": "is to",
+    "object": "bring this design to reality"
+  },
+  {
+    "subject": "bringing design to reality",
+    "predicate": "involves checking",
+    "object": "the feasibility of various designs"
+  },
+  {
+    "subject": "bringing design to reality",
+    "predicate": "involves fabricating",
+    "object": "different parts of the car"
+  },
+  {
+    "subject": "bringing design to reality",
+    "predicate": "involves assembling",
+    "object": "parts to the final stage"
+  },
+  {
+    "subject": "the last phase",
+    "predicate": "involves",
+    "object": "testing and tuning the systems of the car"
+  },
+  {
+    "subject": "the last phase",
+    "predicate": "aims to",
+    "object": "rectify problems and achieve set targets"
+  },
+  {
+    "subject": "Supporting aspects",
+    "predicate": "include",
+    "object": "project management, cost planning, sponsorship and public relations"
+  },
+  {
+    "subject": "Effective project management",
+    "predicate": "ensures",
+    "object": "the entire production of the car gets completed on time"
+  },
+  {
+    "subject": "Careful financial planning",
+    "predicate": "ensures",
+    "object": "the best utilization of team's resources"
+  },
+  {
+    "subject": "Sponsorships",
+    "predicate": "are acquired from",
+    "object": "various industry partners"
+  },
+  {
+    "subject": "Sponsorships",
+    "predicate": "develop",
+    "object": "the team's resource pool"
+  },
+  {
+    "subject": "Good public relations",
+    "predicate": "are maintained with",
+    "object": "various industry partners of the team and the team's supporters"
+  },
+  {
+    "subject": "Good public relations",
+    "predicate": "are maintained through",
+    "object": "meetings, social media and public events"
+  },
+  {
+    "subject": "The team",
+    "predicate": "develops",
+    "object": "a complete business plan"
+  },
+  {
+    "subject": "The business plan",
+    "predicate": "is for",
+    "object": "launching the car as a product in the market"
+  },
+  {
+    "subject": "Developing the business plan",
+    "predicate": "involves performing",
+    "object": "an in-depth case study"
+  },
+  {
+    "subject": "Developing the business plan",
+    "predicate": "involves presenting a plan on",
+    "object": "business strategy, finance, production and marketing"
+  },
+  {
+    "subject": "The activities of the group",
+    "predicate": "provide",
+    "object": "an all-round experience for its members"
+  },
+  {
+    "subject": "The activities",
+    "predicate": "help members to build",
+    "object": "a great skill set"
+  },
+  {
+    "subject": "The members",
+    "predicate": "are part of",
+    "object": "a team representing the institute"
+  },
+  {
+    "subject": "The team",
+    "predicate": "represents the institute at",
+    "object": "an international level"
+  },
+  {
+    "subject": "foundation",
+    "predicate": "was laid in",
+    "object": "2008"
+  },
+  {
+    "subject": "foundation",
+    "predicate": "was outcome of efforts of",
+    "object": "founding members and faculty advisers"
+  },
+  {
+    "subject": "team",
+    "predicate": "took solid form with support of",
+    "object": "Prof. PP Chakraborty"
+  },
+  {
+    "subject": "team",
+    "predicate": "took solid form with support of",
+    "object": "Prof. Sunando Dasgupta"
+  },
+  {
+    "subject": "Prof. PP Chakraborty",
+    "predicate": "was Former Director of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Prof. Sunando Dasgupta",
+    "predicate": "was present Dean SRIC of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Sidhartha Khastgir",
+    "predicate": "became first Team Leader of",
+    "object": "team"
+  },
+  {
+    "subject": "team",
+    "predicate": "grew to become largest student project of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "team",
+    "predicate": "encompassed around",
+    "object": "70 students"
+  },
+  {
+    "subject": "team",
+    "predicate": "encompassed from",
+    "object": "10 different departments"
+  },
+  {
+    "subject": "Ganesh Kumar M.",
+    "predicate": "became second team leader of",
+    "object": "team"
+  },
+  {
+    "subject": "Ganesh Kumar M.",
+    "predicate": "held responsibility for",
+    "object": "three years"
+  },
+  {
+    "subject": "Ganesh Kumar M.",
+    "predicate": "oversaw development of",
+    "object": "K-1 and K-2"
+  },
+  {
+    "subject": "team",
+    "predicate": "has successfully made",
+    "object": "five cars"
+  },
+  {
+    "subject": "team",
+    "predicate": "has successfully made cars: KX-1, K-1, K-2, K-3, K-4",
+    "object": "KX-1"
+  },
+  {
+    "subject": "team",
+    "predicate": "has successfully made cars: KX-1, K-1, K-2, K-3, K-4",
+    "object": "K-1"
+  },
+  {
+    "subject": "team",
+    "predicate": "has successfully made cars: KX-1, K-1, K-2, K-3, K-4",
+    "object": "K-2"
+  },
+  {
+    "subject": "team",
+    "predicate": "has successfully made cars: KX-1, K-1, K-2, K-3, K-4",
+    "object": "K-3"
+  },
+  {
+    "subject": "team",
+    "predicate": "has successfully made cars: KX-1, K-1, K-2, K-3, K-4",
+    "object": "K-4"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "competed at",
+    "object": "Formula Student UK 2013"
+  },
+  {
+    "subject": "design oversights in K2",
+    "predicate": "were fixed in",
+    "object": "K-2.2"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "was new chassis and intake-exhaust system",
+    "object": "K-2.2"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "competed at",
+    "object": "Formula Design Challenge 2015 (FSI 15)"
+  },
+  {
+    "subject": "Formula Student",
+    "predicate": "is run by",
+    "object": "Institution of Mechanical Engineers (IMechE)"
+  },
+  {
+    "subject": "Universities",
+    "predicate": "are challenged to",
+    "object": "design and build a single-seat racing car"
+  },
+  {
+    "subject": "single-seat racing car",
+    "predicate": "competes in",
+    "object": "static and dynamic events"
+  },
+  {
+    "subject": "static and dynamic events",
+    "predicate": "demonstrate",
+    "object": "understanding of the students"
+  },
+  {
+    "subject": "static and dynamic events",
+    "predicate": "test",
+    "object": "performance of the vehicle"
+  },
+  {
+    "subject": "format of the event",
+    "predicate": "provides",
+    "object": "ideal opportunity for students to demonstrate and improve capabilities"
+  },
+  {
+    "subject": "Formula Bharat",
+    "predicate": "is",
+    "object": "engineering design competition"
+  },
+  {
+    "subject": "Formula Bharat",
+    "predicate": "involves",
+    "object": "colleges and universities all over India"
+  },
+  {
+    "subject": "Formula Bharat",
+    "predicate": "competes with",
+    "object": "life-size Formula-style vehicle"
+  },
+  {
+    "subject": "Formula Bharat",
+    "predicate": "competes in areas of",
+    "object": "engineering design, overall cost, marketability and dynamic performance"
+  },
+  {
+    "subject": "Formula Bharat",
+    "predicate": "is identical to",
+    "object": "the global student competition hosted in around eleven countries per year"
+  },
+  {
+    "subject": "Formula Bharat",
+    "predicate": "encourages students to",
+    "object": "gain hands-on practical experience"
+  },
+  {
+    "subject": "Formula Bharat",
+    "predicate": "encourages students to",
+    "object": "apply engineering theories studied in the classroom"
+  },
+  {
+    "subject": "Formula Bharat",
+    "predicate": "is hosted and managed by",
+    "object": "Mobility Engineering Consortium Pvt. Ltd."
+  },
+  {
+    "subject": "Mobility Engineering Consortium Pvt. Ltd.",
+    "predicate": "is an organization dedicated towards",
+    "object": "hosting mobility-related competitions for students"
+  },
+  {
+    "subject": "KX-1",
+    "predicate": "was the first effort",
+    "object": "team's first effort to build a car"
+  },
+  {
+    "subject": "X' in the name",
+    "predicate": "stands for",
+    "object": "experiment"
+  },
+  {
+    "subject": "KX-1",
+    "predicate": "was powered by",
+    "object": "Honda CBR600RR engine"
+  },
+  {
+    "subject": "Honda CBR600RR engine",
+    "predicate": "powered",
+    "object": "all the cars till K-2.2"
+  },
+  {
+    "subject": "team",
+    "predicate": "participated at",
+    "object": "Formula Student, UK 2010"
+  },
+  {
+    "subject": "participation",
+    "predicate": "was limited to",
+    "object": "static events"
+  },
+  {
+    "subject": "team",
+    "predicate": "stood",
+    "object": "9th in the cost report analysis"
+  },
+  {
+    "subject": "KX-1",
+    "predicate": "was",
+    "object": "cost effective in its design"
+  },
+  {
+    "subject": "team",
+    "predicate": "was nominated for",
+    "object": "Airbus Teamwork Award"
+  },
+  {
+    "subject": "K-1",
+    "predicate": "was improved from",
+    "object": "the first car"
+  },
+  {
+    "subject": "K-1",
+    "predicate": "is powered by",
+    "object": "Honda CBR600RR engine"
+  },
+  {
+    "subject": "Honda CBR600RR engine",
+    "predicate": "was also used in",
+    "object": "predecessor"
+  },
+  {
+    "subject": "team",
+    "predicate": "participated at",
+    "object": "Formula Student, UK 2011"
+  },
+  {
+    "subject": "team",
+    "predicate": "was restricted to",
+    "object": "static events"
+  },
+  {
+    "subject": "car",
+    "predicate": "failed to clear",
+    "object": "scrutiny tests"
+  },
+  {
+    "subject": "scrutiny tests",
+    "predicate": "were before",
+    "object": "dynamic events"
+  },
+  {
+    "subject": "team",
+    "predicate": "became one of",
+    "object": "top three rookie teams"
+  },
+  {
+    "subject": "team",
+    "predicate": "was nominated for",
+    "object": "Airbus Teamwork Award"
+  },
+  {
+    "subject": "K-1",
+    "predicate": "has overall length",
+    "object": "2400mm"
+  },
+  {
+    "subject": "K-1",
+    "predicate": "has kerb weight",
+    "object": "333kgf"
+  },
+  {
+    "subject": "K-1",
+    "predicate": "uses tyre specifications",
+    "object": "167/77 R 13 36 Q"
+  },
+  {
+    "subject": "K-1",
+    "predicate": "has wheel rim diameter",
+    "object": "13\""
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "is made of",
+    "object": "Tubular Seamless Carbon Steel"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "has frame weight",
+    "object": "45kgf"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "has front track",
+    "object": "125 cm"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "has rear track",
+    "object": "118 cm"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "has displacement",
+    "object": "599cc"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "has maximum torque",
+    "object": "66Nm @ 9000rpm"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "uses fuel",
+    "object": "RON 95"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "uses suspension type",
+    "object": "SLA Double Wishbone"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "has wheelbase",
+    "object": "1832mm"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "uses steering type",
+    "object": "Rack & Pinion"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "uses brake type",
+    "object": "Disc Brake"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "has brake details",
+    "object": "Multi-Piston with brake biasing"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "uses caliper type",
+    "object": "Fixed Caliper"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "participated in",
+    "object": "Formula Student, UK 2013"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "powered by",
+    "object": "Honda CBR600RR engine"
+  },
+  {
+    "subject": "plenum",
+    "predicate": "designed for",
+    "object": "K-2"
+  },
+  {
+    "subject": "plenum",
+    "predicate": "manufactured via",
+    "object": "rapid prototyping"
+  },
+  {
+    "subject": "suspensions",
+    "predicate": "type",
+    "object": "SLA (Double Wishbone)"
+  },
+  {
+    "subject": "team",
+    "predicate": "cleared inspections",
+    "object": "Tech, Safety, Chassis, Noise, Brake, Tilt"
+  },
+  {
+    "subject": "inspections",
+    "predicate": "governed by",
+    "object": "MSA and SAE"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "qualified for",
+    "object": "dynamic events"
+  },
+  {
+    "subject": "TeamKART",
+    "predicate": "competed in",
+    "object": "endurance test"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "has overall length",
+    "object": "2730mm"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "has kerb weight",
+    "object": "280kgf"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "has tyre specifications",
+    "object": "167/77 R 13 36 Q"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "has wheel rim diameter",
+    "object": "13 inches"
+  },
+  {
+    "subject": "chassis",
+    "predicate": "material",
+    "object": "Tubular Seamless Carbon Steel Frame"
+  },
+  {
+    "subject": "chassis",
+    "predicate": "weight",
+    "object": "45kgf"
+  },
+  {
+    "subject": "chassis",
+    "predicate": "front track",
+    "object": "107.3 cm"
+  },
+  {
+    "subject": "chassis",
+    "predicate": "rear track",
+    "object": "100.7 cm"
+  },
+  {
+    "subject": "engine",
+    "predicate": "displacement",
+    "object": "599cc"
+  },
+  {
+    "subject": "engine",
+    "predicate": "choice",
+    "object": "Honda CBR600RR"
+  },
+  {
+    "subject": "engine",
+    "predicate": "intake type",
+    "object": "Plenum"
+  },
+  {
+    "subject": "plenum",
+    "predicate": "volume",
+    "object": "1.2 litres"
+  },
+  {
+    "subject": "engine",
+    "predicate": "maximum torque",
+    "object": "66Nm @ 9000rpm"
+  },
+  {
+    "subject": "engine",
+    "predicate": "maximum bhp",
+    "object": "78.7W @ 13250rpm"
+  },
+  {
+    "subject": "engine",
+    "predicate": "fuel",
+    "object": "RON 95"
+  },
+  {
+    "subject": "suspension",
+    "predicate": "type",
+    "object": "SLA Double Wishbone"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "wheelbase",
+    "object": "1832mm"
+  },
+  {
+    "subject": "steering",
+    "predicate": "type",
+    "object": "Rack & Pinion"
+  },
+  {
+    "subject": "brakes",
+    "predicate": "type",
+    "object": "Disc Brake"
+  },
+  {
+    "subject": "brakes",
+    "predicate": "details",
+    "object": "Multi-Piston with brake biasing"
+  },
+  {
+    "subject": "caliper",
+    "predicate": "type",
+    "object": "Fixed Caliper"
+  },
+  {
+    "subject": "transmission",
+    "predicate": "differential type",
+    "object": "Quaife type Differential Torque biasing"
+  },
+  {
+    "subject": "transmission",
+    "predicate": "differential details",
+    "object": "Limited slip differential with custom built housing"
+  },
+  {
+    "subject": "transmission",
+    "predicate": "final drive",
+    "object": "Chain and sprocket based final drive system"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "is upgraded version of",
+    "object": "K2"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "is powered by",
+    "object": "Honda CBR 600RR engine"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "has component",
+    "object": "impact attenuator"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "has component",
+    "object": "intake diffuser"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "has component",
+    "object": "throttle body"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "has component",
+    "object": "air filter"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "has component",
+    "object": "Scorpion Carbon fibre muffler"
+  },
+  {
+    "subject": "K-2.2",
+    "predicate": "has component",
+    "object": "radiator fan"
+  },
+  {
+    "subject": "Scorpion Carbon fibre muffler",
+    "predicate": "is carbon fibre part of",
+    "object": "K-2.2"
+  },
+  {
+    "subject": "team",
+    "predicate": "participated in",
+    "object": "Formula Design Challenge 2015"
+  },
+  {
+    "subject": "team",
+    "predicate": "passed",
+    "object": "technical scrutiny"
+  },
+  {
+    "subject": "seized engine",
+    "predicate": "prevented",
+    "object": "team"
+  },
+  {
+    "subject": "team",
+    "predicate": "got",
+    "object": "first runners up position"
+  },
+  {
+    "subject": "first runners up position",
+    "predicate": "in",
+    "object": "Business Presentation"
+  },
+  {
+    "subject": "first runners up position",
+    "predicate": "in",
+    "object": "Cost Report"
+  },
+  {
+    "subject": "K-2",
+    "predicate": "at",
+    "object": "Silverstone Circuit"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "material",
+    "object": "Tubular Seamless Carbon Steel Frame"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "weight",
+    "object": "45kgf"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "front track",
+    "object": "107.3 cm"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "rear track",
+    "object": "100.7 cm"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "displacement",
+    "object": "599cc"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "choice",
+    "object": "Honda CBR600RR"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "intake",
+    "object": "Plenum made by rapid prototyping of volume: 1.2 litres"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "maximum torque",
+    "object": "66Nm @ 9000rpm"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "maximum bhp",
+    "object": "78.7W @ 13250rpm"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "fuel",
+    "object": "RON 95"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "suspension type",
+    "object": "SLA Double Wishbone"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "wheelbase",
+    "object": "1832m"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "steering",
+    "object": "Rack & Pinion type"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "brake type",
+    "object": "Disc Brake"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "brake details",
+    "object": "Multi-Piston with brake biasing"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "caliper",
+    "object": "Fixed Caliper Type"
+  },
+  {
+    "subject": "Transmission",
+    "predicate": "differential",
+    "object": "Honda Civic Quaife type Differential Torque biasing"
+  },
+  {
+    "subject": "Transmission",
+    "predicate": "differential",
+    "object": "Limited slip differential with custom built housing"
+  },
+  {
+    "subject": "Transmission",
+    "predicate": "final drive",
+    "object": "Chain and sprocket based final drive system"
+  },
+  {
+    "subject": "K-3",
+    "predicate": "improved upon",
+    "object": "its preceding models"
+  },
+  {
+    "subject": "K-3",
+    "predicate": "powered by",
+    "object": "KTM Duke 390 single cylinder engine"
+  },
+  {
+    "subject": "K-3",
+    "predicate": "has",
+    "object": "carbon fiber reinforced parts"
+  },
+  {
+    "subject": "carbon fiber reinforced parts",
+    "predicate": "include",
+    "object": "body panels"
+  },
+  {
+    "subject": "carbon fiber reinforced parts",
+    "predicate": "include",
+    "object": "mufflers"
+  },
+  {
+    "subject": "K-3",
+    "predicate": "has",
+    "object": "Topology optimized suspension aluminum uprights"
+  },
+  {
+    "subject": "Topology optimized suspension aluminum uprights",
+    "predicate": "weighing",
+    "object": "950g each"
+  },
+  {
+    "subject": "K-3",
+    "predicate": "boasts of",
+    "object": "new 3-D printed ABS plastic intake"
+  },
+  {
+    "subject": "The team",
+    "predicate": "performed",
+    "object": "engine tuning"
+  },
+  {
+    "subject": "engine tuning",
+    "predicate": "through",
+    "object": "PowerTronic ECU"
+  },
+  {
+    "subject": "The Team",
+    "predicate": "participated in",
+    "object": "Formula Bharat 2017"
+  },
+  {
+    "subject": "The Team",
+    "predicate": "cleared",
+    "object": "technical inspection round"
+  },
+  {
+    "subject": "The Team",
+    "predicate": "stood second in",
+    "object": "Business Presentation event"
+  },
+  {
+    "subject": "The Team",
+    "predicate": "stood 6th in",
+    "object": "Rulebook quiz"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "made of",
+    "object": "Tubular Seamless Carbon Steel Frame"
+  },
+  {
+    "subject": "Chassis",
+    "predicate": "weighs",
+    "object": "35kgf"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "has displacement",
+    "object": "373.2cc"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "is",
+    "object": "KTM 390 DUKE,Single cylinder"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "uses intake",
+    "object": "Plenum made by rapid prot"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "produces maximum torque",
+    "object": "33Nm @ 5500rpm"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "produces maximum power",
+    "object": "33BHP @ 7000rpm"
+  },
+  {
+    "subject": "Engine",
+    "predicate": "uses fuel",
+    "object": "RON 95"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "has suspension type",
+    "object": "SLA Double Wishbone"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "has wheelbase",
+    "object": "1720m"
+  },
+  {
+    "subject": "Steering & Suspension",
+    "predicate": "has steering type",
+    "object": "Rack & Pinion"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "is type",
+    "object": "Disc Brake"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "has details",
+    "object": "Multi-Piston with brake biasing"
+  },
+  {
+    "subject": "Brakes",
+    "predicate": "has caliper type",
+    "object": "Fixed Caliper"
+  },
+  {
+    "subject": "Transmission",
+    "predicate": "has clutch type",
+    "object": "Limited Slip Differential (Drexler)"
+  },
+  {
+    "subject": "Transmission",
+    "predicate": "has final drive system",
+    "object": "Chain and sprocket based"
+  },
+  {
+    "subject": "K4",
+    "predicate": "is one of",
+    "object": "the lightest and fastest cars we have manufactured since inception"
+  },
+  {
+    "subject": "K4",
+    "predicate": "boasts",
+    "object": "several new upgrades"
+  },
+  {
+    "subject": "K4's side intake",
+    "predicate": "is",
+    "object": "3D printed (chemically welded)"
+  },
+  {
+    "subject": "K4's side intake",
+    "predicate": "helped reduce",
+    "object": "the overall weight of the car"
+  },
+  {
+    "subject": "K4",
+    "predicate": "underwent",
+    "object": "dyno-tuning"
+  },
+  {
+    "subject": "dyno-tuning",
+    "predicate": "resulted in",
+    "object": "better power output"
+  },
+  {
+    "subject": "dyno-tuning",
+    "predicate": "resulted in",
+    "object": "greater fuel efficiency"
+  },
+  {
+    "subject": "Eccentric differential mounts",
+    "predicate": "helped in",
+    "object": "chain tensioning"
+  },
+  {
+    "subject": "Eccentric differential mounts",
+    "predicate": "reduced",
+    "object": "the weight"
+  },
+  {
+    "subject": "K4's chassis",
+    "predicate": "improved",
+    "object": "acceleration and performance"
+  },
+  {
+    "subject": "K4's chassis weight",
+    "predicate": "was reduced by",
+    "object": "10 kg"
+  },
+  {
+    "subject": "K4's chassis weight reduction",
+    "predicate": "was achieved with",
+    "object": "the proper usage of AISI 4130 mild steel over the AISI 1080 version"
+  },
+  {
+    "subject": "extensive work into triangulation",
+    "predicate": "enabled",
+    "object": "design of a smart and efficient structure"
+  },
+  {
+    "subject": "K4",
+    "predicate": "has been made by implementing",
+    "object": "Team's first aerodynamic package element, the under-body diffuser"
+  },
+  {
+    "subject": "Team KART",
+    "predicate": "comprises",
+    "object": "undergraduate students from 1st to 5th years"
+  },
+  {
+    "subject": "Team KART",
+    "predicate": "has",
+    "object": "Team Mentors"
+  },
+  {
+    "subject": "Team KART",
+    "predicate": "has",
+    "object": "Team Leader"
+  },
+  {
+    "subject": "Team KART",
+    "predicate": "has",
+    "object": "Team Managers"
+  },
+  {
+    "subject": "Team KART",
+    "predicate": "has",
+    "object": "Sub System Heads"
+  },
+  {
+    "subject": "Team KART",
+    "predicate": "has",
+    "object": "Team Members"
+  },
+  {
+    "subject": "Team KART",
+    "predicate": "has",
+    "object": "Trainees"
+  },
+  {
+    "subject": "Team Mentors",
+    "predicate": "are",
+    "object": "4th & 5th years"
+  },
+  {
+    "subject": "Team Leader",
+    "predicate": "is",
+    "object": "3rd year"
+  },
+  {
+    "subject": "Team Managers",
+    "predicate": "are",
+    "object": "3rd year"
+  },
+  {
+    "subject": "Sub System Heads",
+    "predicate": "are",
+    "object": "3rd year"
+  },
+  {
+    "subject": "Team Members",
+    "predicate": "are",
+    "object": "2nd year"
+  },
+  {
+    "subject": "Trainees",
+    "predicate": "are",
+    "object": "1st year"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Suspension, Steering and Brakes"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Chassis"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Aerodynamics"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Powertrain"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "High Voltage Electronics"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Low Voltage Electronics"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Data Acquisition"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Battery Management System"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Corporate & Public Relations"
+  },
+  {
+    "subject": "Subsystems",
+    "predicate": "includes",
+    "object": "Media & Web"
+  },
+  {
+    "subject": "Team Kart",
+    "predicate": "participated in",
+    "object": "Formula Student 2010"
+  },
+  {
+    "subject": "Team Kart",
+    "predicate": "participated in",
+    "object": "FSae 2013"
+  },
+  {
+    "subject": "Team Kart",
+    "predicate": "achieved",
+    "object": "success in 3rd consecutive year"
+  },
+  {
+    "subject": "IIT Kharagpur student team",
+    "predicate": "participated in",
+    "object": "FSae 2013"
+  },
+  {
+    "subject": "IIT Kharagpur students",
+    "predicate": "designed",
+    "object": "Formula 1 racing car 'Kart'"
+  },
+  {
+    "subject": "IIT Kharagpur students",
+    "predicate": "compete with",
+    "object": "professional F-1 cars"
+  },
+  {
+    "subject": "Student activities",
+    "predicate": "are at",
+    "object": "IIT Kharagpur Gymkhana"
+  },
+  {
+    "subject": "Formula student",
+    "predicate": "is an",
+    "object": "international competition"
+  },
+  {
+    "subject": "www.teamkart.org",
+    "predicate": "is",
+    "object": "External link"
+  }
+]

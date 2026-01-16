@@ -1,0 +1,382 @@
+[
+  {
+    "subject": "Druheen",
+    "predicate": "has activity",
+    "object": "Theatre"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "is under TSG",
+    "object": "Yes"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "is",
+    "object": "the official name of Bengali Technology dramatic society(BTDS) of IIT Kharagpur"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "is",
+    "object": "one of the dramatic society"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "is under",
+    "object": "Technology students' Gymkhana"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "is a part of",
+    "object": "the Dramatics Subcommittee"
+  },
+  {
+    "subject": "the Dramatics Subcommittee",
+    "predicate": "is under",
+    "object": "the Social and Cultural Committee"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "is",
+    "object": "one of the oldest societies in IIT Kharagpur"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "perform",
+    "object": "Independence day production"
+  },
+  {
+    "subject": "Independence day production",
+    "predicate": "happens on",
+    "object": "15th August"
+  },
+  {
+    "subject": "Independence day production",
+    "predicate": "includes cast from",
+    "object": "second year and fourth year"
+  },
+  {
+    "subject": "Seniors (fifth year)",
+    "predicate": "attend",
+    "object": "practice session"
+  },
+  {
+    "subject": "Seniors (fifth year)",
+    "predicate": "supervise and teach",
+    "object": "Independence day production"
+  },
+  {
+    "subject": "Independence day production",
+    "predicate": "encourages",
+    "object": "freshers"
+  },
+  {
+    "subject": "Freshers",
+    "predicate": "receive training at",
+    "object": "Fresher's workshop"
+  },
+  {
+    "subject": "Fresher's workshop",
+    "predicate": "teaches",
+    "object": "the basics of dramatics"
+  },
+  {
+    "subject": "Skills",
+    "predicate": "include",
+    "object": "voice modulation, voice intensity, dramatization, body posture, stage movements, third forms"
+  },
+  {
+    "subject": "First years",
+    "predicate": "train with",
+    "object": "four governors"
+  },
+  {
+    "subject": "Training",
+    "predicate": "takes place at",
+    "object": "Main Building"
+  },
+  {
+    "subject": "Training",
+    "predicate": "lasts for",
+    "object": "three weeks"
+  },
+  {
+    "subject": "Freshers",
+    "predicate": "perform in",
+    "object": "Fresher's production"
+  },
+  {
+    "subject": "Fresher's production",
+    "predicate": "occurs after",
+    "object": "midsem"
+  },
+  {
+    "subject": "Third year students",
+    "predicate": "train",
+    "object": "juniors"
+  },
+  {
+    "subject": "Fresher's production",
+    "predicate": "includes",
+    "object": "entertaining characters"
+  },
+  {
+    "subject": "Annual production",
+    "predicate": "is the last production of",
+    "object": "academic session"
+  },
+  {
+    "subject": "Annual production",
+    "predicate": "includes cast from",
+    "object": "first year to final year"
+  },
+  {
+    "subject": "Students who pass out",
+    "predicate": "perform in",
+    "object": "Annual production"
+  },
+  {
+    "subject": "Annual production",
+    "predicate": "takes place at",
+    "object": "end of March"
+  },
+  {
+    "subject": "Druheen selection auditions",
+    "predicate": "held",
+    "object": "once per year"
+  },
+  {
+    "subject": "Druheen selection auditions",
+    "predicate": "open for",
+    "object": "first years from both UG and PG"
+  },
+  {
+    "subject": "Druheen selection auditions",
+    "predicate": "select",
+    "object": "batch of 25-30 first years (UG)"
+  },
+  {
+    "subject": "Druheen selection auditions",
+    "predicate": "select",
+    "object": "batch of 2-5 PG"
+  },
+  {
+    "subject": "Selection procedure",
+    "predicate": "consists of",
+    "object": "tasks that judge voice modulation, intensity, speech and diction, confidence and acting skills"
+  },
+  {
+    "subject": "Druheen",
+    "predicate": "has",
+    "object": "four governors"
+  },
+  {
+    "subject": "Four governors",
+    "predicate": "selected by",
+    "object": "society seniors"
+  },
+  {
+    "subject": "Four governors",
+    "predicate": "take care of",
+    "object": "society"
+  },
+  {
+    "subject": "Four governors",
+    "predicate": "represent",
+    "object": "society in the Gymkhana"
+  },
+  {
+    "subject": "Governors",
+    "predicate": "handle",
+    "object": "overall co-ordination during productions, outstations and competitions"
+  },
+  {
+    "subject": "Swastik Ballav",
+    "predicate": "governed",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Koomar M. Dey",
+    "predicate": "governed",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Sujabrata Mallick",
+    "predicate": "governed",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Iman Burman",
+    "predicate": "governed",
+    "object": "2020-21"
+  },
+  {
+    "subject": "Arka Mondal",
+    "predicate": "governed",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Soumili Das",
+    "predicate": "governed",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Avirup Biswas",
+    "predicate": "governed",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Puspendu Chowdhury",
+    "predicate": "governed",
+    "object": "2019-20"
+  },
+  {
+    "subject": "Samya Samanta",
+    "predicate": "governed",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Anik Mitra",
+    "predicate": "governed",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Sayan Naskar",
+    "predicate": "governed",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Debalina Chowdhury",
+    "predicate": "governed",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Souvik Bhowmik",
+    "predicate": "governed",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Debanjan Nayak",
+    "predicate": "governed",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Mehul Dasgupta",
+    "predicate": "governed",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Sumit Das",
+    "predicate": "governed",
+    "object": "2017-18"
+  },
+  {
+    "subject": "Arna Ghosh",
+    "predicate": "governed",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Saion Roy",
+    "predicate": "governed",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Sourav Das",
+    "predicate": "governed",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Soham Debnath",
+    "predicate": "governed",
+    "object": "2016-17"
+  },
+  {
+    "subject": "Navojit Saha",
+    "predicate": "governed",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Ria Biswas",
+    "predicate": "governed",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Kastur Bhattacharya",
+    "predicate": "governed",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Anuran Gayen",
+    "predicate": "governed",
+    "object": "2015-16"
+  },
+  {
+    "subject": "Sikhar Patranabis",
+    "predicate": "governed",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Rishita Das",
+    "predicate": "governed",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Surya De",
+    "predicate": "governed",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Bhaskar Sarkar",
+    "predicate": "governed",
+    "object": "2014-15"
+  },
+  {
+    "subject": "Sambuddha Adhikari",
+    "predicate": "governed",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Sambit Debnath",
+    "predicate": "governed",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Atreyee Bhaumik",
+    "predicate": "governed",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Saugata Neogy",
+    "predicate": "governed",
+    "object": "2012-13"
+  },
+  {
+    "subject": "Anirban Gupta",
+    "predicate": "governed",
+    "object": "2011-12"
+  },
+  {
+    "subject": "Swarnendu Mandal",
+    "predicate": "governed",
+    "object": "2011-12"
+  },
+  {
+    "subject": "Subhajit Bera",
+    "predicate": "governed",
+    "object": "2011-12"
+  },
+  {
+    "subject": "Pravah",
+    "predicate": "related",
+    "object": "Encore"
+  },
+  {
+    "subject": "Pravah",
+    "predicate": "related",
+    "object": "Prasthanam"
+  },
+  {
+    "subject": "Encore",
+    "predicate": "related",
+    "object": "Prasthanam"
+  }
+]

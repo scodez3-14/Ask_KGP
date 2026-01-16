@@ -1,0 +1,377 @@
+[
+  {
+    "subject": "The Scholars%27 Avenue",
+    "predicate": "founded",
+    "object": "2005"
+  },
+  {
+    "subject": "The Scholars%27 Avenue",
+    "predicate": "has founder(s)",
+    "object": "Amit Gupta"
+  },
+  {
+    "subject": "The Scholars%27 Avenue",
+    "predicate": "has founder(s)",
+    "object": "Puneet Agarwal"
+  },
+  {
+    "subject": "The Scholars%27 Avenue",
+    "predicate": "has founder(s)",
+    "object": "Sandeep Rath"
+  },
+  {
+    "subject": "The Scholars%27 Avenue",
+    "predicate": "has number of members",
+    "object": "52"
+  },
+  {
+    "subject": "The Scholars%27 Avenue",
+    "predicate": "has website",
+    "object": "www.scholarsavenue.org"
+  },
+  {
+    "subject": "The Scholars%27 Avenue",
+    "predicate": "is under TSG",
+    "object": "No"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "is",
+    "object": "independent student-run campus newspaper"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "of",
+    "object": "Indian Institute of Technology, Kharagpur"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "is a",
+    "object": "society"
+  },
+  {
+    "subject": "The Scholars\u2019 Avenue (TSA or ScholsAve)",
+    "predicate": "is",
+    "object": "the independent student-run campus newspaper of the Indian Institute of Technology, Kharagpur"
+  },
+  {
+    "subject": "The Scholars\u2019 Avenue (TSA or ScholsAve)",
+    "predicate": "was founded in",
+    "object": "2005"
+  },
+  {
+    "subject": "copies of The Scholars\u2019 Avenue",
+    "predicate": "were initially delivered to",
+    "object": "all the students on campus"
+  },
+  {
+    "subject": "soft copies of The Scholars\u2019 Avenue",
+    "predicate": "were mailed to",
+    "object": "the faculty and several thousand alumni all over the world"
+  },
+  {
+    "subject": "Each of the issues",
+    "predicate": "is",
+    "object": "a juxtaposition of the informational, the technical and the creative"
+  },
+  {
+    "subject": "ScholsAve",
+    "predicate": "reports",
+    "object": "campus events and happenings"
+  },
+  {
+    "subject": "ScholsAve",
+    "predicate": "functions as",
+    "object": "a public interface between students and the administration"
+  },
+  {
+    "subject": "ScholsAve",
+    "predicate": "summarizes",
+    "object": "technical advancements taking shape on campus"
+  },
+  {
+    "subject": "ScholsAve",
+    "predicate": "prints",
+    "object": "the funnies"
+  },
+  {
+    "subject": "Editorials",
+    "predicate": "are",
+    "object": "The editors\u2019 take on the successive issues that have affected IIT Kharagpur\u2019s campus"
+  },
+  {
+    "subject": "Interviews",
+    "predicate": "are",
+    "object": "Interviews with luminaries such as Nawazuddin Siddiqui, Kris Gopalakrishnan, Prahlad Kakkar, KK, Pandit Hariprasad Chaurasia et al."
+  },
+  {
+    "subject": "Guest Articles",
+    "predicate": "are",
+    "object": "Featured articles from guests"
+  },
+  {
+    "subject": "Careers Avenue",
+    "predicate": "is",
+    "object": "A stab at increasing the horizons of the readers"
+  },
+  {
+    "subject": "Tech Avenue",
+    "predicate": "is",
+    "object": "On-campus technical advancements in the spotlight"
+  },
+  {
+    "subject": "Bhaat Avenue",
+    "predicate": "is",
+    "object": "Browse through our biweekly dose of humour"
+  },
+  {
+    "subject": "The team",
+    "predicate": "is drawn from",
+    "object": "the students of the institute"
+  },
+  {
+    "subject": "The team",
+    "predicate": "acts as",
+    "object": "the voice of the student community"
+  },
+  {
+    "subject": "The team",
+    "predicate": "reports on",
+    "object": "events relevant to campus"
+  },
+  {
+    "subject": "TSA",
+    "predicate": "is",
+    "object": "a non-profit organization independent of the administration of IIT Kharagpur"
+  },
+  {
+    "subject": "TSA",
+    "predicate": "is supported by",
+    "object": "sponsorships and donations"
+  },
+  {
+    "subject": "The Scholars' Avenue (TSA or ScholsAve)",
+    "predicate": "was borne out of",
+    "object": "one such dream"
+  },
+  {
+    "subject": "A dream",
+    "predicate": "was to give IIT Kharagpur",
+    "object": "its own newspaper"
+  },
+  {
+    "subject": "The newspaper",
+    "predicate": "would act as litmus for",
+    "object": "the mood on campus"
+  },
+  {
+    "subject": "The newspaper",
+    "predicate": "would provide a medium",
+    "object": "that students could capitalise to voice their views"
+  },
+  {
+    "subject": "TSA",
+    "predicate": "started off in",
+    "object": "2005"
+  },
+  {
+    "subject": "TSA",
+    "predicate": "aimed to reach",
+    "object": "every single room on campus"
+  },
+  {
+    "subject": "TSA",
+    "predicate": "forayed into",
+    "object": "online media"
+  },
+  {
+    "subject": "TSA",
+    "predicate": "established",
+    "object": "it's website"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "raised the issue of",
+    "object": "the condition of the B. C. Roy hospital"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "reported about",
+    "object": "a strike within campus"
+  },
+  {
+    "subject": "major decisions",
+    "predicate": "were made which included",
+    "object": "a ban on the Scholars' Avenue"
+  },
+  {
+    "subject": "major decisions",
+    "predicate": "were made which included",
+    "object": "curtailment of its website"
+  },
+  {
+    "subject": "The ban",
+    "predicate": "lasted",
+    "object": "less than a month"
+  },
+  {
+    "subject": "TSA",
+    "predicate": "decided to no longer stay under",
+    "object": "the Gymkhana"
+  },
+  {
+    "subject": "The move",
+    "predicate": "made it free to decide",
+    "object": "its content"
+  },
+  {
+    "subject": "The move",
+    "predicate": "left it",
+    "object": "financially crippled"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "has",
+    "object": "large readership"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "publishes",
+    "object": "news"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "publishes",
+    "object": "articles on different genres"
+  },
+  {
+    "subject": "Interviews",
+    "predicate": "are conducted",
+    "object": "whenever any major personality is in Campus"
+  },
+  {
+    "subject": "Interviews",
+    "predicate": "are conducted",
+    "object": "during elections"
+  },
+  {
+    "subject": "Interviews",
+    "predicate": "are conducted",
+    "object": "various other situations"
+  },
+  {
+    "subject": "various other situations",
+    "predicate": "would be of potential interest to",
+    "object": "the KGP populace"
+  },
+  {
+    "subject": "GuestAve",
+    "predicate": "is an open section where",
+    "object": "anyone, from a fresher to The Student Senate can publish their articles"
+  },
+  {
+    "subject": "anyone, from a fresher to The Student Senate",
+    "predicate": "approaches",
+    "object": "the team"
+  },
+  {
+    "subject": "GuestAve",
+    "predicate": "is mostly used by",
+    "object": "Alums, The Gymkana, The Student Senate"
+  },
+  {
+    "subject": "Alums, The Gymkana, The Student Senate",
+    "predicate": "convey information to",
+    "object": "KGP readers"
+  },
+  {
+    "subject": "InternPedia",
+    "predicate": "is a compilation of answers",
+    "object": "to the most frequently asked-for metrics and a detailed walkthrough of the nitty-gritty of the process"
+  },
+  {
+    "subject": "InternPedia",
+    "predicate": "contains",
+    "object": "an abounding number of companies with a wide spectrum of profiles"
+  },
+  {
+    "subject": "InternPedia",
+    "predicate": "is",
+    "object": "the one-stop solution to all of your dilemmas and queries regarding the process of CDC Internships every year"
+  },
+  {
+    "subject": "Atal Ashutosh Agarwal",
+    "predicate": "participated in",
+    "object": "AMA"
+  },
+  {
+    "subject": "Atal Ashutosh Agarwal",
+    "predicate": "held position",
+    "object": "VP of TSG"
+  },
+  {
+    "subject": "AMA",
+    "predicate": "organized by",
+    "object": "ScholsAve"
+  },
+  {
+    "subject": "AMA",
+    "predicate": "held on",
+    "object": "thescholarsavenue subreddit"
+  },
+  {
+    "subject": "AMA",
+    "predicate": "took place in",
+    "object": "2015"
+  },
+  {
+    "subject": "The Scholars' Avenue",
+    "predicate": "references",
+    "object": "TSA Website - About Us"
+  },
+  {
+    "subject": "Atal Ashutosh Agarwal",
+    "predicate": "is",
+    "object": "Vice President of the Technology Students' Gymkhana"
+  },
+  {
+    "subject": "Pratim Majumdar",
+    "predicate": "has phone number",
+    "object": "+91 7622074074"
+  },
+  {
+    "subject": "Gouri Rajaram",
+    "predicate": "has phone number",
+    "object": "+91 9900638792"
+  },
+  {
+    "subject": "Vaishnav Lembhe",
+    "predicate": "has phone number",
+    "object": "+91 7775810993"
+  },
+  {
+    "subject": "Vatsal Krishna",
+    "predicate": "has phone number",
+    "object": "+91 9765837717"
+  },
+  {
+    "subject": "Pratim Majumdar",
+    "predicate": "is",
+    "object": "Managing Editor"
+  },
+  {
+    "subject": "Gouri Rajaram",
+    "predicate": "is",
+    "object": "Managing Editor"
+  },
+  {
+    "subject": "Vaishnav Lembhe",
+    "predicate": "is",
+    "object": "Managing Editor"
+  },
+  {
+    "subject": "Vatsal Krishna",
+    "predicate": "is",
+    "object": "Managing Editor"
+  }
+]

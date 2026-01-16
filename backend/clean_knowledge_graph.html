@@ -1,0 +1,321 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script>function neighbourhoodHighlight(params) {
+  // console.log("in nieghbourhoodhighlight");
+  allNodes = nodes.get({ returnType: "Object" });
+  // originalNodes = JSON.parse(JSON.stringify(allNodes));
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    highlightActive = true;
+    var i, j;
+    var selectedNode = params.nodes[0];
+    var degrees = 2;
+
+    // mark all nodes as hard to read.
+    for (let nodeId in allNodes) {
+      // nodeColors[nodeId] = allNodes[nodeId].color;
+      allNodes[nodeId].color = "rgba(200,200,200,0.5)";
+      if (allNodes[nodeId].hiddenLabel === undefined) {
+        allNodes[nodeId].hiddenLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+    var connectedNodes = network.getConnectedNodes(selectedNode);
+    var allConnectedNodes = [];
+
+    // get the second degree nodes
+    for (i = 1; i < degrees; i++) {
+      for (j = 0; j < connectedNodes.length; j++) {
+        allConnectedNodes = allConnectedNodes.concat(
+          network.getConnectedNodes(connectedNodes[j])
+        );
+      }
+    }
+
+    // all second degree nodes get a different color and their label back
+    for (i = 0; i < allConnectedNodes.length; i++) {
+      // allNodes[allConnectedNodes[i]].color = "pink";
+      allNodes[allConnectedNodes[i]].color = "rgba(150,150,150,0.75)";
+      if (allNodes[allConnectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[allConnectedNodes[i]].label =
+          allNodes[allConnectedNodes[i]].hiddenLabel;
+        allNodes[allConnectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // all first degree nodes get their own color and their label back
+    for (i = 0; i < connectedNodes.length; i++) {
+      // allNodes[connectedNodes[i]].color = undefined;
+      allNodes[connectedNodes[i]].color = nodeColors[connectedNodes[i]];
+      if (allNodes[connectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[connectedNodes[i]].label =
+          allNodes[connectedNodes[i]].hiddenLabel;
+        allNodes[connectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // the main node gets its own color and its label back.
+    // allNodes[selectedNode].color = undefined;
+    allNodes[selectedNode].color = nodeColors[selectedNode];
+    if (allNodes[selectedNode].hiddenLabel !== undefined) {
+      allNodes[selectedNode].label = allNodes[selectedNode].hiddenLabel;
+      allNodes[selectedNode].hiddenLabel = undefined;
+    }
+  } else if (highlightActive === true) {
+    // console.log("highlightActive was true");
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      // allNodes[nodeId].color = "purple";
+      allNodes[nodeId].color = nodeColors[nodeId];
+      // delete allNodes[nodeId].color;
+      if (allNodes[nodeId].hiddenLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].hiddenLabel;
+        allNodes[nodeId].hiddenLabel = undefined;
+      }
+    }
+    highlightActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    // console.log("Nothing was selected");
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        // allNodes[nodeId].color = {};
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function filterHighlight(params) {
+  allNodes = nodes.get({ returnType: "Object" });
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    filterActive = true;
+    let selectedNodes = params.nodes;
+
+    // hiding all nodes and saving the label
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = true;
+      if (allNodes[nodeId].savedLabel === undefined) {
+        allNodes[nodeId].savedLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+
+    for (let i=0; i < selectedNodes.length; i++) {
+      allNodes[selectedNodes[i]].hidden = false;
+      if (allNodes[selectedNodes[i]].savedLabel !== undefined) {
+        allNodes[selectedNodes[i]].label = allNodes[selectedNodes[i]].savedLabel;
+        allNodes[selectedNodes[i]].savedLabel = undefined;
+      }
+    }
+
+  } else if (filterActive === true) {
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = false;
+      if (allNodes[nodeId].savedLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].savedLabel;
+        allNodes[nodeId].savedLabel = undefined;
+      }
+    }
+    filterActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function selectNode(nodes) {
+  network.selectNodes(nodes);
+  neighbourhoodHighlight({ nodes: nodes });
+  return nodes;
+}
+
+function selectNodes(nodes) {
+  network.selectNodes(nodes);
+  filterHighlight({nodes: nodes});
+  return nodes;
+}
+
+function highlightFilter(filter) {
+  let selectedNodes = []
+  let selectedProp = filter['property']
+  if (filter['item'] === 'node') {
+    let allNodes = nodes.get({ returnType: "Object" });
+    for (let nodeId in allNodes) {
+      if (allNodes[nodeId][selectedProp] && filter['value'].includes((allNodes[nodeId][selectedProp]).toString())) {
+        selectedNodes.push(nodeId)
+      }
+    }
+  }
+  else if (filter['item'] === 'edge'){
+    let allEdges = edges.get({returnType: 'object'});
+    // check if the selected property exists for selected edge and select the nodes connected to the edge
+    for (let edge in allEdges) {
+      if (allEdges[edge][selectedProp] && filter['value'].includes((allEdges[edge][selectedProp]).toString())) {
+        selectedNodes.push(allEdges[edge]['from'])
+        selectedNodes.push(allEdges[edge]['to'])
+      }
+    }
+  }
+  selectNodes(selectedNodes)
+}</script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+            
+            
+            
+            
+            
+
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 850px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#4bafff", "font": {"color": "#333333"}, "id": "DevSoc", "label": "DevSoc", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "IIT Kharagpur", "label": "IIT Kharagpur", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "2022", "label": "2022", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "TSG", "label": "TSG", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Developers\u2019 Society", "label": "Developers\u2019 Society", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Tech Team", "label": "Tech Team", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Technology Students\u2019 Gymkhana", "label": "Technology Students\u2019 Gymkhana", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Indian Institute of Technology Kharagpur", "label": "Indian Institute of Technology Kharagpur", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "software development culture at IIT Kharagpur", "label": "software development culture at IIT Kharagpur", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "applications valuable to the student community", "label": "applications valuable to the student community", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "software development culture of the institute", "label": "software development culture of the institute", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Tech Team, Technology Students\u0027 Gymkhana", "label": "Tech Team, Technology Students\u0027 Gymkhana", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "the foundation of the Developers\u0027 Society", "label": "the foundation of the Developers\u0027 Society", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "academic session 2022-23", "label": "academic session 2022-23", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "e-learning development culture at IIT Kharagpur", "label": "e-learning development culture at IIT Kharagpur", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "e-learning development culture", "label": "e-learning development culture", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Technology Students\u0027 Gymkhana", "label": "Technology Students\u0027 Gymkhana", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "The Developers\u2019 Society", "label": "The Developers\u2019 Society", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "a group of individuals", "label": "a group of individuals", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "developing new applications", "label": "developing new applications", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "new applications", "label": "new applications", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "the student community", "label": "the student community", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "the software development culture of IIT Kharagpur", "label": "the software development culture of IIT Kharagpur", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "programming skills, technologies and frameworks", "label": "programming skills, technologies and frameworks", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "good programming practices in the student developers\u2019 community", "label": "good programming practices in the student developers\u2019 community", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "projects", "label": "projects", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "the technological advancement of IIT Kharagpur", "label": "the technological advancement of IIT Kharagpur", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "existing applications", "label": "existing applications", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "improvement", "label": "improvement", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "various workflows on campus", "label": "various workflows on campus", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "automation", "label": "automation", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Development Team", "label": "Development Team", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Team", "label": "Team", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Finance and Operations Team", "label": "Finance and Operations Team", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Outreach Team", "label": "Outreach Team", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Kunal Verma", "label": "Kunal Verma", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Executive Head", "label": "Executive Head", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Nabhya Khoria", "label": "Nabhya Khoria", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Finance and Operations Head", "label": "Finance and Operations Head", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Gaurav Sresth", "label": "Gaurav Sresth", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Sai Kalyan", "label": "Sai Kalyan", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Outreach Head", "label": "Outreach Head", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Tushar Kanwaria", "label": "Tushar Kanwaria", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Tejas Ambhore", "label": "Tejas Ambhore", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Development Head", "label": "Development Head", "shape": "dot", "size": 20}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Nilesh Das", "label": "Nilesh Das", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Vaibhav Mohite", "label": "Vaibhav Mohite", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Aman Kumar", "label": "Aman Kumar", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Shivesh Chaturvedi", "label": "Shivesh Chaturvedi", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "Nishakar Kumar", "label": "Nishakar Kumar", "shape": "dot", "size": 25}, {"color": "#4bafff", "font": {"color": "#333333"}, "id": "ApnaInsti", "label": "ApnaInsti", "shape": "dot", "size": 25}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "project", "label": "project", "shape": "dot", "size": 20}, {"color": "#97c2fc", "font": {"color": "#333333"}, "id": "Developers\u0027 Society", "label": "Developers\u0027 Society", "shape": "dot", "size": 20}]);
+                  edges = new vis.DataSet([{"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "DevSoc", "label": "affiliated with", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "IIT Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "DevSoc", "label": "founded in", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "2022"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "DevSoc", "label": "is under", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "TSG"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Developers\u2019 Society", "label": "is an initiative by", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Tech Team"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Tech Team", "label": "is part of", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Technology Students\u2019 Gymkhana"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Technology Students\u2019 Gymkhana", "label": "is part of", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Indian Institute of Technology Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Developers\u2019 Society", "label": "aims to foster", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "software development culture at IIT Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Developers\u2019 Society", "label": "aims to encourage", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "software development culture at IIT Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Developers\u2019 Society", "label": "is responsible for developing", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "applications valuable to the student community"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Developers\u2019 Society", "label": "is responsible for maintaining", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "applications valuable to the student community"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Developers\u2019 Society", "label": "is responsible for fostering", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "software development culture of the institute"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Tech Team, Technology Students\u0027 Gymkhana", "label": "laid the groundwork for", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "the foundation of the Developers\u0027 Society"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Tech Team, Technology Students\u0027 Gymkhana", "label": "acted in", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "academic session 2022-23"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Tech Team, Technology Students\u0027 Gymkhana", "label": "aimed to improve", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "e-learning development culture at IIT Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "e-learning development culture", "label": "is situated at", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "IIT Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Technology Students\u0027 Gymkhana", "label": "is associated with", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "IIT Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "The Developers\u2019 Society", "label": "aims to bring together", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "a group of individuals"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "a group of individuals", "label": "are motivated and interested in", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "developing new applications"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "new applications", "label": "benefit", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "the student community"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "The Developers\u2019 Society", "label": "aims to support", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "the software development culture of IIT Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "The Developers\u2019 Society", "label": "aims to promote and impart", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "programming skills, technologies and frameworks"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "The Developers\u2019 Society", "label": "aims to foster", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "good programming practices in the student developers\u2019 community"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "The Developers\u2019 Society", "label": "aims to help", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Technology Students\u2019 Gymkhana"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Technology Students\u2019 Gymkhana", "label": "develops", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "projects"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "projects", "label": "aim at improving", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "the student community"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "projects", "label": "aim at improving", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "the technological advancement of IIT Kharagpur"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "existing applications", "label": "need", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "improvement"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "various workflows on campus", "label": "have potential for", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "automation"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Development Team", "label": "is a", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Team"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Finance and Operations Team", "label": "is a", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Team"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Outreach Team", "label": "is a", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Team"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Kunal Verma", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Executive Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Nabhya Khoria", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Finance and Operations Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Gaurav Sresth", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Finance and Operations Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Sai Kalyan", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Outreach Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Tushar Kanwaria", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Outreach Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Tejas Ambhore", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Development Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Nilesh Das", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Development Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Vaibhav Mohite", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Development Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Aman Kumar", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Development Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Shivesh Chaturvedi", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Development Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "Nishakar Kumar", "label": "is", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Development Head"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "ApnaInsti", "label": "is a", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "project"}, {"arrowStrikethrough": false, "arrows": "to", "color": {"color": "#cccccc", "highlight": "#4bafff"}, "font": {"align": "horizontal", "background": "white", "color": "#888888", "size": 10}, "from": "ApnaInsti", "label": "is implemented under", "smooth": {"roundness": 0.2, "type": "curvedCW"}, "to": "Developers\u0027 Society"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"margin": 10}, "edges": {"font": {"strokeWidth": 2, "strokeColor": "#ffffff"}}, "physics": {"barnesHut": {"gravitationalConstant": -30000, "centralGravity": 0.3, "springLength": 200, "springConstant": 0.05, "avoidOverlap": 1}, "minVelocity": 0.75}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,672 @@
+[
+  {
+    "subject": "AGV",
+    "predicate": "founded",
+    "object": "2011"
+  },
+  {
+    "subject": "AGV",
+    "predicate": "has founder",
+    "object": "Dibyendu Ghosh"
+  },
+  {
+    "subject": "AGV",
+    "predicate": "has founder",
+    "object": "Nalin Gupta"
+  },
+  {
+    "subject": "AGV",
+    "predicate": "has founder",
+    "object": "Srinivas Reddy"
+  },
+  {
+    "subject": "AGV",
+    "predicate": "has website",
+    "object": "www.agv.iitkgp.ac.in"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "is a multi-disciplinary research group under",
+    "object": "Prof. Debashish Chakravarty"
+  },
+  {
+    "subject": "Prof. Debashish Chakravarty",
+    "predicate": "is in",
+    "object": "Mining department"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "aims to build",
+    "object": "fully operational self-driving car"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "deals with projects involving",
+    "object": "computer vision"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "deals with projects involving",
+    "object": "deep learning"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "deals with projects involving",
+    "object": "reinforcement learning"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "participates in",
+    "object": "Intelligent Ground Vehicle Competition (IGVC)"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "participates in",
+    "object": "Mahindra Rise Prize Driverless Car Challenge"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "is divided into",
+    "object": "embedded electronics"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "is divided into",
+    "object": "software"
+  },
+  {
+    "subject": "AGV (Autonomous Ground Vehicle)",
+    "predicate": "is divided into",
+    "object": "mechanical parts"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "has",
+    "object": "huge international media coverage"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "is",
+    "object": "a consistent performer"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "comes from",
+    "object": "esteemed IITs"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "will attract",
+    "object": "attention of International Media"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "will attract",
+    "object": "attention of Newspapers and Magazines within the country"
+  },
+  {
+    "subject": "We",
+    "predicate": "will ensure",
+    "object": "due credit is given to all our sponsors"
+  },
+  {
+    "subject": "Our vehicle",
+    "predicate": "will have",
+    "object": "your desired logo"
+  },
+  {
+    "subject": "The vehicle",
+    "predicate": "will be showcased at",
+    "object": "Kshitij"
+  },
+  {
+    "subject": "Kshitij",
+    "predicate": "is",
+    "object": "the Tech-Fest of IITKharagpur"
+  },
+  {
+    "subject": "Kshitij",
+    "predicate": "has participation of",
+    "object": "25,000 from outside Kharagpur"
+  },
+  {
+    "subject": "We",
+    "predicate": "will showcase the vehicle at",
+    "object": "a variety of robotics exhibitions and workshops held throughout India"
+  },
+  {
+    "subject": "The photo of the vehicle with the sponsors",
+    "predicate": "will be circulated over",
+    "object": "the internet"
+  },
+  {
+    "subject": "Our team website",
+    "predicate": "would contain",
+    "object": "your company\u2019s logo"
+  },
+  {
+    "subject": "Our team website",
+    "predicate": "will contain logo for",
+    "object": "the whole one year"
+  },
+  {
+    "subject": "IIT Kharagpur",
+    "predicate": "has",
+    "object": "immense talent of students"
+  },
+  {
+    "subject": "Company",
+    "predicate": "collaborates with",
+    "object": "us (IIT Kharagpur team)"
+  },
+  {
+    "subject": "Collaboration",
+    "predicate": "will be",
+    "object": "mutually beneficial"
+  },
+  {
+    "subject": "Collaboration",
+    "predicate": "will attract",
+    "object": "more talent for the company"
+  },
+  {
+    "subject": "Mahindra Rise Prize challenge",
+    "predicate": "aims at",
+    "object": "creating disruptive solutions that transform lives"
+  },
+  {
+    "subject": "AGV",
+    "predicate": "has been selected",
+    "object": "in the first round of the Mahindra Rise Prize challenge"
+  },
+  {
+    "subject": "AGV",
+    "predicate": "is looking forward to applying",
+    "object": "their technology to a Mahindra Vehicle"
+  },
+  {
+    "subject": "AGV's technology",
+    "predicate": "will make",
+    "object": "Mahindra Vehicle fully Autonomous"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "offers",
+    "object": "design experience"
+  },
+  {
+    "subject": "design experience",
+    "predicate": "is",
+    "object": "cutting edge of engineering education"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "is",
+    "object": "multidisciplinary"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "is",
+    "object": "theory-based"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "is",
+    "object": "hands-on"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "is",
+    "object": "team implemented"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "is",
+    "object": "outcome assessed"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "is",
+    "object": "based on product realisation"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "encompasses",
+    "object": "latest technologies impacting industrial development"
+  },
+  {
+    "subject": "IGVC",
+    "predicate": "taps",
+    "object": "subjects of high interest to students"
+  },
+  {
+    "subject": "Design and construction of Intelligent Vehicle",
+    "predicate": "fit well in",
+    "object": "two-semester senior year design capstone course"
+  },
+  {
+    "subject": "Design and construction of Intelligent Vehicle",
+    "predicate": "fit well in",
+    "object": "extracurricular activity earning design credit"
+  },
+  {
+    "subject": "deadline for an end-of-term competition",
+    "predicate": "is",
+    "object": "real-world constraint"
+  },
+  {
+    "subject": "deadline for an end-of-term competition",
+    "predicate": "includes",
+    "object": "excitement of potential winning recognition"
+  },
+  {
+    "subject": "deadline for an end-of-term competition",
+    "predicate": "includes",
+    "object": "financial gain"
+  },
+  {
+    "subject": "Students",
+    "predicate": "solicit and interact with",
+    "object": "industrial sponsors"
+  },
+  {
+    "subject": "industrial sponsors",
+    "predicate": "provide",
+    "object": "component hardware"
+  },
+  {
+    "subject": "industrial sponsors",
+    "predicate": "provide",
+    "object": "advice"
+  },
+  {
+    "subject": "Students",
+    "predicate": "get",
+    "object": "inside view of industrial design"
+  },
+  {
+    "subject": "Students",
+    "predicate": "get",
+    "object": "opportunities for employment"
+  },
+  {
+    "subject": "Team AGV",
+    "predicate": "has been constantly participating in",
+    "object": "Intelligent Ground Vehicle Competition"
+  },
+  {
+    "subject": "Team AGV",
+    "predicate": "is making",
+    "object": "a mark"
+  },
+  {
+    "subject": "IGVC 2018",
+    "predicate": "had_registered_teams",
+    "object": "43"
+  },
+  {
+    "subject": "IGVC 2018",
+    "predicate": "featured_teams_from",
+    "object": "India"
+  },
+  {
+    "subject": "IGVC 2018",
+    "predicate": "featured_teams_from",
+    "object": "Japan"
+  },
+  {
+    "subject": "IGVC 2018",
+    "predicate": "featured_teams_from",
+    "object": "USA"
+  },
+  {
+    "subject": "IGVC 2018",
+    "predicate": "featured_teams_from",
+    "object": "Canada"
+  },
+  {
+    "subject": "IGVC 2018",
+    "predicate": "featured_teams_from",
+    "object": "Istanbul"
+  },
+  {
+    "subject": "Team AGV",
+    "predicate": "finished_as",
+    "object": "Runner-Up"
+  },
+  {
+    "subject": "Team CART Inc.",
+    "predicate": "won",
+    "object": "IGVC 2018"
+  },
+  {
+    "subject": "Team CART Inc.",
+    "predicate": "is_from",
+    "object": "Bluefield State College"
+  },
+  {
+    "subject": "Bluefield State College",
+    "predicate": "is_located_in",
+    "object": "USA"
+  },
+  {
+    "subject": "We",
+    "predicate": "developed",
+    "object": "Eklavya"
+  },
+  {
+    "subject": "We",
+    "predicate": "developed",
+    "object": "Eklavya 2.0"
+  },
+  {
+    "subject": "We",
+    "predicate": "developed",
+    "object": "Eklavya 3.0"
+  },
+  {
+    "subject": "We",
+    "predicate": "developed",
+    "object": "Eklavya 4.0"
+  },
+  {
+    "subject": "We",
+    "predicate": "are developing",
+    "object": "Auro 666"
+  },
+  {
+    "subject": "We",
+    "predicate": "are developing",
+    "object": "3D mapping API"
+  },
+  {
+    "subject": "We",
+    "predicate": "cleared",
+    "object": "first three stages of Mahindra Rise Prize Driverless Car Challenge"
+  },
+  {
+    "subject": "We",
+    "predicate": "awarded",
+    "object": "Mahindra E2O electric car"
+  },
+  {
+    "subject": "Mahindra E2O electric car",
+    "predicate": "is being worked upon",
+    "object": "to be made driverless"
+  },
+  {
+    "subject": "The project",
+    "predicate": "received",
+    "object": "a lot of media coverage"
+  },
+  {
+    "subject": "The project",
+    "predicate": "is",
+    "object": "one of the first steps by any Indian Company to promote the research and development in autonomous technologies"
+  },
+  {
+    "subject": "Lack of accurate maps of underground mines",
+    "predicate": "causes",
+    "object": "mine accidents"
+  },
+  {
+    "subject": "Hazardous operating conditions",
+    "predicate": "makes",
+    "object": "Robotic Exploration and Mapping an immediate and safe choice"
+  },
+  {
+    "subject": "Difficulty in access",
+    "predicate": "makes",
+    "object": "Robotic Exploration and Mapping an immediate and safe choice"
+  },
+  {
+    "subject": "Mapping algorithms used in the self-driving car",
+    "predicate": "can be applied for",
+    "object": "mines"
+  },
+  {
+    "subject": "Large-scale construction projects",
+    "predicate": "might involve",
+    "object": "exploration of areas inaccessible or life-threatening to workers"
+  },
+  {
+    "subject": "Large-scale construction projects",
+    "predicate": "might involve",
+    "object": "exploration of areas life-threatening to workers"
+  },
+  {
+    "subject": "exploration of areas inaccessible or life-threatening to workers",
+    "predicate": "could be done with",
+    "object": "portable mapping solution"
+  },
+  {
+    "subject": "portable mapping solution",
+    "predicate": "could be hosted on",
+    "object": "small flying quadrotor"
+  },
+  {
+    "subject": "traditional surveying techniques",
+    "predicate": "are",
+    "object": "expensive"
+  },
+  {
+    "subject": "traditional surveying techniques",
+    "predicate": "require",
+    "object": "thousands of man-hours"
+  },
+  {
+    "subject": "traditional surveying techniques",
+    "predicate": "are used for",
+    "object": "generating maps for city planning"
+  },
+  {
+    "subject": "Large cities",
+    "predicate": "can be mapped using",
+    "object": "a self-driving car equipped with 3D laser mapping technologies"
+  },
+  {
+    "subject": "self-driving car",
+    "predicate": "is equipped with",
+    "object": "3D laser mapping technologies"
+  },
+  {
+    "subject": "3D laser mapping technologies",
+    "predicate": "can cut down on",
+    "object": "a lot of manual work"
+  },
+  {
+    "subject": "3D laser mapping technologies",
+    "predicate": "can save",
+    "object": "time"
+  },
+  {
+    "subject": "DIGITAL KGP PROJECT",
+    "predicate": "is a project in which",
+    "object": "we mapped some parts of the IIT Kharagpur campus"
+  },
+  {
+    "subject": "DIGITAL KGP PROJECT",
+    "predicate": "used",
+    "object": "3D ENVIRONMENT MAPPING Technology"
+  },
+  {
+    "subject": "autonomous driving systems",
+    "predicate": "detect",
+    "object": "approaching vehicles"
+  },
+  {
+    "subject": "autonomous driving systems",
+    "predicate": "detect",
+    "object": "road boundaries"
+  },
+  {
+    "subject": "special sensors",
+    "predicate": "are used in",
+    "object": "autonomous driving systems"
+  },
+  {
+    "subject": "autonomous driving systems",
+    "predicate": "are used for",
+    "object": "Night Time Driver Assist"
+  },
+  {
+    "subject": "Night Time Driver Assist",
+    "predicate": "is an essential safety measure for",
+    "object": "vehicles"
+  },
+  {
+    "subject": "Night Time Driver Assist",
+    "predicate": "could be widely used in",
+    "object": "vehicles"
+  },
+  {
+    "subject": "Lane Departure Warning System",
+    "predicate": "warns",
+    "object": "driver"
+  },
+  {
+    "subject": "vehicle",
+    "predicate": "starts moving out of",
+    "object": "lane"
+  },
+  {
+    "subject": "system",
+    "predicate": "takes over",
+    "object": "driver"
+  },
+  {
+    "subject": "system",
+    "predicate": "moves",
+    "object": "vehicle back into lane"
+  },
+  {
+    "subject": "technology",
+    "predicate": "removes",
+    "object": "human error"
+  },
+  {
+    "subject": "sensing system",
+    "predicate": "has wider field of view compared to",
+    "object": "average human being"
+  },
+  {
+    "subject": "sensing system",
+    "predicate": "is capable of running calculations at",
+    "object": "over 2.5 GHz"
+  },
+  {
+    "subject": "sensing system",
+    "predicate": "can warn",
+    "object": "driver"
+  },
+  {
+    "subject": "sensing system",
+    "predicate": "warns about",
+    "object": "probable collision"
+  },
+  {
+    "subject": "Completed Projects",
+    "predicate": "includes",
+    "object": "Motion Planning"
+  },
+  {
+    "subject": "Completed Projects",
+    "predicate": "includes",
+    "object": "Robot Perception"
+  },
+  {
+    "subject": "Completed Projects",
+    "predicate": "includes",
+    "object": "Object Detection"
+  },
+  {
+    "subject": "Completed Projects",
+    "predicate": "includes",
+    "object": "Localisation"
+  },
+  {
+    "subject": "Completed Projects",
+    "predicate": "includes",
+    "object": "Lane Navigation"
+  },
+  {
+    "subject": "Branding Avenues",
+    "predicate": "includes",
+    "object": "Overnight hackathons and workshops in IIT Kharagpur"
+  },
+  {
+    "subject": "Branding Avenues",
+    "predicate": "includes",
+    "object": "The product itself, merchandise worn by the team, banners, standees etc."
+  },
+  {
+    "subject": "Branding Avenues",
+    "predicate": "includes",
+    "object": "15000+ reach through our Social Media, Youtube and GitHub Handles"
+  },
+  {
+    "subject": "Branding Avenues",
+    "predicate": "includes",
+    "object": "Research Papers and other technical publications"
+  },
+  {
+    "subject": "Sponsored and Industrial Consultancy Cell (SRIC), IIT Kharagpur",
+    "predicate": "funds",
+    "object": "the team"
+  },
+  {
+    "subject": "Sensors and other high-end technologies",
+    "predicate": "are expensive and cannot be bought solely through",
+    "object": "SRIC funds"
+  },
+  {
+    "subject": "SRIC funds",
+    "predicate": "cannot be used for",
+    "object": "participation in IGVC"
+  },
+  {
+    "subject": "SRIC funds",
+    "predicate": "cannot be used for",
+    "object": "travel and logistics"
+  },
+  {
+    "subject": "Team",
+    "predicate": "funded themselves and performed",
+    "object": "IGVC (outstandingly)"
+  },
+  {
+    "subject": "Velodyne LiDAR sensors",
+    "predicate": "are used to autonomously drive",
+    "object": "Mahindra E2O car"
+  },
+  {
+    "subject": "Sponsored and Industrial Consultancy Cell (SRIC), IIT Kharagpur",
+    "predicate": "funds research",
+    "object": "the team"
+  },
+  {
+    "subject": "SRIC funds",
+    "predicate": "have constraints",
+    "object": "the team"
+  },
+  {
+    "subject": "SRIC funds",
+    "predicate": "cannot cover",
+    "object": "travel budget for IGVC"
+  },
+  {
+    "subject": "Team",
+    "predicate": "found alternative methods to",
+    "object": "acquire sensors"
+  },
+  {
+    "subject": "Team",
+    "predicate": "performed",
+    "object": "IGVC (funded themselves)"
+  },
+  {
+    "subject": "AGV",
+    "predicate": "associated with",
+    "object": "IIT Kharagpur"
+  }
+]

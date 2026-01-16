@@ -1,0 +1,137 @@
+[
+  {
+    "subject": "CodeStash",
+    "predicate": "founded",
+    "object": "3rd October 2017"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "founder",
+    "object": "Blissmode"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "founder",
+    "object": "TheAlpha$"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "founder",
+    "object": "TheLethalCode"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "website",
+    "object": "www.facebook.com/codestashkgp/"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "under TSG",
+    "object": "No"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "was a",
+    "object": "student community"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "aimed to",
+    "object": "foster coding culture"
+  },
+  {
+    "subject": "coding culture",
+    "predicate": "existing in",
+    "object": "IIT KGP"
+  },
+  {
+    "subject": "Codex",
+    "predicate": "is an initiative by",
+    "object": "CodeStash, IIT Kharagpur"
+  },
+  {
+    "subject": "Codex",
+    "predicate": "was founded for the sole purpose of",
+    "object": "helping freshers coming to the institute to get started and improve their coding skills"
+  },
+  {
+    "subject": "This facebook group",
+    "predicate": "is open to",
+    "object": "the students of IIT Kharagpur"
+  },
+  {
+    "subject": "This facebook group",
+    "predicate": "is a platform where",
+    "object": "students can get their doubts cleared optionally being anonymous"
+  },
+  {
+    "subject": "This facebook group",
+    "predicate": "is a platform where",
+    "object": "students can communicate with like-minded people"
+  },
+  {
+    "subject": "This group",
+    "predicate": "is currently under the guidance of",
+    "object": "CodeClub (Dept. of Computer Science and Engineering)"
+  },
+  {
+    "subject": "freshers",
+    "predicate": "gathered",
+    "object": "at Code2Gather"
+  },
+  {
+    "subject": "freshers",
+    "predicate": "solved",
+    "object": "competitive coding problems"
+  },
+  {
+    "subject": "freshers",
+    "predicate": "discussed",
+    "object": "their algorithms"
+  },
+  {
+    "subject": "Code2Gather",
+    "predicate": "is",
+    "object": "an event"
+  },
+  {
+    "subject": "Code2Gather",
+    "predicate": "involves",
+    "object": "sport-coding"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "helped",
+    "object": "seven teams"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "helped",
+    "object": "six fresher teams"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "helped",
+    "object": "teams from IIT Kharagpur"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "helped",
+    "object": "teams for registration into ACM ICPC"
+  },
+  {
+    "subject": "CodeStash",
+    "predicate": "helped",
+    "object": "teams to get mentors"
+  },
+  {
+    "subject": "ACM ICPC",
+    "predicate": "is considered as",
+    "object": "the Olympics of programming"
+  },
+  {
+    "subject": "freshers",
+    "predicate": "appeared for",
+    "object": "ACM ICPC"
+  }
+]

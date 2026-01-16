@@ -8,10 +8,10 @@ collection = client.get_or_create_collection("wiki_chunks")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def run_db_filler():
-    chunk_files = [f for f in os.listdir("./json_chunks") if f.endswith(".json")]
+    chunk_files = [f for f in os.listdir("./all_soc_chunks") if f.endswith(".json")]
     
     for filename in chunk_files:
-        with open(f"./json_chunks/{filename}", "r") as f:
+        with open(f"./all_soc_chunks/{filename}", "r") as f:
             chunks = json.load(f)
         
         if not chunks: continue

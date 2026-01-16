@@ -1,0 +1,397 @@
+[
+  {
+    "subject": "Technology Comedy Club",
+    "predicate": "has activity",
+    "object": "Standup"
+  },
+  {
+    "subject": "Technology Comedy Club",
+    "predicate": "under",
+    "object": "TSG"
+  },
+  {
+    "subject": "Technology Comedy Club",
+    "predicate": "is the Official Comedy Club of",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Technology Comedy Club",
+    "predicate": "serves as an outlet for",
+    "object": "humor"
+  },
+  {
+    "subject": "Technology Comedy Club",
+    "predicate": "serves as an outlet for",
+    "object": "laughter"
+  },
+  {
+    "subject": "TCC selection auditions",
+    "predicate": "held",
+    "object": "once per year"
+  },
+  {
+    "subject": "TCC selection auditions",
+    "predicate": "open for",
+    "object": "all"
+  },
+  {
+    "subject": "TCC selection auditions",
+    "predicate": "held in",
+    "object": "August"
+  },
+  {
+    "subject": "TCC selection auditions",
+    "predicate": "for",
+    "object": "active membership"
+  },
+  {
+    "subject": "TCC selection auditions",
+    "predicate": "for",
+    "object": "all years in IIT KGP"
+  },
+  {
+    "subject": "TCC",
+    "predicate": "selects",
+    "object": "batch of 40-50 first years (UG)"
+  },
+  {
+    "subject": "TCC",
+    "predicate": "selects",
+    "object": "5-10 (PG/PhD)"
+  },
+  {
+    "subject": "TCC",
+    "predicate": "selects at",
+    "object": "beginning of academic year"
+  },
+  {
+    "subject": "TCC selection procedure",
+    "predicate": "includes",
+    "object": "selection of members in verticals"
+  },
+  {
+    "subject": "verticals",
+    "predicate": "include",
+    "object": "Standup"
+  },
+  {
+    "subject": "verticals",
+    "predicate": "include",
+    "object": "Improv Comedy"
+  },
+  {
+    "subject": "verticals",
+    "predicate": "include",
+    "object": "Writing"
+  },
+  {
+    "subject": "verticals",
+    "predicate": "include",
+    "object": "Video Editing"
+  },
+  {
+    "subject": "verticals",
+    "predicate": "include",
+    "object": "Design Team Members"
+  },
+  {
+    "subject": "Selection day",
+    "predicate": "spans",
+    "object": "3 days"
+  },
+  {
+    "subject": "tasks for selection",
+    "predicate": "delegated through",
+    "object": "Google Forms"
+  },
+  {
+    "subject": "exceptional and highly enthusiastic people",
+    "predicate": "inducted into",
+    "object": "TCC"
+  },
+  {
+    "subject": "exceptional people",
+    "predicate": "share passion for",
+    "object": "making people laugh"
+  },
+  {
+    "subject": "exceptional people",
+    "predicate": "share passion for",
+    "object": "contributing to the club"
+  },
+  {
+    "subject": "TCC",
+    "predicate": "has",
+    "object": "five governors"
+  },
+  {
+    "subject": "five governors",
+    "predicate": "selected by",
+    "object": "club advisors"
+  },
+  {
+    "predicate": "happen",
+    "subject": "selection",
+    "object": "every year"
+  },
+  {
+    "subject": "five governors",
+    "predicate": "govern",
+    "object": "the society"
+  },
+  {
+    "subject": "five governors",
+    "predicate": "represent",
+    "object": "the society"
+  },
+  {
+    "subject": "five governors",
+    "predicate": "represent in",
+    "object": "the Gymkhana"
+  },
+  {
+    "subject": "The Club",
+    "predicate": "makes",
+    "object": "a Governing team"
+  },
+  {
+    "subject": "Governing team",
+    "predicate": "responsible for",
+    "object": "smooth functioning of the Club"
+  },
+  {
+    "subject": "TCC",
+    "predicate": "hosts",
+    "object": "Introductory Seminar"
+  },
+  {
+    "subject": "TCC",
+    "predicate": "organizes for",
+    "object": "new batch of freshman students"
+  },
+  {
+    "subject": "Introductory Seminar",
+    "predicate": "takes place in",
+    "object": "initial weeks of freshmen year"
+  },
+  {
+    "subject": "Introductory Seminar",
+    "predicate": "features",
+    "object": "exciting performances"
+  },
+  {
+    "subject": "performances",
+    "predicate": "are by",
+    "object": "sophomores"
+  },
+  {
+    "subject": "performances",
+    "predicate": "include",
+    "object": "stand-up comedy"
+  },
+  {
+    "subject": "performances",
+    "predicate": "include",
+    "object": "sketches"
+  },
+  {
+    "subject": "performances",
+    "predicate": "include",
+    "object": "presentations (PPTs)"
+  },
+  {
+    "subject": "performances",
+    "predicate": "include",
+    "object": "roasts"
+  },
+  {
+    "subject": "performances",
+    "predicate": "include",
+    "object": "funny videos"
+  },
+  {
+    "subject": "performances",
+    "predicate": "include",
+    "object": "improv comedy"
+  },
+  {
+    "subject": "we",
+    "predicate": "select",
+    "object": "new batch of students"
+  },
+  {
+    "subject": "we",
+    "predicate": "kick off",
+    "object": "epic bonding session"
+  },
+  {
+    "subject": "adventure",
+    "predicate": "includes",
+    "object": "cycle tour"
+  },
+  {
+    "subject": "cycle tour",
+    "predicate": "around",
+    "object": "campus"
+  },
+  {
+    "subject": "cycle tour",
+    "predicate": "hits",
+    "object": "iconic spots at IIT KGP"
+  },
+  {
+    "subject": "adventure",
+    "predicate": "includes",
+    "object": "fun improv games"
+  },
+  {
+    "subject": "improv games",
+    "predicate": "at",
+    "object": "different locations"
+  },
+  {
+    "subject": "sophomores",
+    "predicate": "give",
+    "object": "special treat"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "conducted for",
+    "object": "newest batch of members"
+  },
+  {
+    "subject": "Members from all the years",
+    "predicate": "participate in",
+    "object": "Workshops"
+  },
+  {
+    "subject": "Members from all the years",
+    "predicate": "pass on",
+    "object": "all their knowledge about the subject of humor"
+  },
+  {
+    "subject": "Workshops",
+    "predicate": "help",
+    "object": "freshers"
+  },
+  {
+    "subject": "freshers",
+    "predicate": "learn and grow",
+    "object": "in the subject of humor"
+  },
+  {
+    "subject": "Many fun exercises",
+    "predicate": "conducted for",
+    "object": "nurturing and better understanding of the matter"
+  },
+  {
+    "subject": "club freshers",
+    "predicate": "are ready",
+    "object": "do something on their own"
+  },
+  {
+    "subject": "FP",
+    "predicate": "is performed",
+    "object": "solely by the freshers"
+  },
+  {
+    "subject": "FP",
+    "predicate": "is performed with the help of",
+    "object": "seniors of the society"
+  },
+  {
+    "subject": "club freshers",
+    "predicate": "helps with",
+    "object": "FP"
+  },
+  {
+    "subject": "The Final Flagship Event",
+    "predicate": "is the final flagship event of",
+    "object": "the Technology Comedy Club"
+  },
+  {
+    "subject": "The Final Flagship Event",
+    "predicate": "consists of",
+    "object": "various performances"
+  },
+  {
+    "subject": "The Final Flagship Event",
+    "predicate": "has performers",
+    "object": "many members of society"
+  },
+  {
+    "subject": "2024-25",
+    "predicate": "includes_governor",
+    "object": "Sneh Vijayvergiya (NA '26)"
+  },
+  {
+    "subject": "2024-25",
+    "predicate": "includes_governor",
+    "object": "Sparch Chauhan (EE '26)"
+  },
+  {
+    "subject": "2024-25",
+    "predicate": "includes_governor",
+    "object": "Madhav Seth (CE '26)"
+  },
+  {
+    "subject": "2024-25",
+    "predicate": "includes_governor",
+    "object": "Priyansh Goyal (EC '26)"
+  },
+  {
+    "subject": "2024-25",
+    "predicate": "includes_governor",
+    "object": "Ansh Kakkar (IM '26)"
+  },
+  {
+    "subject": "2023-24",
+    "predicate": "includes_governor",
+    "object": "Sayan Ghosh (CH '26)"
+  },
+  {
+    "subject": "2023-24",
+    "predicate": "includes_governor",
+    "object": "Anurag Gupta (HS '26)"
+  },
+  {
+    "subject": "2023-24",
+    "predicate": "includes_governor",
+    "object": "Utkarsh Singh (MA '26)"
+  },
+  {
+    "subject": "2023-24",
+    "predicate": "includes_governor",
+    "object": "Vedant Kulkarni (BT '26)"
+  },
+  {
+    "subject": "2023-24",
+    "predicate": "includes_governor",
+    "object": "Divyansh Singh Rana (AG '26)"
+  },
+  {
+    "subject": "2022-23",
+    "predicate": "includes_governor",
+    "object": "Manav Sharma (EC '25)"
+  },
+  {
+    "subject": "2022-23",
+    "predicate": "includes_governor",
+    "object": "Sameer Saurabh (MI '25)"
+  },
+  {
+    "subject": "2022-23",
+    "predicate": "includes_governor",
+    "object": "Karan Singh Tahiliani (HS '25)"
+  },
+  {
+    "subject": "2022-23",
+    "predicate": "includes_governor",
+    "object": "Riyan Biswas (MT '25)"
+  },
+  {
+    "subject": "2022-23",
+    "predicate": "includes_governor",
+    "object": "Kajol Sahu (CY '25)"
+  }
+]

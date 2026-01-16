@@ -4,12 +4,12 @@ from urllib.parse import urljoin
 from urllib.parse import unquote
 
 BASE = "https://wiki.metakgp.org"
-START = "/w/Special:AllPages"
+START = "/w/Category:Societies_and_clubs"
 
 def get_all_pages():
     all_pages = []
     next_page = START
-    skip_prefixes = ["Special:", "File:", "Category:", "Help:", "Portal:", "Talk:"]
+    skip_prefixes = []
 
     while next_page:
         url = urljoin(BASE, next_page)
@@ -48,4 +48,5 @@ def get_all_pages():
         next_page = next_link
 
     return sorted(list(set(all_pages)))
+print(f"Total pages found: {len(get_all_pages())}")
 

@@ -1,0 +1,225 @@
+[
+  {
+    "subject": "DevSoc",
+    "predicate": "affiliated with",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "DevSoc",
+    "predicate": "founded in",
+    "object": "2022"
+  },
+  {
+    "subject": "DevSoc",
+    "predicate": "is under",
+    "object": "TSG"
+  },
+
+  {
+    "subject": "Developers\u2019 Society",
+    "predicate": "is an initiative by",
+    "object": "Tech Team"
+  },
+
+  {
+    "subject": "Tech Team",
+    "predicate": "is part of",
+    "object": "Technology Students\u2019 Gymkhana"
+  },
+
+  {
+    "subject": "Technology Students\u2019 Gymkhana",
+    "predicate": "is part of",
+    "object": "Indian Institute of Technology Kharagpur"
+  },
+  {
+    "subject": "Developers\u2019 Society",
+    "predicate": "aims to foster",
+    "object": "software development culture at IIT Kharagpur"
+  },
+  {
+    "subject": "Developers\u2019 Society",
+    "predicate": "aims to encourage",
+    "object": "software development culture at IIT Kharagpur"
+  },
+  {
+    "subject": "Developers\u2019 Society",
+    "predicate": "is responsible for developing",
+    "object": "applications valuable to the student community"
+  },
+  {
+    "subject": "Developers\u2019 Society",
+    "predicate": "is responsible for maintaining",
+    "object": "applications valuable to the student community"
+  },
+  {
+    "subject": "Developers\u2019 Society",
+    "predicate": "is responsible for fostering",
+    "object": "software development culture of the institute"
+  },
+  {
+    "subject": "Tech Team, Technology Students' Gymkhana",
+    "predicate": "laid the groundwork for",
+    "object": "the foundation of the Developers' Society"
+  },
+  {
+    "subject": "Tech Team, Technology Students' Gymkhana",
+    "predicate": "acted in",
+    "object": "academic session 2022-23"
+  },
+  {
+    "subject": "Tech Team, Technology Students' Gymkhana",
+    "predicate": "aimed to improve",
+    "object": "e-learning development culture at IIT Kharagpur"
+  },
+  {
+    "subject": "e-learning development culture",
+    "predicate": "is situated at",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "Technology Students' Gymkhana",
+    "predicate": "is associated with",
+    "object": "IIT Kharagpur"
+  },
+  {
+    "subject": "The Developers\u2019 Society",
+    "predicate": "aims to bring together",
+    "object": "a group of individuals"
+  },
+  {
+    "subject": "a group of individuals",
+    "predicate": "are motivated and interested in",
+    "object": "developing new applications"
+  },
+  {
+    "subject": "new applications",
+    "predicate": "benefit",
+    "object": "the student community"
+  },
+  {
+    "subject": "The Developers\u2019 Society",
+    "predicate": "aims to support",
+    "object": "the software development culture of IIT Kharagpur"
+  },
+  {
+    "subject": "The Developers\u2019 Society",
+    "predicate": "aims to promote and impart",
+    "object": "programming skills, technologies and frameworks"
+  },
+  {
+    "subject": "The Developers\u2019 Society",
+    "predicate": "aims to foster",
+    "object": "good programming practices in the student developers\u2019 community"
+  },
+  {
+    "subject": "The Developers\u2019 Society",
+    "predicate": "aims to help",
+    "object": "Technology Students\u2019 Gymkhana"
+  },
+  {
+    "subject": "Technology Students\u2019 Gymkhana",
+    "predicate": "develops",
+    "object": "projects"
+  },
+  {
+    "subject": "projects",
+    "predicate": "aim at improving",
+    "object": "the student community"
+  },
+  {
+    "subject": "projects",
+    "predicate": "aim at improving",
+    "object": "the technological advancement of IIT Kharagpur"
+  },
+  {
+    "subject": "existing applications",
+    "predicate": "need",
+    "object": "improvement"
+  },
+  {
+    "subject": "various workflows on campus",
+    "predicate": "have potential for",
+    "object": "automation"
+  },
+  {
+    "subject": "Development Team",
+    "predicate": "is a",
+    "object": "Team"
+  },
+  {
+    "subject": "Finance and Operations Team",
+    "predicate": "is a",
+    "object": "Team"
+  },
+  {
+    "subject": "Outreach Team",
+    "predicate": "is a",
+    "object": "Team"
+  },
+  {
+    "subject": "Kunal Verma",
+    "predicate": "is",
+    "object": "Executive Head"
+  },
+  {
+    "subject": "Nabhya Khoria",
+    "predicate": "is",
+    "object": "Finance and Operations Head"
+  },
+  {
+    "subject": "Gaurav Sresth",
+    "predicate": "is",
+    "object": "Finance and Operations Head"
+  },
+  {
+    "subject": "Sai Kalyan",
+    "predicate": "is",
+    "object": "Outreach Head"
+  },
+  {
+    "subject": "Tushar Kanwaria",
+    "predicate": "is",
+    "object": "Outreach Head"
+  },
+  {
+    "subject": "Tejas Ambhore",
+    "predicate": "is",
+    "object": "Development Head"
+  },
+  {
+    "subject": "Nilesh Das",
+    "predicate": "is",
+    "object": "Development Head"
+  },
+  {
+    "subject": "Vaibhav Mohite",
+    "predicate": "is",
+    "object": "Development Head"
+  },
+  {
+    "subject": "Aman Kumar",
+    "predicate": "is",
+    "object": "Development Head"
+  },
+  {
+    "subject": "Shivesh Chaturvedi",
+    "predicate": "is",
+    "object": "Development Head"
+  },
+  {
+    "subject": "Nishakar Kumar",
+    "predicate": "is",
+    "object": "Development Head"
+  },
+  {
+    "subject": "ApnaInsti",
+    "predicate": "is a",
+    "object": "project"
+  },
+  {
+    "subject": "ApnaInsti",
+    "predicate": "is implemented under",
+    "object": "Developers' Society"
+  }
+]
