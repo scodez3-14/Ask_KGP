@@ -97,7 +97,6 @@ def ask_kgp_with_rerun(question):
     # ATTEMPT 1: Normal Search (10 chunks)
     print("🔍 Attempting first search...")
     chunks = ask_question(question, 10)
-    print(chunks)
 
     answer, audit, cited_chunks = get_verified_answer(question, chunks)
 

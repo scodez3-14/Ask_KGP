@@ -1,30 +1,35 @@
-import chromadb
+import os
+from pinecone import Pinecone
 from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
+load_dotenv()
 
-# 1. Connect to the existing DB and Model
-client = chromadb.PersistentClient(path="./metakgp_db")
-collection = client.get_collection("wiki_chunks")
+
+KEY = os.getenv("PINECONE_API_KEY")
+INDEX_NAME = "metakgp-wiki"
+
+pc = Pinecone(api_key=KEY)
+index = pc.Index(INDEX_NAME)
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def ask_question(question, top_n=10):
     query_vector = model.encode(question).tolist()
 
-    # Search the DB
-    results = collection.query(
-        query_embeddings=[query_vector],
-        n_results=top_n
+    results = index.query(
+        vector=query_vector,
+        top_k=top_n,
+        include_metadata=True
     )
 
     chunks = []
-    # Loop through the results to extract text and all relevant metadata
-    for i in range(len(results['documents'][0])):
-        metadata = results['metadatas'][0][i]
+    for match in results['matches']:
+        metadata = match.get('metadata', {})
         chunks.append({
             "source": metadata.get('source'),
-            "text": results['documents'][0][i],
+            "text": metadata.get('text'), 
             "page_id": metadata.get('page'),
-            "title": metadata.get('title')
-              # <--- Added this line
+            "title": metadata.get('title'),
+            "score": match.get('score')
         })
+        
     return chunks
-
