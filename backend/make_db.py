@@ -3,8 +3,14 @@ import json
 import chromadb
 from sentence_transformers import SentenceTransformer
 
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+ROOT_DIR = BASE_DIR.parent                     
+
+
 # 1. Initialize DB and Model
-client = chromadb.PersistentClient(path="./metakgp_db")
+client = chromadb.PersistentClient(path=BASE_DIR/"metakgp_db")
 # Add this right after you initialize the client
 try:
     client.delete_collection("wiki_chunks")
@@ -16,7 +22,7 @@ collection = client.get_or_create_collection("wiki_chunks")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def run_db_filler():
-    source_folder = "../all_soc_chunks"
+    source_folder = ROOT_DIR/"all_soc_chunks"
     chunk_files = [f for f in os.listdir(source_folder) if f.endswith(".json")]
     
     total_indexed = 0
