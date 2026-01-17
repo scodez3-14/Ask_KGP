@@ -32,7 +32,7 @@ with st.sidebar:
 # 3. Message History Initialization
 if "messages" not in st.session_state:
     st.session_state.messages = [
-        {"role": "assistant", "content": "👋 Hello! I'm the MetaKGP assistant. Ask me anything about KGP societies, halls, or traditions."}
+        {"role": "assistant", "content": "👋 Hello! I'm the MetaKGP assistant. Ask me anything about KGP societies"}
     ]
 
 # 4. Render Chat History
