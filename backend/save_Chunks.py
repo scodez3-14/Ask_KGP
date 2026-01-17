@@ -1,6 +1,5 @@
 import json
 import os
-from crawl import get_all_pages
 from scraper import fetch_page   
 from GetChunks import chunk_metakgp_html
 from crawl_soc import get_soc_links

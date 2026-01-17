@@ -65,12 +65,13 @@ def chunk_metakgp_html(html, page_name):
                 current_buffer.append(text)
 
     if current_buffer:
-        chunks.append({
-            "chunk_id": uuid.uuid4().hex[:8],
-            "title": current_title,
-            "text": "\n".join(current_buffer),
-            "page": page_name
-        })
+     chunks.append({
+        "chunk_id": uuid.uuid4().hex[:8],
+        "title": current_title,
+        "text": "\n".join(current_buffer),
+        "page": page_name,  # Added missing comma here
+        "source": f"https://wiki.metakgp.org/w/{page_name}"  # Fixed URL construction
+    })
 
     return chunks
 
