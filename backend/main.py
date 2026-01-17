@@ -1,6 +1,25 @@
 import streamlit as st
 from Get_ans import ask_kgp_with_rerun
 
+
+import streamlit as st
+from pathlib import Path
+import subprocess
+
+BASE_DIR = Path(__file__).resolve().parent
+CHROMA_DIR = BASE_DIR / "chroma"
+
+@st.cache_resource
+def ensure_db():
+    if not CHROMA_DIR.exists():
+        subprocess.run(
+            ["python", str(BASE_DIR / "make_db.py")],
+            check=True
+        )
+
+ensure_db()
+
+
 # 1. Page Config & Theme
 st.set_page_config(page_title="MetaKGP AI", page_icon="🎓", layout="centered")
 
