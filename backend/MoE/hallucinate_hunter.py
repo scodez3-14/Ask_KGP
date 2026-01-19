@@ -23,7 +23,7 @@ def detect_hallucinations(chunks, answer, client):
     """
     
     res = client.chat.completions.create(
-        model="xiaomi/mimo-v2-flash:free",
+        model="llama-3.1-8b-instant",
         messages=[{"role": "user", "content": prompt}],
         response_format={ "type": "json_object" }
     )

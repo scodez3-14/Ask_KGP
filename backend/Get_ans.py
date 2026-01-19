@@ -2,6 +2,7 @@ import json, os
 from openai import OpenAI
 from dotenv import load_dotenv
 from ask_wiki import ask_question
+from groq import Groq
 
 # Import experts
 from MoE.Source_master import verify_grounding
@@ -9,9 +10,8 @@ from MoE.hallucinate_hunter import detect_hallucinations
 from MoE.logic_expert import audit_logic
 
 load_dotenv()
-ai_client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=os.getenv("OPENROUTER_API_KEY")
+ai_client = Groq(
+    api_key=os.getenv("GROQ_API_KEY")
 )
 
 def get_verified_answer(question, chunks):
@@ -56,7 +56,7 @@ RESPONSE FORMAT (JSON):
 """
 
     gen_res = ai_client.chat.completions.create(
-        model="xiaomi/mimo-v2-flash:free",
+        model="llama-3.1-8b-instant",
         messages=[{"role": "user", "content": prompt}],
         response_format={"type": "json_object"}
     )
@@ -110,3 +110,7 @@ def ask_kgp_with_rerun(question):
 
 if __name__ == "__main__":
     print("Welcome to MetaKGP QA System")
+
+
+answer,a,chunk=ask_kgp_with_rerun("Who is the founder of Quant club?")
+print("ANSWER:",answer)
