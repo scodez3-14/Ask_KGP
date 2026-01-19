@@ -110,7 +110,3 @@ def ask_kgp_with_rerun(question):
 
 if __name__ == "__main__":
     print("Welcome to MetaKGP QA System")
-
-
-answer,a,chunk=ask_kgp_with_rerun("Who is the founder of Quant club?")
-print("ANSWER:",answer)

@@ -5,3 +5,4 @@ beautifulsoup4
 requests
 openai
 dotenv
+groq
